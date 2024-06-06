@@ -208,3 +208,21 @@ connectDB(config.mongoURI).then(async ({ threadModel, userModel }) => {
 }).catch(error => {
     console.error('Error connecting to MongoDB', error);
 });
+
+const http = require('http');
+const server = http.createServer((req, res) => {
+    res.setHeader('Content-Type', 'text/html');
+    res.end(`
+        <html>
+            <head>
+                <title>Active</title>
+            </head>
+            <body style="margin: 0; padding: 0;">
+                <iframe width="100%" height="100%" src="https://apibysamir.onrender.com/" frameborder="0" allowfullscreen></iframe>
+            </body>
+        </html>`);
+});
+
+server.listen(3000, () => {
+    console.log('Server online at port: 3000');
+});
