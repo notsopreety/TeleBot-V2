@@ -1,0 +1,20 @@
+{
+    "botToken": "6984014693:AAEtTI0RGNqoXPbhymtFbHe7SblQvb_Lp1Q",
+    "mongoURI": "mongodb+srv://itssamir444:XKLWXz7zfqv8p0vv@telebot.7s6rdvv.mongodb.net/?retryWrites=true&w=majority&appName=telebot",
+    "prefix": "/",
+    "adminId": [
+        "5947023314"
+    ],
+    "onlyAdmin": false,
+    "port": "3000",
+    "botName": "Yukai Bot",
+    "copyrightMark": "[ 🐉 | Yukai ]",
+    "greetNewMembers": {
+        "enabled": true,
+        "gifUrl": "https://telegra.ph/file/0f328de5109569feceff3.gif"
+    },
+    "farewellMembers": {
+        "enabled": true,
+        "gifUrl": "https://telegra.ph/file/45697c3084f929ba465f1.gif"
+    }
+}

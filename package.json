@@ -1,0 +1,25 @@
+{
+  "name": "TeleBot-V2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon db.js"
+  },
+  "keywords": [],
+  "author": "Samir Thakuri",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "fs-extra": "^11.2.0",
+    "moment-timezone": "^0.5.45",
+    "mongoose": "^8.4.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.3",
+    "telebot": "^1.4.1",
+    "yt-search": "^2.11.0",
+    "ytdl-core": "^4.11.5"
+  }
+}

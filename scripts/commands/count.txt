@@ -1,0 +1,36 @@
+const { readThread } = require('../../database/index');
+
+module.exports = {
+    config: {
+        name: 'count',
+        aliases: [],
+        category: 'general',
+        role: 0,
+        cooldown: 5,
+        version: '1.0.0',
+        author: 'Your Name',
+        description: 'Count your total messages in the thread.',
+        usage: '/count'
+    },
+
+    onStart: async function ({ msg, bot }) {
+        const chatId = msg.chat.id.toString();
+        const userId = msg.from.id.toString();
+
+        const thread = await readThread(chatId);
+
+        if (!thread || !thread.users || !thread.users[userId]) {
+            return bot.sendMessage(chatId, 'You have not sent any messages in this thread yet.');
+        }
+
+        const totalMessages = thread.users[userId].totalMsg;
+
+        // Sort the users based on total messages sent
+        const sortedUsers = Object.entries(thread.users).sort((a, b) => b[1].totalMsg - a[1].totalMsg);
+
+        // Find the rank of the user in the thread
+        const userRank = sortedUsers.findIndex(([id]) => id === userId) + 1;
+
+        bot.sendMessage(chatId, `You have sent ${totalMessages} messages in this thread. Your rank is ${userRank}/${sortedUsers.length}.`);
+    }
+};
