@@ -8,7 +8,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Start the bot',
-        usage: '/start'
+        usage: 'start'
     },
 
     onStart: async function({ msg, bot, config }) {

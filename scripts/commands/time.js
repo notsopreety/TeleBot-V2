@@ -10,7 +10,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Get the current time.',
-        usage: '/time'
+        usage: 'time'
     },
 
     onStart: async function({ msg, bot, chatId, userId }) {

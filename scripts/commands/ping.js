@@ -9,7 +9,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Ping the bot to check if it is responsive.',
-        usage: '/ping'
+        usage: 'ping'
     },
     onStart: async function({ bot, msg }) {
         const startTime = Date.now();

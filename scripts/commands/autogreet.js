@@ -8,7 +8,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Enable or disable auto greetings',
-        usage: '/autogreet [on/off]'
+        usage: 'autogreet [on/off]'
     },
 
     onStart: async function({ msg, bot, args, config }) {

@@ -10,7 +10,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Œ',
         description: 'Search top video on tiktok.',
-        usage: '/tiksr <query>'
+        usage: 'tiksr <query>'
     },
 
     onStart: async function({ bot, chatId, args }) {

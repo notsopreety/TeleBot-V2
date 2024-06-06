@@ -8,7 +8,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Get profile picture of the sender or mentioned user',
-        usage: '/pfp [reply to user message]'
+        usage: 'pfp [reply to user message]'
     },
 
     onStart: async function({ msg, bot }) {

@@ -8,7 +8,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Delete a message sent by the bot by replying to it.',
-        usage: '/delete'
+        usage: 'delete <replytobotmsg>'
     },
 
     onStart: async function({ msg, bot }) {

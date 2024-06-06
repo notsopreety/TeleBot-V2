@@ -8,7 +8,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Change the bot\'s prefix',
-        usage: '/prefix <new-prefix>'
+        usage: 'prefix <new-prefix>'
     },
 
     onStart: async function({ msg, bot, args, config }) {

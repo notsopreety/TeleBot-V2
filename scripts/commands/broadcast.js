@@ -11,7 +11,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Broadcast a message to all threads in the database.',
-        usage: '/broadcast [message]'
+        usage: 'broadcast [message]'
     },
 
     onStart: async function({ msg, bot, args, config, senderName, userId, username, copyrightMark }) {

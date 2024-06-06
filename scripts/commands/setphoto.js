@@ -11,7 +11,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Set the chat photo by replying to a photo message.',
-        usage: '/setphoto'
+        usage: 'setphoto [reply to photo msg]'
     },
 
     onStart: async function({ msg, bot, config }) {
