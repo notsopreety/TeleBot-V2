@@ -17,7 +17,7 @@ module.exports = {
     onStart: async function({ msg, bot, args, config }) {
         // Read all command files in the same directory
         const commandsDir = path.resolve(__dirname, '..', 'commands');
-        const commandFiles = fs.readdirSync(commandsDir).filter(file => file.endsWith('.js') && file !== 'help.js');
+        const commandFiles = fs.readdirSync(commandsDir).filter(file => file.endsWith('.js') && file !== 'test.js');
 
         // Dynamically require all command files
         const commands = commandFiles.map(file => require(path.join(commandsDir, file)));
