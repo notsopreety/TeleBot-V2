@@ -91,16 +91,16 @@ connectDB(config.mongoURI).then(async ({ threadModel, userModel }) => {
         const userIsAdmin = isAdmin(userId, chatAdmins);
         const botName = config.botName;
         const username = msg.from.username;
-        const copyrightMark = config.copyrightMark;
         const first_name = msg.from.first_name;
         const last_name = msg.from.last_name;
         const senderName = `${first_name} ${last_name}`;
-        
+
+        // Check if user is an admin and only admin mode is enabled
         if (config.onlyAdmin && !config.adminId.includes(userId.toString())) {
-            // If onlyAdmin is true and user is not bot admin, deny access
-            return bot.sendMessage(chatId, '(Only Admin Mode) Bot is under maintainance.');
+            return bot.sendMessage(chatId, '(Only Admin Mode) Bot is under maintenance.');
         }
-        // Create or update thread in database
+
+        // Find or create thread in database
         let thread = await threadModel.findOne({ chatId });
         if (!thread) {
             thread = new threadModel({ chatId });
@@ -108,7 +108,7 @@ connectDB(config.mongoURI).then(async ({ threadModel, userModel }) => {
             console.log(`[DATABASE] New thread: ${chatId} database has been created!`);
         }
 
-        // Create or update user in database
+        // Find or create user in database
         let user = await userModel.findOne({ userID: userId });
         if (!user) {
             user = new userModel({
@@ -121,85 +121,68 @@ connectDB(config.mongoURI).then(async ({ threadModel, userModel }) => {
             console.log(`[DATABASE] New user: ${userId} database has been created!`);
         }
 
-        // Check if user is banned
-        if (user.banned) {
-            // Send ban message only if the user tries to execute a bot command
-            if (msg.text.startsWith(config.prefix)) {
-                return bot.sendMessage(chatId, 'You are banned from using this bot!');
+        // Increment user's message count in the thread (if it's not a command)
+        if (!msg.text.startsWith(config.prefix)) {
+            if (!thread.users) {
+                thread.users = new Map();
             }
-            return; // Exit without further processing if user is banned but hasn't tried to execute a command
-        }
 
-        // Check if user is globally banned
-        const globalBanInfo = await isGloballyBanned(userId);
-        if (globalBanInfo) {
-            const banTime = moment(globalBanInfo.banTime).format('MMMM Do YYYY, h:mm:ss A');
-            // Send global ban message only if the user tries to execute a bot command
-            if (msg.text.startsWith(config.prefix)) {
-                return bot.sendPhoto(chatId, globalBanInfo.proof, { caption: `You are globally banned from using ${config.botName}\nReason: ${globalBanInfo.reason}\nBan Time: ${banTime}` });
+            if (!thread.users.has(userId)) {
+                thread.users.set(userId, { totalMsg: 1 });
+            } else {
+                thread.users.get(userId).totalMsg += 1;
             }
-            return; // Exit without further processing if user is globally banned but hasn't tried to execute a command
+            await thread.save();
         }
 
-        // Increment user's message count in the thread
-        if (!thread.users) {
-            thread.users = new Map();
-        }
-        
-        if (!thread.users.has(userId)) {
-            thread.users.set(userId, { totalMsg: 1 });
-        } else {
-            thread.users.get(userId).totalMsg += 1;
-        }
-        await thread.save();
+        // Handle command processing (if message starts with the configured prefix)
+        if (msg.text.startsWith(config.prefix)) {
+            const args = msg.text.slice(config.prefix.length).trim().split(/ +/);
+            const commandName = args.shift().toLowerCase();
+            const command = commands.get(commandName) || commands.get(aliases.get(commandName));
 
-        // Check for command prefix
-        if (!msg.text.startsWith(config.prefix)) return;
-
-        const args = msg.text.slice(config.prefix.length).trim().split(/ +/);
-        const commandName = args.shift().toLowerCase();
-        const command = commands.get(commandName) || commands.get(aliases.get(commandName));
-
-        if (!command) {
-            return bot.sendMessage(chatId, 'Invalid command.');
-        }
-
-        const { role, cooldown } = command.config;
-
-        // Role validation
-        if ((role === 1 && !userIsAdmin) || (role === 2 && !config.adminId.includes(userId))) {
-            return bot.sendMessage(chatId, 'You do not have permission to use this command.');
-        }
-
-        // Cooldown check
-        if (!cooldowns.has(commandName)) {
-            cooldowns.set(commandName, new Map());
-        }
-
-        const now = Date.now();
-        const timestamps = cooldowns.get(commandName);
-        const cooldownAmount = (cooldown || 3) * 1000; // Default cooldown of 3 seconds
-
-        if (timestamps.has(userId)) {
-            const expirationTime = timestamps.get(userId) + cooldownAmount;
-
-            if (now < expirationTime) {
-                const timeLeft = (expirationTime - now) / 1000;
-                return bot.sendMessage(chatId, `Please wait ${timeLeft.toFixed(1)} more seconds before reusing the ${commandName} command.`, { replyToMessage: msg.message_id });
+            if (!command) {
+                return bot.sendMessage(chatId, 'Invalid command.');
             }
-        }
 
-        timestamps.set(userId, now);
-        setTimeout(() => timestamps.delete(userId), cooldownAmount);
+            const { role, cooldown } = command.config;
 
-        // Execute command
-        try {
-            await command.onStart({ msg, bot, args, chatId, userId, config, botName, copyrightMark, senderName, username });
-        } catch (error) {
-            console.error(`Error executing command ${commandName}:`, error);
-            bot.sendMessage(chatId, 'There was an error executing the command.');
+            // Role validation
+            if ((role === 1 && !userIsAdmin) || (role === 2 && !config.adminId.includes(userId))) {
+                return bot.sendMessage(chatId, 'You do not have permission to use this command.');
+            }
+
+            // Cooldown check
+            if (!cooldowns.has(commandName)) {
+                cooldowns.set(commandName, new Map());
+            }
+
+            const now = Date.now();
+            const timestamps = cooldowns.get(commandName);
+            const cooldownAmount = (cooldown || 3) * 1000; // Default cooldown of 3 seconds
+
+            if (timestamps.has(userId)) {
+                const expirationTime = timestamps.get(userId) + cooldownAmount;
+
+                if (now < expirationTime) {
+                    const timeLeft = (expirationTime - now) / 1000;
+                    return bot.sendMessage(chatId, `Please wait ${timeLeft.toFixed(1)} more seconds before reusing the ${commandName} command.`, { replyToMessage: msg.message_id });
+                }
+            }
+
+            timestamps.set(userId, now);
+            setTimeout(() => timestamps.delete(userId), cooldownAmount);
+
+            // Execute command
+            try {
+                await command.onStart({ msg, bot, args, chatId, userId, config, botName, senderName, username });
+            } catch (error) {
+                console.error(`Error executing command ${commandName}:`, error);
+                bot.sendMessage(chatId, 'There was an error executing the command.');
+            }
         }
     });
+
 
 
     // Start the bot
