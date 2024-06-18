@@ -175,7 +175,7 @@ connectDB(config.mongoURI).then(async ({ threadModel, userModel }) => {
 
             // Execute command
             try {
-                await command.onStart({ msg, bot, args, chatId, userId, config, botName, senderName, username });
+                await command.onStart({ msg, bot, args, chatId, userId, config, botName, senderName, username, copyrightMark: config.copyrightMark, threadModel, userModel, user, thread });
             } catch (error) {
                 console.error(`Error executing command ${commandName}:`, error);
                 bot.sendMessage(chatId, 'There was an error executing the command.');

@@ -11,7 +11,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Get a list of all available commands or detailed information about a specific command',
-        usage: '/help [command]'
+        usage: 'help [command]'
     },
 
     onStart: async function({ msg, bot, args, config }) {
@@ -40,16 +40,16 @@ module.exports = {
 ━━━━━━━━━━━━━━━━━━━━━━
 Name: ${name}
 ━━━━━━━━━━━━━━━━━━━━━━
-» Description: ${description}
-» Other names: ${aliases.join(', ')}
+» Description: ${description || 'No description available.'}
+» Other names: ${aliases.join(', ') || 'None'}
 » Category: ${category}
-» Version: ${version}
+» Version: ${version || '1.0.0'}
 » Permission: ${roleText}
 » Time per command: ${cooldowns} seconds
-» Author: ${author}
+» Author: ${author || 'Samir Thakuri'}
 ━━━━━━━━━━  ❖  ━━━━━━━━━━
 » Usage guide:
-${usage}
+${config.prefix}${usage}
 ━━━━━━━━━━  ❖  ━━━━━━━━━━
 » Notes:
 • The content inside <XXXXX> can be changed

@@ -19,7 +19,7 @@ module.exports = {
         }
 
         const query = encodeURIComponent(args.join(' '));
-        const url = `https://apis-samir.onrender.com/tiktok/search/${query}`;
+        const url = `https://samirxpikachu.onrender.com/tiktok/search/${query}`;
 
         try {
             const response = await fetch(url);

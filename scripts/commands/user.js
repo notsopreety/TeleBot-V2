@@ -4,14 +4,14 @@ const User = require('../../database/models/user'); // Ensure this path is corre
 module.exports = {
     config: {
         name: 'user',
-        aliases: [],
+        aliases: ['u'],
         category: 'admin',
         role: 2, // Bot admins only
         cooldowns: 5,
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Ban, unban users or list users in the database',
-        usage: '/user <ban/unban/list> <reply/user_id>',
+        usage: 'user <ban/unban/list> <reply/user_id>',
     },
 
     onStart: async function ({ msg, bot, args }) {

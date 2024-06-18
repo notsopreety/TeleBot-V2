@@ -1,14 +1,14 @@
 module.exports = {
     config: {
         name: 'uid',
-        aliases: [],
-        category: 'utility',
+        aliases: ['userid'],
+        category: 'general',
         role: 0,
         cooldowns: 5,
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Get the user ID of the sender, a mentioned user, or the user whose message is being replied to.',
-        usage: '/uid [username or mention]'
+        usage: 'uid [username or reply]'
     },
 
     onStart: async function({ msg, bot }) {

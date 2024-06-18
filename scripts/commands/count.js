@@ -21,14 +21,14 @@ function getUserRank(rank) {
 module.exports = {
     config: {
         name: 'count',
-        aliases: [],
+        aliases: ['msgcount', 'totalmsg'],
         category: 'utility',
         role: 0, // All users can use this command
         cooldowns: 5,
         version: '1.0.0',
-        author: 'Your Name',
+        author: 'Samir Thakuri',
         description: 'Count messages and ranks of users in the chat',
-        usage: '/count [<user_id>/all]',
+        usage: 'count [<user_id>/all]',
     },
 
     onStart: async function ({ msg, bot, args }) {
