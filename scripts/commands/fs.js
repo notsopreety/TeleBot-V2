@@ -16,7 +16,7 @@ module.exports = {
 
     onStart: async function ({ bot, msg, args, chatId }) {
         if (args.length === 0) {
-            return bot.sendMessage(msg.chat.id, "Please provide a command name or alias.");
+            return bot.sendMessage(msg.chat.id, "Please provide a command name or alias.", { replyToMessage: msg.message_id });
         }
 
         // Extract the command name from the arguments
@@ -38,16 +38,16 @@ module.exports = {
                 const formattedResponse = sourceCode.match(/```(\w+)\n([\s\S]+)```/) ?
                     sourceCode : "```\n" + sourceCode + "\n```";
 
-                bot.sendMessage(chatId, formattedResponse, { parseMode: 'Markdown' });
+                bot.sendMessage(chatId, formattedResponse, { parseMode: 'Markdown' }, { replyToMessage: msg.message_id });
                 // Send the command file as a document
-                await bot.sendDocument(msg.chat.id, commandFile, { caption: `Here's the file for the command "${input}"` });
+                await bot.sendDocument(msg.chat.id, commandFile, { caption: `Here's the file for the command "${input}"` }, { replyToMessage: msg.message_id });
             } catch (error) {
                 console.error(error);
-                bot.sendMessage(msg.chat.id, `Error retrieving the source code for "${input}".`);
+                bot.sendMessage(msg.chat.id, `Error retrieving the source code for "${input}".`, { replyToMessage: msg.message_id });
             }
         } else {
             // Send a message indicating that the command does not exist
-            bot.sendMessage(msg.chat.id, `Command "${input}" does not exist.`);
+            bot.sendMessage(msg.chat.id, `Command "${input}" does not exist.`, { replyToMessage: msg.message_id });
         }
     }
 };

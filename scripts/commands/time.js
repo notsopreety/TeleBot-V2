@@ -14,7 +14,7 @@ module.exports = {
     },
 
     onStart: async function({ msg, bot, chatId, userId }) {
-        return bot.sendMessage(chatId, 'Getting time...').then(re => {
+        return bot.sendMessage(chatId, 'Getting time...', { replyToMessage: msg.message_id }).then(re => {
             // Start updating message
             updateTime(chatId, re.message_id, bot);
         });
@@ -26,7 +26,8 @@ function updateTime(chatId, messageId, bot) {
     setInterval(() => {
         bot.editMessageText(
             {chatId, messageId}, `<b>Current time:</b> ${ time() }`,
-            {parseMode: 'html'}
+            {parseMode: 'html'}, 
+            { replyToMessage: msg.message_id }
         ).catch(error => console.log('Error:', error));
     }, 1000);
 }

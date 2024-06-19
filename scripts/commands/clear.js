@@ -23,7 +23,7 @@ module.exports = {
             const filesToDelete = files.filter(file => file !== '.gitkeep');
 
             if (filesToDelete.length === 0) {
-                return bot.sendMessage(msg.chat.id, 'No cache files to delete.');
+                return bot.sendMessage(msg.chat.id, 'No cache files to delete.', { replyToMessage: msg.message_id });
             }
 
             let totalDeleted = 0;
@@ -32,10 +32,10 @@ module.exports = {
                 totalDeleted++;
             }
 
-            bot.sendMessage(msg.chat.id, `Deleted ${totalDeleted} cache file(s) successfully.`);
+            bot.sendMessage(msg.chat.id, `Deleted ${totalDeleted} cache file(s) successfully.`, { replyToMessage: msg.message_id });
         } catch (error) {
             console.error('Error clearing cache:', error);
-            bot.sendMessage(msg.chat.id, 'Error clearing cache.');
+            bot.sendMessage(msg.chat.id, 'Error clearing cache.', { replyToMessage: msg.message_id });
         }
     }
 };

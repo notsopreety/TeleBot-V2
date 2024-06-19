@@ -16,10 +16,10 @@ module.exports = {
     onStart: async function({ msg, bot, args }) {
         try {
             if (args.length === 0) {
-                return bot.sendMessage(msg.chat.id, 'No URL provided. Usage: /capcutdl <URL>');
+                return bot.sendMessage(msg.chat.id, 'No URL provided. Usage: /capcutdl <URL>', { replyToMessage: msg.message_id });
             }
 
-            const downloadMsg = await bot.sendMessage(msg.chat.id, '⏳ Fetching video...');
+            const downloadMsg = await bot.sendMessage(msg.chat.id, '⏳ Fetching video...', { replyToMessage: msg.message_id });
 
             const url = `https://apidown.site/api/capcut/v1?link=${encodeURIComponent(args[0])}`;
             const response = await axios.get(url);
@@ -30,13 +30,13 @@ module.exports = {
             if (data.status && data.url) {
                 const message = `<b>Title:</b> ${data.title}\n<b>Description:</b> ${data.description}\n<b>Total Use:</b> ${data.usage}`;
 
-                await bot.sendVideo(msg.chat.id, data.url, { caption: message, parseMode: 'HTML' });
+                await bot.sendVideo(msg.chat.id, data.url, { caption: message, parseMode: 'HTML' }, { replyToMessage: msg.message_id });
             } else {
-                bot.sendMessage(msg.chat.id, 'No video found! Something went wrong.');
+                bot.sendMessage(msg.chat.id, 'No video found! Something went wrong.', { replyToMessage: msg.message_id });
             }
         } catch (error) {
             console.error('Error fetching or sending CapCut video:', error);
-            bot.sendMessage(msg.chat.id, 'Error fetching or sending CapCut video.');
+            bot.sendMessage(msg.chat.id, 'Error fetching or sending CapCut video.', { replyToMessage: msg.message_id });
         }
     }
 };

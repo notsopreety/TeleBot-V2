@@ -19,7 +19,7 @@ module.exports = {
     onStart: async function({ msg, bot, args }) {
         try {
             if (args.length === 0) {
-                return bot.sendMessage(msg.chat.id, 'No options or search query provided. Usage: /ytb [options] <title>');
+                return bot.sendMessage(msg.chat.id, 'No options or search query provided. Usage: /ytb [options] <title>', { replyToMessage: msg.message_id });
             }
 
             // Determine the download type (audio or video)
@@ -38,10 +38,10 @@ module.exports = {
             }
 
             if (!searchQuery) {
-                return bot.sendMessage(msg.chat.id, 'Please provide a search query. Usage: /ytb [options] <title>');
+                return bot.sendMessage(msg.chat.id, 'Please provide a search query. Usage: /ytb [options] <title>', { replyToMessage: msg.message_id });
             }
 
-            const downloadMsg = await bot.sendMessage(msg.chat.id, `⏳ Searching for the ${downloadType}...`);
+            const downloadMsg = await bot.sendMessage(msg.chat.id, `⏳ Searching for the ${downloadType}...`, { replyToMessage: msg.message_id });
 
             let videoUrl;
 
@@ -88,7 +88,7 @@ module.exports = {
 
                 if (fileSizeInBytes > 50 * 1024 * 1024) { // Telegram has a file size limit of 50MB
                     fs.unlinkSync(filePath);
-                    return bot.sendMessage(msg.chat.id, '❌ The file could not be sent because it is larger than 50MB.');
+                    return bot.sendMessage(msg.chat.id, '❌ The file could not be sent because it is larger than 50MB.', { replyToMessage: msg.message_id });
                 }
 
                 const caption = `<b>Title:</b> ${videoInfo.videoDetails.title}\n<b>Author:</b> ${authorName}\n<b>Views:</b> ${viewCount}\n<b>File Size:</b> ${fileSizeInMegabytes.toFixed(2)} MB`;
@@ -96,7 +96,7 @@ module.exports = {
                 if (downloadType === 'audio') {
                     await bot.sendAudio(msg.chat.id, fs.createReadStream(filePath), { caption, parseMode: 'HTML' });
                 } else {
-                    await bot.sendVideo(msg.chat.id, filePath, { caption, parseMode: 'HTML' });
+                    await bot.sendVideo(msg.chat.id, filePath, { caption, parseMode: 'HTML' }, { replyToMessage: msg.message_id });
                 }
 
                 // Delete the file after sending the response
@@ -105,12 +105,12 @@ module.exports = {
 
             fileWriteStream.on('error', (error) => {
                 console.error('[ERROR]', error);
-                bot.sendMessage(msg.chat.id, 'An error occurred while writing the file.');
+                bot.sendMessage(msg.chat.id, 'An error occurred while writing the file.', { replyToMessage: msg.message_id });
             });
 
         } catch (error) {
             console.error('[ERROR]', error);
-            bot.sendMessage(msg.chat.id, 'An error occurred while processing the command.');
+            bot.sendMessage(msg.chat.id, 'An error occurred while processing the command.', { replyToMessage: msg.message_id });
         }
     }
 };

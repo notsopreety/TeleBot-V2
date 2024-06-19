@@ -16,13 +16,13 @@ module.exports = {
         usage: 'terabox <URL>'
     },
 
-    onStart: async function ({ bot, msg, args, config }) {
+    onStart: async function ({ bot, msg, args }) {
         try {
             if (args.length === 0) {
-                return bot.sendMessage(msg.chat.id, "No URL provided");
+                return bot.sendMessage(msg.chat.id, "No URL provided", { replyToMessage: msg.message_id });
             }
 
-            await bot.sendMessage(msg.chat.id, '⏳ Downloading Video...');
+            await bot.sendMessage(msg.chat.id, '⏳ Downloading Video...', { replyToMessage: msg.message_id });
 
             const videoUrl = args[0];
             const apiUrl = 'https://ytshorts.savetube.me/api/v1/terabox-downloader';
@@ -44,7 +44,7 @@ module.exports = {
                 writer.on('finish', async () => {
                     // Send the video along with the message and react with success
                     const message = `*Title:* ${title}`;
-                    await bot.sendVideo(msg.chat.id, videoPath, { caption: message });
+                    await bot.sendVideo(msg.chat.id, videoPath, { caption: message }, { replyToMessage: msg.message_id });
 
                     // Delete the video file
                     fs.unlinkSync(videoPath);
@@ -52,14 +52,14 @@ module.exports = {
 
                 writer.on('error', async (err) => {
                     console.error('Error saving video:', err);
-                    await bot.sendMessage(msg.chat.id, 'Error saving video');
+                    await bot.sendMessage(msg.chat.id, 'Error saving video', { replyToMessage: msg.message_id });
                 });
             } else {
-                await bot.sendMessage(msg.chat.id, 'No fast download video found! Something went wrong.');
+                await bot.sendMessage(msg.chat.id, 'No fast download video found! Something went wrong.', { replyToMessage: msg.message_id });
             }
         } catch (error) {
             console.error('Error fetching or sending video:', error);
-            await bot.sendMessage(msg.chat.id, 'Error fetching or sending video');
+            await bot.sendMessage(msg.chat.id, 'Error fetching or sending video', { replyToMessage: msg.message_id });
         }
     },
 };

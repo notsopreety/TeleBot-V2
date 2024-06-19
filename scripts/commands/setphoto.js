@@ -17,7 +17,7 @@ module.exports = {
     onStart: async function({ msg, bot, config }) {
         // Check if the message is a reply and contains a photo
         if (!msg.reply_to_message || !msg.reply_to_message.photo) {
-            return bot.sendMessage(msg.chat.id, 'Please reply to a photo message to set it as the chat photo.');
+            return bot.sendMessage(msg.chat.id, 'Please reply to a photo message to set it as the chat photo.', { replyToMessage: msg.message_id });
         }
 
         try {
@@ -42,7 +42,7 @@ module.exports = {
             // Delete the temporary photo file
             fs.unlinkSync('photo.jpg');
 
-            return bot.sendMessage(msg.chat.id, 'Chat photo updated successfully.');
+            return bot.sendMessage(msg.chat.id, 'Chat photo updated successfully.', { replyToMessage: msg.message_id });
         } catch (error) {
             console.error('Error setting chat photo:', error);
             return bot.sendMessage(msg.chat.id, 'An error occurred while setting the chat photo.');

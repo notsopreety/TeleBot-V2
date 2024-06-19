@@ -13,11 +13,11 @@ module.exports = {
         usage: "wiki <query>",
     },
 
-    onStart: async function ({ bot, chatId, args }) {
+    onStart: async function ({ bot, chatId, args, msg, config }) {
         try {
             // Check if a term is provided
             if (!args[0]) {
-                bot.sendMessage(chatId, `⚠️ Please provide a term.\n💡 Usage: ${this.config.usage}`);
+                bot.sendMessage(chatId, `⚠️ Please provide a term.\n💡 Usage: ${config.prefix}wiki <query>`, { replyToMessage: msg.message_id });
                 return;
             }
 
@@ -28,17 +28,17 @@ module.exports = {
 
             // Check if response is valid
             if (!res || !res.title) {
-                throw new Error(`No information found for '${query}'`);
+                throw new Error(`No information found for '${query}'`, { replyToMessage: msg.message_id });
             }
 
             // Format and send the information
             const txtWiki = `
 🔎 You searched for '${res.title}'\n\nDescription: ${res.description}\n\nInfo: ${res.extract}`;
 
-            bot.sendMessage(chatId, txtWiki);
+            bot.sendMessage(chatId, txtWiki, { replyToMessage: msg.message_id });
         } catch (err) {
             console.error('Error fetching or sending Wikipedia information:', err);
-            bot.sendMessage(chatId, `Error: ${err.message}`);
+            bot.sendMessage(chatId, `Error: ${err.message}, { replyToMessage: msg.message_id }`);
         }
     }
 };
@@ -48,6 +48,6 @@ async function getWiki(q) {
         const response = await axios.get(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(q)}`);
         return response.data;
     } catch (error) {
-        throw new Error(`Error fetching Wikipedia API: ${error.message}`);
+        throw new Error(`Error fetching Wikipedia API: ${error.message}, { replyToMessage: msg.message_id }`);
     }
 }

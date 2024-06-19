@@ -13,9 +13,9 @@ module.exports = {
     },
     onStart: async function({ bot, msg }) {
         const startTime = Date.now();
-        const sentMsg = await bot.sendMessage(msg.chat.id, 'Pinging...');
+        const sentMsg = await bot.sendMessage(msg.chat.id, 'Pinging...', { replyToMessage: msg.message_id });
         const endTime = Date.now();
         const pingTime = endTime - startTime;
-        bot.editMessageText({ chatId: sentMsg.chat.id, messageId: sentMsg.message_id }, `Pong! 🏓\nPing time: ${pingTime} ms`);
+        bot.editMessageText({ chatId: sentMsg.chat.id, messageId: sentMsg.message_id }, `Pong! 🏓\nPing time: ${pingTime} ms`, { replyToMessage: msg.message_id });
     }
 };

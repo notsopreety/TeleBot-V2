@@ -37,7 +37,7 @@ module.exports = {
             const thread = await Thread.findOne({ chatId });
 
             if (!thread) {
-                return bot.sendMessage(chatId, 'No message data available for this group.');
+                return bot.sendMessage(chatId, 'No message data available for this group.', { replyToMessage: msg.message_id });
             }
 
             const usersData = thread.users;
@@ -58,13 +58,13 @@ module.exports = {
                 const userIndex = usersArray.findIndex(user => user.userId === userId);
 
                 if (userIndex === -1) {
-                    return bot.sendMessage(chatId, 'You are not in the message data.');
+                    return bot.sendMessage(chatId, 'You are not in the message data.', { replyToMessage: msg.message_id });
                 }
 
                 const totalMsg = usersArray[userIndex].totalMsg;
                 const position = getOrdinalSuffix(userIndex + 1);
 
-                return bot.sendMessage(chatId, `You have ranked ${position} position with a total of ${totalMsg} messages.`);
+                return bot.sendMessage(chatId, `You have ranked ${position} position with a total of ${totalMsg} messages.`, { replyToMessage: msg.message_id });
             } else if (args[0] === 'all') {
                 // Count messages for all users
                 let message = 'Message ranks:\n';
@@ -78,29 +78,29 @@ module.exports = {
                     }
                 }
 
-                return bot.sendMessage(chatId, message);
+                return bot.sendMessage(chatId, message, { replyToMessage: msg.message_id });
             } else {
                 // Count messages for the specified user
                 const userId = args[0].toString();
                 const userIndex = usersArray.findIndex(user => user.userId === userId);
 
                 if (userIndex === -1) {
-                    return bot.sendMessage(chatId, `User with ID ${userId} is not in the message data.`);
+                    return bot.sendMessage(chatId, `User with ID ${userId} is not in the message data.`, { replyToMessage: msg.message_id });
                 }
 
                 const user = await User.findOne({ userID: userId });
                 if (!user) {
-                    return bot.sendMessage(chatId, `User with ID ${userId} does not exist in the database.`);
+                    return bot.sendMessage(chatId, `User with ID ${userId} does not exist in the database.`, { replyToMessage: msg.message_id });
                 }
 
                 const totalMsg = usersArray[userIndex].totalMsg;
                 const position = getOrdinalSuffix(userIndex + 1);
 
-                return bot.sendMessage(chatId, `${user.first_name} ${user.last_name} has ranked ${position} position with a total of ${totalMsg} messages.`);
+                return bot.sendMessage(chatId, `${user.first_name} ${user.last_name} has ranked ${position} position with a total of ${totalMsg} messages.`, { replyToMessage: msg.message_id });
             }
         } catch (error) {
             console.error('Error executing count command:', error);
-            bot.sendMessage(msg.chat.id, 'Error executing count command.');
+            bot.sendMessage(msg.chat.id, 'Error executing count command.', { replyToMessage: msg.message_id });
         }
     }
 };

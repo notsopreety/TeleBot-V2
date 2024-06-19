@@ -26,7 +26,7 @@ module.exports = {
 
     onStart: async function ({ bot, msg, args }) {
         if (args.length === 0) {
-            return bot.sendMessage(msg.chat.id, "Usage: /admin <list|-l|add|-a|remove|-r> <userId or reply to user msg>");
+            return bot.sendMessage(msg.chat.id, "Usage: /admin <list|-l|add|-a|remove|-r> <userId or reply to user msg>", { replyToMessage: msg.message_id });
         }
 
         const action = args[0].toLowerCase();
@@ -39,7 +39,7 @@ module.exports = {
         if (action === "add" || action === "-a") {
             const userId = args[1] || (msg.reply_to_message && msg.reply_to_message.from.id);
             if (!userId) {
-                return bot.sendMessage(chatId, "Please provide a userId or reply to a user's message to add them as an admin.");
+                return bot.sendMessage(chatId, "Please provide a userId or reply to a user's message to add them as an admin.", { replyToMessage: msg.message_id });
             }
             return addAdmin(bot, chatId, userId.toString());
         }
@@ -47,12 +47,12 @@ module.exports = {
         if (action === "remove" || action === "-r") {
             const userId = args[1] || (msg.reply_to_message && msg.reply_to_message.from.id);
             if (!userId) {
-                return bot.sendMessage(chatId, "Please provide a userId or reply to a user's message to remove them as an admin.");
+                return bot.sendMessage(chatId, "Please provide a userId or reply to a user's message to remove them as an admin.", { replyToMessage: msg.message_id });
             }
             return removeAdmin(bot, chatId, userId.toString());
         }
 
-        bot.sendMessage(chatId, "Invalid action. Usage: /admin <list|-l|add|-a|remove|-r> <userId or reply to user msg>");
+        bot.sendMessage(chatId, "Invalid action. Usage: /admin <list|-l|add|-a|remove|-r> <userId or reply to user msg>", { replyToMessage: msg.message_id });
     }
 };
 
@@ -61,7 +61,7 @@ async function listAdmins(bot, chatId) {
     const admins = config.adminId;
 
     if (admins.length === 0) {
-        return bot.sendMessage(chatId, "No admins found.");
+        return bot.sendMessage(chatId, "No admins found.", { replyToMessage: msg.message_id });
     }
 
     let message = "Here's Admin List:\n";
@@ -79,7 +79,7 @@ async function addAdmin(bot, chatId, userId) {
     const admins = config.adminId;
 
     if (admins.includes(userId)) {
-        return bot.sendMessage(chatId, "User is already an admin.");
+        return bot.sendMessage(chatId, "User is already an admin.", { replyToMessage: msg.message_id });
     }
 
     const user = await bot.getChatMember(chatId, userId);
@@ -88,7 +88,7 @@ async function addAdmin(bot, chatId, userId) {
     admins.push(userId.toString());
     writeConfig(config);
 
-    bot.sendMessage(chatId, `Added ${fullName} (${userId}) as an admin.`);
+    bot.sendMessage(chatId, `Added ${fullName} (${userId}) as an admin.`, { replyToMessage: msg.message_id });
 }
 
 async function removeAdmin(bot, chatId, userId) {
@@ -96,7 +96,7 @@ async function removeAdmin(bot, chatId, userId) {
     const admins = config.adminId;
 
     if (!admins.includes(userId)) {
-        return bot.sendMessage(chatId, "User is not an admin.");
+        return bot.sendMessage(chatId, "User is not an admin.", { replyToMessage: msg.message_id });
     }
 
     const user = await bot.getChatMember(chatId, userId);
@@ -108,5 +108,5 @@ async function removeAdmin(bot, chatId, userId) {
     }
     writeConfig(config);
 
-    bot.sendMessage(chatId, `Removed ${fullName} (${userId}) from admins.`);
+    bot.sendMessage(chatId, `Removed ${fullName} (${userId}) from admins.`, { replyToMessage: msg.message_id });
 }

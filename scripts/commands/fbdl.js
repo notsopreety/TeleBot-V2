@@ -16,10 +16,10 @@ module.exports = {
     onStart: async function({ msg, bot, args }) {
         try {
             if (args.length === 0) {
-                return bot.sendMessage(msg.chat.id, 'No URL provided. Usage: /fb <URL>');
+                return bot.sendMessage(msg.chat.id, 'No URL provided. Usage: /fb <URL>', { replyToMessage: msg.message_id });
             }
 
-            const downloadingMsg = await bot.sendMessage(msg.chat.id, '⏳ Downloading video...');
+            const downloadingMsg = await bot.sendMessage(msg.chat.id, '⏳ Downloading video...', { replyToMessage: msg.message_id });
 
             const link = args[0]; // Assuming the URL is the first argument
 
@@ -36,14 +36,14 @@ module.exports = {
                 const message = `<b>Title:</b> ${response.data.title}\n<b>Duration:</b> ${response.data.duration}\n<b>Source:</b> ${response.data.source}\n<b>Size:</b> ${media.formattedSize}`;
 
                 await bot.deleteMessage(downloadingMsg.chat.id, downloadingMsg.message_id);
-                await bot.sendVideo(msg.chat.id, media.url, { caption: message, parseMode: 'HTML' });
+                await bot.sendVideo(msg.chat.id, media.url, { caption: message, parseMode: 'HTML' }, { replyToMessage: msg.message_id });
             } else {
                 await bot.deleteMessage(downloadingMsg.chat.id, downloadingMsg.message_id);
-                bot.sendMessage(msg.chat.id, 'No video available to download.');
+                bot.sendMessage(msg.chat.id, 'No video available to download.', { replyToMessage: msg.message_id });
             }
         } catch (error) {
             console.error('Error fetching or sending video:', error);
-            bot.sendMessage(msg.chat.id, 'Error fetching or sending video.');
+            bot.sendMessage(msg.chat.id, 'Error fetching or sending video.', { replyToMessage: msg.message_id });
         }
     }
 };

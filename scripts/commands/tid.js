@@ -13,9 +13,9 @@ module.exports = {
 
     onStart: async function({ bot, msg, chatId}) {
         if (msg.chat.type === 'group' || msg.chat.type === 'supergroup') {
-            bot.sendMessage(chatId, `The thread ID of this group is: ${chatId}`);
+            bot.sendMessage(chatId, `The thread ID of this group is: ${chatId}`, { replyToMessage: msg.message_id });
         } else {
-            bot.sendMessage(chatId, 'This command can only be used in a group or supergroup.');
+            bot.sendMessage(chatId, 'This command can only be used in a group or supergroup.', { replyToMessage: msg.message_id });
         }
     }
 };

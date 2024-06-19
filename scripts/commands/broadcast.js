@@ -17,7 +17,7 @@ module.exports = {
     onStart: async function({ msg, bot, args, config, senderName, userId, username, copyrightMark }) {
         const message = args.join(' '); // Join the arguments into a single string
         if (!message) {
-            return bot.sendMessage(msg.chat.id, 'Please provide a message to broadcast.');
+            return bot.sendMessage(msg.chat.id, 'Please provide a message to broadcast.', { replyToMessage: msg.message_id });
         }
 
         const uri = config.mongoURI;

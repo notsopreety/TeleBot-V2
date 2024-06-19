@@ -16,7 +16,7 @@ module.exports = {
         if (msg.entities && msg.entities[0].type === 'mention') {
             const mention = msg.entities[0];
             const mentionedUserId = msg.text.substring(mention.offset + 1, mention.offset + mention.length);
-            return bot.sendMessage(msg.chat.id, `User ID: ${mentionedUserId}`);
+            return bot.sendMessage(msg.chat.id, `User ID: ${mentionedUserId}`, { replyToMessage: msg.message_id });
         }
 
         // Check if a username is provided in the command
@@ -25,19 +25,19 @@ module.exports = {
             const username = args[1].replace('@', '');
             try {
                 const chatMember = await bot.getChatMember(msg.chat.id, username);
-                return bot.sendMessage(msg.chat.id, `User ID: ${chatMember.user.id}`);
+                return bot.sendMessage(msg.chat.id, `User ID: ${chatMember.user.id}`, { replyToMessage: msg.message_id });
             } catch (error) {
-                return bot.sendMessage(msg.chat.id, 'User not found.');
+                return bot.sendMessage(msg.chat.id, 'User not found.', { replyToMessage: msg.message_id });
             }
         }
 
         // Check if the command is a reply to a message
         if (msg.reply_to_message) {
             const repliedUserId = msg.reply_to_message.from.id;
-            return bot.sendMessage(msg.chat.id, `User ID: ${repliedUserId}`);
+            return bot.sendMessage(msg.chat.id, `User ID: ${repliedUserId}`, { replyToMessage: msg.message_id });
         }
 
         // If none of the above conditions are met, send the sender's user ID
-        return bot.sendMessage(msg.chat.id, `Your User ID: ${msg.from.id}`);
+        return bot.sendMessage(msg.chat.id, `Your User ID: ${msg.from.id}`, { replyToMessage: msg.message_id });
     }
 };

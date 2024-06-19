@@ -21,7 +21,7 @@ module.exports = {
                 return bot.sendMessage(msg.chat.id, "No URL provided");
             }
 
-            const downloadMsg = await bot.sendMessage(msg.chat.id, '⏳ Downloading video from XNXX...');
+            const downloadMsg = await bot.sendMessage(msg.chat.id, '⏳ Downloading video from XNXX...', { replyToMessage: msg.message_id });
 
             const url = `https://apidown.site/api/xvideos/v1?link=${encodeURIComponent(args[0])}`;
             const response = await axios.get(url);
@@ -39,7 +39,7 @@ module.exports = {
 
                 writer.on('finish', async () => {
                     // Send the video to the user
-                    await bot.sendVideo(msg.chat.id, videoPath, { caption: message });
+                    await bot.sendVideo(msg.chat.id, videoPath, { caption: message }, { replyToMessage: msg.message_id });
 
                     // Delete the video file after sending
                     fs.unlinkSync(videoPath);
@@ -47,14 +47,14 @@ module.exports = {
 
                 writer.on('error', async (err) => {
                     console.error('Error saving XNXX video:', err);
-                    await bot.sendMessage(msg.chat.id, 'Error saving XNXX video');
+                    await bot.sendMessage(msg.chat.id, 'Error saving XNXX video', { replyToMessage: msg.message_id });
                 });
             } else {
-                await bot.sendMessage(msg.chat.id, 'No video found! Something went wrong.');
+                await bot.sendMessage(msg.chat.id, 'No video found! Something went wrong.', { replyToMessage: msg.message_id });
             }
         } catch (error) {
             console.error('Error fetching or sending video from XNXX:', error);
-            await bot.sendMessage(msg.chat.id, 'Error fetching or sending video from XNXX');
+            await bot.sendMessage(msg.chat.id, 'Error fetching or sending video from XNXX', { replyToMessage: msg.message_id });
         }
     },
 };

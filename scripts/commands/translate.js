@@ -28,7 +28,7 @@ module.exports = {
             const chatId = chat.id;
 
             if (args.length === 0 && !reply_to_message) {
-                await bot.sendMessage(chatId, "Please provide a language code and message or reply to a message to translate.");
+                await bot.sendMessage(chatId, "Please provide a language code and message or reply to a message to translate.", { replyToMessage: msg.message_id });
                 return;
             }
 
@@ -47,7 +47,7 @@ module.exports = {
                 text = reply_to_message.text;
             } else {
                 // If no valid input is provided
-                await bot.sendMessage(chatId, "Please reply to a message to translate or provide both language code and text.");
+                await bot.sendMessage(chatId, "Please reply to a message to translate or provide both language code and text.", { replyToMessage: msg.message_id });
                 return;
             }
 
@@ -58,10 +58,10 @@ module.exports = {
             const replyMessage = `Translation (${translationResult.lang}): \n${translationResult.text}`;
 
             // Send the translated message
-            await bot.sendMessage(chatId, replyMessage);
+            await bot.sendMessage(chatId, replyMessage, { replyToMessage: msg.message_id });
         } catch (error) {
             console.error('Error in translation command:', error);
-            await bot.sendMessage(chatId, "Error occurred during translation.");
+            await bot.sendMessage(chatId, "Error occurred during translation.", { replyToMessage: msg.message_id });
         }
     },
 };

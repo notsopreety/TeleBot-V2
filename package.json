@@ -16,6 +16,7 @@
     "cheerio": "^1.0.0-rc.12",
     "express": "^4.19.2",
     "fs-extra": "^11.2.0",
+    "hercai": "^12.2.0",
     "md5": "^2.3.0",
     "moment-timezone": "^0.5.45",
     "mongodb": "^6.7.0",

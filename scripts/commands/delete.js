@@ -18,11 +18,11 @@ module.exports = {
             const messageIDToDelete = msg.reply_to_message.message_id;
             await bot.deleteMessage(chatId, messageIDToDelete);
           } else {
-            await bot.sendMessage(msg.chat.id, "Please reply to the message you want to delete.");
+            await bot.sendMessage(msg.chat.id, "Please reply to the message you want to delete.", { replyToMessage: msg.message_id });
           }
         } catch (error) {
           console.log('Error deleting message:', error);
-          await bot.sendMessage(msg.chat.id, 'An error occurred while trying to delete the message.');
+          await bot.sendMessage(msg.chat.id, 'An error occurred while trying to delete the message.', { replyToMessage: msg.message_id });
         }
     }
 };

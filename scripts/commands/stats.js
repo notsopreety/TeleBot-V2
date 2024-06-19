@@ -33,10 +33,10 @@ module.exports = {
 📂 total cmds: ${jsFileCount}
 `;
 
-            bot.sendMessage(chatId, statsMessage);
+            bot.sendMessage(chatId, statsMessage, { replyToMessage: msg.message_id });
         } catch (error) {
             console.error('[ERROR]', error);
-            bot.sendMessage(chatId, 'An error occurred while fetching the stats.');
+            bot.sendMessage(chatId, 'An error occurred while fetching the stats.', { replyToMessage: msg.message_id });
         }
     }
 };

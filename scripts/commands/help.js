@@ -54,7 +54,7 @@ ${config.prefix}${usage}
 » Notes:
 • The content inside <XXXXX> can be changed
 • The content inside [a|b|c] is a or b or c
-                `);
+                `, { replyToMessage: msg.message_id });
             } else {
                 bot.sendMessage(msg.chat.id, `Command not found. Use ${config.prefix}help to see available commands.`, { replyToMessage: msg.message_id });
             }
@@ -83,7 +83,7 @@ ${config.prefix}${usage}
             helpMessage += `Total Commands: ${commands.length}\n`;
             helpMessage += `[ 🐉 | ${config.botName} ]`;
 
-            bot.sendMessage(msg.chat.id, helpMessage);
+            bot.sendMessage(msg.chat.id, helpMessage, { replyToMessage: msg.message_id });
         }
     }
 };

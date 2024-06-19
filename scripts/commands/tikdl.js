@@ -19,10 +19,10 @@ module.exports = {
     onStart: async function ({ bot, msg, args }) {
         try {
             if (args.length === 0) {
-                return bot.sendMessage(msg.chat.id, "No URL provided");
+                return bot.sendMessage(msg.chat.id, "No URL provided", { replyToMessage: msg.message_id });
             }
 
-            await bot.sendMessage(msg.chat.id, '⏳ Downloading TikTok Video...');
+            await bot.sendMessage(msg.chat.id, '⏳ Downloading TikTok Video...', { replyToMessage: msg.message_id });
 
             const url = args[0];
             const tiktokData = await fetchTikTokDataAlt(url);
@@ -39,7 +39,7 @@ module.exports = {
 
                 videoWriter.on('finish', async () => {
                     // Send the message and video URL to the user
-                    await bot.sendVideo(msg.chat.id, videoPath, { caption: message });
+                    await bot.sendVideo(msg.chat.id, videoPath, { caption: message }, { replyToMessage: msg.message_id });
 
                     // Delete the video file
                     fs.unlinkSync(videoPath);
@@ -47,14 +47,14 @@ module.exports = {
 
                 videoWriter.on('error', async (err) => {
                     console.error('Error saving TikTok video:', err);
-                    await bot.sendMessage(msg.chat.id, 'Error saving TikTok video');
+                    await bot.sendMessage(msg.chat.id, 'Error saving TikTok video', { replyToMessage: msg.message_id });
                 });
             } else {
-                await bot.sendMessage(msg.chat.id, 'No video found! Something went wrong.');
+                await bot.sendMessage(msg.chat.id, 'No video found! Something went wrong.', { replyToMessage: msg.message_id });
             }
         } catch (error) {
             console.error('Error fetching or sending TikTok video:', error);
-            await bot.sendMessage(msg.chat.id, 'Error fetching or sending TikTok video');
+            await bot.sendMessage(msg.chat.id, 'Error fetching or sending TikTok video', { replyToMessage: msg.message_id });
         }
     },
 };

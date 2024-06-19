@@ -13,10 +13,10 @@ module.exports = {
         usage: "crypto <currency>",
     },
 
-    onStart: async function ({ bot, chatId, args }) {
+    onStart: async function ({ bot, chatId, args, msg }) {
             try {
                 if (!args[0]) {
-                    bot.sendMessage(chatId, `⚠️ Please specify a valid type of crypto coin.\n\nLists of Available Coins:\nBitcoin\nEthereum\nTether\nBinance\nUSD Coin\nHEX\nSolana\nXRP\nTerra\nADA\nUST\nDOGE`);
+                    bot.sendMessage(chatId, `⚠️ Please specify a valid type of crypto coin.\n\nLists of Available Coins:\nBitcoin\nEthereum\nTether\nBinance\nUSD Coin\nHEX\nSolana\nXRP\nTerra\nADA\nUST\nDOGE`, { replyToMessage: msg.message_id });
                     return;
                 }
 
@@ -69,7 +69,7 @@ module.exports = {
                         type = "doge-dogecoin";
                         break;
                     default:
-                        bot.sendMessage(chatId, `⚠️ Please specify a valid type of crypto coin.\n\nLists of Available Coins:\nBitcoin\nEthereum\nTether\nBinance\nUSD Coin\nHEX\nSolana\nXRP\nTerra\nADA\nUST\nDOGE`);
+                        bot.sendMessage(chatId, `⚠️ Please specify a valid type of crypto coin.\n\nLists of Available Coins:\nBitcoin\nEthereum\nTether\nBinance\nUSD Coin\nHEX\nSolana\nXRP\nTerra\nADA\nUST\nDOGE`, { replyToMessage: msg.message_id });
                         return;
                 }
 
@@ -94,11 +94,11 @@ ATH Price (USD): 💎 $${data.quotes.USD.ath_price.toFixed(2)}
 ATH Date: 📅 ${new Date(data.quotes.USD.ath_date).toDateString()}
 `;
 
-                bot.sendPhoto(chatId, imageURL, { caption: replyMessage.trim() });
+                bot.sendPhoto(chatId, imageURL, { caption: replyMessage.trim() }, { replyToMessage: msg.message_id });
 
             } catch (error) {
                 console.error('Error fetching or sending cryptocurrency data:', error);
-                bot.sendMessage(chatId, "An error occurred while fetching cryptocurrency data. Please try again later.");
+                bot.sendMessage(chatId, "An error occurred while fetching cryptocurrency data. Please try again later.", { replyToMessage: msg.message_id });
             }
         }
 };

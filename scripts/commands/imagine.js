@@ -12,15 +12,15 @@ module.exports = {
         usage: 'imagine <prompt>'
     },
 
-    onStart: async function({ bot, args, chatId }) {
+    onStart: async function({ bot, args, chatId, msg }) {
         const prompt = args.join(' ');
         if (!prompt) {
-            bot.sendMessage(chatId, "Please provide a prompt.");
+            bot.sendMessage(chatId, "Please provide a prompt.", { replyToMessage: msg.message_id });
             return;
         }
 
         // Send a pre-processing message
-        const preMessage = await bot.sendMessage(chatId, "Generating AI image...");
+        const preMessage = await bot.sendMessage(chatId, "Generating AI image...", { replyToMessage: msg.message_id });
 
         try {
             // Fetch AI image from the API
@@ -31,10 +31,10 @@ module.exports = {
             const imagineResponse = Buffer.from(response.data);
 
             // Send the AI image as a photo along with a text message
-            bot.sendPhoto(chatId, imagineResponse, { caption: "Here's Your AI IMG" });
+            bot.sendPhoto(chatId, imagineResponse, { caption: "Here's Your AI IMG" }, { replyToMessage: msg.message_id });
         } catch (error) {
             console.error(error);
-            bot.sendMessage(chatId, "An error occurred while generating the AI image.");
+            bot.sendMessage(chatId, "An error occurred while generating the AI image.", { replyToMessage: msg.message_id });
         } finally {
             // Delete the pre-processing message
             bot.deleteMessage(chatId, preMessage.message_id);

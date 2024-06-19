@@ -17,10 +17,10 @@ module.exports = {
     onStart: async function ({ bot, msg, args }) {
         try {
             if (args.length === 0) {
-                return bot.sendMessage(msg.chat.id, "No URL provided");
+                return bot.sendMessage(msg.chat.id, "No URL provided", { replyToMessage: msg.message_id });
             }
 
-            const downloadMsg = await bot.sendMessage(msg.chat.id, '⏳ Fetching media...');
+            const downloadMsg = await bot.sendMessage(msg.chat.id, '⏳ Fetching media...', { replyToMessage: msg.message_id });
 
             const link = args[0];
             const response = await axios.get(`https://apidown.site/api/instagram/v3?link=${encodeURIComponent(link)}`);
@@ -28,20 +28,20 @@ module.exports = {
             if (response.data && response.data.length > 0) {
                 for (const media of response.data) {
                     if (media.type === 'image') {
-                        await bot.sendPhoto(msg.chat.id, media.url);
+                        await bot.sendPhoto(msg.chat.id, media.url, { replyToMessage: msg.message_id });
                     } else if (media.type === 'video') {
-                        await bot.sendVideo(msg.chat.id, media.url);
+                        await bot.sendVideo(msg.chat.id, media.url, { replyToMessage: msg.message_id });
                         break; // Send only the first video
                     }
                 }
 
                 await bot.deleteMessage(downloadMsg.chat.id, downloadMsg.message_id);
             } else {
-                await bot.sendMessage(msg.chat.id, 'No media found! Something went wrong.');
+                await bot.sendMessage(msg.chat.id, 'No media found! Something went wrong.', { replyToMessage: msg.message_id });
             }
         } catch (error) {
             console.error('Error fetching or sending media:', error);
-            await bot.sendMessage(msg.chat.id, 'Error fetching or sending media');
+            await bot.sendMessage(msg.chat.id, 'Error fetching or sending media', { replyToMessage: msg.message_id });
         }
     },
 };
