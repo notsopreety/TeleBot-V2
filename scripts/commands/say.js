@@ -1,30 +1,31 @@
-const axios = require('axios');
-const TeleBot = require('telebot');
-
+const { createReadStream, unlinkSync, createWriteStream, existsSync, mkdirSync } = require("fs-extra");
+const { resolve } = require("path");
+const axios = require("axios");
 
 // List of supported languages
 const supportedLanguages = ["af", "sq", "am", "ar", "hy", "az", "eu", "be", "bn", "bs", "bg", "ca", "ceb", "ny", "zh-CN", "zh-TW", "co", "hr", "cs", "da", "nl", "en", "eo", "et", "tl", "fi", "fr", "fy", "gl", "ka", "de", "el", "gu", "ht", "ha", "haw", "he", "hi", "hmn", "hu", "is", "ig", "id", "ga", "it", "ja", "jw", "kn", "kk", "km", "rw", "ko", "ku", "ky", "lo", "la", "lv", "lt", "lb", "mk", "mg", "ms", "ml", "mt", "mi", "mr", "mn", "my", "ne", "no", "or", "ps", "fa", "pl", "pt", "pa", "ro", "ru", "sm", "gd", "sr", "st", "sn", "sd", "si", "sk", "sl", "so", "es", "su", "sw", "sv", "tg", "ta", "tt", "te", "th", "tr", "tk", "uk", "ur", "ug", "uz", "vi", "cy", "xh", "yi", "yo", "zu"];
 
-// Translate function using Google Translate API
-async function translate(text, langCode) {
-    try {
-        const res = await axios.get(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${langCode}&dt=t&q=${encodeURIComponent(text)}`);
-        return {
-            text: res.data[0].map(item => item[0]).join(''),
-            lang: res.data[2]
-        };
-    } catch (error) {
-        throw new Error('Translation error:', error.message);
-    }
+// Function to fetch audio data from Google Translate TTS API
+async function fetchTTS(text, langCode) {
+    const url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(text)}&tl=${langCode}&client=tw-ob`;
+    return await axios({
+        method: "GET",
+        url,
+        responseType: "stream",
+    });
 }
 
 module.exports = {
     config: {
-        name: "trans",
-        alias: ["translate"],
-        category: "utility",
-        description: "Translate messages to the specified language",
-        usage: "/trans -<language code> <text> - Translate text to the specified language.\n/trans <text> - Translate text to English (default).\n/trans -<language code> <reply to message> - Translate replied message text to the specified language.",
+        name: 'say',
+        aliases: ['tts'],
+        category: 'general',
+        role: 0, // All users can use this command
+        cooldowns: 5,
+        version: '1.0.0',
+        author: 'Samir Thakuri',
+        description: 'Convert text to speech with specified language',
+        usage: '/say -<language code> <text> - Convert text to speech in the specified language.\n/say <text> - Convert text to speech in English (default).\n/say -<language code> <reply to message> - Convert replied message text to speech in the specified language.',
     },
 
     onStart: async function ({ bot, msg, args }) {
@@ -33,7 +34,7 @@ module.exports = {
             const chatId = chat.id;
 
             if (args.length === 0 && !reply_to_message) {
-                await bot.sendMessage(chatId, "Please provide a language code and message or reply to a message to translate.", { replyToMessage: msg.message_id });
+                await bot.sendMessage(chatId, "Please provide a language code and message or reply to a message for TTS.", { replyToMessage: msg.message_id });
                 return;
             }
 
@@ -53,7 +54,7 @@ module.exports = {
                     } else if (reply_to_message) {
                         text = reply_to_message.text;
                     } else {
-                        await bot.sendMessage(chatId, "Please provide a text to translate.", { replyToMessage: msg.message_id });
+                        await bot.sendMessage(chatId, "Please provide a text to convert to speech.", { replyToMessage: msg.message_id });
                         return;
                     }
                 } else {
@@ -73,17 +74,26 @@ module.exports = {
                 }
             }
 
-            // Perform translation
-            const translationResult = await translate(text, langCode);
+            const cacheDir = resolve(__dirname, "cache");
+            if (!existsSync(cacheDir)) {
+                mkdirSync(cacheDir);
+            }
 
-            // Compose the translated message
-            const replyMessage = `🌐 Translate from ${translationResult.lang} to ${langCode}\n${translationResult.text}`;
+            const filePath = resolve(cacheDir, `${chatId}_${msg.from.id}.mp3`);
+            const response = await fetchTTS(text, langCode);
 
-            // Send the translated message
-            await bot.sendMessage(chatId, replyMessage, { replyToMessage: msg.message_id });
+            const writer = response.data.pipe(createWriteStream(filePath));
+            await new Promise((resolve, reject) => {
+                writer.on("finish", resolve);
+                writer.on("error", reject);
+            });
+
+            await bot.sendAudio(chatId, createReadStream(filePath), { replyToMessage: msg.message_id });
+
+            unlinkSync(filePath); // Clean up the file after sending
         } catch (error) {
-            console.error('Error in translation command:', error);
-            await bot.sendMessage(chatId, "Error occurred during translation.", { replyToMessage: msg.message_id });
+            console.error('Error in TTS command:', error);
+            await bot.sendMessage(chatId, "Error occurred during TTS conversion.", { replyToMessage: msg.message_id });
         }
     },
 };
