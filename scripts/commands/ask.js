@@ -38,7 +38,7 @@ module.exports = {
         bot.editMessageText({ chatId: preMessage.chat.id, messageId: preMessage.message_id }, formattedResponse, { replyToMessage: msg.message_id }, { parseMode: 'Markdown' });
     } catch (error) {
         console.error("Yukai Error:", error);
-        bot.sendMessage(chatId, "Failed to process the question. Please try again later.");
+        bot.editMessageText({ chatId: preMessage.chat.id, messageId: preMessage.message_id }, 'Failed to process the question. Please try again later.', { replyToMessage: msg.message_id });
     }
     }
 }

@@ -23,6 +23,10 @@ module.exports = {
         name: "trans",
         alias: ["translate"],
         category: "utility",
+        role: 0, // All users can use this command
+        cooldowns: 5,
+        version: '1.0.0',
+        author: 'Samir Thakuri',
         description: "Translate messages to the specified language",
         usage: "/trans -<language code> <text> - Translate text to the specified language.\n/trans <text> - Translate text to English (default).\n/trans -<language code> <reply to message> - Translate replied message text to the specified language.",
     },

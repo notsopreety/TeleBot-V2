@@ -2,13 +2,13 @@ module.exports = {
     config: {
         name: 'tid',
         aliases: ['threadid', 'gcuid', 'groupid'],
-        category: 'group',
+        category: 'general',
         role: 0,
         cooldowns: 5,
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Sends the thread ID of the group',
-        usage: '/tid'
+        usage: 'tid'
     },
 
     onStart: async function({ bot, msg, chatId}) {

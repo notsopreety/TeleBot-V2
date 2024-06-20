@@ -10,7 +10,7 @@ module.exports = {
         author: 'Samir Thakuri',
         category: "ai",
         description: "Get AI-generated responses using Meta AI API",
-        usage: "/meta <query>",
+        usage: "meta <query>",
     },
 
     onStart: async function ({ bot, msg, args }) {
@@ -36,7 +36,7 @@ module.exports = {
 
         } catch (error) {
             console.error('Error fetching Meta AI response:', error);
-            await bot.sendMessage(msg.chat.id, "Error fetching Meta AI response.", { replyToMessage: msg.message_id });
+            await bot.editMessageText({ chatId: preMessage.chat.id, messageId: preMessage.message_id }, 'Error occurred while fetching Meta AI response.', { replyToMessage: msg.message_id });
         }
     },
 };

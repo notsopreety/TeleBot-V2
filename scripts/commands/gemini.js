@@ -1,4 +1,7 @@
 const axios = require('axios');
+const FormData = require('form-data');
+const imgbbApiKey = 'e6a573af64fc40a0b618acccd6677b74'; // Replace with your ImgBB API key
+
 
 module.exports = {
     config: {
@@ -29,7 +32,23 @@ module.exports = {
                 // Extract the image URL from the reply
                 const fileId = msg.reply_to_message.photo[0].file_id;
                 const file = await bot.getFile(fileId);
-                const imageUrl = `https://api.telegram.org/file/bot${config.botToken}/${file.file_path}`;
+                const fileUrl = `https://api.telegram.org/file/bot${config.botToken}/${file.file_path}`;
+
+                const response = await axios.get(fileUrl, { responseType: 'arraybuffer' });
+
+                const formData = new FormData();
+                formData.append('image', Buffer.from(response.data, 'binary'), { filename: 'image.png' });
+
+                const imgbbResponse = await axios.post('https://api.imgbb.com/1/upload', formData, {
+                    headers: {
+                        ...formData.getHeaders(),
+                    },
+                    params: {
+                        key: imgbbApiKey,
+                    },
+                });
+
+                const imageUrl = imgbbResponse.data.data.url;
 
                 query = args.join(" ");
                 const apiUrl = `https://apibysamir.onrender.com/geminiv2?prompt=${encodeURIComponent(query)}&imgUrl=${encodeURIComponent(imageUrl)}&apikey=APIKEY`;
