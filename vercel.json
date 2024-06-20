@@ -2,7 +2,7 @@
   "version": 2,
    "name": "TeleBot-V2",
   "builds": [
-    { "src": "./index.js", "use": "@vercel/node" }
+    { "src": "./main.js", "use": "@vercel/node" }
   ],
   "routes": [
     { "src": "/(.*)", "dest": "/" }
