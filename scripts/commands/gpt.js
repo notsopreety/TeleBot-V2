@@ -37,7 +37,6 @@ module.exports = {
   config: {
     name: 'gpt',
     aliases: ['openai', 'chatgpt'],
-    category: 'ai',
     role: 0, // Adjust role as needed
     cooldowns: 5,
     version: '1.2.0',
