@@ -33,7 +33,7 @@ module.exports = {
         const chatId = msg.chat.id;
 
         if (action === "list" || action === "-l") {
-            return listAdmins(bot, chatId);
+            return listAdmins(bot, chatId, msg);
         }
 
         if (action === "add" || action === "-a") {
@@ -41,7 +41,7 @@ module.exports = {
             if (!userId) {
                 return bot.sendMessage(chatId, "Please provide a userId or reply to a user's message to add them as an admin.", { replyToMessage: msg.message_id });
             }
-            return addAdmin(bot, chatId, userId.toString());
+            return addAdmin(bot, chatId, userId.toString(), msg);
         }
 
         if (action === "remove" || action === "-r") {
@@ -49,14 +49,14 @@ module.exports = {
             if (!userId) {
                 return bot.sendMessage(chatId, "Please provide a userId or reply to a user's message to remove them as an admin.", { replyToMessage: msg.message_id });
             }
-            return removeAdmin(bot, chatId, userId.toString());
+            return removeAdmin(bot, chatId, userId.toString(), msg);
         }
 
         bot.sendMessage(chatId, "Invalid action. Usage: /admin <list|-l|add|-a|remove|-r> <userId or reply to user msg>", { replyToMessage: msg.message_id });
     }
 };
 
-async function listAdmins(bot, chatId) {
+async function listAdmins(bot, chatId, msg) {
     const config = readConfig();
     const admins = config.adminId;
 
@@ -71,10 +71,10 @@ async function listAdmins(bot, chatId) {
         message += `» ${fullName} (${userId})\n`;
     }
 
-    bot.sendMessage(chatId, message);
+    bot.sendMessage(chatId, message, { replyToMessage: msg.message_id });
 }
 
-async function addAdmin(bot, chatId, userId) {
+async function addAdmin(bot, chatId, userId, msg) {
     const config = readConfig();
     const admins = config.adminId;
 
@@ -91,7 +91,7 @@ async function addAdmin(bot, chatId, userId) {
     bot.sendMessage(chatId, `Added ${fullName} (${userId}) as an admin.`, { replyToMessage: msg.message_id });
 }
 
-async function removeAdmin(bot, chatId, userId) {
+async function removeAdmin(bot, chatId, userId, msg) {
     const config = readConfig();
     const admins = config.adminId;
 

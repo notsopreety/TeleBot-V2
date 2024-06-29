@@ -3,7 +3,7 @@ const axios = require('axios');
 module.exports = {
     config: {
         name: 'pindl',
-        aliases: ['pindownload', 'pin', 'pinterest'],
+        aliases: ['pindownload', 'pinterestdl', 'pinterestdown'],
         category: 'downloader',
         role: 0, // All users can use this command
         cooldowns: 5,

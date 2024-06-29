@@ -15,7 +15,7 @@ module.exports = {
         usage: "stats",
     },
 
-    onStart: async function ({ bot, chatId }) {
+    onStart: async function ({ bot, chatId,msg }) {
         try {
             const uptime = process.uptime(); 
             const uptimeString = formatUptime(uptime);
