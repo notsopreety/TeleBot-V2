@@ -1,12 +1,10 @@
 {
   "name": "TeleBot-V2",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple framework telegram bot project made by Samir Thakuri using telebot package",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
-    "restart": "npm run stop && npm run start",
-    "stop": "pkill -f node"
+    "start": "node main.js"
   },
   "keywords": [],
   "author": "Samir Thakuri",

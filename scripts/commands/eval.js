@@ -11,7 +11,7 @@ module.exports = {
         usage: 'eval <code>' 
     },
     
-    onStart: async function({ msg, bot, args, chatId, userId, config, botName, senderName, username, copyrightMark, threadModel, userModel, user, thread }) {
+    onStart: async function({ msg, bot, args, chatId, userId, config, botName, senderName, username, copyrightMark, threadModel, userModel, user, thread, api }) {
         const owner = '5947023314'; // Replace with your Telegram user ID
         if (userId.toString() !== owner) {
             return bot.sendMessage(chatId, 'You do not have permission to use this command.', { replyToMessage: msg.message_id });

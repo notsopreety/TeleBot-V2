@@ -5,7 +5,7 @@ module.exports = {
     config: {
         name: 'newChatMembers',
         description: 'Welcome event for new users',
-        author: 'Your Name'
+        author: 'Samir Thakuri'
     },
 
     onEvent: async function({ bot, msg, config }) {

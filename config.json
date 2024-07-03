@@ -1,7 +1,7 @@
 {
   "botToken": "6984014693:AAEtTI0RGNqoXPbhymtFbHe7SblQvb_Lp1Q",
   "mongoURI": "mongodb+srv://itssamir444:XKLWXz7zfqv8p0vv@telebot.7s6rdvv.mongodb.net/?retryWrites=true&w=majority&appName=telebot",
-  "note": "itssamir444 XKLWXz7zfqv8p0vv",
+  "note": "Make sure to add your bot token and mongoURI from MongoDB",
   "prefix": "/",
   "adminId": [
     "5947023314",
@@ -19,5 +19,9 @@
   "farewellMembers": {
     "enabled": true,
     "gifUrl": "https://telegra.ph/file/45697c3084f929ba465f1.gif"
+  },
+  "globalapi": {
+    "samirapi": "https://apibysamir.onrender.com",
+    "pikachu": "https://samirxpikachu.onrender.com"
   }
 }

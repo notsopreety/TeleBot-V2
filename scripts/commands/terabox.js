@@ -1,4 +1,3 @@
-const downloadFromTerabox = require('../../utils/terabox');
 const axios = require('axios');
 const path = require('path');
 const fs = require('fs-extra');
@@ -10,7 +9,7 @@ module.exports = {
         category: 'downloader',
         role: 0, // All users can use this command
         cooldowns: 5,
-        version: '1.0.0',
+        version: '1.3.0',
         author: 'Samir Thakuri',
         description: 'Download Terabox video',
         usage: 'terabox <URL>'
@@ -34,6 +33,16 @@ module.exports = {
             if (data && data.response && data.response[0].resolutions && data.response[0].resolutions['Fast Download']) {
                 const fastDownloadUrl = data.response[0].resolutions['Fast Download'];
                 const title = data.response[0].title;
+
+                // Get the file size
+                const headResponse = await axios.head(fastDownloadUrl);
+                const fileSize = headResponse.headers['content-length'];
+
+                // Check if the file size exceeds 75 MB
+                const MAX_SIZE = 75 * 1024 * 1024; // 75 MB in bytes
+                if (fileSize > MAX_SIZE) {
+                    return bot.sendMessage(msg.chat.id, 'The video is too large to download (over 75 MB).', { replyToMessage: msg.message_id });
+                }
 
                 // Save the video locally
                 const videoPath = path.join(__dirname, 'cache', `${title}.mp4`);
