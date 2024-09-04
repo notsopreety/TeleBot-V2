@@ -3,7 +3,7 @@ const axios = require('axios');
 module.exports = {
     config: {
         name: "anirelease",
-        aliases: ["anime"],
+        aliases: ["animerelease"],
         role: 0,
         cooldowns: 5,
         version: '1.0.0',
