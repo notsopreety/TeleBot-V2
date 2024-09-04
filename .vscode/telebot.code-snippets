@@ -1,4 +1,28 @@
 {
+    "TeleBot Command": {
+        "scope": "javascript,typescript",
+        "prefix": "TeleBotCommandCreate",
+        "body": [
+            "module.exports = {",
+            "\tconfig: {",
+            "\t\tname: '$1',",
+            "\t\taliases: [],",
+            "\t\tcategory: '$2',",
+            "\t\trole: 0,",
+            "\t\tcooldowns: 5,",
+            "\t\tversion: '$3',",
+            "\t\tauthor: '$4',",
+            "\t\tdescription: '$5',",
+            "\t\tusage: '$6'",
+            "\t},",
+            "",
+            "\tonStart: async function({ msg, bot, args, chatId, userId, config, botName, senderName, username, copyrightMark, threadModel, userModel, user, thread, api }) {",
+            "\t\t$9",
+            "\t}",
+            "};"
+        ],
+        "description": "Create template for TeleBot command"
+    },
     "TeleBot Event": {
         "scope": "javascript,typescript",
         "prefix": "TeleBotEventCreate",
@@ -16,29 +40,5 @@
             "};"
         ],
         "description": "Create template for TeleBot event"
-    },
-    "TeleBot Command": {
-        "scope": "javascript,typescript",
-        "prefix": "TeleBotCommandCreate",
-        "body": [
-            "module.exports = {",
-            "\tconfig: {",
-            "\t\tname: '$1',",
-            "\t\taliases: [],",
-            "\t\tcategory: '$2',",
-            "\t\trole: $3,",
-            "\t\tcooldowns: $4,",
-            "\t\tversion: '$5',",
-            "\t\tauthor: '$6',",
-            "\t\tdescription: '$7',",
-            "\t\tusage: '$8'",
-            "\t},",
-            "",
-            "\tonStart: async function({ msg, bot, args, chatId, userId, config, botName, senderName, username, copyrightMark, threadModel, userModel, user, thread, api }) {",
-            "\t\t$9",
-            "\t}",
-            "};"
-        ],
-        "description": "Create template for TeleBot command"
     }
 }
