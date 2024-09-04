@@ -7,7 +7,7 @@ module.exports = {
         aliases: [],
         category: 'admin',
         role: 2, // Assuming role 2 is admin
-        cooldowns: 0,
+        cooldowns: 10,
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Change sorting method for help command',

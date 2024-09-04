@@ -10,7 +10,7 @@ module.exports = {
         aliases: ['cleardb'],
         category: 'admin',
         role: 2,
-        cooldowns: 0,
+        cooldowns: 10,
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Clear the entire database',

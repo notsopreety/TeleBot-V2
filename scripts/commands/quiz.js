@@ -35,7 +35,7 @@ module.exports = {
         aliases: [],
         category: 'games',
         role: 0, // Adjust role as needed
-        cooldowns: 0,
+        cooldowns: 5,
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Play a quiz game',
