@@ -1,3 +1,4 @@
+// thread.js
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
@@ -22,6 +23,10 @@ const threadSchema = new Schema({
         type: Map,
         of: userSchema,
         default: {},
+    },
+    sorthelp: { // New field added
+        type: Boolean,
+        default: false,
     },
 });
 

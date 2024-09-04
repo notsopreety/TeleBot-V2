@@ -1,5 +1,6 @@
 {
   "botToken": "6984014693:AAEtTI0RGNqoXPbhymtFbHe7SblQvb_Lp1Q",
+  "another": "",
   "mongoURI": "mongodb+srv://itssamir444:XKLWXz7zfqv8p0vv@telebot.7s6rdvv.mongodb.net/?retryWrites=true&w=majority&appName=telebot",
   "note": "Make sure to add your bot token and mongoURI from MongoDB",
   "prefix": "/",
@@ -9,7 +10,7 @@
     "5492951949"
   ],
   "onlyAdmin": false,
-  "port": "3000",
+  "port": "8080",
   "botName": "Yukai Bot",
   "copyrightMark": "[ 🐉 | Yukai ]",
   "greetNewMembers": {

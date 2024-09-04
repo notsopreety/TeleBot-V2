@@ -14,5 +14,5 @@ temp/*webp
 # test files
 tes*.js
 .txt
-data.txt
+test.txt
 eng.traineddata
