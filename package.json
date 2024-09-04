@@ -11,9 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "@zxing/library": "^0.21.3",
+    "aptoide-scraper": "^1.0.1",
     "archiver": "^7.0.1",
     "axios": "^1.7.7",
     "cheerio": "^1.0.0-rc.12",
+    "crypto": "^1.0.1",
     "express": "^4.19.2",
     "form-data": "^4.0.0",
     "fs": "^0.0.1-security",

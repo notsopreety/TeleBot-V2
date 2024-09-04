@@ -1,0 +1,1234 @@
+[
+  {
+    "question": "In 'Naruto,' what is the name of Naruto Uzumaki's ninja team?",
+    "A": "Team Kakashi",
+    "B": "Team Asuma",
+    "C": "Team Gai",
+    "D": "Team Kurenai",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the main character in 'One Piece'?",
+    "A": "Monkey D. Luffy",
+    "B": "Roronoa Zoro",
+    "C": "Nami",
+    "D": "Sanji",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Attack on Titan,' what are the gigantic humanoid creatures that threaten humanity called?",
+    "A": "Titans",
+    "B": "Giants",
+    "C": "Colossal Titans",
+    "D": "Behemoths",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a group of pirates searching for the 'One Piece' treasure?",
+    "A": "Naruto",
+    "B": "Dragon Ball Z",
+    "C": "One Piece",
+    "D": "Bleach",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the popular virtual reality MMORPG in 'Sword Art Online'?",
+    "A": "Elder Tale",
+    "B": "Alfheim Online",
+    "C": "Gun Gale Online",
+    "D": "Sword Art Online",
+    "answer": "D"
+  },
+  {
+    "question": "In 'Death Note,' who is the genius high school student who acquires the Death Note?",
+    "A": "L Lawliet",
+    "B": "Misa Amane",
+    "C": "Ryuk",
+    "D": "Light Yagami",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime series follows the adventures of a young ninja named Naruto Uzumaki?",
+    "A": "Naruto",
+    "B": "Bleach",
+    "C": "Dragon Ball Z",
+    "D": "One Piece",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the demon fox sealed inside Naruto in 'Naruto'?",
+    "A": "Kurama",
+    "B": "Shukaku",
+    "C": "Matatabi",
+    "D": "Son Goku",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Fullmetal Alchemist,' what is the name of the magical science used for alchemy?",
+    "A": "Kido",
+    "B": "Nen",
+    "C": "Chakra",
+    "D": "Equivalent Exchange",
+    "answer": "D"
+  },
+  {
+    "question": "Who is the protagonist in 'Dragon Ball Z'?",
+    "A": "Vegeta",
+    "B": "Goku",
+    "C": "Piccolo",
+    "D": "Krillin",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime features a young girl named Sakura Kinomoto capturing magical cards?",
+    "A": "Cardcaptor Sakura",
+    "B": "Sailor Moon",
+    "C": "Magical Girl Lyrical Nanoha",
+    "D": "Puella Magi Madoka Magica",
+    "answer": "A"
+  },
+  {
+    "question": "In 'My Hero Academia,' what is the name of the main character with no superpowers in a world full of superheroes?",
+    "A": "Izuku Midoriya",
+    "B": "Katsuki Bakugo",
+    "C": "Shoto Todoroki",
+    "D": "All Might",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a group of high school students forming an after-school club to explore supernatural mysteries?",
+    "A": "Bakuman",
+    "B": "Paranoia Agent",
+    "C": "The Melancholy of Haruhi Suzumiya",
+    "D": "Higurashi When They Cry",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Cowboy Bebop,' what is the profession of the main character, Spike Spiegel?",
+    "A": "Bounty Hunter",
+    "B": "Pirate",
+    "C": "Police Officer",
+    "D": "Mercenary",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime is known for its intense battles between Servants and their Masters in a Holy Grail War?",
+    "A": "Fate/stay night",
+    "B": "Code Geass",
+    "C": "Berserk",
+    "D": "Neon Genesis Evangelion",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Neon Genesis Evangelion,' what are the giant creatures that threaten humanity called?",
+    "A": "Angels",
+    "B": "Demons",
+    "C": "Evas",
+    "D": "Titans",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime tells the story of a young boy who can see and communicate with spirits?",
+    "A": "Blue Exorcist",
+    "B": "Noragami",
+    "C": "Bleach",
+    "D": "Death Parade",
+    "answer": "B"
+  },
+  {
+    "question": "In 'One Punch Man,' what is the name of the overpowered hero who defeats enemies with a single punch?",
+    "A": "Genos",
+    "B": "Saitama",
+    "C": "Mumen Rider",
+    "D": "Speed-o'-Sound Sonic",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime features a young girl named Kagome Higurashi who is transported to the Sengoku period of Japan?",
+    "A": "Inuyasha",
+    "B": "Rurouni Kenshin",
+    "C": "Fruits Basket",
+    "D": "Bleach",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Hunter x Hunter,' what is the primary goal of the main character, Gon Freecss?",
+    "A": "Become a Chef",
+    "B": "Become a Hunter",
+    "C": "Become a Pirate",
+    "D": "Become a Wizard",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime series follows a young boy named Gon Freecss searching for his father who is a legendary Hunter?",
+    "A": "One Piece",
+    "B": "Naruto",
+    "C": "Hunter x Hunter",
+    "D": "Bleach",
+    "answer": "C"
+  },
+  {
+    "question": "In 'My Neighbor Totoro,' what kind of creatures are Totoro and his friends?",
+    "A": "Cats",
+    "B": "Rabbits",
+    "C": "Owls",
+    "D": "Spirits",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime features a young boy named Eren Yeager who can transform into a Titan?",
+    "A": "Attack on Titan",
+    "B": "Fullmetal Alchemist",
+    "C": "One Punch Man",
+    "D": "Tokyo Ghoul",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Spirited Away,' what is the name of the bathhouse where Chihiro works?",
+    "A": "Dragon Bath",
+    "B": "Zen Bathhouse",
+    "C": "Abandoned Bathhouse",
+    "D": "Yubaba's Bathhouse",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime features a group of high school students who form a band called 'Afterglow'?",
+    "A": "K-On!",
+    "B": "Love Live!",
+    "C": "BanG Dream!",
+    "D": "Hibike! Euphonium",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Tokyo Ghoul,' what is the name of the coffee shop where Kaneki works?",
+    "A": "Anteiku",
+    "B": "Re",
+    "C": "Aogiri Tree",
+    "D": "Cafe Moka",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a group of girls who transform into magical girls to battle witches?",
+    "A": "Puella Magi Madoka Magica",
+    "B": "Cardcaptor Sakura",
+    "C": "Sailor Moon",
+    "D": "Magical Girl Lyrical Nanoha",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Cowboy Bebop,' what is the name of Spike Spiegel's partner and friend?",
+    "A": "Jet Black",
+    "B": "Faye Valentine",
+    "C": "Ein",
+    "D": "Edward Wong Hau Pepelu Tivrusky IV",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime follows the adventures of a young girl named Chihiro who enters a mysterious and magical world?",
+    "A": "Spirited Away",
+    "B": "Howl's Moving Castle",
+    "C": "Princess Mononoke",
+    "D": "Castle in the Sky",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Neon Genesis Evangelion,' what organization is responsible for combating the Angels?",
+    "A": "NERV",
+    "B": "SEELE",
+    "C": "GendoCorp",
+    "D": "EVA",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series is known for its characters who play a virtual reality MMORPG called 'Sword Art Online'?",
+    "A": "Log Horizon",
+    "B": "Accel World",
+    "C": "No Game No Life",
+    "D": "Sword Art Online",
+    "answer": "D"
+  },
+  {
+    "question": "In 'Fruits Basket,' what is the secret of the Sohma family members?",
+    "A": "They can turn into animals",
+    "B": "They can fly",
+    "C": "They have psychic powers",
+    "D": "They have super strength",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime follows the adventures of a group of students at U.A. High School, a school for aspiring heroes?",
+    "A": "My Hero Academia",
+    "B": "One Punch Man",
+    "C": "Black Clover",
+    "D": "Mob Psycho 100",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Demon Slayer: Kimetsu no Yaiba,' what is the name of the main character's sister who turns into a demon?",
+    "A": "Nezuko",
+    "B": "Kanao",
+    "C": "Shinobu",
+    "D": "Tamayo",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime is known for its intense battles between mages known as Magi, who can summon powerful beings known as Djinn?",
+    "A": "Magi: The Labyrinth of Magic",
+    "B": "Fairy Tail",
+    "C": "Black Clover",
+    "D": "Fullmetal Alchemist",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Blue Exorcist,' what is the name of the school where Rin Okumura and his friends train to become exorcists?",
+    "A": "True Cross Academy",
+    "B": "Cross Academy",
+    "C": "Exorcist Academy",
+    "D": "Demon Hunter Institute",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a young boy named Gon Freecss who aspires to become a Hunter like his father?",
+    "A": "Naruto",
+    "B": "One Piece",
+    "C": "Hunter x Hunter",
+    "D": "Bleach",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Death Parade,' what is the name of the bar where deceased souls are judged in various games?",
+    "A": "Afterlife Tavern",
+    "B": "Purgatory Bar",
+    "C": "Quindecim",
+    "D": "Soul Lounge",
+    "answer": "C"
+  },
+  {
+    "question": "Which anime tells the story of a young boy named Simon who pilots a mecha to fight against the Beastmen?",
+    "A": "Gurren Lagann",
+    "B": "Eureka Seven",
+    "C": "Aldnoah.Zero",
+    "D": "Code Geass",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Attack on Titan,' what is the name of the special military unit tasked with fighting the Titans?",
+    "A": "Survey Corps",
+    "B": "Recon Squad",
+    "C": "Garrison Regiment",
+    "D": "Military Police Brigade",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series features a young boy named Gon Freecss searching for his father who is a legendary Hunter?",
+    "A": "One Piece",
+    "B": "Naruto",
+    "C": "Hunter x Hunter",
+    "D": "Bleach",
+    "answer": "C"
+  },
+  {
+    "question": "In 'My Neighbor Totoro,' what creatures live in the giant tree near the sisters' house?",
+    "A": "Sprites",
+    "B": "Fairies",
+    "C": "Kodama",
+    "D": "Goblins",
+    "answer": "C"
+  },
+  {
+    "question": "Which anime features a young boy named Eren Yeager who seeks revenge against the Titans that destroyed his hometown?",
+    "A": "Attack on Titan",
+    "B": "Fullmetal Alchemist",
+    "C": "One Punch Man",
+    "D": "Tokyo Ghoul",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Spirited Away,' what is the name of the character who helps Chihiro navigate the spirit world?",
+    "A": "Haku",
+    "B": "No-Face",
+    "C": "Kamaji",
+    "D": "Radish Spirit",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a high school club dedicated to studying and discussing literature?",
+    "A": "Hyouka",
+    "B": "K-On!",
+    "C": "Clannad",
+    "D": "Haruhi Suzumiya",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Tokyo Ghoul,' what is the name of the organization that hunts down Ghouls?",
+    "A": "Anteiku",
+    "B": "CCG",
+    "C": "Aogiri Tree",
+    "D": "Gourmet Society",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime features a group of girls who form a band called 'Roselia'?",
+    "A": "BanG Dream!",
+    "B": "Love Live!",
+    "C": "K-On!",
+    "D": "Hibike! Euphonium",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Puella Magi Madoka Magica,' what do magical girls exchange for their powers?",
+    "A": "Money",
+    "B": "Memories",
+    "C": "Soul Gems",
+    "D": "Happiness",
+    "answer": "C"
+  },
+  {
+    "question": "Which anime series follows a group of bounty hunters traveling the galaxy in their spaceship, the Bebop?",
+    "A": "Cowboy Bebop",
+    "B": "Trigun",
+    "C": "Outlaw Star",
+    "D": "Space Dandy",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Fruits Basket,' what animal is Kyo Sohma cursed to transform into when hugged by the opposite sex?",
+    "A": "Cat",
+    "B": "Rat",
+    "C": "Dog",
+    "D": "Snake",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime follows the adventures of a group of students at Luna Nova Magical Academy?",
+    "A": "Little Witch Academia",
+    "B": "Magi: The Labyrinth of Magic",
+    "C": "Fairy Tail",
+    "D": "Cardcaptor Sakura",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Demon Slayer: Kimetsu no Yaiba,' what is the name of the main character's mentor who is a former Hashira?",
+    "A": "Rengoku",
+    "B": "Shinobu",
+    "C": "Gyomei",
+    "D": "Jigoro",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime is set in a world where humanity has been pushed to the brink of extinction by giant humanoid creatures known as Titans?",
+    "A": "Attack on Titan",
+    "B": "Berserk",
+    "C": "Neon Genesis Evangelion",
+    "D": "Ajin: Demi-Human",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Blue Exorcist,' what is the true identity of Rin Okumura's father, Fujimoto?",
+    "A": "Demon King",
+    "B": "Archangel",
+    "C": "Exorcist Supreme",
+    "D": "Satan",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime series features a group of girls who become pop idols to save their school from closure?",
+    "A": "BanG Dream!",
+    "B": "Love Live!",
+    "C": "K-On!",
+    "D": "Hibike! Euphonium",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Death Parade,' what is the purpose of the games played in the Quindecim bar?",
+    "A": "Entertainment",
+    "B": "Judging Souls",
+    "C": "Winning Prizes",
+    "D": "Exorcising Demons",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime tells the story of a group of kids who discover a giant robot beneath their city and use it to fight against invaders?",
+    "A": "Neon Genesis Evangelion",
+    "B": "Gurren Lagann",
+    "C": "Aldnoah.Zero",
+    "D": "Code Geass",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Hunter x Hunter,' what is the name of the card game played during the Greed Island arc?",
+    "A": "Magic: The Gathering",
+    "B": "Yu-Gi-Oh!",
+    "C": "Gungi",
+    "D": "Duel Monsters",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Naruto,' what is the name of Naruto Uzumaki's rival and fellow ninja of the same age?",
+    "A": "Sasuke Uchiha",
+    "B": "Sakura Haruno",
+    "C": "Kakashi Hatake",
+    "D": "Rock Lee",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series features a young boy named Edward Elric and his brother Alphonse, who use alchemy to search for the Philosopher's Stone?",
+    "A": "Attack on Titan",
+    "B": "Fullmetal Alchemist",
+    "C": "One Punch Man",
+    "D": "Tokyo Ghoul",
+    "answer": "B"
+  },
+  {
+    "question": "In 'My Neighbor Totoro,' what kind of tree do the sisters discover near their new home?",
+    "A": "Cherry Blossom Tree",
+    "B": "Camphor Tree",
+    "C": "Willow Tree",
+    "D": "Maple Tree",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime features a young boy named Ichigo Kurosaki who gains the abilities of a Soul Reaper?",
+    "A": "Bleach",
+    "B": "One Piece",
+    "C": "Naruto",
+    "D": "Death Note",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Spirited Away,' what happens to Chihiro's parents after they eat food in the spirit world?",
+    "A": "They turn into pigs",
+    "B": "They turn into birds",
+    "C": "They turn into mice",
+    "D": "They disappear",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series follows a group of girls who form a band called 'Poppin'Party'?",
+    "A": "BanG Dream!",
+    "B": "Love Live!",
+    "C": "K-On!",
+    "D": "Hibike! Euphonium",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Tokyo Ghoul,' what is the term used to describe flesh-eating ghouls who blend in with humans?",
+    "A": "Predators",
+    "B": "Hunters",
+    "C": "Gourmet Ghouls",
+    "D": "Ghoul Investigators",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime features a group of girls who transform into magical girls to battle witches in order to save the world?",
+    "A": "Puella Magi Madoka Magica",
+    "B": "Cardcaptor Sakura",
+    "C": "Sailor Moon",
+    "D": "Magical Girl Lyrical Nanoha",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Cowboy Bebop,' what is the name of the hyper-intelligent Welsh Corgi dog?",
+    "A": "Jet",
+    "B": "Faye",
+    "C": "Ein",
+    "D": "Spike",
+    "answer": "C"
+  },
+  {
+    "question": "Which anime tells the story of a young girl named Sophie who is cursed to become an old woman and seeks the help of a wizard?",
+    "A": "Spirited Away",
+    "B": "Howl's Moving Castle",
+    "C": "Princess Mononoke",
+    "D": "Castle in the Sky",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Neon Genesis Evangelion,' what is the name of the giant humanoid robots piloted by the main characters?",
+    "A": "Evas",
+    "B": "Angels",
+    "C": "Titans",
+    "D": "Mechas",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series is set in the virtual world of 'ALO' (Alfheim Online)?",
+    "A": "Log Horizon",
+    "B": "Sword Art Online",
+    "C": "No Game No Life",
+    "D": "Accel World",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Fruits Basket,' what is the significance of the Sohma family's Zodiac curse?",
+    "A": "They turn into animals",
+    "B": "They gain immortality",
+    "C": "They can control the weather",
+    "D": "They can time travel",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime follows the adventures of a young boy named Midoriya Izuku in a world where people have superpowers known as 'Quirks'?",
+    "A": "My Hero Academia",
+    "B": "One Punch Man",
+    "C": "Black Clover",
+    "D": "Mob Psycho 100",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Demon Slayer: Kimetsu no Yaiba,' what is the name of the protagonist's sword fighting style?",
+    "A": "Thunder Breathing",
+    "B": "Water Breathing",
+    "C": "Fire Breathing",
+    "D": "Wind Breathing",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime series is known for its characters who are magical girls with the ability to transform into various outfits and weapons?",
+    "A": "Sailor Moon",
+    "B": "Cardcaptor Sakura",
+    "C": "Magical Girl Lyrical Nanoha",
+    "D": "Puella Magi Madoka Magica",
+    "answer": "A"
+  },
+  {
+    "question": "In 'One Punch Man,' what is the name of the cyborg hero who seeks to become the strongest?",
+    "A": "Genos",
+    "B": "Saitama",
+    "C": "Mumen Rider",
+    "D": "Speed-o'-Sound Sonic",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a young boy named Renton Thurston who joins a group of rebels fighting against a dystopian society?",
+    "A": "Eureka Seven",
+    "B": "Gurren Lagann",
+    "C": "Aldnoah.Zero",
+    "D": "Code Geass",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Hunter x Hunter,' what is the name of the mysterious and powerful group led by Netero?",
+    "A": "Zoldyck Family",
+    "B": "Chimera Ants",
+    "C": "Phantom Troupe",
+    "D": "Hunter Association",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Naruto,' what is the name of Naruto Uzumaki's sensei and leader of Team 7?",
+    "A": "Kakashi Hatake",
+    "B": "Jiraiya",
+    "C": "Orochimaru",
+    "D": "Iruka Umino",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series follows a group of magical girls known as the 'Pretty Cure'?",
+    "A": "Sailor Moon",
+    "B": "Cardcaptor Sakura",
+    "C": "Magical Girl Lyrical Nanoha",
+    "D": "Pretty Cure",
+    "answer": "D"
+  },
+  {
+    "question": "In 'My Neighbor Totoro,' what is the name of the creature that the younger sister encounters in the forest?",
+    "A": "Totoro",
+    "B": "Kodama",
+    "C": "No-Face",
+    "D": "Soot Sprites",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a young boy named Shinichi Izumi who gains extraordinary abilities after a parasite takes over his right hand?",
+    "A": "Parasyte -the maxim-",
+    "B": "Tokyo Ghoul",
+    "C": "Attack on Titan",
+    "D": "Blue Exorcist",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Spirited Away,' what is the name of the character who owns the bathhouse and has a twin sister?",
+    "A": "Kamaji",
+    "B": "Yubaba",
+    "C": "Haku",
+    "D": "No-Face",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime series features a group of girls who form a band called 'After School Tea Time'?",
+    "A": "BanG Dream!",
+    "B": "Love Live!",
+    "C": "K-On!",
+    "D": "Hibike! Euphonium",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Tokyo Ghoul,' what is the name of the main character who becomes a half-ghoul after a chance encounter with one?",
+    "A": "Ken Kaneki",
+    "B": "Rize Kamishiro",
+    "C": "Touka Kirishima",
+    "D": "Hideyoshi Nagachika",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a group of girls who transform into superheroes known as the 'Sailor Guardians'?",
+    "A": "Puella Magi Madoka Magica",
+    "B": "Cardcaptor Sakura",
+    "C": "Sailor Moon",
+    "D": "Magical Girl Lyrical Nanoha",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Cowboy Bebop,' what is the name of the bounty hunter who pilots the spaceship Bebop?",
+    "A": "Faye Valentine",
+    "B": "Ein",
+    "C": "Jet Black",
+    "D": "Spike Spiegel",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime tells the story of a young girl named Chihiro who works at a bathhouse for spirits and gods?",
+    "A": "Spirited Away",
+    "B": "Howl's Moving Castle",
+    "C": "Princess Mononoke",
+    "D": "Castle in the Sky",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Neon Genesis Evangelion,' what is the name of the organization responsible for fighting the Angels?",
+    "A": "NERV",
+    "B": "SEELE",
+    "C": "GendoCorp",
+    "D": "EVA",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series is set in the virtual world of 'Gun Gale Online'?",
+    "A": "Log Horizon",
+    "B": "Sword Art Online",
+    "C": "No Game No Life",
+    "D": "Accel World",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Fruits Basket,' what is the Zodiac animal of Kyo Sohma, the cat?",
+    "A": "Rat",
+    "B": "Dog",
+    "C": "Snake",
+    "D": "Cat",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime follows the adventures of a young boy named Deku in a world where most people have superpowers known as 'Quirks'?",
+    "A": "My Hero Academia",
+    "B": "One Punch Man",
+    "C": "Black Clover",
+    "D": "Mob Psycho 100",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Demon Slayer: Kimetsu no Yaiba,' what is the name of the protagonist's sword that he names 'Nichirin Sword'?",
+    "A": "Zenitsu",
+    "B": "Tanjiro",
+    "C": "Nezuko",
+    "D": "Kanao",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime series is known for its characters who transform into magical girls to collect 'Clow Cards'?",
+    "A": "Sailor Moon",
+    "B": "Cardcaptor Sakura",
+    "C": "Magical Girl Lyrical Nanoha",
+    "D": "Puella Magi Madoka Magica",
+    "answer": "B"
+  },
+  {
+    "question": "In 'One Punch Man,' what is the name of the hero who can defeat enemies with a single punch?",
+    "A": "Genos",
+    "B": "Saitama",
+    "C": "Mumen Rider",
+    "D": "Speed-o'-Sound Sonic",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime features a group of teenagers who use their mysterious powers to save the world from supernatural creatures known as 'Gunslingers'?",
+    "A": "Blood Blockade Battlefront",
+    "B": "Black Bullet",
+    "C": "Charlotte",
+    "D": "Blue Exorcist",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Hunter x Hunter,' what is the name of the massive and ancient magical beast that lives on the Black Whale ship?",
+    "A": "Chimera Ant Queen",
+    "B": "Nanika",
+    "C": "Kite",
+    "D": "Zodiac Dragon",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Naruto,' what is the name of Naruto Uzumaki's favorite food?",
+    "A": "Ramen",
+    "B": "Sushi",
+    "C": "Tempura",
+    "D": "Tofu",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series follows the adventures of a young girl named Luffy as he searches for the legendary 'One Piece' treasure?",
+    "A": "Naruto",
+    "B": "Bleach",
+    "C": "One Piece",
+    "D": "Dragon Ball Z",
+    "answer": "C"
+  },
+  {
+    "question": "In 'My Neighbor Totoro,' what is the name of the forest spirit that Totoro introduces to Mei and Satsuki?",
+    "A": "Kodama",
+    "B": "Susuwatari",
+    "C": "Camphor Spirit",
+    "D": "King Totoro",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime features a young boy named Gon Freecss who aspires to become a Hunter like his father?",
+    "A": "One Piece",
+    "B": "Naruto",
+    "C": "Hunter x Hunter",
+    "D": "Bleach",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Spirited Away,' what is the name of the creature that offers Chihiro a job at the bathhouse?",
+    "A": "Haku",
+    "B": "Kamaji",
+    "C": "Yubaba",
+    "D": "No-Face",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series features a group of high school students who form a band called 'HTT' (Houkago Tea Time)?",
+    "A": "K-On!",
+    "B": "Love Live!",
+    "C": "BanG Dream!",
+    "D": "Hibike! Euphonium",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Tokyo Ghoul,' what is the name of the organization of ghouls that seeks to coexist peacefully with humans?",
+    "A": "Anteiku",
+    "B": "Aogiri Tree",
+    "C": "CCG",
+    "D": "Clowns",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a group of girls who transform into magical girls to battle witches in order to save the world?",
+    "A": "Puella Magi Madoka Magica",
+    "B": "Cardcaptor Sakura",
+    "C": "Sailor Moon",
+    "D": "Magical Girl Lyrical Nanoha",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Cowboy Bebop,' what is the name of the eccentric and hyperactive hacker who joins the crew?",
+    "A": "Jet Black",
+    "B": "Faye Valentine",
+    "C": "Edward Wong Hau Pepelu Tivrusky IV",
+    "D": "Ein",
+    "answer": "C"
+  },
+  {
+    "question": "Which anime tells the story of a young girl named Sophie who is cursed to become an old woman and seeks the help of a wizard named Howl?",
+    "A": "Spirited Away",
+    "B": "Howl's Moving Castle",
+    "C": "Princess Mononoke",
+    "D": "Castle in the Sky",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Neon Genesis Evangelion,' what is the name of the biomechanical robots used to combat the Angels?",
+    "A": "Evas",
+    "B": "Angels",
+    "C": "Titans",
+    "D": "Mechas",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series is known for its characters who play a virtual reality MMORPG called 'Gun Gale Online'?",
+    "A": "Log Horizon",
+    "B": "Sword Art Online",
+    "C": "No Game No Life",
+    "D": "Accel World",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Fruits Basket,' what is the true form of Kyo Sohma's Zodiac curse?",
+    "A": "Rat",
+    "B": "Dog",
+    "C": "Cat",
+    "D": "Snake",
+    "answer": "C"
+  },
+  {
+    "question": "Which anime follows the adventures of a young boy named Izuku Midoriya who inherits a powerful quirk from the hero All Might?",
+    "A": "My Hero Academia",
+    "B": "One Punch Man",
+    "C": "Black Clover",
+    "D": "Mob Psycho 100",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Demon Slayer: Kimetsu no Yaiba,' what is the name of the main character's sister who turns into a demon?",
+    "A": "Nezuko",
+    "B": "Kanao",
+    "C": "Shinobu",
+    "D": "Tamayo",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series is set in a world where humans can use magic through special devices called 'Relics'?",
+    "A": "Magi: The Labyrinth of Magic",
+    "B": "Fairy Tail",
+    "C": "Black Clover",
+    "D": "Fullmetal Alchemist",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Blue Exorcist,' what is the name of the academy where Rin Okumura and his friends train to become exorcists?",
+    "A": "True Cross Academy",
+    "B": "Cross Academy",
+    "C": "Exorcist Academy",
+    "D": "Demon Hunter Institute",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series features a young boy named Gon Freecss searching for his father who is a legendary Hunter?",
+    "A": "Naruto",
+    "B": "One Piece",
+    "C": "Hunter x Hunter",
+    "D": "Bleach",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Death Parade,' what is the name of the bar where deceased souls are judged in various games?",
+    "A": "Afterlife Tavern",
+    "B": "Purgatory Bar",
+    "C": "Quindecim",
+    "D": "Soul Lounge",
+    "answer": "C"
+  },
+  {
+    "question": "Which anime tells the story of a young boy named Simon who pilots a mecha to fight against the Beastmen?",
+    "A": "Gurren Lagann",
+    "B": "Eureka Seven",
+    "C": "Code Geass",
+    "D": "Aldnoah.Zero",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Naruto,' who is known as the 'Copy Ninja' and is one of the most skilled ninja in the Hidden Leaf Village?",
+    "A": "Kakashi Hatake",
+    "B": "Jiraiya",
+    "C": "Orochimaru",
+    "D": "Iruka Umino",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series follows the adventures of a young boy named Yusuke Urameshi who becomes a Spirit Detective?",
+    "A": "Yu Yu Hakusho",
+    "B": "Bleach",
+    "C": "One Punch Man",
+    "D": "Hunter x Hunter",
+    "answer": "A"
+  },
+  {
+    "question": "In 'My Neighbor Totoro,' what is the name of the magical cat-like bus that Mei and Satsuki encounter?",
+    "A": "Kodama Bus",
+    "B": "Catbus",
+    "C": "Totoro Bus",
+    "D": "Soot Sprite Bus",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime features a young boy named Shinji Ikari who pilots a giant mecha to protect humanity from mysterious creatures known as Angels?",
+    "A": "Neon Genesis Evangelion",
+    "B": "Gurren Lagann",
+    "C": "Aldnoah.Zero",
+    "D": "Code Geass",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Spirited Away,' what is the name of the river spirit that Chihiro helps cleanse and save?",
+    "A": "Haku",
+    "B": "Kamaji",
+    "C": "Yubaba",
+    "D": "Shikigami",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series features a group of girls who form a band called 'Afterglow'?",
+    "A": "BanG Dream!",
+    "B": "Love Live!",
+    "C": "K-On!",
+    "D": "Hibike! Euphonium",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Tokyo Ghoul,' what is the name of the powerful and enigmatic Ghoul who becomes an ally to Kaneki?",
+    "A": "Rize Kamishiro",
+    "B": "Touka Kirishima",
+    "C": "Eto Yoshimura",
+    "D": "Kishou Arima",
+    "answer": "C"
+  },
+  {
+    "question": "Which anime features a group of girls who use their magical abilities to fight against alien invaders known as 'Noise'?",
+    "A": "Sailor Moon",
+    "B": "Symphogear",
+    "C": "Magical Girl Lyrical Nanoha",
+    "D": "Puella Magi Madoka Magica",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Cowboy Bebop,' what is the name of the cool and collected pilot of the spaceship Bebop?",
+    "A": "Jet Black",
+    "B": "Faye Valentine",
+    "C": "Edward Wong Hau Pepelu Tivrusky IV",
+    "D": "Spike Spiegel",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime tells the story of a young girl named Chihiro who works in a bathhouse for spirits and gods?",
+    "A": "Spirited Away",
+    "B": "Howl's Moving Castle",
+    "C": "Princess Mononoke",
+    "D": "Castle in the Sky",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Neon Genesis Evangelion,' what is the name of the mysterious organization that oversees the EVA units and battles the Angels?",
+    "A": "NERV",
+    "B": "SEELE",
+    "C": "GendoCorp",
+    "D": "EVA",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series is set in the virtual world of 'ALO' (Alfheim Online)?",
+    "A": "Log Horizon",
+    "B": "Sword Art Online",
+    "C": "No Game No Life",
+    "D": "Accel World",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Fruits Basket,' what animal is Yuki Sohma cursed to transform into when hugged by the opposite sex?",
+    "A": "Rat",
+    "B": "Dog",
+    "C": "Rabbit",
+    "D": "Ox",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime follows the story of a young boy named Deku who inherits the Quirk 'One For All' from All Might?",
+    "A": "My Hero Academia",
+    "B": "One Punch Man",
+    "C": "Black Clover",
+    "D": "Mob Psycho 100",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Demon Slayer: Kimetsu no Yaiba,' what is the name of the main character's mentor and the Flame Hashira?",
+    "A": "Zenitsu",
+    "B": "Tanjiro",
+    "C": "Giyu Tomioka",
+    "D": "Kyojuro Rengoku",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime series is set in a world where magic is used by humans to defeat supernatural creatures known as 'Hollows'?",
+    "A": "Magi: The Labyrinth of Magic",
+    "B": "Fairy Tail",
+    "C": "Black Clover",
+    "D": "Bleach",
+    "answer": "D"
+  },
+  {
+    "question": "In 'Blue Exorcist,' what is the name of the sword that Rin Okumura inherits from his father, Satan?",
+    "A": "Sword of Exorcism",
+    "B": "Inferno Blade",
+    "C": "Demon Slayer Sword",
+    "D": "Kurikara",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime features a group of teenagers who use their mysterious powers to defend humanity against supernatural threats?",
+    "A": "Blue Exorcist",
+    "B": "Black Bullet",
+    "C": "Charlotte",
+    "D": "Blood Blockade Battlefront",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Hunter x Hunter,' what is the name of the card game played during the Greed Island arc?",
+    "A": "Magic: The Gathering",
+    "B": "Yu-Gi-Oh!",
+    "C": "Gungi",
+    "D": "Duel Monsters",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Naruto,' what is the name of the village where Naruto Uzumaki was born and raised?",
+    "A": "Hidden Leaf Village",
+    "B": "Hidden Sand Village",
+    "C": "Hidden Mist Village",
+    "D": "Hidden Sound Village",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series follows the adventures of a group of pirates led by Monkey D. Luffy as they search for the 'One Piece' treasure?",
+    "A": "Naruto",
+    "B": "Bleach",
+    "C": "One Piece",
+    "D": "Dragon Ball Z",
+    "answer": "C"
+  },
+  {
+    "question": "In 'My Neighbor Totoro,' what is the name of the larger, gray forest spirit that Mei and Satsuki also encounter?",
+    "A": "Kodama",
+    "B": "Camphor Spirit",
+    "C": "King Totoro",
+    "D": "No-Face",
+    "answer": "C"
+  },
+  {
+    "question": "Which anime features a young boy named Eren Yeager who joins the Scout Regiment to fight against giant humanoid creatures known as Titans?",
+    "A": "Attack on Titan",
+    "B": "Naruto",
+    "C": "One Punch Man",
+    "D": "Fullmetal Alchemist",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Spirited Away,' what is the name of the black, shadowy spirit that Chihiro helps in the bathhouse?",
+    "A": "Kamaji",
+    "B": "Haku",
+    "C": "Yubaba",
+    "D": "No-Face",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime series features a group of girls who form a band called 'Roselia'?",
+    "A": "BanG Dream!",
+    "B": "Love Live!",
+    "C": "K-On!",
+    "D": "Hibike! Euphonium",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Tokyo Ghoul,' what is the name of the female Ghoul who is known as the 'Binge Eater'?",
+    "A": "Rize Kamishiro",
+    "B": "Touka Kirishima",
+    "C": "Eto Yoshimura",
+    "D": "Kishou Arima",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a group of girls who transform into magical girls to collect 'Soul Gems' and fight witches?",
+    "A": "Puella Magi Madoka Magica",
+    "B": "Cardcaptor Sakura",
+    "C": "Sailor Moon",
+    "D": "Magical Girl Lyrical Nanoha",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Cowboy Bebop,' what is the name of the femme fatale bounty hunter who often works with the Bebop crew?",
+    "A": "Jet Black",
+    "B": "Faye Valentine",
+    "C": "Edward Wong Hau Pepelu Tivrusky IV",
+    "D": "Spike Spiegel",
+    "answer": "B"
+  },
+  {
+    "question": "Which anime tells the story of a young girl named Sheeta who possesses a mysterious crystal sought after by pirates and government agents?",
+    "A": "Spirited Away",
+    "B": "Howl's Moving Castle",
+    "C": "Laputa: Castle in the Sky",
+    "D": "Princess Mononoke",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Neon Genesis Evangelion,' what is the name of the shadowy organization that oversees the EVA units and battles the Angels?",
+    "A": "NERV",
+    "B": "SEELE",
+    "C": "GendoCorp",
+    "D": "EVA",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series is set in the virtual world of 'GGO' (Gun Gale Online)?",
+    "A": "Log Horizon",
+    "B": "Sword Art Online",
+    "C": "No Game No Life",
+    "D": "Accel World",
+    "answer": "B"
+  },
+  {
+    "question": "In 'Fruits Basket,' what animal is Yuki Sohma cursed to transform into when hugged by the opposite sex?",
+    "A": "Rat",
+    "B": "Dog",
+    "C": "Rabbit",
+    "D": "Ox",
+    "answer": "A"
+  },
+  {
+    "question": "Which anime follows the story of a young boy named Izuku Midoriya who inherits the Quirk 'One For All' from All Might?",
+    "A": "My Hero Academia",
+    "B": "One Punch Man",
+    "C": "Black Clover",
+    "D": "Mob Psycho 100",
+    "answer": "A"
+  },
+  {
+    "question": "In 'Demon Slayer: Kimetsu no Yaiba,' what is the name of the Hashira of the Water Hashira?",
+    "A": "Zenitsu",
+    "B": "Tanjiro",
+    "C": "Giyu Tomioka",
+    "D": "Kyojuro Rengoku",
+    "answer": "C"
+  },
+  {
+    "question": "Which anime series is set in a world where alchemy is a powerful science, and two brothers seek the Philosopher's Stone to restore their bodies?",
+    "A": "Magi: The Labyrinth of Magic",
+    "B": "Fairy Tail",
+    "C": "Black Clover",
+    "D": "Fullmetal Alchemist",
+    "answer": "D"
+  },
+  {
+    "question": "In 'Blue Exorcist,' what is the name of the sword that Rin Okumura inherits from his father, Satan?",
+    "A": "Sword of Exorcism",
+    "B": "Inferno Blade",
+    "C": "Demon Slayer Sword",
+    "D": "Kurikara",
+    "answer": "D"
+  },
+  {
+    "question": "Which anime features a group of teenagers who use their mysterious powers to defend humanity against supernatural threats?",
+    "A": "Blue Exorcist",
+    "B": "Black Bullet",
+    "C": "Charlotte",
+    "D": "Blood Blockade Battlefront",
+    "answer": "C"
+  },
+  {
+    "question": "In 'Hunter x Hunter,' what is the name of the board game played during the Greed Island arc?",
+    "A": "Magic: The Gathering",
+    "B": "Yu-Gi-Oh!",
+    "C": "Gungi",
+    "D": "Duel Monsters",
+    "answer": "C"
+  }
+]

@@ -1,0 +1,64 @@
+const { search, download } = require('aptoide-scraper');
+const path = require('path');
+const fs = require('fs');
+const axios = require('axios');
+
+module.exports = {
+    config: {
+        name: 'aptoide',
+        aliases: [],
+        category: 'utility',
+        role: 0,
+        cooldowns: 10,
+        version: '1.0.0',
+        author: 'Samir Thakuri',
+        description: 'Searches and downloads the latest version of an app from Aptoide',
+        usage: 'aptoide <appname>'
+    },
+
+    onStart: async function({ msg, bot, args, config }) {
+        if (args.length === 0) {
+            return bot.sendMessage(msg.chat.id, 'Please provide the name of the app you want to search for.', { replyToMessage: msg.message_id });
+        }
+
+        const appName = args.join(' ');
+
+        try {
+            // Search for the app
+            const results = await search(appName);
+            if (results.length === 0) {
+                return bot.sendMessage(msg.chat.id, 'No results found for your search query.', { replyToMessage: msg.message_id });
+            }
+
+            // Get the top result
+            const topResult = results[0];
+            const packageId = topResult.id;
+
+            // Download the app
+            const appData = await download(packageId);
+            if (!appData || !appData.dllink) {
+                return bot.sendMessage(msg.chat.id, 'Failed to retrieve download link for the app.', { replyToMessage: msg.message_id });
+            }
+
+            // Download the APK file
+            const apkResponse = await axios({
+                url: appData.dllink,
+                responseType: 'arraybuffer'
+            });
+
+            const apkPath = path.join(__dirname, `${packageId}.apk`);
+            fs.writeFileSync(apkPath, apkResponse.data);
+
+            // Send the APK file to the user
+            await bot.sendDocument(msg.chat.id, apkPath, {
+                caption: `Here is the APK file for ${appData.name}.\n\nLast Updated: ${appData.lastup}\nSize: ${appData.size}`
+            });
+
+            // Clean up the APK file after sending
+            fs.unlinkSync(apkPath);
+        } catch (error) {
+            console.error('Error processing aptoide command:', error);
+            bot.sendMessage(msg.chat.id, 'An error occurred while processing your request.', { replyToMessage: msg.message_id });
+        }
+    }
+};

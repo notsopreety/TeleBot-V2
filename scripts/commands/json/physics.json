@@ -1,0 +1,5050 @@
+[
+  {
+    "question": "What is the SI unit of electric current?",
+    "A": "Volt",
+    "B": "Watt",
+    "C": "Ampere",
+    "D": "Ohm",
+    "answer": "C"
+  },
+  {
+    "question": "Which law of motion states that every action has an equal and opposite reaction?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where a wave changes direction as it passes from one medium to another?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Polarization",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of energy is stored in an object due to its position or condition?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Electrical Energy",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a substance changing directly from a solid to a gas without passing through the liquid state?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "D"
+  },
+  {
+    "question": "Which fundamental particle has a negative charge?",
+    "A": "Proton",
+    "B": "Neutron",
+    "C": "Electron",
+    "D": "Photon",
+    "answer": "C"
+  },
+  {
+    "question": "In the electromagnetic spectrum, which type of radiation has the highest energy?",
+    "A": "Radio Waves",
+    "B": "Microwaves",
+    "C": "Visible Light",
+    "D": "Gamma Rays",
+    "answer": "D"
+  },
+  {
+    "question": "What is the unit of measurement for force?",
+    "A": "Watt",
+    "B": "Joule",
+    "C": "Newton",
+    "D": "Ampere",
+    "answer": "C"
+  },
+  {
+    "question": "Which law of thermodynamics states that energy cannot be created or destroyed, only converted from one form to another?",
+    "A": "Zeroth Law",
+    "B": "First Law",
+    "C": "Second Law",
+    "D": "Third Law",
+    "answer": "B"
+  },
+  {
+    "question": "What is the acceleration due to gravity on the surface of Earth?",
+    "A": "9.81 m/s²",
+    "B": "6.67 × 10^-11 N m²/kg²",
+    "C": "3.00 × 10^8 m/s²",
+    "D": "1.62 m/s²",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of lens is thicker at the center than at the edges?",
+    "A": "Concave Lens",
+    "B": "Convex Lens",
+    "C": "Diverging Lens",
+    "D": "Plano Lens",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a gas changes directly into a solid?",
+    "A": "Evaporation",
+    "B": "Condensation",
+    "C": "Deposition",
+    "D": "Sublimation",
+    "answer": "C"
+  },
+  {
+    "question": "Which scientist is known for the formulation of the laws of planetary motion?",
+    "A": "Galileo Galilei",
+    "B": "Isaac Newton",
+    "C": "Johannes Kepler",
+    "D": "Albert Einstein",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into vapor at its boiling point?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Evaporation",
+    "D": "Condensation",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of electromagnetic radiation is used in MRI machines?",
+    "A": "Visible Light",
+    "B": "Gamma Rays",
+    "C": "X-Rays",
+    "D": "Radio Waves",
+    "answer": "B"
+  },
+  {
+    "question": "What is the phenomenon where a sound wave reflects off a surface?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Echo",
+    "answer": "D"
+  },
+  {
+    "question": "What is the unit of measurement for electric resistance?",
+    "A": "Ohm",
+    "B": "Watt",
+    "C": "Volt",
+    "D": "Ampere",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of energy is associated with the motion of an object?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Nuclear Energy",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of frequency?",
+    "A": "Hertz",
+    "B": "Watt",
+    "C": "Newton",
+    "D": "Joule",
+    "answer": "A"
+  },
+  {
+    "question": "What is the law that states that the pressure of a gas is inversely proportional to its volume at a constant temperature?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "A"
+  },
+  {
+    "question": "Which subatomic particle has a positive charge?",
+    "A": "Neutron",
+    "B": "Electron",
+    "C": "Proton",
+    "D": "Quark",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where light waves spread out as they pass through an opening or around an obstacle?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Polarization",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of power?",
+    "A": "Watt",
+    "B": "Joule",
+    "C": "Ampere",
+    "D": "Volt",
+    "answer": "A"
+  },
+  {
+    "question": "What is the force that opposes the relative motion or tendency of motion of two surfaces in contact?",
+    "A": "Friction",
+    "B": "Tension",
+    "C": "Gravity",
+    "D": "Inertia",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of mirror can produce an upright, virtual, and diminished image?",
+    "A": "Concave Mirror",
+    "B": "Convex Mirror",
+    "C": "Plane Mirror",
+    "D": "Diverging Mirror",
+    "answer": "B"
+  },
+  {
+    "question": "Which law of thermodynamics states that heat flows naturally from a warmer object to a cooler object?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Zeroth Law",
+    "D": "Third Law",
+    "answer": "B"
+  },
+  {
+    "question": "What is the rate of doing work or the rate of using energy?",
+    "A": "Force",
+    "B": "Power",
+    "C": "Momentum",
+    "D": "Velocity",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process where an atom or molecule absorbs a photon of light and emits a photon of higher energy?",
+    "A": "Absorption",
+    "B": "Emission",
+    "C": "Reflection",
+    "D": "Refraction",
+    "answer": "B"
+  },
+  {
+    "question": "Which subatomic particle is responsible for carrying the electromagnetic force?",
+    "A": "Proton",
+    "B": "Electron",
+    "C": "Neutron",
+    "D": "Photon",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of motion is defined by the equation F = ma?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of heat transfer through direct contact of particles within a substance?",
+    "A": "Conduction",
+    "B": "Convection",
+    "C": "Radiation",
+    "D": "Insulation",
+    "answer": "A"
+  },
+  {
+    "question": "Which particle is shared between atomic nuclei during nuclear fusion?",
+    "A": "Proton",
+    "B": "Electron",
+    "C": "Neutron",
+    "D": "Photon",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of electromagnetic radiation has the longest wavelength?",
+    "A": "Visible Light",
+    "B": "Infrared",
+    "C": "Ultraviolet",
+    "D": "X-Rays",
+    "answer": "B"
+  },
+  {
+    "question": "What is the law that states the volume of a gas is directly proportional to its absolute temperature at constant pressure?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of electromagnetic radiation is commonly used for communication and broadcasting?",
+    "A": "Microwaves",
+    "B": "Gamma Rays",
+    "C": "X-Rays",
+    "D": "Infrared",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a satellite is closest to the object it is orbiting?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "D"
+  },
+  {
+    "question": "What is the process by which a gas changes directly into a plasma?",
+    "A": "Evaporation",
+    "B": "Ionization",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "Which law of motion is also known as the law of inertia?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid called?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Condensation",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where light waves align and vibrate in a single plane?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Polarization",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the nucleus of an atom?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Nuclear Energy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the SI unit of electric charge?",
+    "A": "Coulomb",
+    "B": "Ohm",
+    "C": "Ampere",
+    "D": "Watt",
+    "answer": "A"
+  },
+  {
+    "question": "What is the property of an object to remain at rest or in uniform motion in the absence of an external force?",
+    "A": "Inertia",
+    "B": "Impulse",
+    "C": "Acceleration",
+    "D": "Equilibrium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of energy transfer through the movement of fluids?",
+    "A": "Conduction",
+    "B": "Convection",
+    "C": "Radiation",
+    "D": "Insulation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the principle that states the total electric charge in a closed system is conserved?",
+    "A": "Ohm's Law",
+    "B": "Coulomb's Law",
+    "C": "Kirchhoff's Law",
+    "D": "Conservation of Charge",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of thermodynamics states that the entropy of an isolated system never decreases?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Third Law",
+    "D": "Zeroth Law",
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of measurement for wavelength?",
+    "A": "Meter",
+    "B": "Second",
+    "C": "Hertz",
+    "D": "Newton",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light waves as they pass from one medium to another?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Interference",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of an unstable atomic nucleus releasing energy by emitting radiation?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Radioactivity",
+    "D": "Ionization",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of energy is associated with the temperature of an object?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the principle that the pressure of a gas is directly proportional to its temperature at a constant volume?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "D"
+  },
+  {
+    "question": "Which fundamental force is responsible for holding the nucleus of an atom together?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of measurement for electric potential difference?",
+    "A": "Coulomb",
+    "B": "Watt",
+    "C": "Volt",
+    "D": "Ampere",
+    "answer": "C"
+  },
+  {
+    "question": "Which law of motion is defined by the equation F = G * (m1 * m2) / r^2?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Law of Gravitation",
+    "D": "Newton's Third Law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a satellite is farthest from the object it is orbiting?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of energy is stored in the nucleus of an atom?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Nuclear Energy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where a sound wave encounters an obstacle and changes direction around it?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Interference",
+    "answer": "B"
+  },
+  {
+    "question": "What is the law that states the volume of a gas is inversely proportional to its pressure at constant temperature?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "A"
+  },
+  {
+    "question": "Which subatomic particle is found in the electron cloud surrounding the atomic nucleus?",
+    "A": "Proton",
+    "B": "Neutron",
+    "C": "Electron",
+    "D": "Photon",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process by which an atom or molecule loses energy by emitting electromagnetic radiation?",
+    "A": "Absorption",
+    "B": "Emission",
+    "C": "Reflection",
+    "D": "Refraction",
+    "answer": "B"
+  },
+  {
+    "question": "What is the law of physics that describes the conservation of angular momentum?",
+    "A": "Newton's First Law",
+    "B": "Law of Conservation of Energy",
+    "C": "Law of Conservation of Momentum",
+    "D": "Law of Conservation of Angular Momentum",
+    "answer": "D"
+  },
+  {
+    "question": "What is the process of heat transfer through electromagnetic waves?",
+    "A": "Conduction",
+    "B": "Convection",
+    "C": "Radiation",
+    "D": "Insulation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of frequency?",
+    "A": "Hertz",
+    "B": "Watt",
+    "C": "Newton",
+    "D": "Joule",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon involves the separation of light waves into different colors due to their different wavelengths?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Dispersion",
+    "answer": "D"
+  },
+  {
+    "question": "What is the force exerted by a fluid on an object immersed in it?",
+    "A": "Tension",
+    "B": "Pressure",
+    "C": "Gravity",
+    "D": "Friction",
+    "answer": "B"
+  },
+  {
+    "question": "Which law of thermodynamics states that the entropy of a perfect crystal at absolute zero temperature is zero?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Third Law",
+    "D": "Zeroth Law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of measurement for electric current?",
+    "A": "Volt",
+    "B": "Watt",
+    "C": "Ampere",
+    "D": "Ohm",
+    "answer": "C"
+  },
+  {
+    "question": "Which law of motion states that an object will remain at rest or in uniform motion unless acted upon by an external force?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of energy transfer in a fluid due to the bulk movement of the fluid?",
+    "A": "Conduction",
+    "B": "Convection",
+    "C": "Radiation",
+    "D": "Insulation",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of mirror can produce a virtual, upright, and magnified image?",
+    "A": "Concave Mirror",
+    "B": "Convex Mirror",
+    "C": "Plane Mirror",
+    "D": "Diverging Mirror",
+    "answer": "A"
+  },
+  {
+    "question": "What is the principle that states every body continues in its state of rest or uniform motion in a straight line unless acted upon by an external force?",
+    "A": "Inertia",
+    "B": "Equilibrium",
+    "C": "Impulse",
+    "D": "Acceleration",
+    "answer": "A"
+  },
+  {
+    "question": "Which fundamental force is responsible for the radioactive decay of certain atomic nuclei?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where an electric current produces a magnetic field?",
+    "A": "Electromagnetic Induction",
+    "B": "Electromagnetic Radiation",
+    "C": "Electromagnetic Resonance",
+    "D": "Electromagnetic Spectrum",
+    "answer": "A"
+  },
+  {
+    "question": "Which subatomic particle has a neutral charge?",
+    "A": "Proton",
+    "B": "Neutron",
+    "C": "Electron",
+    "D": "Photon",
+    "answer": "B"
+  },
+  {
+    "question": "What is the law that states the pressure and volume of a gas are inversely proportional at constant temperature?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of energy is associated with the motion of atoms and molecules?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of an atom or molecule gaining energy and moving to a higher energy state?",
+    "A": "Absorption",
+    "B": "Emission",
+    "C": "Reflection",
+    "D": "Excitation",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where a sound wave encounters a surface and returns to its source?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Echo",
+    "answer": "D"
+  },
+  {
+    "question": "What is the property of an object to resist a change in its state of motion?",
+    "A": "Impulse",
+    "B": "Inertia",
+    "C": "Acceleration",
+    "D": "Force",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of electromagnetic radiation is used for medical imaging to visualize bones and tissues?",
+    "A": "Visible Light",
+    "B": "Gamma Rays",
+    "C": "X-Rays",
+    "D": "Radio Waves",
+    "answer": "C"
+  },
+  {
+    "question": "What is the property of a material to return to its original shape and size after being deformed?",
+    "A": "Viscosity",
+    "B": "Elasticity",
+    "C": "Density",
+    "D": "Inertia",
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of work and energy?",
+    "A": "Watt",
+    "B": "Joule",
+    "C": "Newton",
+    "D": "Ampere",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of lens is thinner at the center than at the edges?",
+    "A": "Concave Lens",
+    "B": "Convex Lens",
+    "C": "Diverging Lens",
+    "D": "Plano Lens",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of converting a gas into a liquid by cooling it?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Condensation",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of thermodynamics defines absolute zero and temperature measurement?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Third Law",
+    "D": "Zeroth Law",
+    "answer": "D"
+  },
+  {
+    "question": "What is the unit of measurement for electric potential energy?",
+    "A": "Joule",
+    "B": "Watt",
+    "C": "Volt",
+    "D": "Ampere",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light waves as they pass around an obstacle or through a slit?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Polarization",
+    "answer": "C"
+  },
+  {
+    "question": "What is the law that describes the attraction between two masses?",
+    "A": "Coulomb's Law",
+    "B": "Hooke's Law",
+    "C": "Newton's Law of Gravitation",
+    "D": "Ohm's Law",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of energy is stored in the bonds between atoms and molecules?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Chemical Energy",
+    "D": "Nuclear Energy",
+    "answer": "C"
+  },
+  {
+    "question": "What is the property of a material to allow electric charges to flow through it easily?",
+    "A": "Resistance",
+    "B": "Voltage",
+    "C": "Conductance",
+    "D": "Insulation",
+    "answer": "C"
+  },
+  {
+    "question": "Which fundamental force is responsible for holding the electrons in an atom's electron cloud?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a satellite is closest to the Earth?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the energy stored in the nucleus of an atom?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Nuclear Energy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where the frequency of a wave appears to change due to the motion of the source?",
+    "A": "Doppler Effect",
+    "B": "Diffraction",
+    "C": "Refraction",
+    "D": "Polarization",
+    "answer": "A"
+  },
+  {
+    "question": "What is the law that states the volume of a gas is directly proportional to the number of moles of gas at constant pressure and temperature?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of energy is associated with the motion of subatomic particles?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Quantum Energy",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid without passing through the liquid state?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of motion is defined by the equation F = ma and relates force, mass, and acceleration?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the phenomenon where light waves are absorbed and re-emitted in all directions?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Reflection",
+    "answer": "C"
+  },
+  {
+    "question": "What is the law that describes the relationship between the electric current, voltage, and resistance in a circuit?",
+    "A": "Coulomb's Law",
+    "B": "Newton's Law of Gravitation",
+    "C": "Ohm's Law",
+    "D": "Hooke's Law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the property of a wave that measures the distance between two consecutive points in phase?",
+    "A": "Amplitude",
+    "B": "Frequency",
+    "C": "Wavelength",
+    "D": "Period",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of electric resistance?",
+    "A": "Ohm",
+    "B": "Volt",
+    "C": "Ampere",
+    "D": "Coulomb",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of mirror can produce an image that is always virtual, upright, and of the same size as the object?",
+    "A": "Concave Mirror",
+    "B": "Convex Mirror",
+    "C": "Plane Mirror",
+    "D": "Diverging Mirror",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of an object changing from a solid directly into a gas without passing through the liquid phase?",
+    "A": "Sublimation",
+    "B": "Condensation",
+    "C": "Evaporation",
+    "D": "Vaporization",
+    "answer": "A"
+  },
+  {
+    "question": "Which law of thermodynamics states that the total energy of an isolated system is constant?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Third Law",
+    "D": "Zeroth Law",
+    "answer": "A"
+  },
+  {
+    "question": "What is the unit of measurement for electric current?",
+    "A": "Ampere",
+    "B": "Watt",
+    "C": "Joule",
+    "D": "Volt",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light waves as they pass from one medium to another?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Dispersion",
+    "answer": "B"
+  },
+  {
+    "question": "What is the law that describes the relationship between the force of attraction, masses of objects, and the distance between them?",
+    "A": "Coulomb's Law",
+    "B": "Hooke's Law",
+    "C": "Newton's Law of Gravitation",
+    "D": "Ohm's Law",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of energy is associated with the position of an object relative to other objects?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of an electric current inducing a voltage in a nearby conductor?",
+    "A": "Electromagnetic Induction",
+    "B": "Electromagnetic Radiation",
+    "C": "Electromagnetic Resonance",
+    "D": "Electromagnetic Spectrum",
+    "answer": "A"
+  },
+  {
+    "question": "Which fundamental force is responsible for binding atomic nuclei together?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a satellite is farthest from the Earth?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of energy is associated with the energy stored within the nucleus of an atom?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Nuclear Energy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where the pitch of a sound wave appears to change due to the motion of the source?",
+    "A": "Diffraction",
+    "B": "Doppler Effect",
+    "C": "Refraction",
+    "D": "Interference",
+    "answer": "B"
+  },
+  {
+    "question": "What is the law that describes the relationship between the volume and temperature of a gas at constant pressure?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of energy is associated with the energy due to the motion of particles within an object?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid called?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Condensation",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where light waves strike a surface and bounce back?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Reflection",
+    "answer": "D"
+  },
+  {
+    "question": "What is the law that describes the relationship between current, voltage, and resistance in an electric circuit?",
+    "A": "Coulomb's Law",
+    "B": "Newton's Law of Gravitation",
+    "C": "Ohm's Law",
+    "D": "Hooke's Law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the property of a wave that measures the maximum displacement from equilibrium?",
+    "A": "Frequency",
+    "B": "Wavelength",
+    "C": "Amplitude",
+    "D": "Phase",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of power?",
+    "A": "Watt",
+    "B": "Joule",
+    "C": "Volt",
+    "D": "Ampere",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of lens is thicker at the center than at the edges?",
+    "A": "Concave Lens",
+    "B": "Convex Lens",
+    "C": "Diverging Lens",
+    "D": "Plano Lens",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid without passing through the liquid phase?",
+    "A": "Sublimation",
+    "B": "Condensation",
+    "C": "Evaporation",
+    "D": "Vaporization",
+    "answer": "A"
+  },
+  {
+    "question": "Which law of thermodynamics states that heat energy naturally flows from a hotter object to a cooler object?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Third Law",
+    "D": "Zeroth Law",
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of measurement for electric resistance?",
+    "A": "Ohm",
+    "B": "Volt",
+    "C": "Ampere",
+    "D": "Coulomb",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon involves the change in direction of a wave as it passes from one medium to another?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Dispersion",
+    "answer": "B"
+  },
+  {
+    "question": "What is the law that describes the relationship between the pressure and volume of a gas at constant temperature?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of energy is associated with the stored energy due to an object's position above the Earth's surface?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of generating an electromotive force across a conductor by changing the magnetic field?",
+    "A": "Electromagnetic Induction",
+    "B": "Electromagnetic Radiation",
+    "C": "Electromagnetic Resonance",
+    "D": "Electromagnetic Spectrum",
+    "answer": "A"
+  },
+  {
+    "question": "Which fundamental force is responsible for binding atomic nuclei together?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a satellite is closest to the Earth?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the energy stored within the nucleus of an atom?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Nuclear Energy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where the pitch of a sound wave appears to change due to the motion of the source?",
+    "A": "Diffraction",
+    "B": "Doppler Effect",
+    "C": "Refraction",
+    "D": "Interference",
+    "answer": "B"
+  },
+  {
+    "question": "What is the law that describes the relationship between the volume and temperature of a gas at constant pressure?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of energy is associated with the energy due to the motion of particles within an object?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid called?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Condensation",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where light waves strike a surface and bounce back?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Reflection",
+    "answer": "D"
+  },
+  {
+    "question": "What is the law that describes the relationship between current, voltage, and resistance in an electric circuit?",
+    "A": "Coulomb's Law",
+    "B": "Newton's Law of Gravitation",
+    "C": "Ohm's Law",
+    "D": "Hooke's Law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of electric charge?",
+    "A": "Coulomb",
+    "B": "Ampere",
+    "C": "Volt",
+    "D": "Ohm",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light waves around obstacles and the spreading of waves as they pass through openings?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Polarization",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas at its boiling point?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "Which law of thermodynamics states that energy cannot be created or destroyed, only converted from one form to another?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Third Law",
+    "D": "Zeroth Law",
+    "answer": "A"
+  },
+  {
+    "question": "What is the unit of measurement for electric current?",
+    "A": "Ampere",
+    "B": "Watt",
+    "C": "Joule",
+    "D": "Volt",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon involves the separation of light into its different colors due to varying indices of refraction?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Dispersion",
+    "answer": "D"
+  },
+  {
+    "question": "What is the law that describes the relationship between the pressure and temperature of a gas at constant volume?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the energy stored in the bonds between atoms and molecules?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Chemical Energy",
+    "D": "Nuclear Energy",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of generating a magnetic field in a conductor by passing an electric current through it?",
+    "A": "Electromagnetic Induction",
+    "B": "Electromagnetic Radiation",
+    "C": "Electromagnetic Resonance",
+    "D": "Electromagnetic Spectrum",
+    "answer": "A"
+  },
+  {
+    "question": "Which fundamental force is responsible for mediating the interactions between charged particles?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a satellite is farthest from the Earth?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of energy is associated with the energy released during nuclear reactions?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Nuclear Energy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where the pitch of a sound wave appears to change due to the motion of the observer?",
+    "A": "Doppler Effect",
+    "B": "Diffraction",
+    "C": "Refraction",
+    "D": "Interference",
+    "answer": "A"
+  },
+  {
+    "question": "What is the law that describes the relationship between the volume and temperature of a gas at constant pressure?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of energy is associated with the energy due to the motion of particles within an object?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid called?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Condensation",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where light waves are absorbed and then re-emitted in different directions?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Reflection",
+    "answer": "C"
+  },
+  {
+    "question": "What is the law that describes the relationship between current, voltage, and resistance in an electric circuit?",
+    "A": "Coulomb's Law",
+    "B": "Newton's Law of Gravitation",
+    "C": "Ohm's Law",
+    "D": "Hooke's Law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the property of a wave that measures the number of waves passing a point per unit of time?",
+    "A": "Amplitude",
+    "B": "Frequency",
+    "C": "Wavelength",
+    "D": "Phase",
+    "answer": "B"
+  },
+  {
+    "question": "Which law of motion states that an object will remain at rest or in uniform motion unless acted upon by an external force?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas at temperatures below its boiling point?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Evaporation",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of thermodynamics states that as the temperature of a system approaches absolute zero, its entropy approaches a minimum value?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Third Law",
+    "D": "Zeroth Law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of electric potential difference?",
+    "A": "Coulomb",
+    "B": "Ampere",
+    "C": "Volt",
+    "D": "Ohm",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon involves the change in direction of a wave as it passes through a medium with varying density?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Polarization",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a liquid changing into a solid at its freezing point?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Condensation",
+    "D": "Freezing",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the random motion of particles within a substance?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of generating a magnetic field in a conductor due to its motion relative to a magnetic field?",
+    "A": "Electromagnetic Induction",
+    "B": "Electromagnetic Radiation",
+    "C": "Electromagnetic Resonance",
+    "D": "Electromagnetic Spectrum",
+    "answer": "A"
+  },
+  {
+    "question": "Which fundamental force is responsible for the decay of certain types of unstable subatomic particles?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a satellite is closest to the Earth?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the energy released during nuclear reactions?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Nuclear Energy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where the pitch of a sound wave appears to change due to the reflection off a moving surface?",
+    "A": "Doppler Effect",
+    "B": "Diffraction",
+    "C": "Refraction",
+    "D": "Interference",
+    "answer": "A"
+  },
+  {
+    "question": "What is the law that describes the relationship between the pressure and temperature of a gas at constant volume?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the energy due to the motion of particles within an object?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid called?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Condensation",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where light waves strike a surface and bounce back?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Reflection",
+    "answer": "D"
+  },
+  {
+    "question": "What is the law that describes the relationship between current, voltage, and resistance in an electric circuit?",
+    "A": "Coulomb's Law",
+    "B": "Newton's Law of Gravitation",
+    "C": "Ohm's Law",
+    "D": "Hooke's Law",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light waves around obstacles and the spreading of waves as they pass through openings?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Polarization",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas at temperatures below its boiling point?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Evaporation",
+    "answer": "D"
+  },
+  {
+    "question": "What is the property of a wave that measures the maximum displacement from equilibrium?",
+    "A": "Amplitude",
+    "B": "Frequency",
+    "C": "Wavelength",
+    "D": "Phase",
+    "answer": "A"
+  },
+  {
+    "question": "Which law of motion states that the rate of change of momentum of an object is directly proportional to the force applied to it?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid without passing through the liquid phase?",
+    "A": "Sublimation",
+    "B": "Condensation",
+    "C": "Evaporation",
+    "D": "Vaporization",
+    "answer": "A"
+  },
+  {
+    "question": "Which law of thermodynamics states that the entropy of a perfect crystal at absolute zero temperature is exactly equal to zero?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Third Law",
+    "D": "Zeroth Law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "A": "Ampere",
+    "B": "Watt",
+    "C": "Joule",
+    "D": "Volt",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon involves the change in direction of a wave as it passes from one medium to another?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Dispersion",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a liquid changing into a solid at its freezing point?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Condensation",
+    "D": "Freezing",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the random motion of particles within a substance?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of generating a magnetic field in a conductor by changing the magnetic field around it?",
+    "A": "Electromagnetic Induction",
+    "B": "Electromagnetic Radiation",
+    "C": "Electromagnetic Resonance",
+    "D": "Electromagnetic Spectrum",
+    "answer": "A"
+  },
+  {
+    "question": "Which fundamental force is responsible for mediating the interactions between charged particles?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a satellite is closest to the Earth?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the energy released during nuclear reactions?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Nuclear Energy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where the pitch of a sound wave appears to change due to the reflection off a moving surface?",
+    "A": "Doppler Effect",
+    "B": "Diffraction",
+    "C": "Refraction",
+    "D": "Interference",
+    "answer": "A"
+  },
+  {
+    "question": "What is the law that describes the relationship between the volume and temperature of a gas at constant pressure?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of energy is associated with the energy due to the motion of particles within an object?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid called?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Condensation",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where light waves are absorbed and then re-emitted in different directions?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Reflection",
+    "answer": "C"
+  },
+  {
+    "question": "What is the law that describes the relationship between current, voltage, and resistance in an electric circuit?",
+    "A": "Coulomb's Law",
+    "B": "Newton's Law of Gravitation",
+    "C": "Ohm's Law",
+    "D": "Hooke's Law",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light waves around obstacles and the spreading of waves as they pass through openings?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Polarization",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas at temperatures below its boiling point?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Evaporation",
+    "answer": "D"
+  },
+  {
+    "question": "What is the property of a wave that measures the number of cycles that occur in one second?",
+    "A": "Amplitude",
+    "B": "Frequency",
+    "C": "Wavelength",
+    "D": "Phase",
+    "answer": "B"
+  },
+  {
+    "question": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid without passing through the liquid phase?",
+    "A": "Sublimation",
+    "B": "Condensation",
+    "C": "Evaporation",
+    "D": "Vaporization",
+    "answer": "A"
+  },
+  {
+    "question": "Which law of thermodynamics states that the entropy of a perfect crystal at absolute zero temperature is exactly equal to zero?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Third Law",
+    "D": "Zeroth Law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "A": "Ampere",
+    "B": "Watt",
+    "C": "Joule",
+    "D": "Volt",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light waves around obstacles and the spreading of waves as they pass through openings?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Dispersion",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a solid at its freezing point?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Condensation",
+    "D": "Freezing",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the random motion of particles within a substance?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of generating a magnetic field in a conductor by changing the magnetic field around it?",
+    "A": "Electromagnetic Induction",
+    "B": "Electromagnetic Radiation",
+    "C": "Electromagnetic Resonance",
+    "D": "Electromagnetic Spectrum",
+    "answer": "A"
+  },
+  {
+    "question": "Which fundamental force is responsible for mediating the interactions between charged particles?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a satellite is closest to the Earth?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the energy released during nuclear reactions?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Nuclear Energy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where the pitch of a sound wave appears to change due to the reflection off a moving surface?",
+    "A": "Doppler Effect",
+    "B": "Diffraction",
+    "C": "Refraction",
+    "D": "Interference",
+    "answer": "A"
+  },
+  {
+    "question": "What is the law that describes the relationship between the volume and temperature of a gas at constant pressure?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of energy is associated with the energy due to the motion of particles within an object?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid called?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Condensation",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where light waves are absorbed and then re-emitted in different directions?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Reflection",
+    "answer": "C"
+  },
+  {
+    "question": "What is the law that describes the relationship between current, voltage, and resistance in an electric circuit?",
+    "A": "Coulomb's Law",
+    "B": "Newton's Law of Gravitation",
+    "C": "Ohm's Law",
+    "D": "Hooke's Law",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light waves around obstacles and the spreading of waves as they pass through openings?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Polarization",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of frequency?",
+    "A": "Hertz",
+    "B": "Watt",
+    "C": "Joule",
+    "D": "Ohm",
+    "answer": "A"
+  },
+  {
+    "question": "Which law of motion states that the force acting on an object is equal to the rate of change of its momentum?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a solid changing directly into a gas without passing through the liquid phase?",
+    "A": "Sublimation",
+    "B": "Condensation",
+    "C": "Evaporation",
+    "D": "Vaporization",
+    "answer": "A"
+  },
+  {
+    "question": "Which law of thermodynamics states that heat naturally flows from a region of higher temperature to a region of lower temperature?",
+    "A": "First Law",
+    "B": "Second Law",
+    "C": "Third Law",
+    "D": "Zeroth Law",
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of electric resistance?",
+    "A": "Coulomb",
+    "B": "Ampere",
+    "C": "Ohm",
+    "D": "Volt",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon involves the change in speed of a wave as it passes from one medium to another?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Dispersion",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas at temperatures below its boiling point?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Evaporation",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of energy is associated with the motion of objects due to their position and condition?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of generating a voltage across a conductor by changing the magnetic field around it?",
+    "A": "Electromagnetic Induction",
+    "B": "Electromagnetic Radiation",
+    "C": "Electromagnetic Resonance",
+    "D": "Electromagnetic Spectrum",
+    "answer": "A"
+  },
+  {
+    "question": "Which fundamental force is responsible for holding the nucleus of an atom together?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Strong Nuclear Force",
+    "D": "Weak Nuclear Force",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a satellite is farthest from the Earth?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of energy is associated with the energy released during chemical reactions?",
+    "A": "Thermal Energy",
+    "B": "Potential Energy",
+    "C": "Kinetic Energy",
+    "D": "Chemical Energy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where the frequency of a sound wave appears to change due to the motion of the source?",
+    "A": "Doppler Effect",
+    "B": "Diffraction",
+    "C": "Refraction",
+    "D": "Interference",
+    "answer": "A"
+  },
+  {
+    "question": "What is the law that describes the relationship between the pressure and volume of a gas at constant temperature?",
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Avogadro's Law",
+    "D": "Gay-Lussac's Law",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of energy is associated with the energy due to the position and height of an object?",
+    "A": "Kinetic Energy",
+    "B": "Thermal Energy",
+    "C": "Potential Energy",
+    "D": "Nuclear Energy",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid called?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Deposition",
+    "D": "Condensation",
+    "answer": "D"
+  },
+  {
+    "question": "Which law of motion states that every object continues in its state of rest or uniform motion unless acted upon by an external force?",
+    "A": "Newton's First Law",
+    "B": "Newton's Second Law",
+    "C": "Newton's Third Law",
+    "D": "Law of Gravitation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the phenomenon where light waves are absorbed and then re-emitted in different directions?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Absorption",
+    "D": "Reflection",
+    "answer": "C"
+  },
+  {
+    "question": "What is the law that describes the relationship between voltage and current in an electric circuit?",
+    "A": "Coulomb's Law",
+    "B": "Newton's Law of Gravitation",
+    "C": "Ohm's Law",
+    "D": "Hooke's Law",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light waves around obstacles and the spreading of waves as they pass through openings?",
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Polarization",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where light or other electromagnetic radiation is deflected as it passes through a medium and interacts with atoms or molecules?",
+    "A": "Diffraction",
+    "B": "Refraction",
+    "C": "Reflection",
+    "D": "Scattering",
+    "answer": "D"
+  },
+  {
+    "question": "Which subatomic particle has a positive charge and is found in the nucleus of an atom?",
+    "A": "Neutron",
+    "B": "Electron",
+    "C": "Proton",
+    "D": "Photon",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where two waves of the same frequency and amplitude interfere with each other destructively, resulting in a wave with zero amplitude?",
+    "A": "Constructive Interference",
+    "B": "Destructive Interference",
+    "C": "Phase Interference",
+    "D": "Resonance",
+    "answer": "B"
+  },
+  {
+    "question": "According to the theory of special relativity, as an object's velocity approaches the speed of light, its mass...",
+    "A": "Decreases",
+    "B": "Remains constant",
+    "C": "Increases",
+    "D": "Becomes negative",
+    "answer": "C"
+  },
+  {
+    "question": "What is the smallest possible unit of a chemical element that retains its chemical properties?",
+    "A": "Atom",
+    "B": "Molecule",
+    "C": "Compound",
+    "D": "Particle",
+    "answer": "A"
+  },
+  {
+    "question": "Which particle property describes the intrinsic angular momentum of a subatomic particle?",
+    "A": "Spin",
+    "B": "Charge",
+    "C": "Mass",
+    "D": "Velocity",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name for the point in an orbit when a planet or other celestial body is farthest from the Sun?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a radioactive nucleus spontaneously decays, emitting particles and/or radiation?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Radioactive Decay",
+    "D": "Transmutation",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of electromagnetic radiation has the shortest wavelength and the highest energy?",
+    "A": "Radio Waves",
+    "B": "Microwaves",
+    "C": "X-rays",
+    "D": "Gamma Rays",
+    "answer": "D"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for the fundamental unit of quantized angular momentum?",
+    "A": "Quark",
+    "B": "Photon",
+    "C": "Electron",
+    "D": "Higgs Boson",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a substance changes directly from a gas to a solid, bypassing the liquid phase?",
+    "A": "Vaporization",
+    "B": "Condensation",
+    "C": "Evaporation",
+    "D": "Sublimation",
+    "answer": "D"
+  },
+  {
+    "question": "Which theoretical concept suggests that the universe originated from an extremely hot and dense state, and has been expanding ever since?",
+    "A": "Steady State Theory",
+    "B": "Geocentric Model",
+    "C": "Big Bang Theory",
+    "D": "Dark Matter Theory",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the amount of energy required to remove an electron from the outermost shell of an atom?",
+    "A": "Ionization Energy",
+    "B": "Activation Energy",
+    "C": "Kinetic Energy",
+    "D": "Potential Energy",
+    "answer": "A"
+  },
+  {
+    "question": "Which subatomic particle is exchanged between particles to mediate the electromagnetic force?",
+    "A": "Gluon",
+    "B": "Photon",
+    "C": "W Boson",
+    "D": "Z Boson",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of wave-particle duality, what is the term for the smallest discrete unit of light or other electromagnetic radiation?",
+    "A": "Photon",
+    "B": "Electron",
+    "C": "Neutrino",
+    "D": "Proton",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name for the point in an orbit when a planet or other celestial body is closest to the Sun?",
+    "A": "Perihelion",
+    "B": "Aphelion",
+    "C": "Apogee",
+    "D": "Perigee",
+    "answer": "A"
+  },
+  {
+    "question": "Which theoretical concept proposes that every point in space-time is connected to every other point by an underlying fabric?",
+    "A": "String Theory",
+    "B": "General Relativity",
+    "C": "Quantum Mechanics",
+    "D": "Loop Quantum Gravity",
+    "answer": "B"
+  },
+  {
+    "question": "What is the phenomenon where a photon is absorbed by an atom, causing an electron to jump to a higher energy level?",
+    "A": "Ionization",
+    "B": "Excitation",
+    "C": "Emission",
+    "D": "Diffraction",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of nuclear reaction releases energy by combining two light atomic nuclei to form a heavier nucleus?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Radioactive Decay",
+    "D": "Transmutation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the concept in quantum mechanics that suggests that particles like electrons do not have definite positions until they are observed?",
+    "A": "Uncertainty Principle",
+    "B": "Conservation Principle",
+    "C": "Equilibrium Principle",
+    "D": "Interference Principle",
+    "answer": "A"
+  },
+  {
+    "question": "What is the hypothetical particle that is thought to give rise to the mass of other particles through the Higgs mechanism?",
+    "A": "Quark",
+    "B": "Photon",
+    "C": "Higgs Boson",
+    "D": "Lepton",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a region in spacetime where the gravitational pull is so strong that nothing, not even light, can escape?",
+    "A": "Black Hole",
+    "B": "Singularity",
+    "C": "Event Horizon",
+    "D": "Wormhole",
+    "answer": "A"
+  },
+  {
+    "question": "In quantum mechanics, what is the concept that two particles can become interconnected in such a way that the state of one particle instantly influences the state of the other, regardless of distance?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Entanglement",
+    "C": "Superposition",
+    "D": "Quantum Tunneling",
+    "answer": "B"
+  },
+  {
+    "question": "What is the concept in cosmology that suggests the universe appears the same no matter where an observer is located?",
+    "A": "Cosmic Inflation",
+    "B": "Cosmic Microwave Background",
+    "C": "Isotropy",
+    "D": "Dark Energy",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of particle decay involves the transformation of a proton into a neutron or vice versa?",
+    "A": "Beta Decay",
+    "B": "Alpha Decay",
+    "C": "Gamma Decay",
+    "D": "Positron Emission",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process in which a nucleus splits into two smaller nuclei, releasing a significant amount of energy?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Radioactive Decay",
+    "D": "Transmutation",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of particle physics, what is the name for a particle made up of a quark and an antiquark?",
+    "A": "Boson",
+    "B": "Hadron",
+    "C": "Lepton",
+    "D": "Neutrino",
+    "answer": "B"
+  },
+  {
+    "question": "Which theory attempts to reconcile general relativity and quantum mechanics by suggesting that particles are actually one-dimensional 'strings' ?",
+    "A": "String Theory",
+    "B": "Loop Quantum Gravity",
+    "C": "Superstring Theory",
+    "D": "Unified Field Theory",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the theoretical boundary in space-time beyond which events cannot affect an observer outside the event horizon?",
+    "A": "Cosmic Horizon",
+    "B": "Planck Boundary",
+    "C": "Light Barrier",
+    "D": "Hawking Limit",
+    "answer": "A"
+  },
+  {
+    "question": "According to the theory of general relativity, what is the phenomenon where massive objects warp the fabric of space-time, causing other objects to move along curved paths?",
+    "A": "Frame Dragging",
+    "B": "Quantum Tunneling",
+    "C": "Gravitational Lensing",
+    "D": "Tidal Disruption",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon describes the bending of light around a massive object due to its gravitational field?",
+    "A": "Diffraction",
+    "B": "Refraction",
+    "C": "Dispersion",
+    "D": "Gravitational Lensing",
+    "answer": "D"
+  },
+  {
+    "question": "What is the concept in quantum mechanics that suggests particles can exist in multiple states simultaneously until observed?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Entanglement",
+    "C": "Superposition",
+    "D": "Quantum Tunneling",
+    "answer": "C"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for the smallest possible unit of a quantum field?",
+    "A": "Photon",
+    "B": "Elementary Particle",
+    "C": "Quark",
+    "D": "Planck Length",
+    "answer": "B"
+  },
+  {
+    "question": "What is the concept in cosmology that suggests the universe is not only expanding but the rate of expansion is accelerating?",
+    "A": "Big Bang Theory",
+    "B": "Cosmic Inflation",
+    "C": "Dark Matter",
+    "D": "Dark Energy",
+    "answer": "D"
+  },
+  {
+    "question": "Which particle is its own antiparticle, meaning that a particle and its antiparticle can annihilate each other?",
+    "A": "Photon",
+    "B": "Neutrino",
+    "C": "Positron",
+    "D": "Majorana Particle",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where a particle can tunnel through a classically forbidden energy barrier due to its wave-like nature?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Entanglement",
+    "C": "Superposition",
+    "D": "Quantum Tunneling",
+    "answer": "D"
+  },
+  {
+    "question": "Which theory aims to explain the behavior of subatomic particles through a set of mathematical equations known as the Dirac equation?",
+    "A": "Quantum Chromodynamics",
+    "B": "Quantum Electrodynamics",
+    "C": "Electroweak Theory",
+    "D": "Grand Unified Theory",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of particle physics, what is the name for a stable elementary particle that is unaffected by the strong nuclear force?",
+    "A": "Hadron",
+    "B": "Lepton",
+    "C": "Boson",
+    "D": "Neutrino",
+    "answer": "B"
+  },
+  {
+    "question": "What is the phenomenon where particles with opposite spin orientations become entangled and are then separated by a large distance?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Teleportation",
+    "C": "Superposition",
+    "D": "Quantum Tunneling",
+    "answer": "B"
+  },
+  {
+    "question": "According to the theory of general relativity, what is the phenomenon where massive objects cause ripples in space-time itself?",
+    "A": "Frame Dragging",
+    "B": "Quantum Tunneling",
+    "C": "Gravitational Waves",
+    "D": "Tidal Disruption",
+    "answer": "C"
+  },
+  {
+    "question": "According to Heisenberg's uncertainty principle, what two properties of a particle cannot be precisely measured simultaneously?",
+    "A": "Mass and Energy",
+    "B": "Position and Velocity",
+    "C": "Spin and Charge",
+    "D": "Wavelength and Frequency",
+    "answer": "B"
+  },
+  {
+    "question": "Which concept proposes that the universe could be a holographic projection of information encoded on a distant boundary?",
+    "A": "String Theory",
+    "B": "Holographic Principle",
+    "C": "Multiverse Theory",
+    "D": "Cosmic Inflation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a theoretical particle that could explain the nature of dark matter and why it doesn't interact with electromagnetic forces?",
+    "A": "Axion",
+    "B": "Graviton",
+    "C": "Tachyon",
+    "D": "Neutrino",
+    "answer": "A"
+  },
+  {
+    "question": "Which physical phenomenon, caused by the Coriolis effect, results in the rotation of large-scale weather systems like hurricanes?",
+    "A": "Eddy Current",
+    "B": "Lorentz Force",
+    "C": "Vortex Motion",
+    "D": "Angular Momentum",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where an electric current creates a magnetic field that induces a current in a nearby conductor?",
+    "A": "Faraday's Law",
+    "B": "Ohm's Law",
+    "C": "Gauss's Law",
+    "D": "Ampère's Law",
+    "answer": "A"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for the state in which an electron has its lowest possible energy?",
+    "A": "Ground State",
+    "B": "Excited State",
+    "C": "Ionized State",
+    "D": "Radiant State",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of radiation, consisting of high-energy protons and atomic nuclei, poses a significant risk to astronauts in space?",
+    "A": "Gamma Radiation",
+    "B": "X-ray Radiation",
+    "C": "Cosmic Radiation",
+    "D": "Alpha Radiation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the concept in physics that suggests the laws of physics remain the same for all observers, regardless of their relative velocities?",
+    "A": "Principle of Relativity",
+    "B": "Theory of Everything",
+    "C": "Uncertainty Principle",
+    "D": "Complementarity Principle",
+    "answer": "A"
+  },
+  {
+    "question": "In particle physics, what is the term for the process where two particles collide and produce new particles as a result of the collision?",
+    "A": "Annihilation",
+    "B": "Decay",
+    "C": "Fusion",
+    "D": "Scattering",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a hypothetical passage through spacetime that would allow for faster-than-light travel?",
+    "A": "Warp Drive",
+    "B": "Tachyon Passage",
+    "C": "Quantum Leap",
+    "D": "Time Loop",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon describes the bending of light around an object due to its gravitational field, similar to a lens?",
+    "A": "Diffraction",
+    "B": "Refraction",
+    "C": "Dispersion",
+    "D": "Gravitational Lensing",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where a particle can pass through a classically forbidden energy barrier due to its wave-like nature?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Entanglement",
+    "C": "Superposition",
+    "D": "Quantum Tunneling",
+    "answer": "D"
+  },
+  {
+    "question": "Which concept in particle physics suggests that for every type of fundamental particle, there exists a corresponding antiparticle?",
+    "A": "Supersymmetry",
+    "B": "Wave-Particle Duality",
+    "C": "Quantum Entanglement",
+    "D": "Antiparticle Principle",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the theoretical upper limit to the mass of a black hole before it would collapse into a singularity?",
+    "A": "Planck Mass",
+    "B": "Eddington Limit",
+    "C": "Chandrasekhar Limit",
+    "D": "Schwarzschild Radius",
+    "answer": "B"
+  },
+  {
+    "question": "In cosmology, what is the term for the hypothetical early era of the universe when it was extremely hot and dense?",
+    "A": "Inflationary Epoch",
+    "B": "Radiation Era",
+    "C": "Dark Ages",
+    "D": "Planck Era",
+    "answer": "A"
+  },
+  {
+    "question": "What is the phenomenon where the wavelength of light increases as it passes through a gravitational field?",
+    "A": "Doppler Effect",
+    "B": "Redshift",
+    "C": "Blueshift",
+    "D": "Quantum Shift",
+    "answer": "B"
+  },
+  {
+    "question": "According to general relativity, what is the phenomenon where the curvature of spacetime causes time to pass more slowly near a massive object?",
+    "A": "Time Dilation",
+    "B": "Length Contraction",
+    "C": "Gravitational Time Shift",
+    "D": "Frame Dragging",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon involves the scattering of high-energy particles when they pass through matter, resulting in a blue glow?",
+    "A": "Cherenkov Radiation",
+    "B": "Bremsstrahlung",
+    "C": "Compton Scattering",
+    "D": "Pair Production",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the point in a rotating black hole where escape becomes impossible due to the strong gravitational pull?",
+    "A": "Event Horizon",
+    "B": "Singularity",
+    "C": "Ergosphere",
+    "D": "Schwarzschild Radius",
+    "answer": "C"
+  },
+  {
+    "question": "In particle physics, what is the concept where three identical particles cannot be in the same quantum state simultaneously?",
+    "A": "Pauli Exclusion Principle",
+    "B": "Hund's Rule",
+    "C": "Heisenberg Uncertainty Principle",
+    "D": "Bohr's Correspondence Principle",
+    "answer": "A"
+  },
+  {
+    "question": "What is the phenomenon where a material's electrical resistance drops to zero at very low temperatures?",
+    "A": "Quantum Tunneling",
+    "B": "Superconductivity",
+    "C": "Photoelectric Effect",
+    "D": "Ohmic Conductance",
+    "answer": "B"
+  },
+  {
+    "question": "Which concept in quantum mechanics suggests that particles can exist in all possible states simultaneously until observed?",
+    "A": "Wave Function Collapse",
+    "B": "Wave-Particle Duality",
+    "C": "Quantum Entanglement",
+    "D": "Superposition",
+    "answer": "D"
+  },
+  {
+    "question": "What is the process by which a particle and its corresponding antiparticle collide and annihilate each other?",
+    "A": "Decay",
+    "B": "Fusion",
+    "C": "Annihilation",
+    "D": "Ionization",
+    "answer": "C"
+  },
+  {
+    "question": "In particle physics, what is the fundamental force responsible for the decay of particles in the nucleus of an atom?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Weak Nuclear Force",
+    "D": "Strong Nuclear Force",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light around a massive object due to its gravitational field?",
+    "A": "Diffraction",
+    "B": "Refraction",
+    "C": "Dispersion",
+    "D": "Gravitational Lensing",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the smallest indivisible unit of a chemical element?",
+    "A": "Molecule",
+    "B": "Atom",
+    "C": "Compound",
+    "D": "Ion",
+    "answer": "B"
+  },
+  {
+    "question": "Which concept in quantum mechanics suggests that particles such as electrons have properties of both particles and waves?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Entanglement",
+    "C": "Superposition",
+    "D": "Wave Function Collapse",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process by which a radioactive nucleus emits an alpha particle, consisting of two protons and two neutrons?",
+    "A": "Beta Decay",
+    "B": "Gamma Decay",
+    "C": "Alpha Decay",
+    "D": "Neutron Emission",
+    "answer": "C"
+  },
+  {
+    "question": "Which force is responsible for holding the protons and neutrons together within the nucleus of an atom?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Weak Nuclear Force",
+    "D": "Strong Nuclear Force",
+    "answer": "D"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for the process where a particle passes through a classically forbidden energy barrier?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Entanglement",
+    "C": "Superposition",
+    "D": "Quantum Tunneling",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where the energy of a photon is transferred to an electron, causing it to escape from a material's surface?",
+    "A": "Photoelectric Effect",
+    "B": "Compton Scattering",
+    "C": "Pair Production",
+    "D": "Annihilation",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of radiation is characterized by high-energy photons that are produced by nuclear reactions in stars and other celestial objects?",
+    "A": "Alpha Radiation",
+    "B": "Gamma Radiation",
+    "C": "Beta Radiation",
+    "D": "Neutron Radiation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the concept in quantum mechanics that describes how particles such as electrons can be in multiple states until observed?",
+    "A": "Wave-Particle Duality",
+    "B": "Uncertainty Principle",
+    "C": "Superposition",
+    "D": "Wave Function Collapse",
+    "answer": "C"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for a particle that can exist in multiple energy states at once?",
+    "A": "Boson",
+    "B": "Fermion",
+    "C": "Quark",
+    "D": "Exciton",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the theoretical point in space-time where gravitational forces cause matter to be infinitely dense?",
+    "A": "Event Horizon",
+    "B": "Singularity",
+    "C": "Ergosphere",
+    "D": "Planck Point",
+    "answer": "B"
+  },
+  {
+    "question": "According to the theory of special relativity, what happens to an object's length as its velocity approaches the speed of light?",
+    "A": "It increases",
+    "B": "It decreases",
+    "C": "It remains the same",
+    "D": "It becomes infinite",
+    "answer": "B"
+  },
+  {
+    "question": "Which concept suggests that every particle in the universe is connected to every other particle by an underlying field?",
+    "A": "Field Theory",
+    "B": "Unified Theory",
+    "C": "Wave Theory",
+    "D": "String Theory",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where particles with opposite spin orientations become entangled and are then separated by a large distance?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Teleportation",
+    "C": "Superposition",
+    "D": "Quantum Tunneling",
+    "answer": "B"
+  },
+  {
+    "question": "In particle physics, what is the term for the process where a particle absorbs energy and emits light as it returns to its ground state?",
+    "A": "Fluorescence",
+    "B": "Phosphorescence",
+    "C": "Emission",
+    "D": "Absorption",
+    "answer": "A"
+  },
+  {
+    "question": "What is the concept that describes how a particle can exist in a probability distribution of states until observed?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Entanglement",
+    "C": "Superposition",
+    "D": "Wave Function Collapse",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a planet or celestial object is closest to a body it orbits around?",
+    "A": "Perigee",
+    "B": "Apogee",
+    "C": "Aphelion",
+    "D": "Perihelion",
+    "answer": "A"
+  },
+  {
+    "question": "Which concept suggests that the universe is not only expanding but also accelerating in its expansion?",
+    "A": "Cosmic Inflation",
+    "B": "Steady State Theory",
+    "C": "Dark Matter Theory",
+    "D": "Dark Energy Theory",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the smallest possible unit of a chemical element that retains its chemical properties?",
+    "A": "Molecule",
+    "B": "Compound",
+    "C": "Particle",
+    "D": "Atom",
+    "answer": "D"
+  },
+  {
+    "question": "Which phenomenon involves the scattering of light as it passes through a medium, causing the light to change direction?",
+    "A": "Diffraction",
+    "B": "Refraction",
+    "C": "Interference",
+    "D": "Dispersion",
+    "answer": "B"
+  },
+  {
+    "question": "In particle physics, which fundamental particle does not experience the strong nuclear force?",
+    "A": "Proton",
+    "B": "Neutron",
+    "C": "Electron",
+    "D": "Neutrino",
+    "answer": "C"
+  },
+  {
+    "question": "What is the concept in quantum mechanics that particles can instantaneously influence each other's states, regardless of distance?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Entanglement",
+    "C": "Superposition",
+    "D": "Quantum Tunneling",
+    "answer": "B"
+  },
+  {
+    "question": "Which fundamental particle has no charge, very little mass, and interacts only through the weak nuclear force and gravity?",
+    "A": "Electron",
+    "B": "Neutrino",
+    "C": "Proton",
+    "D": "Muon",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the theoretical boundary around a rotating black hole beyond which escape is impossible?",
+    "A": "Event Horizon",
+    "B": "Singularity",
+    "C": "Ergosphere",
+    "D": "Photon Sphere",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of electromagnetic radiation has the longest wavelength and is often used for communication?",
+    "A": "Gamma Rays",
+    "B": "X-rays",
+    "C": "Visible Light",
+    "D": "Radio Waves",
+    "answer": "D"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for a particle that can exist in a superposition of two or more energy states?",
+    "A": "Quark",
+    "B": "Lepton",
+    "C": "Boson",
+    "D": "Fermion",
+    "answer": "C"
+  },
+  {
+    "question": "What is the concept that describes the bending of light as it passes through different materials with varying refractive indices?",
+    "A": "Diffraction",
+    "B": "Reflection",
+    "C": "Dispersion",
+    "D": "Refraction",
+    "answer": "D"
+  },
+  {
+    "question": "Which theoretical concept suggests that every point in space-time is connected to every other point through an invisible energy field?",
+    "A": "String Theory",
+    "B": "General Relativity",
+    "C": "Quantum Mechanics",
+    "D": "Unified Field Theory",
+    "answer": "D"
+  },
+  {
+    "question": "What is the process by which a nucleus releases energy by splitting into smaller fragments?",
+    "A": "Fusion",
+    "B": "Radioactive Decay",
+    "C": "Fission",
+    "D": "Transmutation",
+    "answer": "C"
+  },
+  {
+    "question": "In particle physics, what is the term for the hypothetical massive particle that could explain the presence of dark matter in the universe?",
+    "A": "WIMP",
+    "B": "Axion",
+    "C": "Graviton",
+    "D": "Tachyon",
+    "answer": "A"
+  },
+  {
+    "question": "What is the phenomenon where a charged particle, such as an electron, releases energy in the form of photons as it transitions to a lower energy state?",
+    "A": "Annihilation",
+    "B": "Ionization",
+    "C": "Decay",
+    "D": "Emission",
+    "answer": "D"
+  },
+  {
+    "question": "Which fundamental force is responsible for holding the nucleus of an atom together despite the repulsion between positively charged protons?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Weak Nuclear Force",
+    "D": "Strong Nuclear Force",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where light is bent as it passes through a medium with varying refractive indices, creating a display of colors?",
+    "A": "Diffraction",
+    "B": "Refraction",
+    "C": "Dispersion",
+    "D": "Interference",
+    "answer": "C"
+  },
+  {
+    "question": "In particle physics, which type of particles carry the strong nuclear force that binds quarks together to form protons and neutrons?",
+    "A": "Bosons",
+    "B": "Leptons",
+    "C": "Hadrons",
+    "D": "Neutrinos",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the smallest possible unit of a chemical compound that retains its chemical properties?",
+    "A": "Molecule",
+    "B": "Ion",
+    "C": "Atom",
+    "D": "Element",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon describes the scattering of light in all directions by small particles, leading to the blue color of the sky?",
+    "A": "Diffraction",
+    "B": "Refraction",
+    "C": "Dispersion",
+    "D": "Rayleigh Scattering",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the transfer of heat through a material by the movement of particles in a fluid or gas?",
+    "A": "Conduction",
+    "B": "Convection",
+    "C": "Radiation",
+    "D": "Induction",
+    "answer": "B"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for the process where a particle tunnels through a classically forbidden energy barrier?",
+    "A": "Wave-Particle Duality",
+    "B": "Quantum Entanglement",
+    "C": "Superposition",
+    "D": "Quantum Tunneling",
+    "answer": "D"
+  },
+  {
+    "question": "What is the phenomenon where the observed frequency of a wave increases as the source of the wave approaches the observer?",
+    "A": "Doppler Effect",
+    "B": "Redshift",
+    "C": "Blueshift",
+    "D": "Diffraction",
+    "answer": "C"
+  },
+  {
+    "question": "In particle physics, which type of particle is an elementary particle with half-integer spin and follows the Pauli exclusion principle?",
+    "A": "Fermion",
+    "B": "Boson",
+    "C": "Hadron",
+    "D": "Lepton",
+    "answer": "A"
+  },
+  {
+    "question": "What is the phenomenon where a charged particle, such as an electron, is accelerated and emits electromagnetic radiation?",
+    "A": "Decay",
+    "B": "Diffraction",
+    "C": "Bremsstrahlung",
+    "D": "Ionization",
+    "answer": "C"
+  },
+  {
+    "question": "Which concept in quantum mechanics suggests that particles exist in a range of probabilities until they are observed, at which point their state is determined?",
+    "A": "Wave-Particle Duality",
+    "B": "Uncertainty Principle",
+    "C": "Superposition",
+    "D": "Collapse of the Wave Function",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the process of a solid directly changing into a gas without becoming a liquid first?",
+    "A": "Condensation",
+    "B": "Sublimation",
+    "C": "Evaporation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "Which fundamental force is responsible for the attraction between any two masses in the universe?",
+    "A": "Gravity",
+    "B": "Electromagnetic Force",
+    "C": "Weak Nuclear Force",
+    "D": "Strong Nuclear Force",
+    "answer": "A"
+  },
+  {
+    "question": "In particle physics, which type of particle carries the electromagnetic force and can be thought of as the 'messenger' of this force?",
+    "A": "Fermion",
+    "B": "Boson",
+    "C": "Hadron",
+    "D": "Lepton",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a radioactive nucleus emits a beta particle (an electron or positron) to achieve a more stable state?",
+    "A": "Alpha Decay",
+    "B": "Gamma Decay",
+    "C": "Beta Decay",
+    "D": "Electron Capture",
+    "answer": "C"
+  },
+  {
+    "question": "What is the concept that the entropy of a system always increases over time, leading to a state of maximum disorder?",
+    "A": "Second Law of Thermodynamics",
+    "B": "Law of Conservation of Energy",
+    "C": "Law of Inertia",
+    "D": "Law of Universal Gravitation",
+    "answer": "A"
+  },
+  {
+    "question": "In the context of quantum mechanics, what is the term for the range of values that a measurable quantity can take on for a given system?",
+    "A": "Wave Function",
+    "B": "Energy Spectrum",
+    "C": "Probability Distribution",
+    "D": "Uncertainty Range",
+    "answer": "C"
+  },
+  {
+    "question": "What is the phenomenon where a spinning object's axis of rotation precesses due to an applied external torque?",
+    "A": "Precession",
+    "B": "Coriolis Effect",
+    "C": "Diffraction",
+    "D": "Doppler Effect",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of particle decay involves the emission of a high-energy photon, typically accompanying alpha or beta decay?",
+    "A": "Gamma Decay",
+    "B": "Alpha Decay",
+    "C": "Beta Decay",
+    "D": "Electron Capture",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the point in an orbit where a planet or celestial object is farthest from a body it orbits around?",
+    "A": "Perigee",
+    "B": "Apogee",
+    "C": "Aphelion",
+    "D": "Perihelion",
+    "answer": "B"
+  },
+  {
+    "question": "Which theory attempts to unify all fundamental forces of nature, including gravity, into a single framework?",
+    "A": "String Theory",
+    "B": "Theory of Relativity",
+    "C": "Grand Unified Theory",
+    "D": "Quantum Mechanics",
+    "answer": "C"
+  },
+  {
+    "question": "What is the concept that suggests space and time are interconnected and form a four-dimensional continuum?",
+    "A": "Holographic Principle",
+    "B": "General Relativity",
+    "C": "Special Relativity",
+    "D": "Uncertainty Principle",
+    "answer": "B"
+  },
+  {
+    "question": "In particle physics, which type of particle carries the strong nuclear force and binds quarks together?",
+    "A": "Boson",
+    "B": "Photon",
+    "C": "Gluon",
+    "D": "Neutrino",
+    "answer": "C"
+  },
+  {
+    "question": "What is the concept that suggests that matter and energy are two forms of the same entity and can be interconverted?",
+    "A": "Quantum Mechanics",
+    "B": "Theory of Everything",
+    "C": "Mass-Energy Equivalence",
+    "D": "Wave-Particle Duality",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon describes the bending of light waves as they pass through a narrow opening or around an obstacle?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Interference",
+    "D": "Dispersion",
+    "answer": "B"
+  },
+  {
+    "question": "What is the equation for the speed of an object in terms of its distance and time?",
+    "A": "v = dt",
+    "B": "v = d/t",
+    "C": "v = td",
+    "D": "v = t + d",
+    "answer": "B"
+  },
+  {
+    "question": "Which mathematical expression represents Newton's second law of motion?",
+    "A": "F = ma",
+    "B": "F = mv",
+    "C": "a = F/m",
+    "D": "m = Fa",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical relationship between an object's mass, its acceleration due to gravity, and the force acting on it?",
+    "A": "F = mg",
+    "B": "F = ma",
+    "C": "F = gm",
+    "D": "F = ga",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the potential energy of an object in a gravitational field?",
+    "A": "PE = mgh",
+    "B": "PE = gh/m",
+    "C": "PE = mg/h",
+    "D": "PE = ghm",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation relates the change in kinetic energy of an object to the net work done on it?",
+    "A": "ΔKE = Fd",
+    "B": "ΔKE = ma",
+    "C": "ΔKE = Fv",
+    "D": "ΔKE = W",
+    "answer": "D"
+  },
+  {
+    "question": "What is the mathematical formula for the period of a pendulum?",
+    "A": "T = 2π√(L/g)",
+    "B": "T = 2π(L/g)",
+    "C": "T = π√(L/g)",
+    "D": "T = π(L/g)",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical equation relates the frequency (f) of a wave to its wavelength (λ) and the speed of light (c)?",
+    "A": "f = cλ",
+    "B": "λ = cf",
+    "C": "c = f/λ",
+    "D": "λ = fc",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the electric force between two point charges?",
+    "A": "F = k(q1 + q2)/r",
+    "B": "F = k(q1 - q2)/r^2",
+    "C": "F = kq1q2/r^2",
+    "D": "F = kq1q2/r",
+    "answer": "C"
+  },
+  {
+    "question": "Which equation describes the relationship between an electric current (I), voltage (V), and resistance (R) in a circuit?",
+    "A": "V = IR",
+    "B": "I = VR",
+    "C": "R = VI",
+    "D": "I = RV",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the energy of a photon in terms of its frequency (f) and Planck's constant (h)?",
+    "A": "E = hf",
+    "B": "E = f/h",
+    "C": "E = h/f",
+    "D": "E = fh",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical formula represents Einstein's mass-energy equivalence principle?",
+    "A": "E = mc^2",
+    "B": "m = Ec^2",
+    "C": "E = mc",
+    "D": "c = Em^2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical relationship between pressure (P), force (F), and the area (A) over which the force is applied?",
+    "A": "P = F/A",
+    "B": "P = A/F",
+    "C": "P = FA",
+    "D": "P = AF",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical equation represents the ideal gas law?",
+    "A": "PV = nRT",
+    "B": "PT = nRV",
+    "C": "PV = RT/n",
+    "D": "PV = RT",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the work done by a gas during an isobaric process?",
+    "A": "W = PΔV",
+    "B": "W = V/ΔP",
+    "C": "W = ΔPV",
+    "D": "W = P/V",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical formula is used to calculate the average speed (v) of an object over a given time interval (Δt)?",
+    "A": "v = Δt/d",
+    "B": "v = d/Δt",
+    "C": "v = Δt + d",
+    "D": "v = d - Δt",
+    "answer": "B"
+  },
+  {
+    "question": "What is the mathematical equation for the angular velocity (ω) of an object rotating with an angular displacement (θ) over time (t)?",
+    "A": "ω = θ/t",
+    "B": "ω = t/θ",
+    "C": "ω = θt",
+    "D": "ω = tθ",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical expression represents the relationship between the electric field (E) and the electric potential (V)?",
+    "A": "E = V/d",
+    "B": "E = d/V",
+    "C": "V = Ed",
+    "D": "V = E/d",
+    "answer": "D"
+  },
+  {
+    "question": "What is the mathematical formula for the moment of inertia (I) of a rigid body rotating about a fixed axis?",
+    "A": "I = m/r^2",
+    "B": "I = r/m^2",
+    "C": "I = mr^2",
+    "D": "I = m^2/r",
+    "answer": "C"
+  },
+  {
+    "question": "Which equation represents the relationship between the force (F) applied to a spring and the resulting displacement (x) from its equilibrium position?",
+    "A": "F = kx",
+    "B": "F = x/k",
+    "C": "k = F/x",
+    "D": "x = F/k",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the escape velocity (v) required for an object to break free from a planet's gravitational field?",
+    "A": "v = √(2gh)",
+    "B": "v = √(2hg)",
+    "C": "v = √(gh/2)",
+    "D": "v = √(hg/2)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical equation for the centripetal force (F) required to keep an object moving in a circular path of radius (r) at a constant speed (v)?",
+    "A": "F = mv^2/r",
+    "B": "F = rv^2/m",
+    "C": "F = mr^2/v",
+    "D": "F = vr^2/m",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical expression represents the angular momentum (L) of a rotating object with moment of inertia (I) and angular velocity (ω)?",
+    "A": "L = Iω",
+    "B": "L = ω/I",
+    "C": "L = I/ω",
+    "D": "L = ω/I^2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the electric potential energy (U) of a point charge (q) in an electric field (E)?",
+    "A": "U = qE",
+    "B": "U = E/q",
+    "C": "U = q/E",
+    "D": "U = E/q^2",
+    "answer": "B"
+  },
+  {
+    "question": "Which equation represents the relationship between the frequency (f) and the period (T) of a wave?",
+    "A": "f = T",
+    "B": "f = 1/T",
+    "C": "T = f^2",
+    "D": "T = 1/f",
+    "answer": "D"
+  },
+  {
+    "question": "What is the mathematical expression for the Doppler effect in terms of the observed frequency (f), source frequency (f₀), speed of sound (v), and relative velocity (vᵣ) between the source and observer?",
+    "A": "f = f₀(v + vᵣ)/v",
+    "B": "f = f₀(v - vᵣ)/v",
+    "C": "f = f₀(v + vᵣ)/vᵣ",
+    "D": "f = f₀(v - vᵣ)/vᵣ",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the relationship between the magnetic force (F) on a charged particle, its charge (q), velocity (v), magnetic field (B), and angle (θ) between v and B?",
+    "A": "F = qvB",
+    "B": "F = qB/v",
+    "C": "F = qvBsinθ",
+    "D": "F = qBcosθ",
+    "answer": "C"
+  },
+  {
+    "question": "What is the mathematical formula for the average power (P) used by an electrical device with voltage (V) and current (I)?",
+    "A": "P = IV",
+    "B": "P = V/I",
+    "C": "P = I/V",
+    "D": "P = VI^2",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the relationship between the wavelength (λ) of a wave, its speed (v), and frequency (f)?",
+    "A": "λ = v/f",
+    "B": "v = f/λ",
+    "C": "f = λ/v",
+    "D": "λ = f/v",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the conservation of linear momentum in a closed system of objects?",
+    "A": "Δp = Ft",
+    "B": "p = FΔt",
+    "C": "p = mv",
+    "D": "Δp = mv",
+    "answer": "D"
+  },
+  {
+    "question": "Which equation represents the relationship between the work done (W) on an object, the force (F) applied, and the displacement (d) in the direction of the force?",
+    "A": "W = F/d",
+    "B": "W = d/F",
+    "C": "W = Fd",
+    "D": "W = F^2d",
+    "answer": "C"
+  },
+  {
+    "question": "What is the mathematical formula for the energy of a simple harmonic oscillator with spring constant (k) and amplitude (A)?",
+    "A": "E = 0.5kA^2",
+    "B": "E = k/A",
+    "C": "E = 0.5mA^2",
+    "D": "E = kA",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the relationship between the force (F) exerted by a fluid on an object submerged in it, the density (ρ) of the fluid, volume (V) displaced, and acceleration due to gravity (g)?",
+    "A": "F = ρVg",
+    "B": "F = V/ρg",
+    "C": "F = ρ/gV",
+    "D": "F = Vg/ρ",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the moment of torque (τ) exerted by a force (F) on a lever arm (r) at an angle (θ) to the force?",
+    "A": "τ = Frθ",
+    "B": "τ = F/rθ",
+    "C": "τ = r/Fθ",
+    "D": "τ = Fsinθ/r",
+    "answer": "D"
+  },
+  {
+    "question": "Which mathematical equation represents Snell's Law, which describes the relationship between the angles of incidence (θ₁) and refraction (θ₂) for light passing through different media?",
+    "A": "n₁sinθ₁ = n₂sinθ₂",
+    "B": "n₁sinθ₁ = n₂cosθ₂",
+    "C": "n₁cosθ₁ = n₂sinθ₂",
+    "D": "n₁cosθ₁ = n₂cosθ₂",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the electric field (E) created by a point charge (q) at a distance (r) from it?",
+    "A": "E = q/r²",
+    "B": "E = r²/q",
+    "C": "E = q/√r",
+    "D": "E = √q/r",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the relationship between the velocity (v) of a fluid flowing through a pipe, the cross-sectional area (A) of the pipe, and the volume flow rate (Q)?",
+    "A": "Q = Av",
+    "B": "v = Q/A",
+    "C": "Q = A/v",
+    "D": "A = Qv",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the critical angle (θ) in terms of the refractive indices (n₁ and n₂) of two media?",
+    "A": "θ = sin⁻¹(n₂/n₁)",
+    "B": "θ = sin⁻¹(n₁/n₂)",
+    "C": "θ = cos⁻¹(n₂/n₁)",
+    "D": "θ = cos⁻¹(n₁/n₂)",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the relationship between the acceleration (a) of an object, its initial velocity (u), final velocity (v), and displacement (s)?",
+    "A": "a = (v - u)/s",
+    "B": "a = (v - u)/t",
+    "C": "a = (u - v)/s",
+    "D": "a = (u - v)/t",
+    "answer": "B"
+  },
+  {
+    "question": "What is the mathematical formula for the efficiency (η) of a machine that transforms input work (Wᵢ) into useful output work (Wₒ)?",
+    "A": "η = Wᵢ/Wₒ",
+    "B": "η = Wₒ/Wᵢ",
+    "C": "η = Wᵢ - Wₒ",
+    "D": "η = Wₒ - Wᵢ",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the relationship between the angular frequency (ω), frequency (f), and the speed of a wave (v)?",
+    "A": "ω = vf",
+    "B": "ω = 2πf",
+    "C": "f = ω/v",
+    "D": "f = v/ω",
+    "answer": "B"
+  },
+  {
+    "question": "What is the mathematical formula for the impedance (Z) of a circuit consisting of resistance (R) and reactance (X) in series?",
+    "A": "Z = R + X",
+    "B": "Z = R - X",
+    "C": "Z = R/X",
+    "D": "Z = X/R",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the electric field (E), magnetic field (B), and speed of light (c) in a vacuum?",
+    "A": "E = Bc",
+    "B": "B = Ec",
+    "C": "c = BE",
+    "D": "E = B/c",
+    "answer": "D"
+  },
+  {
+    "question": "What is the mathematical formula for the period (T) of an object in simple harmonic motion with angular frequency (ω)?",
+    "A": "T = 2π/ω",
+    "B": "T = π/2ω",
+    "C": "T = ω/2π",
+    "D": "T = ωπ",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical expression represents the Heisenberg Uncertainty Principle, relating the uncertainties in position (Δx) and momentum (Δp) of a particle?",
+    "A": "ΔxΔp ≥ h",
+    "B": "ΔxΔp ≤ h",
+    "C": "Δx/Δp = h",
+    "D": "ΔxΔp = 0",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the angular momentum (L) of a particle with mass (m), velocity (v), and perpendicular distance (r) from the axis of rotation?",
+    "A": "L = mvr",
+    "B": "L = mv/r",
+    "C": "L = m/vr",
+    "D": "L = r/mv",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the half-life (t½) of a radioactive substance, the decay constant (λ), and the decay rate (N)?",
+    "A": "t½ = ln(2)/λ",
+    "B": "λ = ln(2)/t½",
+    "C": "N = ln(2)/λ",
+    "D": "λ = ln(t½)/2",
+    "answer": "B"
+  },
+  {
+    "question": "What is the mathematical expression for the diffraction angle (θ) of light as it passes through a narrow slit of width (a) and wavelength (λ)?",
+    "A": "θ = λ/a",
+    "B": "θ = a/λ",
+    "C": "θ = λsin(θ)/a",
+    "D": "θ = asin(λ)/θ",
+    "answer": "C"
+  },
+  {
+    "question": "Which equation represents the mathematical formula for the work-energy theorem, relating the work done (W) on an object to its change in kinetic energy (ΔKE)?",
+    "A": "W = ΔKE",
+    "B": "ΔKE = W",
+    "C": "W = ΔKE^2",
+    "D": "ΔKE = W^2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the gravitational potential energy (U) between two point masses (m₁ and m₂) separated by a distance (r) in a vacuum?",
+    "A": "U = Gm₁m₂/r",
+    "B": "U = Gm₁/r²",
+    "C": "U = Gm₂/r",
+    "D": "U = G/r²",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the refractive index (n), speed of light in a vacuum (c), and speed of light in a medium (v)?",
+    "A": "n = c/v",
+    "B": "v = nc",
+    "C": "v = c/n",
+    "D": "n = vc",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the electrostatic force (F) between two point charges (q₁ and q₂) separated by a distance (r)?",
+    "A": "F = kq₁q₂/r²",
+    "B": "F = q₁q₂/r²",
+    "C": "F = q₁q₂/r",
+    "D": "F = kq₁q₂/r",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the root-mean-square (rms) current (Iₙ) in an AC circuit, the peak current (I₀), and the square root of 2 (√2)?",
+    "A": "Iₙ = I₀/√2",
+    "B": "Iₙ = I₀²",
+    "C": "I₀ = Iₙ/√2",
+    "D": "I₀ = Iₙ²",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the work (W) done by a constant force (F) on an object that moves a distance (d) in the direction of the force?",
+    "A": "W = Fd",
+    "B": "W = F/d",
+    "C": "W = F + d",
+    "D": "W = F - d",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the capacitance (C) of a capacitor, the charge (Q) stored, and the voltage (V) across it?",
+    "A": "C = Q/V",
+    "B": "C = V/Q",
+    "C": "C = Q + V",
+    "D": "C = Q - V",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the torque (τ) exerted on an object rotating with angular acceleration (α) and moment of inertia (I)?",
+    "A": "τ = α/I",
+    "B": "τ = I/α",
+    "C": "τ = αI",
+    "D": "τ = I/α²",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical formula for the pressure (P) exerted by a fluid at a depth (h) in a gravitational field, the density (ρ) of the fluid, and the acceleration due to gravity (g)?",
+    "A": "P = ρgh",
+    "B": "P = gh/ρ",
+    "C": "P = ρ/g",
+    "D": "P = h/g",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the wave number (k) of a wave in terms of its wavelength (λ) and the speed of light (c)?",
+    "A": "k = 2π/λ",
+    "B": "k = λ/2π",
+    "C": "k = λ/c",
+    "D": "k = c/λ",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the force (F) on a current-carrying conductor, its length (L), current (I), magnetic field (B), and the sine of the angle (θ) between I and B?",
+    "A": "F = BILθ",
+    "B": "F = L/BIθ",
+    "C": "F = BILsinθ",
+    "D": "F = BILcosθ",
+    "answer": "C"
+  },
+  {
+    "question": "What is the mathematical formula for the period (T) of a simple pendulum with length (L) and acceleration due to gravity (g)?",
+    "A": "T = 2π√(L/g)",
+    "B": "T = π√(L/g)",
+    "C": "T = 2π(g/L)",
+    "D": "T = π(g/L)",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the entropy change (ΔS) of a system, heat (Q) transferred, and the temperature (T) in Kelvin?",
+    "A": "ΔS = Q/T",
+    "B": "Q = ΔS/T",
+    "C": "T = ΔS/Q",
+    "D": "Q = T/ΔS",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the energy eigenstates (ψ) of a quantum harmonic oscillator with energy levels (E_n), mass (m), angular frequency (ω), and Planck's constant (h)?",
+    "A": "ψ = e^(-mωx²/2h)H_n(√(mω/h)x)",
+    "B": "ψ = e^(-m²ω²x²/2h)H_n(√(mω/h)x)",
+    "C": "ψ = e^(-mω²x²/2h)H_n(√(m/h)x)",
+    "D": "ψ = e^(-m²ωx²/2h)H_n(√(m/h)x)",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the stress (σ) applied to a material, its Young's modulus (Y), and the strain (ε) produced?",
+    "A": "σ = Yε",
+    "B": "ε = Y/σ",
+    "C": "Y = σε",
+    "D": "σ = ε/Y",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the self-inductance (L) of a solenoid with number of turns (N), cross-sectional area (A), length (l), and permeability of free space (μ₀)?",
+    "A": "L = (N²μ₀A)/l",
+    "B": "L = (l²μ₀A)/N",
+    "C": "L = (Nμ₀A)/l",
+    "D": "L = (lμ₀A)/N",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the wave vector (k), frequency (f), and the speed of light (c) in a medium with refractive index (n)?",
+    "A": "k = 2πfn/c",
+    "B": "k = 2πc/fn",
+    "C": "k = 2πnf/c",
+    "D": "k = 2πc/nf",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the quantum mechanical position operator (x̂) in terms of the position (x) and momentum (p) operators?",
+    "A": "x̂ = (x + p)/2",
+    "B": "x̂ = (x - p)/2",
+    "C": "x̂ = (x + ip)/2",
+    "D": "x̂ = (x - ip)/2",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical formula for the Doppler shift in frequency (Δf) due to the relative velocity (vᵣ) between a source and an observer, speed of sound (v), and source frequency (f₀)?",
+    "A": "Δf = (v + vᵣ)f₀/v",
+    "B": "Δf = (v - vᵣ)f₀/v",
+    "C": "Δf = (v + vᵣ)v/f₀",
+    "D": "Δf = (v - vᵣ)v/f₀",
+    "answer": "B"
+  },
+  {
+    "question": "What is the mathematical formula for the partition function (Z) in statistical mechanics, used to calculate the thermodynamic properties of a system?",
+    "A": "Z = ∑e^(-Eᵢ/kT)",
+    "B": "Z = ∑Eᵢ/kT",
+    "C": "Z = ∑e^(Eᵢ/kT)",
+    "D": "Z = ∑Eᵢe^(-kT)",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the angular momentum (L) of an electron in an orbit, Planck's constant (h), and an integer quantum number (n)?",
+    "A": "L = nh/2π",
+    "B": "L = 2πnh",
+    "C": "L = n/2πh",
+    "D": "L = 2nh/π",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the action (S) in the principle of least action, involving the Lagrangian (L) and time interval (t)?",
+    "A": "S = ∫L dt",
+    "B": "S = ∫L dx",
+    "C": "S = ∫L dE",
+    "D": "S = ∫L dp",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical formula for the polarization (P) of a dielectric material with electric susceptibility (χ) and electric field (E)?",
+    "A": "P = χE",
+    "B": "P = E/χ",
+    "C": "χ = PE",
+    "D": "χ = E/P",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the relativistic kinetic energy (KE) of a particle with rest mass (m₀) and velocity (v), considering the speed of light (c)?",
+    "A": "KE = m₀c²/√(1 - v²/c²) - m₀c²",
+    "B": "KE = √(1 - v²/c²)m₀c² - m₀c²",
+    "C": "KE = m₀c²/√(1 + v²/c²) - m₀c²",
+    "D": "KE = √(1 + v²/c²)m₀c² - m₀c²",
+    "answer": "C"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the Stefan-Boltzmann constant (σ), blackbody temperature (T), and the power radiated per unit area (P)?",
+    "A": "P = σT⁴",
+    "B": "P = T/σ⁴",
+    "C": "P = σ/T⁴",
+    "D": "P = Tσ⁴",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the Schrödinger equation in quantum mechanics, describing the time evolution of a quantum state?",
+    "A": "ħ∂ψ/∂t = Hψ",
+    "B": "Hψ = Eψ",
+    "C": "ħψ = H/∂t",
+    "D": "H∂ψ/∂t = ħψ",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents Ampère's law in integral form, relating the circulation of the magnetic field around a closed path to the current enclosed?",
+    "A": "∮B·dl = μ₀I",
+    "B": "∮B·dl = μ₀ε₀I",
+    "C": "∮B·dl = μ₀I/ε₀",
+    "D": "∮B·dl = μ₀I/ε₀^2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the relativistic kinetic energy (K) of a particle with mass (m) moving at a speed (v) close to the speed of light (c)?",
+    "A": "K = mc² - m₀c²",
+    "B": "K = (γ - 1)m₀c²",
+    "C": "K = (1 - γ)m₀c²",
+    "D": "K = (γ - 1)mc²",
+    "answer": "B"
+  },
+  {
+    "question": "Which equation represents the mathematical expression for the stress-energy tensor (Tᵘᵛ) in general relativity, describing the distribution of energy, momentum, and stress in spacetime?",
+    "A": "Tᵘᵛ = ρc²",
+    "B": "Tᵘᵛ = Gᵘᵛ",
+    "C": "Tᵘᵛ = Rᵘᵛ",
+    "D": "Tᵘᵛ = ρc² + pᵘ",
+    "answer": "D"
+  },
+  {
+    "question": "What is the mathematical expression for the partition function (Z) in statistical mechanics, used to describe the equilibrium state of a physical system?",
+    "A": "Z = ∑e^(βE)",
+    "B": "Z = ∑(E/β)",
+    "C": "Z = ∑(E + β)",
+    "D": "Z = ∑e^(β/E)",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the electric susceptibility (χₑ) of a material, the electric field (E), and the polarization density (P) of the material?",
+    "A": "χₑ = P/E",
+    "B": "χₑ = E/P",
+    "C": "χₑ = P + E",
+    "D": "χₑ = E - P",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the Magnus effect, describing the sideways force (F) on a rotating object moving through a fluid due to the pressure difference?",
+    "A": "F = ρAv²",
+    "B": "F = ρAv³",
+    "C": "F = ρAv⁴",
+    "D": "F = ρAv",
+    "answer": "B"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the Mach number (M), the speed of an object (v), and the speed of sound (c) in a fluid?",
+    "A": "M = v/c",
+    "B": "M = c/v",
+    "C": "M = v - c",
+    "D": "M = c - v",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the gyroradius (ρ) of a charged particle moving in a magnetic field (B) at a speed (v)?",
+    "A": "ρ = mv/B",
+    "B": "ρ = v/B",
+    "C": "ρ = B/mv",
+    "D": "ρ = B/v",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical expression for the second law of thermodynamics, stating that the total entropy of an isolated system can never decrease?",
+    "A": "ΔS = Q/T",
+    "B": "ΔS = 0",
+    "C": "ΔS ≥ 0",
+    "D": "ΔS < 0",
+    "answer": "C"
+  },
+  {
+    "question": "What is the mathematical expression for the Chandrasekhar limit, which represents the maximum mass of a stable white dwarf star supported by electron degeneracy pressure?",
+    "A": "Mₛ = 1.44M⊙",
+    "B": "Mₛ = 0.5M⊙",
+    "C": "Mₛ = 2.44M⊙",
+    "D": "Mₛ = 3.44M⊙",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical formula for the efficiency (η) of a Carnot heat engine operating between two reservoirs at temperatures (T₁ and T₂)?",
+    "A": "η = 1 - T₂/T₁",
+    "B": "η = 1 - T₁/T₂",
+    "C": "η = T₁/T₂",
+    "D": "η = T₂/T₁",
+    "answer": "B"
+  },
+  {
+    "question": "What is the mathematical formula for the Debye temperature (θ_D), a characteristic temperature in condensed matter physics representing the average vibrational energy of atoms in a solid?",
+    "A": "θ_D = (ħ/k) * (6π²n/V)^(1/3)",
+    "B": "θ_D = (k/ħ) * (6π²n/V)^(1/3)",
+    "C": "θ_D = (V/n) * (6π²ħ/k)^(1/3)",
+    "D": "θ_D = (n/V) * (6π²ħ/k)^(1/3)",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical expression for the density matrix (ρ) in quantum mechanics, used to describe the state of a quantum system?",
+    "A": "ρ = |Ψ⟩⟨Ψ|",
+    "B": "ρ = |Ψ⟩ + ⟨Ψ|",
+    "C": "ρ = |Ψ⟩ - ⟨Ψ|",
+    "D": "ρ = |Ψ|²",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the energy density (u) of an electromagnetic wave with electric field (E) and magnetic field (B)?",
+    "A": "u = ε₀E²",
+    "B": "u = B²/μ₀",
+    "C": "u = E²/μ₀",
+    "D": "u = ε₀E² + B²/μ₀",
+    "answer": "D"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the Adiabatic index (γ), the specific heat ratio of a gas, and the degrees of freedom (f) of its molecules?",
+    "A": "γ = f",
+    "B": "γ = f - 1",
+    "C": "γ = f + 1",
+    "D": "γ = f/2",
+    "answer": "C"
+  },
+  {
+    "question": "What is the mathematical expression for the Feynman path integral, a formulation of quantum mechanics that involves summing over all possible paths of a particle?",
+    "A": "ψ(x) = ∫e^(iS/ħ)dx",
+    "B": "ψ(x) = ∫e^(iS/ħ)dt",
+    "C": "ψ(x) = ∫e^(iS/ħ)dp",
+    "D": "ψ(x) = ∫e^(iS/ħ)dE",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical formula for the Einstein field equations in general relativity, relating the curvature of spacetime (Gᵘᵛ) to the energy-momentum tensor (Tᵘᵛ)?",
+    "A": "Gᵘᵛ = Tᵘᵛ",
+    "B": "Gᵘᵛ = Rᵘᵛ",
+    "C": "Gᵘᵛ = Rᵘᵛ - Tᵘᵛ",
+    "D": "Gᵘᵛ = Rᵘᵛ + Tᵘᵛ",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the Compton wavelength (λ) of a particle with rest mass (m) and momentum (p), describing the wavelength change due to photon scattering?",
+    "A": "λ = h/p",
+    "B": "λ = h/m",
+    "C": "λ = h/mc",
+    "D": "λ = h/pc",
+    "answer": "D"
+  },
+  {
+    "question": "What is the mathematical expression for the probability density (ρ) of finding a particle in a quantum state ψ(x) at a position x?",
+    "A": "ρ = |ψ(x)|²",
+    "B": "ρ = |ψ(x)|",
+    "C": "ρ = Im(ψ(x))",
+    "D": "ρ = Re(ψ(x))",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the geometric albedo (A), the intensity of reflected light, and the solar flux at the object's distance (S)?",
+    "A": "A = S/4",
+    "B": "A = 4S",
+    "C": "A = 1/S",
+    "D": "A = S",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the Rabi frequency (Ω) in quantum optics, which describes the rate of transition between two energy levels due to a resonant electromagnetic field?",
+    "A": "Ω = μE/ħ",
+    "B": "Ω = μE",
+    "C": "Ω = ħ/μE",
+    "D": "Ω = μE²/ħ",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical expression for the Casimir effect, describing the attractive force between two uncharged conducting plates due to quantum fluctuations?",
+    "A": "F = ħc/(240π²d⁴)",
+    "B": "F = ħc/(120π²d³)",
+    "C": "F = ħc/(240π²d³)",
+    "D": "F = ħc/(120π²d⁴)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the Landau-Lifshitz stress tensor (Tᵢⱼ) in classical field theory, describing the energy-momentum distribution of a system?",
+    "A": "Tᵢⱼ = 0",
+    "B": "Tᵢⱼ = Tⱼᵢ",
+    "C": "Tᵢⱼ = pδᵢⱼ",
+    "D": "Tᵢⱼ = -pδᵢⱼ",
+    "answer": "C"
+  },
+  {
+    "question": "Which equation represents the mathematical formula for the Prandtl number (Pr), a dimensionless number in fluid dynamics characterizing the ratio of momentum diffusivity to thermal diffusivity?",
+    "A": "Pr = μCp/κ",
+    "B": "Pr = Cp/μκ",
+    "C": "Pr = κ/μCp",
+    "D": "Pr = μκ/Cp",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the beta decay rate (λ) of a radioactive nucleus, given the decay constant (λ₀) and the number of radioactive nuclei (N₀)?",
+    "A": "λ = λ₀N₀",
+    "B": "λ = N₀/λ₀",
+    "C": "λ = λ₀/N₀",
+    "D": "λ = N₀λ₀",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical expression for the Casimir-Polder force, describing the van der Waals interaction between an atom and a macroscopic surface?",
+    "A": "F = ħcα/(240π²d⁴)",
+    "B": "F = ħcα/(120π²d³)",
+    "C": "F = ħcα/(240π²d³)",
+    "D": "F = ħcα/(120π²d⁴)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the Magnus force (F_M) exerted on a spinning object moving through a fluid, such as a rotating baseball?",
+    "A": "F_M = 2πρv²ωr",
+    "B": "F_M = ρv²ωr",
+    "C": "F_M = 2πρvωr²",
+    "D": "F_M = ρvωr²",
+    "answer": "B"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the Langevin equation, the damping coefficient (γ), the random force (ξ), and the particle's velocity (v) in Brownian motion?",
+    "A": "mγv = ξ",
+    "B": "mv = γξ",
+    "C": "mγξ = v",
+    "D": "mγv + ξ = 0",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the Onsager reciprocal relations, relating the transport coefficients (Lij) of a system, where i and j denote different transport processes?",
+    "A": "Lij = Lji",
+    "B": "Lij = -Lji",
+    "C": "Lij = Lji²",
+    "D": "Lij = -Lji²",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical expression for the Saha equation, describing the ionization state of a plasma as a function of temperature (T), pressure (P), and ionization potential (I)?",
+    "A": "nⁱⁱ/nⁱ = (2πmkT/h²)^(3/2) * e^(-I/kT)",
+    "B": "nⁱⁱ/nⁱ = (2πmkT/h²)^(3/2) * e^(I/kT)",
+    "C": "nⁱ/nⁱⁱ = (2πmkT/h²)^(3/2) * e^(-I/kT)",
+    "D": "nⁱ/nⁱⁱ = (2πmkT/h²)^(3/2) * e^(I/kT)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the Gell-Mann–Nishijima formula, relating the electric charge (Q) of hadrons to the number of up (u) and down (d) quarks they contain?",
+    "A": "Q = u - d",
+    "B": "Q = 2u + 3d",
+    "C": "Q = 2u - d",
+    "D": "Q = u + 3d",
+    "answer": "B"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the Larmor formula, the radiated power (P) by an accelerating charged particle, the charge (q), speed (v), and acceleration (a)?",
+    "A": "P = qva",
+    "B": "P = qv²a",
+    "C": "P = qva²",
+    "D": "P = qv²a²",
+    "answer": "C"
+  },
+  {
+    "question": "What is the mathematical expression for the De Broglie wavelength (λ) of a particle with momentum (p), according to wave-particle duality?",
+    "A": "λ = ħ/p",
+    "B": "λ = p/ħ",
+    "C": "λ = mc/ħ",
+    "D": "λ = ħ/mc",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical formula for the decay width (Γ) of a decaying particle in terms of the decay constant (λ) and the speed of light (c)?",
+    "A": "Γ = λc",
+    "B": "Γ = c/λ",
+    "C": "Γ = λ/c",
+    "D": "Γ = cλ",
+    "answer": "C"
+  },
+  {
+    "question": "What is the mathematical formula for the Landau damping, describing the damping of plasma waves by resonant interaction with particles in a plasma?",
+    "A": "ω² = ωₑ² + γ²",
+    "B": "ω² = ωₑ² - γ²",
+    "C": "ω² = ωₑγ",
+    "D": "ω² = γ",
+    "answer": "B"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the Rayleigh-Jeans law, the spectral radiance (Bν) of blackbody radiation, and temperature (T)?",
+    "A": "Bν = 8πν²kT/c³",
+    "B": "Bν = 8πν³kT/c²",
+    "C": "Bν = 8πν²kT",
+    "D": "Bν = 8πν³kT",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the Hall effect voltage (V_H) across a conductor with current (I), magnetic field (B), and charge carrier density (n)?",
+    "A": "V_H = BIn",
+    "B": "V_H = I/Bn",
+    "C": "V_H = In/B",
+    "D": "V_H = B/nI",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical formula for the Inverse Square Law, describing the decrease in intensity (I) of a point source over distance (r)?",
+    "A": "I ∝ r",
+    "B": "I ∝ 1/r",
+    "C": "I ∝ r²",
+    "D": "I ∝ 1/r²",
+    "answer": "D"
+  },
+  {
+    "question": "What is the mathematical expression for the Schwarzschild radius (rₛ) of a non-rotating black hole with mass (M), which represents the radius at which the escape velocity equals the speed of light?",
+    "A": "rₛ = 2GM",
+    "B": "rₛ = GM",
+    "C": "rₛ = 4GM",
+    "D": "rₛ = 3GM",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the Friedmann equation, the Hubble constant (H₀), the scale factor (a), and the energy density (ρ) in cosmology?",
+    "A": "H² = (8πG/3)ρ",
+    "B": "H² = 8πGρ/3",
+    "C": "H = (8πG/3)ρ",
+    "D": "H = 8πGρ/3",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the kinetic inductance (L_k) of a superconductor, which arises due to the motion of Cooper pairs?",
+    "A": "L_k = μ₀nse²/m",
+    "B": "L_k = μ₀nse/m",
+    "C": "L_k = μ₀ns²e/m",
+    "D": "L_k = μ₀n²se²/m",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical expression for the Landau-Ginzburg theory, describing the behavior of second-order phase transitions?",
+    "A": "F = ∫(α(T-Tc)|ψ|² + β|ψ|⁴) d³x",
+    "B": "F = ∫(α(T-Tc)|ψ|⁴ + β|ψ|²) d³x",
+    "C": "F = ∫(α|ψ|² + β(T-Tc)|ψ|⁴) d³x",
+    "D": "F = ∫(α|ψ|⁴ + β(T-Tc)|ψ|²) d³x",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the Breit-Wigner formula, which describes the shape of resonances in particle physics and quantum mechanics?",
+    "A": "σ(E) ∝ (Γ/2)^2 / ((E - Eₙ)² + (Γ/2)²)",
+    "B": "σ(E) ∝ (E - Eₙ)² / ((Γ/2)^2 + (E - Eₙ)²)",
+    "C": "σ(E) ∝ Γ² / ((E - Eₙ)² + (Γ/2)²)",
+    "D": "σ(E) ∝ (Γ/2)^2 / (E - Eₙ)",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the velocity (v) of a fluid flowing through a pipe, the pressure (P), density (ρ), and Bernoulli's constant (B)?",
+    "A": "v²/2 + P/ρ = B",
+    "B": "v²/2 + ρ/P = B",
+    "C": "P/ρ + B = v²/2",
+    "D": "ρ/P + B = v²/2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the Kapitza-Dirac effect, which describes the Bragg reflection of electrons on a standing light wave?",
+    "A": "θ = 2kL",
+    "B": "θ = kL",
+    "C": "θ = 3kL",
+    "D": "θ = 4kL",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical expression for the BCS theory, describing the mechanism of superconductivity?",
+    "A": "Δ = -λΔf",
+    "B": "Δ = -λΔc",
+    "C": "Δ = λΔf",
+    "D": "Δ = λΔc",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the Franck-Hertz experiment, describing the energy levels of atoms in a gas and the quantization of energy transitions?",
+    "A": "Eₙ = (n + 1/2)hf",
+    "B": "Eₙ = (n + 1)hf",
+    "C": "Eₙ = (n - 1/2)hf",
+    "D": "Eₙ = (n - 1)hf",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the Mach-Zehnder interferometer, the wave functions at two beam splitters (A and B), and the transmitted (t) and reflected (r) amplitudes?",
+    "A": "ψₒ = tA + rB",
+    "B": "ψₒ = tB + rA",
+    "C": "ψₒ = tA - rB",
+    "D": "ψₒ = tB - rA",
+    "answer": "B"
+  },
+  {
+    "question": "What is the mathematical formula for the critical temperature (Tc) of a superconductor, above which it loses its superconducting properties?",
+    "A": "Tc ∝ 1/M",
+    "B": "Tc ∝ M",
+    "C": "Tc ∝ M²",
+    "D": "Tc ∝ 1/M²",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical expression for the Raman effect, describing the inelastic scattering of photons by molecules and the shift in frequency (Δν) of the scattered light?",
+    "A": "Δν = ν₁ - ν₀",
+    "B": "Δν = ν₀ - ν₁",
+    "C": "Δν = 2ν₁",
+    "D": "Δν = 2ν₀",
+    "answer": "B"
+  },
+  {
+    "question": "What is the mathematical expression for the Bloch theorem, which describes the behavior of electrons in a periodic lattice under an applied electric field?",
+    "A": "ψ(r) = e^(ik·r)u(r)",
+    "B": "ψ(r) = e^(ikr)u(r)",
+    "C": "ψ(r) = e^(ikr)u(r) + e^(-ikr)u(r)",
+    "D": "ψ(r) = e^(ikr)u(r) - e^(-ikr)u(r)",
+    "answer": "B"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the Penrose process, the angular velocity (Ω) of a rotating black hole, and the energy (E) and angular momentum (L) of a particle?",
+    "A": "E = m + ΩL",
+    "B": "E = m - ΩL",
+    "C": "E = m + Ω²L",
+    "D": "E = m - Ω²L",
+    "answer": "B"
+  },
+  {
+    "question": "What is the mathematical formula for the Faraday rotation angle (θ) of polarized light passing through a medium with magnetic field (B) and refractive index (n)?",
+    "A": "θ = VLB",
+    "B": "θ = nBL",
+    "C": "θ = n²BL",
+    "D": "θ = n⁴BL",
+    "answer": "B"
+  },
+  {
+    "question": "Which equation represents the mathematical expression for the Stefan-Boltzmann law, relating the total radiated power (P) by a blackbody to its temperature (T) and Stefan's constant (σ)?",
+    "A": "P = σT⁴",
+    "B": "P = T⁴/σ",
+    "C": "P = σ/T⁴",
+    "D": "P = T⁴σ",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical expression for the Aharonov-Bohm effect, describing the phase shift acquired by a charged particle moving in a magnetic field-free region?",
+    "A": "Δφ = qΦ/ħ",
+    "B": "Δφ = Φ/qħ",
+    "C": "Δφ = ħ/qΦ",
+    "D": "Δφ = q/Φħ",
+    "answer": "A"
+  },
+  {
+    "question": "Which equation represents the mathematical relationship between the Wien's displacement law, the peak wavelength (λ_max) of a blackbody spectrum, and its temperature (T)?",
+    "A": "λ_max = b/T",
+    "B": "λ_max = Tb",
+    "C": "λ_max = T/b",
+    "D": "λ_max = bT",
+    "answer": "A"
+  },
+  {
+    "question": "What is the mathematical formula for the Josephson effect, which describes the tunneling of superconducting Cooper pairs between two superconductors separated by a thin insulating barrier?",
+    "A": "V = 2e/h",
+    "B": "V = h/2e",
+    "C": "V = e/h",
+    "D": "V = h/e",
+    "answer": "A"
+  },
+  {
+    "question": "What is the cosmological constant, often denoted by the Greek letter Lambda (Λ), in the context of general relativity and cosmology?",
+    "A": "A theoretical constant representing the energy density of dark matter.",
+    "B": "A term in Einstein's field equations used to describe the curvature of spacetime.",
+    "C": "A value used to calculate the expansion rate of the universe.",
+    "D": "A hypothetical repulsive force responsible for the observed acceleration of the universe's expansion.",
+    "answer": "D"
+  },
+  {
+    "question": "Which theoretical particle is believed to mediate the gravitational force according to the framework of quantum gravity?",
+    "A": "Photon",
+    "B": "Graviton",
+    "C": "W boson",
+    "D": "Higgs boson",
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary source of energy generation in stars like the Sun?",
+    "A": "Nuclear fission",
+    "B": "Nuclear fusion",
+    "C": "Chemical reactions",
+    "D": "Radioactive decay",
+    "answer": "B"
+  },
+  {
+    "question": "In quantum mechanics, what is the Heisenberg Uncertainty Principle?",
+    "A": "The inability to know both the position and the velocity of a particle simultaneously with absolute certainty.",
+    "B": "The principle that the energy of a particle is inversely proportional to its wavelength.",
+    "C": "The concept that particles can exist in multiple states at once.",
+    "D": "The rule that the sum of the probabilities of all possible outcomes of a measurement must equal 1.",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon, discovered in the late 20th century, involves the acceleration of the universe's expansion over time?",
+    "A": "Dark matter",
+    "B": "Black hole evaporation",
+    "C": "Dark energy",
+    "D": "Quantum tunneling",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which a material transitions directly from a solid to a gas without passing through the liquid phase?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Melting",
+    "answer": "A"
+  },
+  {
+    "question": "Which physical quantity is defined as the amount of energy transferred or converted per unit of time?",
+    "A": "Force",
+    "B": "Power",
+    "C": "Voltage",
+    "D": "Momentum",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the phenomenon where a wave encounters an obstacle and bends around it, resulting in a spreading out of the wave beyond the obstacle?",
+    "A": "Diffraction",
+    "B": "Reflection",
+    "C": "Refraction",
+    "D": "Interference",
+    "answer": "A"
+  },
+  {
+    "question": "Which physical law states that the total electric charge of an isolated system remains constant over time?",
+    "A": "Ohm's law",
+    "B": "Gauss's law",
+    "C": "Coulomb's law",
+    "D": "Law of conservation of charge",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the phenomenon where a photon is absorbed by an atom, raising an electron to a higher energy level, followed by the subsequent emission of a photon when the electron returns to its original state?",
+    "A": "Compton scattering",
+    "B": "Photoelectric effect",
+    "C": "Doppler effect",
+    "D": "Atomic absorption spectroscopy",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the elementary particle that is the antiparticle of the electron?",
+    "A": "Muon",
+    "B": "Positron",
+    "C": "Neutrino",
+    "D": "Quark",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the region of space around a black hole from which no matter or radiation can escape due to the immense gravitational pull?",
+    "A": "Event horizon",
+    "B": "Singularity",
+    "C": "Einstein-Rosen bridge",
+    "D": "Wormhole",
+    "answer": "A"
+  },
+  {
+    "question": "Which concept in physics refers to the bending of light as it passes through different media, such as air and water?",
+    "A": "Diffraction",
+    "B": "Dispersion",
+    "C": "Refraction",
+    "D": "Interference",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the theory that seeks to unify all the fundamental forces of nature, including gravity, into a single framework?",
+    "A": "String theory",
+    "B": "Quantum mechanics",
+    "C": "Standard Model",
+    "D": "Theory of everything",
+    "answer": "D"
+  },
+  {
+    "question": "In particle physics, what is the strong force responsible for?",
+    "A": "Gravitational attraction",
+    "B": "Electromagnetic repulsion",
+    "C": "Holding atomic nuclei together",
+    "D": "Generating electric fields",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the phenomenon where a sound wave is reflected off a surface and the reflected sound arrives at the listener's ears with a noticeable delay?",
+    "A": "Echo",
+    "B": "Resonance",
+    "C": "Interference",
+    "D": "Doppler effect",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of radiation is responsible for the ionization of atoms and molecules in the Earth's upper atmosphere, creating the auroras?",
+    "A": "Visible light",
+    "B": "Gamma rays",
+    "C": "X-rays",
+    "D": "Ultraviolet radiation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the principle that states that an object immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid it displaces?",
+    "A": "Newton's first law",
+    "B": "Pascal's principle",
+    "C": "Archimedes' principle",
+    "D": "Hooke's law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the effect where a moving source of sound waves experiences a shift in frequency when heard by an observer due to their relative motion?",
+    "A": "Doppler effect",
+    "B": "Interference effect",
+    "C": "Resonance effect",
+    "D": "Diffraction effect",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the process of spontaneous disintegration of the nucleus of an unstable atom, releasing radiation?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Decay",
+    "D": "Emission",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the principle that states that the total entropy of an isolated system can never decrease over time?",
+    "A": "Second law of thermodynamics",
+    "B": "Law of conservation of energy",
+    "C": "Law of conservation of momentum",
+    "D": "Law of definite proportions",
+    "answer": "A"
+  },
+  {
+    "question": "Which hypothetical particle is postulated to be responsible for giving other particles mass through the Higgs mechanism?",
+    "A": "W boson",
+    "B": "Gluon",
+    "C": "Higgs boson",
+    "D": "Z boson",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the phenomenon where light waves are bent and distorted due to differences in air density, causing distant objects to appear displaced or distorted?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Dispersion",
+    "D": "Interference",
+    "answer": "A"
+  },
+  {
+    "question": "In quantum mechanics, what is the term used to describe a particle's ability to exist in multiple states at once until observed?",
+    "A": "Tunneling",
+    "B": "Superposition",
+    "C": "Entanglement",
+    "D": "Emission",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the particle accelerator that spans the border between Switzerland and France and is used to study fundamental particle physics?",
+    "A": "Large Hadron Collider (LHC)",
+    "B": "Fermilab",
+    "C": "Stanford Linear Collider (SLC)",
+    "D": "Relativistic Heavy Ion Collider (RHIC)",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon occurs when a liquid flows in a way that its velocity is highest near the center of the stream and decreases near the boundaries?",
+    "A": "Viscosity",
+    "B": "Laminar flow",
+    "C": "Turbulent flow",
+    "D": "Surface tension",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process of an unstable atomic nucleus splitting into two smaller nuclei, releasing a significant amount of energy?",
+    "A": "Nuclear fusion",
+    "B": "Radioactive decay",
+    "C": "Nuclear fission",
+    "D": "Alpha decay",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the phenomenon where a moving object contracts in the direction of motion as its velocity approaches the speed of light?",
+    "A": "Time dilation",
+    "B": "Length contraction",
+    "C": "Relativistic contraction",
+    "D": "Gravitational contraction",
+    "answer": "B"
+  },
+  {
+    "question": "Which fundamental force is responsible for holding the nucleus of an atom together despite the electric repulsion between protons?",
+    "A": "Gravity",
+    "B": "Electromagnetism",
+    "C": "Strong nuclear force",
+    "D": "Weak nuclear force",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which an atom absorbs a high-energy photon and then emits multiple lower-energy photons as it returns to a lower energy state?",
+    "A": "Photoelectric effect",
+    "B": "Compton scattering",
+    "C": "Laser cooling",
+    "D": "Fluorescence",
+    "answer": "D"
+  },
+  {
+    "question": "In the context of particle physics, what is a hadron?",
+    "A": "A particle composed of quarks.",
+    "B": "A particle that is a carrier of the electromagnetic force.",
+    "C": "A particle that is a carrier of the weak nuclear force.",
+    "D": "A particle that is a carrier of the strong nuclear force.",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the branch of physics that deals with the study of the behavior of fluids in motion?",
+    "A": "Optics",
+    "B": "Thermodynamics",
+    "C": "Electrodynamics",
+    "D": "Fluid dynamics",
+    "answer": "D"
+  },
+  {
+    "question": "Which subatomic particle is associated with the weak nuclear force and plays a crucial role in processes like beta decay?",
+    "A": "Neutrino",
+    "B": "Positron",
+    "C": "Proton",
+    "D": "Photon",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the boundary layer in fluid dynamics where the flow velocity transitions from zero at the surface of a solid object to the free-stream velocity?",
+    "A": "Laminar layer",
+    "B": "Turbulent layer",
+    "C": "Viscous layer",
+    "D": "Boundary layer",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the study of the behavior of light when it interacts with matter?",
+    "A": "Quantum mechanics",
+    "B": "Optics",
+    "C": "Relativity",
+    "D": "Thermodynamics",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the particle that carries the strong nuclear force between quarks inside hadrons?",
+    "A": "Photon",
+    "B": "Gluon",
+    "C": "W boson",
+    "D": "Z boson",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the process in which a neutron decays into a proton, an electron, and an antineutrino?",
+    "A": "Beta decay",
+    "B": "Alpha decay",
+    "C": "Gamma decay",
+    "D": "Positron emission",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the condition in fluid dynamics where the flow becomes chaotic and irregular, characterized by rapid changes in pressure and velocity?",
+    "A": "Laminar flow",
+    "B": "Viscous flow",
+    "C": "Turbulent flow",
+    "D": "Steady flow",
+    "answer": "C"
+  },
+  {
+    "question": "Which process involves the conversion of a solid directly into a gas without passing through the liquid phase?",
+    "A": "Sublimation",
+    "B": "Condensation",
+    "C": "Vaporization",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the branch of physics that deals with the study of heat and its transfer?",
+    "A": "Thermodynamics",
+    "B": "Kinematics",
+    "C": "Electromagnetism",
+    "D": "Astrophysics",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the phenomenon where a charged particle moving through a magnetic field experiences a force perpendicular to both its velocity and the field?",
+    "A": "Lorentz force",
+    "B": "Centripetal force",
+    "C": "Gravitational force",
+    "D": "Electrostatic force",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of radiation is used in medical imaging to create detailed images of the internal structures of the body, such as bones and tissues?",
+    "A": "Gamma rays",
+    "B": "X-rays",
+    "C": "Ultraviolet radiation",
+    "D": "Infrared radiation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the concept in special relativity that states that the laws of physics are the same for all non-accelerating observers?",
+    "A": "Principle of equivalence",
+    "B": "Principle of relativity",
+    "C": "Principle of invariance",
+    "D": "Principle of conservation",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of particle is a fermion that does not experience the strong nuclear force and has an extremely low mass?",
+    "A": "Proton",
+    "B": "Neutrino",
+    "C": "Muon",
+    "D": "Quark",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process of a high-energy photon interacting with a free electron, transferring energy to the electron and causing it to recoil?",
+    "A": "Photoelectric effect",
+    "B": "Compton scattering",
+    "C": "Pair production",
+    "D": "Fluorescence",
+    "answer": "B"
+  },
+  {
+    "question": "Which law of thermodynamics states that the total entropy of a closed system can never decrease?",
+    "A": "Zeroth law",
+    "B": "First law",
+    "C": "Second law",
+    "D": "Third law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the property of a material to return to its original shape after being deformed under stress?",
+    "A": "Viscosity",
+    "B": "Elasticity",
+    "C": "Plasticity",
+    "D": "Rigidity",
+    "answer": "B"
+  },
+  {
+    "question": "In particle physics, what is the name of the hypothetical particle proposed to explain the lack of antimatter in the universe?",
+    "A": "Dark photon",
+    "B": "Z boson",
+    "C": "Axion",
+    "D": "Graviton",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the phenomenon where an object in motion experiences a force that deflects it away from a straight-line path due to the rotation of the Earth?",
+    "A": "Coriolis effect",
+    "B": "Doppler effect",
+    "C": "Lorentz effect",
+    "D": "Gravitational effect",
+    "answer": "A"
+  },
+  {
+    "question": "Which fundamental force is responsible for causing radioactive decay and is involved in some types of subatomic particle interactions?",
+    "A": "Gravity",
+    "B": "Electromagnetism",
+    "C": "Strong nuclear force",
+    "D": "Weak nuclear force",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the condition in which a fluid's flow speed increases as the pressure decreases?",
+    "A": "Laminar flow",
+    "B": "Turbulent flow",
+    "C": "Bernoulli's principle",
+    "D": "Viscosity",
+    "answer": "C"
+  },
+  {
+    "question": "In optics, what is the name of the phenomenon where light is bent as it passes from one medium to another due to a change in speed?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Interference",
+    "D": "Polarization",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the boundary between two fluids with different densities that separates the upper layer from the lower layer?",
+    "A": "Thermocline",
+    "B": "Halocline",
+    "C": "Pyroclastic flow",
+    "D": "Pycnocline",
+    "answer": "D"
+  },
+  {
+    "question": "Which phenomenon, associated with quantum mechanics, refers to the ability of particles to be in multiple places at once until they are observed?",
+    "A": "Superposition",
+    "B": "Tunneling",
+    "C": "Entanglement",
+    "D": "Decoherence",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the principle that states that the fundamental laws of physics are the same for all observers regardless of their motion?",
+    "A": "Planck's principle",
+    "B": "Einstein's principle",
+    "C": "Principle of relativity",
+    "D": "Principle of invariance",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of particle is responsible for mediating the electromagnetic force between charged particles?",
+    "A": "Gluon",
+    "B": "Photon",
+    "C": "W boson",
+    "D": "Z boson",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process by which a massive star collapses under its own gravity, resulting in an explosion that releases an enormous amount of energy?",
+    "A": "Nuclear fusion",
+    "B": "Supernova",
+    "C": "Black hole formation",
+    "D": "Planetary nebula",
+    "answer": "B"
+  },
+  {
+    "question": "In optics, what is the phenomenon where light waves combine to amplify or cancel each other out?",
+    "A": "Refraction",
+    "B": "Diffraction",
+    "C": "Interference",
+    "D": "Polarization",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of converting a substance from a gas directly into a solid without passing through the liquid phase?",
+    "A": "Condensation",
+    "B": "Sublimation",
+    "C": "Vaporization",
+    "D": "Evaporation",
+    "answer": "B"
+  },
+  {
+    "question": "Which property of a lens determines its ability to focus light and is represented by the reciprocal of its focal length?",
+    "A": "Aperture",
+    "B": "F-number",
+    "C": "Index of refraction",
+    "D": "Power",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the hypothesis that suggests our universe is just one of many universes that exist parallel to each other?",
+    "A": "Multi-dimensional theory",
+    "B": "Parallel universe theory",
+    "C": "String theory",
+    "D": "Multiverse theory",
+    "answer": "D"
+  },
+  {
+    "question": "Which physical law suggests that the entropy of a closed system never decreases, implying that the universe tends towards a state of maximum disorder?",
+    "A": "Zeroth law of thermodynamics",
+    "B": "First law of thermodynamics",
+    "C": "Second law of thermodynamics",
+    "D": "Third law of thermodynamics",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the theoretical particle that is its own antiparticle and is believed to be a component of dark matter?",
+    "A": "Axion",
+    "B": "WIMP",
+    "C": "Z boson",
+    "D": "Higgsino",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the process in which a neutron star collapses under its own gravity, forming a singularity with infinite density?",
+    "A": "Supernova",
+    "B": "Black hole formation",
+    "C": "Neutron decay",
+    "D": "Quark confinement",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of quantum mechanics, what is the phenomenon where a particle can tunnel through a barrier even though it doesn't have enough energy to overcome it classically?",
+    "A": "Superposition",
+    "B": "Tunneling",
+    "C": "Entanglement",
+    "D": "Diffraction",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the concept in general relativity that suggests that massive objects warp the fabric of spacetime, causing other objects to move along curved paths?",
+    "A": "Warp drive",
+    "B": "Gravitational lensing",
+    "C": "Time dilation",
+    "D": "Higgs mechanism",
+    "answer": "B"
+  },
+  {
+    "question": "Which subatomic particle is responsible for carrying the strong nuclear force between quarks within protons and neutrons?",
+    "A": "Photon",
+    "B": "Gluon",
+    "C": "Z boson",
+    "D": "Higgs boson",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the hypothesis that suggests our universe is just a simulation running on a highly advanced computer of a higher reality?",
+    "A": "Simulation hypothesis",
+    "B": "Matrix theory",
+    "C": "Digital reality theory",
+    "D": "Virtual universe concept",
+    "answer": "A"
+  },
+  {
+    "question": "Which fundamental force is responsible for the decay of unstable subatomic particles and is involved in processes like beta decay?",
+    "A": "Gravity",
+    "B": "Electromagnetism",
+    "C": "Strong nuclear force",
+    "D": "Weak nuclear force",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the concept in quantum mechanics where particles that have interacted at some point in time remain connected regardless of the distance between them?",
+    "A": "Superposition",
+    "B": "Tunneling",
+    "C": "Relativity",
+    "D": "Entanglement",
+    "answer": "D"
+  },
+  {
+    "question": "Which exotic cosmic phenomenon is characterized by the abrupt collapse of a massive star's core, resulting in a release of energy that outshines an entire galaxy?",
+    "A": "Neutron star",
+    "B": "Supernova",
+    "C": "White dwarf",
+    "D": "Hypernova",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the point in space-time beyond the event horizon of a black hole where the gravitational forces become too strong to escape?",
+    "A": "Singularity",
+    "B": "Ergosphere",
+    "C": "Event horizon",
+    "D": "Schwarzschild radius",
+    "answer": "A"
+  },
+  {
+    "question": "Which mysterious cosmic phenomenon involves a sudden release of energy from a white dwarf star, causing a bright and brief flare-up?",
+    "A": "Supernova",
+    "B": "Pulsar burst",
+    "C": "Gamma-ray burst",
+    "D": "Nova",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the unobservable form of matter that does not emit or interact with electromagnetic radiation, yet makes up a significant portion of the universe's mass?",
+    "A": "Dark energy",
+    "B": "Exotic matter",
+    "C": "Neutrinos",
+    "D": "Dark matter",
+    "answer": "D"
+  },
+  {
+    "question": "In theoretical physics, what is the concept that suggests space-time can be distorted to create a shortcut between two distant points?",
+    "A": "Wormhole",
+    "B": "White hole",
+    "C": "Black hole",
+    "D": "Warp drive",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the hypothetical structure in space-time that connects two separate black holes?",
+    "A": "Einstein-Rosen bridge",
+    "B": "Hawking tunnel",
+    "C": "Wheeler wormhole",
+    "D": "Kerr tube",
+    "answer": "A"
+  },
+  {
+    "question": "Which concept suggests that the properties of particles can change instantaneously across vast distances, violating the principle of locality?",
+    "A": "Tunneling",
+    "B": "Superposition",
+    "C": "Relativity",
+    "D": "Non-locality",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the phenomenon where particles appear to spontaneously pop in and out of existence due to the uncertainty principle?",
+    "A": "Quantum tunneling",
+    "B": "Vacuum fluctuation",
+    "C": "Casimir effect",
+    "D": "Quantum entanglement",
+    "answer": "B"
+  },
+  {
+    "question": "Which term refers to the hypothetical point in the center of a black hole where density becomes infinitely high and space-time curvature becomes infinite?",
+    "A": "Event horizon",
+    "B": "Singularity",
+    "C": "Ergosphere",
+    "D": "Quark point",
+    "answer": "B"
+  },
+  {
+    "question": "In cosmology, what is the term for the theoretical matter that has negative energy density and could contribute to the accelerated expansion of the universe?",
+    "A": "Dark energy",
+    "B": "Quintessence",
+    "C": "Exotic matter",
+    "D": "Negative mass",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the theoretical phenomenon where a spinning black hole drags the surrounding space-time along with it, creating a region where even light cannot escape?",
+    "A": "Kerr effect",
+    "B": "Gravitational lensing",
+    "C": "Einstein-Rosen bridge",
+    "D": "Frame-dragging",
+    "answer": "D"
+  },
+  {
+    "question": "Which hypothetical elementary particle, proposed to be a component of dark matter, would have extremely weak interactions with ordinary matter?",
+    "A": "Axion",
+    "B": "Gravitino",
+    "C": "Higgsino",
+    "D": "Neutralino",
+    "answer": "A"
+  },
+  {
+    "question": "In the context of particle physics, what is the name of the hypothetical particle that could be responsible for mediating the force between dark matter particles?",
+    "A": "Dark photon",
+    "B": "Dark gluon",
+    "C": "Dark W boson",
+    "D": "Dark graviton",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the phenomenon where a particle's location is described by a probability distribution until it is observed, at which point it 'collapses' to a definite position?",
+    "A": "Wave-particle duality",
+    "B": "Quantum entanglement",
+    "C": "Observer effect",
+    "D": "Measurement paradox",
+    "answer": "C"
+  },
+  {
+    "question": "Which theoretical concept suggests that information that enters a black hole is not lost but instead encoded on its event horizon?",
+    "A": "Information paradox",
+    "B": "No-hair theorem",
+    "C": "Holographic principle",
+    "D": "Black hole singularity",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the hypothetical region around a rotating black hole where objects cannot remain stationary and are forced to move in the direction of rotation?",
+    "A": "Event horizon",
+    "B": "Singularity",
+    "C": "Ergosphere",
+    "D": "Photon sphere",
+    "answer": "C"
+  },
+  {
+    "question": "In particle physics, what is the name of the hypothetical particle that could be responsible for giving mass to all other particles through a process known as symmetry breaking?",
+    "A": "Higgs boson",
+    "B": "Graviton",
+    "C": "Axion",
+    "D": "Neutrino",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the hypothetical structure that could connect two separate regions of space-time, allowing for faster-than-light travel?",
+    "A": "Warp drive",
+    "B": "Wormhole",
+    "C": "Einstein-Rosen bridge",
+    "D": "White hole",
+    "answer": "B"
+  },
+  {
+    "question": "Which term refers to the phenomenon in which two particles become correlated in such a way that the state of one particle instantaneously influences the state of the other, regardless of distance?",
+    "A": "Quantum teleportation",
+    "B": "Entanglement",
+    "C": "Non-locality",
+    "D": "Quantum coherence",
+    "answer": "B"
+  },
+  {
+    "question": "In theoretical physics, what is the name of the concept that suggests that space-time itself can expand faster than the speed of light during certain periods of the universe's history?",
+    "A": "Inflation",
+    "B": "Deflation",
+    "C": "Expansion",
+    "D": "Dilation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the hypothetical particle that could be responsible for mediating the force between dark matter particles, similar to the way photons mediate electromagnetic forces?",
+    "A": "Dark photon",
+    "B": "Dark gluon",
+    "C": "Dark W boson",
+    "D": "Dark graviton",
+    "answer": "A"
+  },
+  {
+    "question": "In cosmology, what is the name of the theoretical force that could be responsible for the accelerated expansion of the universe, contrary to the effect of gravity?",
+    "A": "Dark energy",
+    "B": "Dark matter",
+    "C": "Cosmological constant",
+    "D": "Einstein's force",
+    "answer": "A"
+  },
+  {
+    "question": "Which concept, associated with the phenomenon of Hawking radiation, suggests that black holes can emit particles and eventually evaporate completely over extremely long timescales?",
+    "A": "Black hole evaporation",
+    "B": "Quantum vacuum fluctuation",
+    "C": "Event horizon shrinkage",
+    "D": "Cosmic radiation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the hypothetical process that suggests the universe is continually creating new space-time beyond our observable horizon?",
+    "A": "Inflation",
+    "B": "Expansion",
+    "C": "Dark energy creation",
+    "D": "Vacuum fluctuation",
+    "answer": "A"
+  },
+  {
+    "question": "In quantum mechanics, what is the phenomenon where a single particle exists in multiple places at the same time due to wave-like behavior?",
+    "A": "Tunneling",
+    "B": "Entanglement",
+    "C": "Superposition",
+    "D": "Collapse",
+    "answer": "C"
+  },
+  {
+    "question": "Which theoretical concept suggests that gravity could leak into our universe from another, higher-dimensional universe?",
+    "A": "Extra-dimensional leakage",
+    "B": "Brane collision",
+    "C": "Gravity influx",
+    "D": "Bulk flow",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the hypothetical point in space-time where the gravitational pull becomes infinitely strong and where the laws of physics break down?",
+    "A": "Event horizon",
+    "B": "Singularity",
+    "C": "Black point",
+    "D": "Hawking point",
+    "answer": "B"
+  },
+  {
+    "question": "In cosmology, what is the name of the phenomenon that suggests the universe underwent an extremely rapid expansion shortly after the Big Bang?",
+    "A": "Dark energy",
+    "B": "Primordial inflation",
+    "C": "Cosmic expansion",
+    "D": "Quantum fluctuation",
+    "answer": "B"
+  },
+  {
+    "question": "Which concept, proposed by physicist John Wheeler, suggests that the act of observing a particle's properties determines its behavior?",
+    "A": "Wave-particle duality",
+    "B": "Participatory universe",
+    "C": "Observer effect",
+    "D": "Wave function collapse",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the theoretical point in the universe's past where density, temperature, and other properties were infinitely high?",
+    "A": "Singularity",
+    "B": "Big Crunch",
+    "C": "Infinite point",
+    "D": "Primordial state",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the hypothetical form of matter that could make up a significant portion of the universe's mass and does not interact with electromagnetic radiation?",
+    "A": "Quintessence",
+    "B": "Exotic matter",
+    "C": "Negative mass",
+    "D": "Dark matter",
+    "answer": "D"
+  },
+  {
+    "question": "In quantum mechanics, what is the concept that suggests particles can be connected in such a way that the state of one particle is immediately affected by the measurement of another, even when far apart?",
+    "A": "Quantum tunneling",
+    "B": "Quantum superposition",
+    "C": "Quantum entanglement",
+    "D": "Quantum coherence",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the phenomenon where particles spontaneously pop in and out of existence due to the inherent uncertainty of quantum physics?",
+    "A": "Zero-point energy",
+    "B": "Quantum fluctuation",
+    "C": "Vacuum decay",
+    "D": "Particle evaporation",
+    "answer": "B"
+  },
+  {
+    "question": "In cosmology, what is the name of the hypothetical force that could be responsible for causing the universe to eventually contract and collapse?",
+    "A": "Dark energy",
+    "B": "Antigravity",
+    "C": "Cosmological constant",
+    "D": "Big Crunch",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the hypothetical particle that is its own antiparticle and could potentially be a crucial component of quantum computing?",
+    "A": "Majorana fermion",
+    "B": "Fermion boson",
+    "C": "Neutrino",
+    "D": "Dark photon",
+    "answer": "A"
+  },
+  {
+    "question": "In the context of string theory, how many dimensions are proposed to exist in total, including the familiar three spatial dimensions and one time dimension?",
+    "A": "Three",
+    "B": "Ten",
+    "C": "Eleven",
+    "D": "Twenty-six",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the theoretical concept where particles can exist in a state of superposition and collapse into a definite state only when observed?",
+    "A": "Quantum tunneling",
+    "B": "Wave-particle duality",
+    "C": "Measurement paradox",
+    "D": "Collapse of the wave function",
+    "answer": "D"
+  },
+  {
+    "question": "In particle physics, what is the name of the hypothetical force carrier particle that mediates the force between dark matter particles?",
+    "A": "Dark photon",
+    "B": "Dark gluon",
+    "C": "Dark W boson",
+    "D": "Dark graviton",
+    "answer": "A"
+  },
+  {
+    "question": "Which term refers to the phenomenon where a massive star's core collapses, forming a neutron star, and then continues to collapse under its own gravity to become a black hole?",
+    "A": "Neutronization",
+    "B": "Quark confinement",
+    "C": "Black hole singularity",
+    "D": "Gravitational collapse",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the proposed theoretical structure that could connect two separate universes, allowing information or energy to pass between them?",
+    "A": "Multiverse",
+    "B": "Parallel universe",
+    "C": "Bridge universe",
+    "D": "Cosmic string",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of theoretical physics, what is the name of the proposed subatomic particle that could be responsible for mediating gravity?",
+    "A": "Photon",
+    "B": "Gluon",
+    "C": "Graviton",
+    "D": "W boson",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the theoretical process where particles in a black hole's vicinity are emitted due to quantum effects near the event horizon?",
+    "A": "Hawking radiation",
+    "B": "Black hole evaporation",
+    "C": "Quantum vacuum radiation",
+    "D": "Gravitational discharge",
+    "answer": "A"
+  },
+  {
+    "question": "In the context of string theory, what is the term for the hypothetical multidimensional structures that could make up the fundamental building blocks of the universe?",
+    "A": "Brane",
+    "B": "Quark",
+    "C": "Lepton",
+    "D": "Photon",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the theoretical state in which all matter and energy in the universe is compressed to an infinitely small point?",
+    "A": "Singularity",
+    "B": "Zero-point state",
+    "C": "Nihilistic point",
+    "D": "Primordial singularity",
+    "answer": "A"
+  },
+  {
+    "question": "In cosmology, what is the name of the hypothetical particle that could be responsible for mediating the force of inflation, driving the universe's rapid expansion?",
+    "A": "Inflaton",
+    "B": "Expansionon",
+    "C": "Cosmic boson",
+    "D": "Acceleron",
+    "answer": "A"
+  },
+  {
+    "question": "Which concept in theoretical physics proposes that the properties of a black hole are determined by just a few fundamental parameters, regardless of the details of its formation?",
+    "A": "Black hole entropy",
+    "B": "No-hair theorem",
+    "C": "Event horizon principle",
+    "D": "Black hole uniqueness",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the theoretical phenomenon where space-time can be stretched or compressed by massive objects, causing light to bend as it passes through?",
+    "A": "Gravitational lensing",
+    "B": "Spatial warping",
+    "C": "Time dilation",
+    "D": "Einstein effect",
+    "answer": "A"
+  },
+  {
+    "question": "In the context of theoretical physics, what is the name of the hypothetical particle that could be responsible for giving mass to other particles and is associated with the Higgs field?",
+    "A": "Higgs boson",
+    "B": "Graviton",
+    "C": "Photon",
+    "D": "Axion",
+    "answer": "A"
+  },
+  {
+    "question": "Which term refers to the phenomenon where a virtual particle-antiparticle pair pops into existence near a black hole's event horizon, with one particle falling into the black hole and the other escaping as radiation?",
+    "A": "Black hole evaporation",
+    "B": "Hawking radiation",
+    "C": "Quantum flux",
+    "D": "Particle duality",
+    "answer": "B"
+  },
+  {
+    "question": "In cosmology, what is the name of the proposed hypothetical particle that could be a candidate for dark matter and has properties similar to neutrinos?",
+    "A": "Axion",
+    "B": "WIMP",
+    "C": "Graviton",
+    "D": "Higgsino",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the phenomenon where a particle's position and momentum cannot both be precisely determined simultaneously?",
+    "A": "Heisenberg uncertainty",
+    "B": "Quantum entanglement",
+    "C": "Observer effect",
+    "D": "Wave-particle duality",
+    "answer": "A"
+  },
+  {
+    "question": "In string theory, what is the term for the hypothetical tiny, vibrating one-dimensional strings that make up the fundamental particles?",
+    "A": "Subquarks",
+    "B": "Quintessons",
+    "C": "Superstrings",
+    "D": "Bosons",
+    "answer": "C"
+  },
+  {
+    "question": "Which concept, associated with the event horizon of a black hole, suggests that information about matter falling into a black hole is not lost but preserved?",
+    "A": "Bekenstein bound",
+    "B": "No-hair theorem",
+    "C": "Hawking radiation",
+    "D": "Information paradox",
+    "answer": "D"
+  },
+  {
+    "question": "In cosmology, what is the term for the proposed rapid expansion of space that occurred in the instant following the Big Bang?",
+    "A": "Dark energy",
+    "B": "Inflation",
+    "C": "Expansion burst",
+    "D": "Space-time surge",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the hypothetical exotic particle that could be its own antiparticle and is theorized to be a key element in quantum computing?",
+    "A": "Axion",
+    "B": "Majorana fermion",
+    "C": "WIMP",
+    "D": "Higgsino",
+    "answer": "B"
+  },
+  {
+    "question": "In theoretical physics, what is the name of the concept that suggests the fundamental constants of nature are not actually constant but can vary over time?",
+    "A": "Variable constant theory",
+    "B": "Time dilation",
+    "C": "Fine-structure fluctuation",
+    "D": "Time-varying constants",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the hypothetical particle that could be responsible for mediating a fifth fundamental force of nature beyond the known four?",
+    "A": "Axion",
+    "B": "Tachyon",
+    "C": "X boson",
+    "D": "Pentaquark",
+    "answer": "A"
+  },
+  {
+    "question": "In particle physics, what is the name of the hypothetical particle that could explain the imbalance between matter and antimatter in the universe?",
+    "A": "Dark photon",
+    "B": "Neutrino",
+    "C": "Anti-matteron",
+    "D": "Baryon",
+    "answer": "A"
+  },
+  {
+    "question": "Which theoretical concept suggests that all of space is filled with a field of Higgs bosons, which interact with particles to give them mass?",
+    "A": "Higgs vacuum",
+    "B": "Higgs cloud",
+    "C": "Higgs field",
+    "D": "Higgs universe",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the hypothetical entity that could explain the origin of the universe and is theorized to exist before the Big Bang?",
+    "A": "Pre-Bang singularity",
+    "B": "Big Bounce",
+    "C": "Primordial black hole",
+    "D": "Cosmic egg",
+    "answer": "B"
+  },
+  {
+    "question": "In string theory, what is the term for the higher-dimensional space where strings vibrate and interact, which may explain the apparent forces in our three-dimensional universe?",
+    "A": "Parallel space",
+    "B": "Quintessence space",
+    "C": "Brane world",
+    "D": "Multiverse",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the hypothetical process where matter and antimatter particles near the event horizon of a black hole can become separated, leading to a release of energy?",
+    "A": "Antimatter escape",
+    "B": "Hawking process",
+    "C": "Charge separation",
+    "D": "CP violation",
+    "answer": "C"
+  },
+  {
+    "question": "In theoretical physics, what is the concept that suggests the universe appears the same from any point of observation?",
+    "A": "Cosmic homogeneity",
+    "B": "Isotropy principle",
+    "C": "Universal symmetry",
+    "D": "Cosmic equilibrium",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the theoretical model that suggests the universe undergoes cycles of expansion and contraction, with each cycle beginning after a Big Crunch event?",
+    "A": "Big Bounce",
+    "B": "Cycle cosmology",
+    "C": "Recurrent universe",
+    "D": "Eternal return",
+    "answer": "A"
+  },
+  {
+    "question": "In the context of string theory, what is the term for the hypothetical phenomenon where strings can combine and split apart, leading to the formation of particles?",
+    "A": "String merging",
+    "B": "Brane creation",
+    "C": "String splitting",
+    "D": "String interaction",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the hypothetical particle that could be responsible for carrying the force between neutrinos and making them massive?",
+    "A": "Neutrino boson",
+    "B": "WIMP",
+    "C": "Z boson",
+    "D": "Neutrinoino",
+    "answer": "C"
+  },
+  {
+    "question": "In cosmology, what is the name of the hypothetical process that could have caused the universe to transition from a very small, hot, and dense state to its current state?",
+    "A": "Dimensional shift",
+    "B": "Cosmic transition",
+    "C": "Inflation",
+    "D": "Cosmic fluctuation",
+    "answer": "C"
+  },
+  {
+    "question": "Which theoretical concept suggests that space-time is not continuous but consists of discrete, indivisible units?",
+    "A": "String theory",
+    "B": "Loop quantum gravity",
+    "C": "M-theory",
+    "D": "Einstein's spacetime",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the hypothetical concept that suggests particles in the universe were originally created as tiny 'baby universes' that grew and expanded?",
+    "A": "Universal inception",
+    "B": "Baby universe theory",
+    "C": "Brane inflation",
+    "D": "Inflating universe hypothesis",
+    "answer": "B"
+  },
+  {
+    "question": "In quantum mechanics, what is the phenomenon where particles can become 'entangled' and their properties remain connected, regardless of distance?",
+    "A": "Quantum binding",
+    "B": "Non-locality",
+    "C": "Quantum entanglement",
+    "D": "Wave interference",
+    "answer": "C"
+  }
+]

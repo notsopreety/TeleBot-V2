@@ -1,0 +1,5418 @@
+[
+  {
+    "question": "What is the chemical symbol for the element oxygen?",
+    "A": "Ox",
+    "B": "O",
+    "C": "O2",
+    "D": "Om",
+    "answer": "B"
+  },
+  {
+    "question": "Which gas is responsible for the scent of rotten eggs?",
+    "A": "Hydrogen",
+    "B": "Oxygen",
+    "C": "Sulfur dioxide",
+    "D": "Hydrogen sulfide",
+    "answer": "D"
+  },
+  {
+    "question": "Which subatomic particle has a positive charge?",
+    "A": "Neutron",
+    "B": "Electron",
+    "C": "Proton",
+    "D": "Photon",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical symbol for the element gold?",
+    "A": "Go",
+    "B": "Gd",
+    "C": "Au",
+    "D": "Ag",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electrons?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Hydrogen bond",
+    "D": "Metallic bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the pH value of a neutral substance?",
+    "A": "7",
+    "B": "1",
+    "C": "14",
+    "D": "0",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is commonly used as a semiconductor in electronics?",
+    "A": "Silicon",
+    "B": "Carbon",
+    "C": "Aluminum",
+    "D": "Iron",
+    "answer": "A"
+  },
+  {
+    "question": "Which gas is essential for photosynthesis in plants?",
+    "A": "Carbon dioxide",
+    "B": "Oxygen",
+    "C": "Nitrogen",
+    "D": "Hydrogen",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "A": "CO2",
+    "B": "H2O",
+    "C": "O2",
+    "D": "C6H12O6",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of reaction involves the combination of two or more substances to form a single product?",
+    "A": "Decomposition reaction",
+    "B": "Combustion reaction",
+    "C": "Synthesis reaction",
+    "D": "Replacement reaction",
+    "answer": "C"
+  },
+  {
+    "question": "Which gas is known as laughing gas?",
+    "A": "Oxygen",
+    "B": "Carbon dioxide",
+    "C": "Nitrogen",
+    "D": "Nitrous oxide",
+    "answer": "D"
+  },
+  {
+    "question": "What is the process of conversion of a solid directly into vapor called?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Crystallization",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is the most abundant in Earth's crust?",
+    "A": "Oxygen",
+    "B": "Silicon",
+    "C": "Aluminum",
+    "D": "Iron",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "A": "NaCl",
+    "B": "H2O",
+    "C": "KCl",
+    "D": "MgSO4",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process by which a substance goes directly from a gas to a solid without passing through the liquid state?",
+    "A": "Condensation",
+    "B": "Sublimation",
+    "C": "Evaporation",
+    "D": "Solidification",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for the element iron?",
+    "A": "I",
+    "B": "Fe",
+    "C": "Ir",
+    "D": "In",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of radiation is used in medical imaging such as X-rays?",
+    "A": "Alpha radiation",
+    "B": "Beta radiation",
+    "C": "Gamma radiation",
+    "D": "Neutron radiation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of splitting a nucleus into smaller fragments called?",
+    "A": "Fission",
+    "B": "Fusion",
+    "C": "Decay",
+    "D": "Combustion",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is a noble gas and is commonly used in balloons to make them float?",
+    "A": "Argon",
+    "B": "Krypton",
+    "C": "Helium",
+    "D": "Neon",
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of measurement for the amount of a substance?",
+    "A": "Mole",
+    "B": "Gram",
+    "C": "Liter",
+    "D": "Celsius",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is used as a moderator in some nuclear reactors?",
+    "A": "Uranium",
+    "B": "Plutonium",
+    "C": "Thorium",
+    "D": "Graphite",
+    "answer": "D"
+  },
+  {
+    "question": "What is the smallest unit of an element that retains its chemical properties?",
+    "A": "Atom",
+    "B": "Molecule",
+    "C": "Compound",
+    "D": "Cell",
+    "answer": "A"
+  },
+  {
+    "question": "Which acid is found in citrus fruits like lemons and oranges?",
+    "A": "Sulfuric acid",
+    "B": "Hydrochloric acid",
+    "C": "Citric acid",
+    "D": "Acetic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a substance changing from a gas to a liquid called?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is responsible for the blue color of the sky?",
+    "A": "Oxygen",
+    "B": "Nitrogen",
+    "C": "Carbon dioxide",
+    "D": "Ozone",
+    "answer": "D"
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "A": "Methane",
+    "B": "Ethane",
+    "C": "Propane",
+    "D": "Butane",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of bond is formed by the electrostatic attraction between oppositely charged ions?",
+    "A": "Covalent bond",
+    "B": "Metallic bond",
+    "C": "Ionic bond",
+    "D": "Hydrogen bond",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "A": "CH4",
+    "B": "CO2",
+    "C": "C6H12O6",
+    "D": "N2",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is essential for building strong bones and teeth?",
+    "A": "Iron",
+    "B": "Calcium",
+    "C": "Sodium",
+    "D": "Potassium",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a substance changing directly from a solid to a gas called?",
+    "A": "Evaporation",
+    "B": "Condensation",
+    "C": "Sublimation",
+    "D": "Melting",
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is commonly known as baking soda?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Sodium hydroxide",
+    "D": "Sodium sulfate",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a liquid turning into vapor at the surface called?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Evaporation",
+    "D": "Condensation",
+    "answer": "C"
+  },
+  {
+    "question": "Which gas is produced as a waste product during aerobic respiration?",
+    "A": "Oxygen",
+    "B": "Carbon dioxide",
+    "C": "Nitrogen",
+    "D": "Hydrogen",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for the element sodium?",
+    "A": "So",
+    "B": "Sa",
+    "C": "Na",
+    "D": "Ni",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of radiation is the most penetrating and dangerous to living organisms?",
+    "A": "Alpha radiation",
+    "B": "Beta radiation",
+    "C": "Gamma radiation",
+    "D": "Neutron radiation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the study of the distribution and movement of groundwater called?",
+    "A": "Geomorphology",
+    "B": "Hydrogeology",
+    "C": "Seismology",
+    "D": "Climatology",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of combining hydrogen and oxygen to produce water and release energy known as?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Combustion",
+    "D": "Decay",
+    "answer": "C"
+  },
+  {
+    "question": "Which element is often referred to as the 'universal solvent'?",
+    "A": "Water",
+    "B": "Ethanol",
+    "C": "Acetone",
+    "D": "Hydrogen peroxide",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a liquid turning into a solid called?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Condensation",
+    "D": "Evaporation",
+    "answer": "B"
+  },
+  {
+    "question": "Which compound is responsible for the greenhouse effect on Earth?",
+    "A": "Ozone",
+    "B": "Carbon monoxide",
+    "C": "Methane",
+    "D": "Water vapor",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit for measuring the amount of a substance?",
+    "A": "Mole",
+    "B": "Gram",
+    "C": "Liter",
+    "D": "Kelvin",
+    "answer": "A"
+  },
+  {
+    "question": "Which element has the atomic number 50?",
+    "A": "Tin (Sn)",
+    "B": "Lead (Pb)",
+    "C": "Copper (Cu)",
+    "D": "Iron (Fe)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of converting light energy into chemical energy in plants called?",
+    "A": "Photosynthesis",
+    "B": "Respiration",
+    "C": "Transpiration",
+    "D": "Fermentation",
+    "answer": "A"
+  },
+  {
+    "question": "Which compound is responsible for the sour taste of vinegar?",
+    "A": "Acetic acid",
+    "B": "Citric acid",
+    "C": "Hydrochloric acid",
+    "D": "Sulfuric acid",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a gas turning directly into a solid without becoming a liquid first?",
+    "A": "Evaporation",
+    "B": "Sublimation",
+    "C": "Condensation",
+    "D": "Freezing",
+    "answer": "B"
+  },
+  {
+    "question": "Which element is used as a radioactive tracer in medical imaging?",
+    "A": "Cesium",
+    "B": "Iodine",
+    "C": "Strontium",
+    "D": "Radon",
+    "answer": "B"
+  },
+  {
+    "question": "What is the main component of the Earth's atmosphere?",
+    "A": "Oxygen",
+    "B": "Carbon dioxide",
+    "C": "Nitrogen",
+    "D": "Argon",
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is commonly known as Epsom salt?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Magnesium sulfate",
+    "D": "Magnesium chloride",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid turning into a gas at a temperature below its boiling point?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "Which gas gives limewater a milky appearance when passed through it?",
+    "A": "Carbon dioxide",
+    "B": "Oxygen",
+    "C": "Nitrogen",
+    "D": "Helium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a liquid changing into a solid called?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "Which element is the primary constituent of organic compounds?",
+    "A": "Hydrogen",
+    "B": "Carbon",
+    "C": "Oxygen",
+    "D": "Nitrogen",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the reaction in which oxygen reacts with a substance, often producing heat and light?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Combustion",
+    "D": "Decomposition",
+    "answer": "C"
+  },
+  {
+    "question": "Which property of a metal allows it to be hammered into thin sheets?",
+    "A": "Ductility",
+    "B": "Malleability",
+    "C": "Brittleness",
+    "D": "Density",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula for sulfuric acid?",
+    "A": "H2SO4",
+    "B": "HCl",
+    "C": "HNO3",
+    "D": "NaOH",
+    "answer": "A"
+  },
+  {
+    "question": "Which gas is commonly used in the production of soft drinks?",
+    "A": "Carbon dioxide",
+    "B": "Oxygen",
+    "C": "Nitrogen",
+    "D": "Hydrogen",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process by which a gas changes directly into a solid?",
+    "A": "Deposition",
+    "B": "Condensation",
+    "C": "Sublimation",
+    "D": "Crystallization",
+    "answer": "A"
+  },
+  {
+    "question": "Which compound is responsible for the characteristic smell of rotten eggs?",
+    "A": "Sulfur dioxide",
+    "B": "Hydrogen sulfide",
+    "C": "Carbon monoxide",
+    "D": "Methane",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a gas turning into a liquid called?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "C"
+  },
+  {
+    "question": "Which compound is used as a preservative in many foods and prevents bacterial growth?",
+    "A": "Sodium chloride",
+    "B": "Sodium nitrate",
+    "C": "Sodium bicarbonate",
+    "D": "Sodium benzoate",
+    "answer": "D"
+  },
+  {
+    "question": "What is the unit of measurement for the energy content of food?",
+    "A": "Joule",
+    "B": "Calorie",
+    "C": "Watt",
+    "D": "Volt",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of radiation consists of high-energy photons and has no mass or charge?",
+    "A": "Alpha radiation",
+    "B": "Beta radiation",
+    "C": "Gamma radiation",
+    "D": "Neutron radiation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of plants releasing water vapor into the atmosphere called?",
+    "A": "Transpiration",
+    "B": "Photosynthesis",
+    "C": "Evaporation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is commonly used in light bulbs due to its high electrical resistance?",
+    "A": "Copper",
+    "B": "Silver",
+    "C": "Gold",
+    "D": "Tungsten",
+    "answer": "D"
+  },
+  {
+    "question": "What is the chemical formula for hydrogen peroxide?",
+    "A": "H2O2",
+    "B": "HO",
+    "C": "HCl",
+    "D": "HNO3",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a solid turning directly into a gas without becoming a liquid first?",
+    "A": "Evaporation",
+    "B": "Sublimation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of reaction involves the breakdown of a compound into two or more simpler substances?",
+    "A": "Combustion reaction",
+    "B": "Synthesis reaction",
+    "C": "Decomposition reaction",
+    "D": "Replacement reaction",
+    "answer": "C"
+  },
+  {
+    "question": "Which element is used as a coolant in nuclear reactors due to its ability to absorb neutrons?",
+    "A": "Uranium",
+    "B": "Plutonium",
+    "C": "Thorium",
+    "D": "Boron",
+    "answer": "D"
+  },
+  {
+    "question": "What is the process of a gas turning into a liquid called?",
+    "A": "Condensation",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "Which gas is produced during the process of photosynthesis?",
+    "A": "Oxygen",
+    "B": "Carbon dioxide",
+    "C": "Methane",
+    "D": "Nitrogen",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for the element potassium?",
+    "A": "Po",
+    "B": "K",
+    "C": "Pt",
+    "D": "Kr",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of bond involves the transfer of electrons from one atom to another?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Hydrogen bond",
+    "D": "Metallic bond",
+    "answer": "A"
+  },
+  {
+    "question": "What is the SI unit of pressure?",
+    "A": "Pascal",
+    "B": "Newton",
+    "C": "Joule",
+    "D": "Watt",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a solid changing directly into a gas called?",
+    "A": "Evaporation",
+    "B": "Sublimation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "Which element is commonly used in batteries and is a component of water?",
+    "A": "Lithium",
+    "B": "Sodium",
+    "C": "Potassium",
+    "D": "Calcium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a gas turning into a liquid called?",
+    "A": "Condensation",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "Which compound is responsible for the fizzing in carbonated beverages?",
+    "A": "Sulfuric acid",
+    "B": "Carbon dioxide",
+    "C": "Nitrogen",
+    "D": "Oxygen",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of converting a liquid into a gas at its boiling point?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Condensation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "Which gas is produced as a byproduct of anaerobic respiration and is responsible for the bubbles in bread dough?",
+    "A": "Oxygen",
+    "B": "Carbon dioxide",
+    "C": "Nitrogen",
+    "D": "Hydrogen",
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "A": "Volt",
+    "B": "Watt",
+    "C": "Ampere",
+    "D": "Ohm",
+    "answer": "C"
+  },
+  {
+    "question": "Which process involves the removal of salt from seawater to obtain fresh water?",
+    "A": "Filtration",
+    "B": "Distillation",
+    "C": "Evaporation",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for the element silver?",
+    "A": "Si",
+    "B": "Sr",
+    "C": "Ag",
+    "D": "Au",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of bond results from the sharing of electrons between atoms?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Hydrogen bond",
+    "D": "Metallic bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid without becoming a liquid first?",
+    "A": "Deposition",
+    "B": "Condensation",
+    "C": "Sublimation",
+    "D": "Crystallization",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is used in fluorescent lights and is a component of dental fillings?",
+    "A": "Copper",
+    "B": "Mercury",
+    "C": "Zinc",
+    "D": "Lead",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a solid changing into a liquid called?",
+    "A": "Evaporation",
+    "B": "Sublimation",
+    "C": "Vaporization",
+    "D": "Melting",
+    "answer": "D"
+  },
+  {
+    "question": "Which gas is responsible for the greenhouse effect on Venus?",
+    "A": "Carbon dioxide",
+    "B": "Oxygen",
+    "C": "Methane",
+    "D": "Water vapor",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for common salt?",
+    "A": "NaCl",
+    "B": "KCl",
+    "C": "HCl",
+    "D": "CaCl2",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is added to steel to make it stainless?",
+    "A": "Aluminum",
+    "B": "Copper",
+    "C": "Chromium",
+    "D": "Zinc",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of converting light energy into electrical energy in solar cells?",
+    "A": "Photosynthesis",
+    "B": "Transpiration",
+    "C": "Respiration",
+    "D": "Photovoltaic effect",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of radiation consists of high-speed electrons?",
+    "A": "Alpha radiation",
+    "B": "Beta radiation",
+    "C": "Gamma radiation",
+    "D": "Neutron radiation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a solid turning directly into a gas without becoming a liquid first?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "A"
+  },
+  {
+    "question": "Which compound is used as a fire extinguisher due to its ability to displace oxygen?",
+    "A": "Carbon monoxide",
+    "B": "Sulfur dioxide",
+    "C": "Carbon dioxide",
+    "D": "Hydrogen sulfide",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid turning into a solid called?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Condensation",
+    "answer": "B"
+  },
+  {
+    "question": "Which element is essential for the proper functioning of thyroid hormones?",
+    "A": "Iodine",
+    "B": "Fluorine",
+    "C": "Bromine",
+    "D": "Chlorine",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a liquid turning into a gas at the surface, even below its boiling point?",
+    "A": "Sublimation",
+    "B": "Condensation",
+    "C": "Evaporation",
+    "D": "Vaporization",
+    "answer": "C"
+  },
+  {
+    "question": "Which gas is used by plants during photosynthesis to produce glucose?",
+    "A": "Oxygen",
+    "B": "Carbon dioxide",
+    "C": "Nitrogen",
+    "D": "Hydrogen",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for the element mercury?",
+    "A": "Mg",
+    "B": "Hg",
+    "C": "Me",
+    "D": "Hy",
+    "answer": "B"
+  },
+  {
+    "question": "Which compound is commonly known as plaster of Paris?",
+    "A": "Calcium carbonate",
+    "B": "Sodium bicarbonate",
+    "C": "Calcium sulfate",
+    "D": "Sodium chloride",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a gas turning into a liquid called?",
+    "A": "Condensation",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "Which compound is commonly used in antacids to neutralize stomach acid?",
+    "A": "Sodium bicarbonate",
+    "B": "Calcium sulfate",
+    "C": "Potassium chloride",
+    "D": "Magnesium hydroxide",
+    "answer": "D"
+  },
+  {
+    "question": "What is the SI unit of temperature?",
+    "A": "Celsius",
+    "B": "Fahrenheit",
+    "C": "Kelvin",
+    "D": "Rankine",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of radiation consists of helium nuclei?",
+    "A": "Alpha radiation",
+    "B": "Beta radiation",
+    "C": "Gamma radiation",
+    "D": "Neutron radiation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a solid changing into a liquid called?",
+    "A": "Evaporation",
+    "B": "Sublimation",
+    "C": "Vaporization",
+    "D": "Melting",
+    "answer": "D"
+  },
+  {
+    "question": "Which element is used in batteries and is often found in the form of galena?",
+    "A": "Copper",
+    "B": "Zinc",
+    "C": "Lead",
+    "D": "Iron",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid turning into a gas at its boiling point?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Condensation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What type of chemical reaction involves the combination of oxygen with another substance, often producing heat and light?",
+    "A": "Synthesis reaction",
+    "B": "Decomposition reaction",
+    "C": "Combustion reaction",
+    "D": "Replacement reaction",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of reaction involves a single compound breaking down into two or more simpler substances?",
+    "A": "Synthesis reaction",
+    "B": "Combustion reaction",
+    "C": "Decomposition reaction",
+    "D": "Replacement reaction",
+    "answer": "C"
+  },
+  {
+    "question": "In a redox reaction, what is happening to the reducing agent?",
+    "A": "It gains electrons",
+    "B": "It loses electrons",
+    "C": "It remains unchanged",
+    "D": "It releases energy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the general term for a reaction in which one element displaces another element from a compound?",
+    "A": "Synthesis reaction",
+    "B": "Decomposition reaction",
+    "C": "Combustion reaction",
+    "D": "Displacement reaction",
+    "answer": "D"
+  },
+  {
+    "question": "In a chemical equation, what are the substances to the left of the arrow called?",
+    "A": "Reactants",
+    "B": "Products",
+    "C": "Catalysts",
+    "D": "Inhibitors",
+    "answer": "A"
+  },
+  {
+    "question": "What type of reaction involves the exchange of ions between two compounds?",
+    "A": "Synthesis reaction",
+    "B": "Decomposition reaction",
+    "C": "Replacement reaction",
+    "D": "Combustion reaction",
+    "answer": "C"
+  },
+  {
+    "question": "What does the term 'catalyst' refer to in a chemical reaction?",
+    "A": "A substance that speeds up a reaction without being consumed",
+    "B": "The product of a reaction",
+    "C": "A reactant that is left over at the end of a reaction",
+    "D": "A substance that slows down a reaction",
+    "answer": "A"
+  },
+  {
+    "question": "What does the arrow in a chemical equation represent?",
+    "A": "The movement of electrons",
+    "B": "The release of energy",
+    "C": "The direction of the reaction",
+    "D": "The transformation of reactants into products",
+    "answer": "D"
+  },
+  {
+    "question": "What type of reaction involves the breaking down of a compound into two or more simpler substances?",
+    "A": "Synthesis reaction",
+    "B": "Combustion reaction",
+    "C": "Decomposition reaction",
+    "D": "Replacement reaction",
+    "answer": "C"
+  },
+  {
+    "question": "What is a balanced chemical equation?",
+    "A": "An equation that shows the reactants only",
+    "B": "An equation that has the same number of atoms of each element on both sides",
+    "C": "An equation that has the same products as reactants",
+    "D": "An equation that includes the molecular weights of the reactants",
+    "answer": "B"
+  },
+  {
+    "question": "In a chemical reaction, if the reactants are a hydrocarbon and oxygen, what are the most likely products?",
+    "A": "Water and carbon dioxide",
+    "B": "Ammonia and nitrogen",
+    "C": "Sulfur dioxide and water",
+    "D": "Hydrogen and oxygen",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of reaction involves the combination of two substances to form a new compound?",
+    "A": "Decomposition reaction",
+    "B": "Replacement reaction",
+    "C": "Synthesis reaction",
+    "D": "Combustion reaction",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process in which a substance reacts with oxygen to produce heat and light?",
+    "A": "Decomposition",
+    "B": "Synthesis",
+    "C": "Combustion",
+    "D": "Replacement",
+    "answer": "C"
+  },
+  {
+    "question": "What is the role of enzymes in chemical reactions?",
+    "A": "To increase the temperature of the reaction",
+    "B": "To slow down the reaction",
+    "C": "To provide energy for the reaction",
+    "D": "To speed up the reaction",
+    "answer": "D"
+  },
+  {
+    "question": "What type of reaction involves the breakdown of a substance into simpler substances by the action of heat or electricity?",
+    "A": "Decomposition reaction",
+    "B": "Synthesis reaction",
+    "C": "Replacement reaction",
+    "D": "Combustion reaction",
+    "answer": "A"
+  },
+  {
+    "question": "What is a double displacement reaction also known as?",
+    "A": "Combustion reaction",
+    "B": "Synthesis reaction",
+    "C": "Neutralization reaction",
+    "D": "Decomposition reaction",
+    "answer": "C"
+  },
+  {
+    "question": "In a chemical equation, what do the coefficients represent?",
+    "A": "The phase of the reactants and products",
+    "B": "The number of atoms of each element in the compounds",
+    "C": "The charges of the ions in the compounds",
+    "D": "The molecular weights of the compounds",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of a reaction in which oxygen is added to a compound and electrons are lost?",
+    "A": "Decomposition reaction",
+    "B": "Redox reaction",
+    "C": "Combustion reaction",
+    "D": "Synthesis reaction",
+    "answer": "B"
+  },
+  {
+    "question": "What is the general term for a reaction in which a more reactive element displaces a less reactive element from a compound?",
+    "A": "Synthesis reaction",
+    "B": "Decomposition reaction",
+    "C": "Combustion reaction",
+    "D": "Displacement reaction",
+    "answer": "D"
+  },
+  {
+    "question": "What is the product of a neutralization reaction between an acid and a base?",
+    "A": "Water and salt",
+    "B": "Carbon dioxide and water",
+    "C": "Oxygen and water",
+    "D": "Hydrogen and oxygen",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of breaking down a substance using electricity called?",
+    "A": "Reduction",
+    "B": "Combustion",
+    "C": "Electrolysis",
+    "D": "Oxidation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the reaction in which a single compound breaks down into two or more simpler substances?",
+    "A": "Synthesis reaction",
+    "B": "Decomposition reaction",
+    "C": "Combustion reaction",
+    "D": "Replacement reaction",
+    "answer": "B"
+  },
+  {
+    "question": "What type of reaction involves the exchange of ions between two compounds, resulting in the formation of a precipitate?",
+    "A": "Synthesis reaction",
+    "B": "Decomposition reaction",
+    "C": "Neutralization reaction",
+    "D": "Double displacement reaction",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of a reaction in which a compound reacts with oxygen to produce heat, light, and often a flame?",
+    "A": "Decomposition reaction",
+    "B": "Combustion reaction",
+    "C": "Neutralization reaction",
+    "D": "Synthesis reaction",
+    "answer": "B"
+  },
+  {
+    "question": "What type of reaction involves the combination of a metal and a non-metal to form a compound?",
+    "A": "Decomposition reaction",
+    "B": "Combustion reaction",
+    "C": "Synthesis reaction",
+    "D": "Neutralization reaction",
+    "answer": "C"
+  },
+  {
+    "question": "In a chemical equation, what are the substances to the right of the arrow called?",
+    "A": "Reactants",
+    "B": "Products",
+    "C": "Catalysts",
+    "D": "Inhibitors",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of a reaction in which a substance gains oxygen?",
+    "A": "Decomposition reaction",
+    "B": "Reduction reaction",
+    "C": "Combustion reaction",
+    "D": "Synthesis reaction",
+    "answer": "B"
+  },
+  {
+    "question": "What type of reaction involves the combination of a metal oxide and water to produce a hydroxide?",
+    "A": "Decomposition reaction",
+    "B": "Neutralization reaction",
+    "C": "Synthesis reaction",
+    "D": "Combustion reaction",
+    "answer": "B"
+  },
+  {
+    "question": "Balance the following chemical equation: H2 + O2 → H2O",
+    "A": "2H2 + O2 → 2H2O",
+    "B": "H2 + 2O2 → 2H2O",
+    "C": "H2 + O2 → HO2",
+    "D": "H2 + O4 → H2O2",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the equation: CH4 + O2 → CO2 + H2O",
+    "A": "CH4 + 2O2 → CO2 + 2H2O",
+    "B": "CH4 + O2 → CO2 + 2H2O",
+    "C": "2CH4 + O2 → CO2 + H2O",
+    "D": "CH4 + 2O2 → CO2 + H2O",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the chemical equation: C3H8 + O2 → CO2 + H2O",
+    "A": "C3H8 + 5O2 → 3CO2 + 4H2O",
+    "B": "C3H8 + 7O2 → 3CO2 + 4H2O",
+    "C": "C3H8 + 4O2 → 3CO2 + 4H2O",
+    "D": "C3H8 + 6O2 → 3CO2 + 4H2O",
+    "answer": "B"
+  },
+  {
+    "question": "Balance the equation: Fe + HCl → FeCl3 + H2",
+    "A": "3Fe + 6HCl → 2FeCl3 + 3H2",
+    "B": "Fe + 3HCl → FeCl3 + H2",
+    "C": "2Fe + 6HCl → 2FeCl3 + 3H2",
+    "D": "Fe + 6HCl → FeCl3 + 2H2",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the chemical equation: Al + H2SO4 → Al2(SO4)3 + H2",
+    "A": "2Al + 3H2SO4 → Al2(SO4)3 + 3H2",
+    "B": "3Al + H2SO4 → Al2(SO4)3 + H2",
+    "C": "Al + H2SO4 → Al2(SO4)3 + 2H2",
+    "D": "Al + 2H2SO4 → Al2(SO4)3 + 2H2",
+    "answer": "D"
+  },
+  {
+    "question": "Balance the equation: N2 + H2 → NH3",
+    "A": "N2 + 3H2 → 2NH3",
+    "B": "2N2 + 3H2 → 4NH3",
+    "C": "N2 + 2H2 → 2NH3",
+    "D": "N2 + 4H2 → 2NH3",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the chemical equation: KClO3 → KCl + O2",
+    "A": "2KClO3 → 2KCl + 3O2",
+    "B": "KClO3 → KCl + 2O2",
+    "C": "KClO3 → 2KCl + O2",
+    "D": "3KClO3 → 3KCl + 2O2",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the equation: C4H10 + O2 → CO2 + H2O",
+    "A": "2C4H10 + 13O2 → 8CO2 + 10H2O",
+    "B": "C4H10 + 7O2 → 4CO2 + 5H2O",
+    "C": "C4H10 + 6O2 → 4CO2 + 5H2O",
+    "D": "2C4H10 + 11O2 → 8CO2 + 10H2O",
+    "answer": "B"
+  },
+  {
+    "question": "Balance the chemical equation: C6H6 + O2 → CO2 + H2O",
+    "A": "C6H6 + 7O2 → 6CO2 + 3H2O",
+    "B": "C6H6 + 8O2 → 6CO2 + 3H2O",
+    "C": "2C6H6 + 15O2 → 12CO2 + 6H2O",
+    "D": "C6H6 + 9O2 → 6CO2 + 6H2O",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the equation: P4 + Cl2 → PCl5",
+    "A": "P4 + 5Cl2 → 4PCl5",
+    "B": "2P4 + 10Cl2 → 8PCl5",
+    "C": "P4 + 2Cl2 → 4PCl5",
+    "D": "3P4 + 15Cl2 → 12PCl5",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the chemical equation: C2H2 + O2 → CO2 + H2O",
+    "A": "C2H2 + 5O2 → 2CO2 + 2H2O",
+    "B": "C2H2 + 2O2 → 2CO2 + H2O",
+    "C": "2C2H2 + 3O2 → 4CO2 + 2H2O",
+    "D": "C2H2 + 3O2 → 2CO2 + H2O",
+    "answer": "D"
+  },
+  {
+    "question": "Balance the equation: P4O10 + H2O → H3PO4",
+    "A": "P4O10 + 6H2O → 4H3PO4",
+    "B": "2P4O10 + 12H2O → 8H3PO4",
+    "C": "P4O10 + 4H2O → 4H3PO4",
+    "D": "P4O10 + 10H2O → 4H3PO4",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the chemical equation: C6H5OH + O2 → CO2 + H2O",
+    "A": "C6H5OH + 7O2 → 6CO2 + 3H2O",
+    "B": "C6H5OH + 8O2 → 6CO2 + 4H2O",
+    "C": "2C6H5OH + 15O2 → 12CO2 + 6H2O",
+    "D": "C6H5OH + 9O2 → 6CO2 + 5H2O",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the equation: C8H18 + O2 → CO2 + H2O",
+    "A": "2C8H18 + 25O2 → 16CO2 + 18H2O",
+    "B": "C8H18 + 12O2 → 8CO2 + 9H2O",
+    "C": "C8H18 + 17O2 → 8CO2 + 9H2O",
+    "D": "2C8H18 + 27O2 → 16CO2 + 18H2O",
+    "answer": "B"
+  },
+  {
+    "question": "Balance the chemical equation: C3H6 + O2 → CO2 + H2O",
+    "A": "C3H6 + 4O2 → 3CO2 + 3H2O",
+    "B": "2C3H6 + 9O2 → 6CO2 + 6H2O",
+    "C": "C3H6 + 5O2 → 3CO2 + 3H2O",
+    "D": "C3H6 + 6O2 → 3CO2 + 3H2O",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the equation: C2H5OH + O2 → CO2 + H2O",
+    "A": "2C2H5OH + 7O2 → 4CO2 + 6H2O",
+    "B": "C2H5OH + 3O2 → 2CO2 + 3H2O",
+    "C": "C2H5OH + 5O2 → 2CO2 + 3H2O",
+    "D": "2C2H5OH + 9O2 → 4CO2 + 6H2O",
+    "answer": "B"
+  },
+  {
+    "question": "Balance the chemical equation: Fe2O3 + H2 → Fe + H2O",
+    "A": "Fe2O3 + 3H2 → 2Fe + 3H2O",
+    "B": "Fe2O3 + 2H2 → 2Fe + 2H2O",
+    "C": "Fe2O3 + H2 → Fe + 2H2O",
+    "D": "Fe2O3 + 4H2 → 2Fe + 4H2O",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the equation: Al2O3 + H2 → Al + H2O",
+    "A": "Al2O3 + 3H2 → 2Al + 3H2O",
+    "B": "Al2O3 + 2H2 → 2Al + 2H2O",
+    "C": "Al2O3 + H2 → 2Al + H2O",
+    "D": "Al2O3 + 4H2 → 2Al + 4H2O",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the chemical equation: Zn + HCl → ZnCl2 + H2",
+    "A": "Zn + 2HCl → ZnCl2 + H2",
+    "B": "2Zn + HCl → ZnCl2 + H2",
+    "C": "Zn + HCl → 2ZnCl2 + H2",
+    "D": "Zn + HCl → ZnCl2 + 2H2",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the equation: SO2 + O2 → SO3",
+    "A": "2SO2 + O2 → 2SO3",
+    "B": "SO2 + 2O2 → SO3",
+    "C": "SO2 + 3O2 → SO3",
+    "D": "2SO2 + 3O2 → 2SO3",
+    "answer": "B"
+  },
+  {
+    "question": "Balance the chemical equation: C4H4 + O2 → CO2 + H2O",
+    "A": "C4H4 + 3O2 → 2CO2 + 2H2O",
+    "B": "C4H4 + 4O2 → 2CO2 + 2H2O",
+    "C": "C4H4 + 5O2 → 2CO2 + 2H2O",
+    "D": "2C4H4 + 6O2 → 4CO2 + 4H2O",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the equation: C5H12 + O2 → CO2 + H2O",
+    "A": "2C5H12 + 17O2 → 10CO2 + 12H2O",
+    "B": "C5H12 + 8O2 → 5CO2 + 6H2O",
+    "C": "C5H12 + 10O2 → 5CO2 + 6H2O",
+    "D": "2C5H12 + 15O2 → 10CO2 + 12H2O",
+    "answer": "B"
+  },
+  {
+    "question": "Balance the chemical equation: C8H18 + O2 → CO2 + H2O",
+    "A": "C8H18 + 12O2 → 8CO2 + 9H2O",
+    "B": "C8H18 + 11O2 → 8CO2 + 9H2O",
+    "C": "C8H18 + 9O2 → 8CO2 + 9H2O",
+    "D": "C8H18 + 10O2 → 8CO2 + 9H2O",
+    "answer": "A"
+  },
+  {
+    "question": "Balance the equation: C2H6 + O2 → CO2 + H2O",
+    "A": "2C2H6 + 7O2 → 4CO2 + 6H2O",
+    "B": "C2H6 + 3O2 → 2CO2 + 3H2O",
+    "C": "C2H6 + 5O2 → 2CO2 + 3H2O",
+    "D": "2C2H6 + 9O2 → 4CO2 + 6H2O",
+    "answer": "B"
+  },
+  {
+    "question": "Which subatomic particle has a positive charge?",
+    "A": "Proton",
+    "B": "Neutron",
+    "C": "Electron",
+    "D": "Photon",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the smallest unit of an element that retains the properties of that element?",
+    "A": "Molecule",
+    "B": "Atom",
+    "C": "Compound",
+    "D": "Ion",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "A": "Au",
+    "B": "Ag",
+    "C": "Go",
+    "D": "Gl",
+    "answer": "A"
+  },
+  {
+    "question": "Which gas is commonly known as laughing gas?",
+    "A": "Methane",
+    "B": "Carbon monoxide",
+    "C": "Nitrous oxide",
+    "D": "Hydrogen sulfide",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of converting a solid directly into a gas without passing through the liquid phase called?",
+    "A": "Sublimation",
+    "B": "Vaporization",
+    "C": "Evaporation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the SI unit of pressure?",
+    "A": "Pascal",
+    "B": "Newton",
+    "C": "Joule",
+    "D": "Watt",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which a gas changes directly to a solid without becoming a liquid first?",
+    "A": "Sublimation",
+    "B": "Condensation",
+    "C": "Vaporization",
+    "D": "Deposition",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of a heterogeneous mixture?",
+    "A": "Saltwater",
+    "B": "Air",
+    "C": "Orange juice with pulp",
+    "D": "Vinegar",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "A": "CO2",
+    "B": "H2O2",
+    "C": "H2O",
+    "D": "CH4",
+    "answer": "C"
+  },
+  {
+    "question": "Which element is a noble gas?",
+    "A": "Oxygen",
+    "B": "Helium",
+    "C": "Carbon",
+    "D": "Nitrogen",
+    "answer": "B"
+  },
+  {
+    "question": "What is the pH value of a neutral solution?",
+    "A": "0",
+    "B": "7",
+    "C": "14",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electrons between atoms?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a liquid changes into a gas at a temperature below its boiling point?",
+    "A": "Evaporation",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a strong acid?",
+    "A": "Acetic acid",
+    "B": "Citric acid",
+    "C": "Hydrochloric acid",
+    "D": "Carbonic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which a liquid changes into a solid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "A": "CH4",
+    "B": "C6H12O6",
+    "C": "H2O",
+    "D": "N2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which plants convert carbon dioxide and water into glucose using sunlight?",
+    "A": "Respiration",
+    "B": "Fermentation",
+    "C": "Photosynthesis",
+    "D": "Oxidation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Inhibitor",
+    "C": "Reactant",
+    "D": "Product",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Iron",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid called?",
+    "A": "Deposition",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "A": "So",
+    "B": "Na",
+    "C": "No",
+    "D": "N",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the average mass of all the isotopes of an element?",
+    "A": "Atomic mass",
+    "B": "Molar mass",
+    "C": "Gram atomic mass",
+    "D": "Mass number",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a halogen?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Chlorine",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas called?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the group of elements in the periodic table that are very unreactive?",
+    "A": "Halogens",
+    "B": "Noble gases",
+    "C": "Alkali metals",
+    "D": "Transition metals",
+    "answer": "B"
+  },
+  {
+    "question": "Which element has the chemical symbol 'He'?",
+    "A": "Helium",
+    "B": "Hydrogen",
+    "C": "Hassium",
+    "D": "Holmium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a substance formed by the chemical combination of two or more elements in fixed proportions?",
+    "A": "Compound",
+    "B": "Mixture",
+    "C": "Solution",
+    "D": "Element",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a product of the combustion of hydrocarbons?",
+    "A": "Oxygen",
+    "B": "Carbon dioxide",
+    "C": "Nitrogen",
+    "D": "Water",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a solid changing directly into a gas called?",
+    "A": "Sublimation",
+    "B": "Vaporization",
+    "C": "Condensation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "Which gas is responsible for the 'greenhouse effect' on Earth?",
+    "A": "Oxygen",
+    "B": "Methane",
+    "C": "Carbon dioxide",
+    "D": "Hydrogen",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of removing impurities from a liquid by heating it to create vapor and then cooling and condensing the vapor?",
+    "A": "Sublimation",
+    "B": "Vaporization",
+    "C": "Distillation",
+    "D": "Filtration",
+    "answer": "C"
+  },
+  {
+    "question": "Which element is the most abundant in Earth's crust?",
+    "A": "Oxygen",
+    "B": "Silicon",
+    "C": "Carbon",
+    "D": "Aluminum",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of changing a solid directly into a gas without passing through the liquid phase?",
+    "A": "Sublimation",
+    "B": "Vaporization",
+    "C": "Evaporation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the pH value of a basic solution?",
+    "A": "7",
+    "B": "14",
+    "C": "0",
+    "D": "Above 7",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of reaction involves the gain of electrons by an element or compound?",
+    "A": "Reduction",
+    "B": "Oxidation",
+    "C": "Combustion",
+    "D": "Decomposition",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is commonly used as a coolant in nuclear reactors?",
+    "A": "Uranium",
+    "B": "Plutonium",
+    "C": "Lead",
+    "D": "Helium",
+    "answer": "D"
+  },
+  {
+    "question": "What is the chemical name for table salt?",
+    "A": "Sodium nitrate",
+    "B": "Calcium carbonate",
+    "C": "Sodium chloride",
+    "D": "Potassium sulfate",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process by which plants release water vapor into the air?",
+    "A": "Condensation",
+    "B": "Evaporation",
+    "C": "Transpiration",
+    "D": "Sublimation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical formula for hydrogen peroxide?",
+    "A": "H2O",
+    "B": "HO2",
+    "C": "H2O2",
+    "D": "H2SO4",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is an example of a homogeneous mixture?",
+    "A": "Salad dressing",
+    "B": "Trail mix",
+    "C": "Orange juice with pulp",
+    "D": "Air",
+    "answer": "D"
+  },
+  {
+    "question": "What is the process by which a liquid turns into a solid?",
+    "A": "Evaporation",
+    "B": "Vaporization",
+    "C": "Freezing",
+    "D": "Sublimation",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a product of photosynthesis?",
+    "A": "Oxygen",
+    "B": "Carbon dioxide",
+    "C": "Water",
+    "D": "Glucose",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the amount of solute that can dissolve in a given amount of solvent at a specific temperature?",
+    "A": "Concentration",
+    "B": "Molarity",
+    "C": "Saturation",
+    "D": "Dilution",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process by which a liquid turns into a gas at its boiling point throughout the liquid?",
+    "A": "Condensation",
+    "B": "Evaporation",
+    "C": "Sublimation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "A": "Fe",
+    "B": "Ir",
+    "C": "In",
+    "D": "Io",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid?",
+    "A": "Evaporation",
+    "B": "Vaporization",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the reaction in which oxygen combines with a substance and releases energy in the form of light and heat?",
+    "A": "Redox reaction",
+    "B": "Combustion reaction",
+    "C": "Decomposition reaction",
+    "D": "Synthesis reaction",
+    "answer": "B"
+  },
+  {
+    "question": "Which element is essential for the formation of organic molecules?",
+    "A": "Carbon",
+    "B": "Oxygen",
+    "C": "Nitrogen",
+    "D": "Hydrogen",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a substance that can act as both an acid and a base?",
+    "A": "Neutral substance",
+    "B": "Salt",
+    "C": "Amphiprotic substance",
+    "D": "Conjugate substance",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following elements is a halogen?",
+    "A": "Lithium",
+    "B": "Sodium",
+    "C": "Fluorine",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical formula for carbon dioxide?",
+    "A": "CO",
+    "B": "CO2",
+    "C": "C2O",
+    "D": "C2O2",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the attractive force between molecules of the same substance?",
+    "A": "Adhesion",
+    "B": "Cohesion",
+    "C": "Tension",
+    "D": "Surface tension",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of radiation has the shortest wavelength?",
+    "A": "Radio waves",
+    "B": "Microwaves",
+    "C": "Visible light",
+    "D": "Gamma rays",
+    "answer": "D"
+  },
+  {
+    "question": "What is the process by which a solid turns directly into a gas without becoming a liquid first?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Vaporization",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for ammonia?",
+    "A": "AH3",
+    "B": "NH4",
+    "C": "NH3",
+    "D": "NH2",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following elements is a metalloid?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Silicon",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the smallest unit of a compound that retains the properties of that compound?",
+    "A": "Atom",
+    "B": "Molecule",
+    "C": "Ion",
+    "D": "Element",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of radiation is used in medical imaging such as X-rays?",
+    "A": "Alpha radiation",
+    "B": "Beta radiation",
+    "C": "Gamma radiation",
+    "D": "Neutron radiation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process by which an unstable nucleus emits radiation in the form of particles or electromagnetic waves?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Radioactivity",
+    "D": "Decay",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Reactant",
+    "C": "Product",
+    "D": "Inhibitor",
+    "answer": "A"
+  },
+  {
+    "question": "Which gas is commonly known as laughing gas?",
+    "A": "Carbon dioxide",
+    "B": "Oxygen",
+    "C": "Nitrous oxide",
+    "D": "Methane",
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of energy?",
+    "A": "Watt",
+    "B": "Joule",
+    "C": "Volt",
+    "D": "Ampere",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a characteristic of acids?",
+    "A": "Bitter taste",
+    "B": "Slick feel",
+    "C": "Turns blue litmus paper red",
+    "D": "High pH value",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "A": "Lithium",
+    "B": "Sodium",
+    "C": "Iron",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of converting a liquid into a gas at a temperature below its boiling point called?",
+    "A": "Vaporization",
+    "B": "Sublimation",
+    "C": "Evaporation",
+    "D": "Condensation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical formula for table sugar?",
+    "A": "C12H22O11",
+    "B": "NaCl",
+    "C": "H2O",
+    "D": "CO2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the process of a liquid changing into a solid called?",
+    "A": "Condensation",
+    "B": "Sublimation",
+    "C": "Freezing",
+    "D": "Evaporation",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a strong base?",
+    "A": "Sodium hydroxide",
+    "B": "Ammonium hydroxide",
+    "C": "Acetic acid",
+    "D": "Carbonic acid",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "A": "CH4",
+    "B": "C6H12O6",
+    "C": "H2O",
+    "D": "N2",
+    "answer": "A"
+  },
+  {
+    "question": "Which gas is known as 'marsh gas'?",
+    "A": "Oxygen",
+    "B": "Carbon monoxide",
+    "C": "Methane",
+    "D": "Hydrogen",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a gas changing into a liquid called?",
+    "A": "Evaporation",
+    "B": "Condensation",
+    "C": "Vaporization",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "A": "Au",
+    "B": "Ag",
+    "C": "Go",
+    "D": "Gl",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which a solid changes directly into a gas without becoming a liquid first?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Vaporization",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is commonly used as a coolant in nuclear reactors?",
+    "A": "Uranium",
+    "B": "Plutonium",
+    "C": "Lead",
+    "D": "Helium",
+    "answer": "D"
+  },
+  {
+    "question": "What is the chemical formula for hydrochloric acid?",
+    "A": "H2O",
+    "B": "HCl",
+    "C": "NaCl",
+    "D": "H2SO4",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas called?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an example of a chemical change?",
+    "A": "Melting ice",
+    "B": "Boiling water",
+    "C": "Burning wood",
+    "D": "Mixing salt and sugar",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical formula for sodium chloride?",
+    "A": "SO4",
+    "B": "HCl",
+    "C": "NaCl",
+    "D": "NaOH",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is an alkali metal?",
+    "A": "Calcium",
+    "B": "Sodium",
+    "C": "Chlorine",
+    "D": "Carbon",
+    "answer": "B"
+  },
+  {
+    "question": "What is the pH value of a neutral solution?",
+    "A": "0",
+    "B": "7",
+    "C": "14",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "Which element is a noble gas?",
+    "A": "Oxygen",
+    "B": "Helium",
+    "C": "Carbon",
+    "D": "Nitrogen",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a substance formed by the chemical combination of two or more elements in fixed proportions?",
+    "A": "Molecule",
+    "B": "Compound",
+    "C": "Solution",
+    "D": "Mixture",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following elements is a halogen?",
+    "A": "Lithium",
+    "B": "Sodium",
+    "C": "Fluorine",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a solid changing directly into a gas without becoming a liquid first?",
+    "A": "Sublimation",
+    "B": "Vaporization",
+    "C": "Condensation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "A": "So",
+    "B": "Na",
+    "C": "No",
+    "D": "N",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the average mass of all the isotopes of an element?",
+    "A": "Atomic mass",
+    "B": "Molar mass",
+    "C": "Gram atomic mass",
+    "D": "Mass number",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of radiation has the shortest wavelength?",
+    "A": "Radio waves",
+    "B": "Microwaves",
+    "C": "Visible light",
+    "D": "Gamma rays",
+    "answer": "D"
+  },
+  {
+    "question": "What is the process by which an unstable nucleus emits radiation in the form of particles or electromagnetic waves?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Radioactivity",
+    "D": "Decay",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which plants convert carbon dioxide and water into glucose using sunlight?",
+    "A": "Respiration",
+    "B": "Fermentation",
+    "C": "Photosynthesis",
+    "D": "Oxidation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a solid changing directly into a gas without becoming a liquid first?",
+    "A": "Sublimation",
+    "B": "Vaporization",
+    "C": "Condensation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "A": "Fe",
+    "B": "Ir",
+    "C": "In",
+    "D": "Io",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a metalloid?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Silicon",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the smallest unit of a compound that retains the properties of that compound?",
+    "A": "Atom",
+    "B": "Molecule",
+    "C": "Ion",
+    "D": "Element",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of radiation is used in medical imaging such as X-rays?",
+    "A": "Alpha radiation",
+    "B": "Beta radiation",
+    "C": "Gamma radiation",
+    "D": "Neutron radiation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process by which an unstable nucleus emits radiation in the form of particles or electromagnetic waves?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Radioactivity",
+    "D": "Decay",
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "A": "CO2",
+    "B": "H2O2",
+    "C": "H2O",
+    "D": "CH4",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the group of elements in the periodic table that are very unreactive?",
+    "A": "Halogens",
+    "B": "Noble gases",
+    "C": "Alkali metals",
+    "D": "Transition metals",
+    "answer": "B"
+  },
+  {
+    "question": "Which element has the chemical symbol 'He'?",
+    "A": "Helium",
+    "B": "Hydrogen",
+    "C": "Hassium",
+    "D": "Holmium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the pH value of a neutral solution?",
+    "A": "0",
+    "B": "7",
+    "C": "14",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electrons between atoms?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a liquid changes into a gas at a temperature below its boiling point?",
+    "A": "Evaporation",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a strong acid?",
+    "A": "Acetic acid",
+    "B": "Citric acid",
+    "C": "Hydrochloric acid",
+    "D": "Carbonic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which a liquid changes into a solid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "A": "CH4",
+    "B": "C6H12O6",
+    "C": "H2O",
+    "D": "N2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which plants convert carbon dioxide and water into glucose using sunlight?",
+    "A": "Respiration",
+    "B": "Fermentation",
+    "C": "Photosynthesis",
+    "D": "Oxidation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Inhibitor",
+    "C": "Reactant",
+    "D": "Product",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Iron",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid called?",
+    "A": "Deposition",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "A": "So",
+    "B": "Na",
+    "C": "No",
+    "D": "N",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the average mass of all the isotopes of an element?",
+    "A": "Atomic mass",
+    "B": "Molar mass",
+    "C": "Gram atomic mass",
+    "D": "Mass number",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following elements is a halogen?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Chlorine",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas called?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the group of elements in the periodic table that are very unreactive?",
+    "A": "Halogens",
+    "B": "Noble gases",
+    "C": "Alkali metals",
+    "D": "Transition metals",
+    "answer": "B"
+  },
+  {
+    "question": "Which element has the chemical symbol 'He'?",
+    "A": "Helium",
+    "B": "Hydrogen",
+    "C": "Hassium",
+    "D": "Holmium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the pH value of a neutral solution?",
+    "A": "0",
+    "B": "7",
+    "C": "14",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electrons between atoms?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a liquid changes into a gas at a temperature below its boiling point?",
+    "A": "Evaporation",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a strong acid?",
+    "A": "Acetic acid",
+    "B": "Citric acid",
+    "C": "Hydrochloric acid",
+    "D": "Carbonic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which a liquid changes into a solid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "A": "CH4",
+    "B": "C6H12O6",
+    "C": "H2O",
+    "D": "N2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which plants convert carbon dioxide and water into glucose using sunlight?",
+    "A": "Respiration",
+    "B": "Fermentation",
+    "C": "Photosynthesis",
+    "D": "Oxidation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Inhibitor",
+    "C": "Reactant",
+    "D": "Product",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Iron",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid called?",
+    "A": "Deposition",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "A": "So",
+    "B": "Na",
+    "C": "No",
+    "D": "N",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the average mass of all the isotopes of an element?",
+    "A": "Atomic mass",
+    "B": "Molar mass",
+    "C": "Gram atomic mass",
+    "D": "Mass number",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following elements is a halogen?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Chlorine",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas called?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the group of elements in the periodic table that are very unreactive?",
+    "A": "Halogens",
+    "B": "Noble gases",
+    "C": "Alkali metals",
+    "D": "Transition metals",
+    "answer": "B"
+  },
+  {
+    "question": "Which element has the chemical symbol 'He'?",
+    "A": "Helium",
+    "B": "Hydrogen",
+    "C": "Hassium",
+    "D": "Holmium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the pH value of a neutral solution?",
+    "A": "0",
+    "B": "7",
+    "C": "14",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electrons between atoms?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a liquid changes into a gas at a temperature below its boiling point?",
+    "A": "Evaporation",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a strong acid?",
+    "A": "Acetic acid",
+    "B": "Citric acid",
+    "C": "Hydrochloric acid",
+    "D": "Carbonic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which a liquid changes into a solid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "A": "CH4",
+    "B": "C6H12O6",
+    "C": "H2O",
+    "D": "N2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which plants convert carbon dioxide and water into glucose using sunlight?",
+    "A": "Respiration",
+    "B": "Fermentation",
+    "C": "Photosynthesis",
+    "D": "Oxidation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Inhibitor",
+    "C": "Reactant",
+    "D": "Product",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Iron",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid called?",
+    "A": "Deposition",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "A": "So",
+    "B": "Na",
+    "C": "No",
+    "D": "N",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the average mass of all the isotopes of an element?",
+    "A": "Atomic mass",
+    "B": "Molar mass",
+    "C": "Gram atomic mass",
+    "D": "Mass number",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following elements is a halogen?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Chlorine",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas called?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the group of elements in the periodic table that are very unreactive?",
+    "A": "Halogens",
+    "B": "Noble gases",
+    "C": "Alkali metals",
+    "D": "Transition metals",
+    "answer": "B"
+  },
+  {
+    "question": "Which element has the chemical symbol 'He'?",
+    "A": "Helium",
+    "B": "Hydrogen",
+    "C": "Hassium",
+    "D": "Holmium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the pH value of a neutral solution?",
+    "A": "0",
+    "B": "7",
+    "C": "14",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electrons between atoms?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a liquid changes into a gas at a temperature below its boiling point?",
+    "A": "Evaporation",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a strong acid?",
+    "A": "Acetic acid",
+    "B": "Citric acid",
+    "C": "Hydrochloric acid",
+    "D": "Carbonic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which a liquid changes into a solid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "A": "CH4",
+    "B": "C6H12O6",
+    "C": "H2O",
+    "D": "N2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which plants convert carbon dioxide and water into glucose using sunlight?",
+    "A": "Respiration",
+    "B": "Fermentation",
+    "C": "Photosynthesis",
+    "D": "Oxidation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Inhibitor",
+    "C": "Reactant",
+    "D": "Product",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Iron",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid called?",
+    "A": "Deposition",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "A": "So",
+    "B": "Na",
+    "C": "No",
+    "D": "N",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the average mass of all the isotopes of an element?",
+    "A": "Atomic mass",
+    "B": "Molar mass",
+    "C": "Gram atomic mass",
+    "D": "Mass number",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following elements is a halogen?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Chlorine",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas called?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the group of elements in the periodic table that are very unreactive?",
+    "A": "Halogens",
+    "B": "Noble gases",
+    "C": "Alkali metals",
+    "D": "Transition metals",
+    "answer": "B"
+  },
+  {
+    "question": "Which element has the chemical symbol 'He'?",
+    "A": "Helium",
+    "B": "Hydrogen",
+    "C": "Hassium",
+    "D": "Holmium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the pH value of a neutral solution?",
+    "A": "0",
+    "B": "7",
+    "C": "14",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electrons between atoms?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a liquid changes into a gas at a temperature below its boiling point?",
+    "A": "Evaporation",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a strong acid?",
+    "A": "Acetic acid",
+    "B": "Citric acid",
+    "C": "Hydrochloric acid",
+    "D": "Carbonic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which a liquid changes into a solid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "A": "CH4",
+    "B": "C6H12O6",
+    "C": "H2O",
+    "D": "N2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which plants convert carbon dioxide and water into glucose using sunlight?",
+    "A": "Respiration",
+    "B": "Fermentation",
+    "C": "Photosynthesis",
+    "D": "Oxidation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Inhibitor",
+    "C": "Reactant",
+    "D": "Product",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Iron",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a gas changing directly into a solid called?",
+    "A": "Deposition",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "A": "So",
+    "B": "Na",
+    "C": "No",
+    "D": "N",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the average mass of all the isotopes of an element?",
+    "A": "Atomic mass",
+    "B": "Molar mass",
+    "C": "Gram atomic mass",
+    "D": "Mass number",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following elements is a halogen?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Chlorine",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas called?",
+    "A": "Sublimation",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the group of elements in the periodic table that are very unreactive?",
+    "A": "Halogens",
+    "B": "Noble gases",
+    "C": "Alkali metals",
+    "D": "Transition metals",
+    "answer": "B"
+  },
+  {
+    "question": "Which element has the chemical symbol 'He'?",
+    "A": "Helium",
+    "B": "Hydrogen",
+    "C": "Hassium",
+    "D": "Holmium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the pH value of a neutral solution?",
+    "A": "0",
+    "B": "7",
+    "C": "14",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electrons between atoms?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which a liquid changes into a gas at a temperature below its boiling point?",
+    "A": "Evaporation",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a strong acid?",
+    "A": "Acetic acid",
+    "B": "Citric acid",
+    "C": "Hydrochloric acid",
+    "D": "Carbonic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which a liquid changes into a solid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "A": "CH4",
+    "B": "C6H12O6",
+    "C": "H2O",
+    "D": "N2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which plants convert carbon dioxide and water into glucose using sunlight?",
+    "A": "Respiration",
+    "B": "Fermentation",
+    "C": "Photosynthesis",
+    "D": "Oxidation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Inhibitor",
+    "C": "Reactant",
+    "D": "Product",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Iron",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the minimum amount of energy required to start a chemical reaction?",
+    "A": "Activation energy",
+    "B": "Ionization energy",
+    "C": "Bond dissociation energy",
+    "D": "Enthalpy change",
+    "answer": "A"
+  },
+  {
+    "question": "Which element has the highest electronegativity?",
+    "A": "Fluorine",
+    "B": "Oxygen",
+    "C": "Nitrogen",
+    "D": "Chlorine",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which a substance changes directly from a gas to a solid without passing through the liquid state?",
+    "A": "Evaporation",
+    "B": "Condensation",
+    "C": "Sublimation",
+    "D": "Deposition",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of reaction involves the combination of a substance with oxygen, often producing heat and light?",
+    "A": "Reduction",
+    "B": "Oxidation",
+    "C": "Combustion",
+    "D": "Decomposition",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of separating the components of a liquid mixture based on differences in boiling points?",
+    "A": "Decantation",
+    "B": "Filtration",
+    "C": "Distillation",
+    "D": "Crystallization",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the number of atoms of a given element in one molecule of a compound?",
+    "A": "Molar mass",
+    "B": "Atomic number",
+    "C": "Empirical formula",
+    "D": "Subscript",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the principle that states that no two electrons in an atom can have the same set of four quantum numbers?",
+    "A": "Pauli exclusion principle",
+    "B": "Aufbau principle",
+    "C": "Hund's rule",
+    "D": "Heisenberg uncertainty principle",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of radiation consists of high-energy electrons emitted from a nucleus during certain types of radioactive decay?",
+    "A": "Alpha radiation",
+    "B": "Beta radiation",
+    "C": "Gamma radiation",
+    "D": "Neutron radiation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the process of a solid changing directly into a gas without becoming a liquid first?",
+    "A": "Sublimation",
+    "B": "Vaporization",
+    "C": "Condensation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is not a greenhouse gas?",
+    "A": "Carbon dioxide",
+    "B": "Methane",
+    "C": "Oxygen",
+    "D": "Water vapor",
+    "answer": "C"
+  },
+  {
+    "question": "What is the process by which an atom gains an electron and becomes negatively charged?",
+    "A": "Ionization",
+    "B": "Electron affinity",
+    "C": "Reduction",
+    "D": "Oxidation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the process that involves the spontaneous disintegration of a nucleus into a slightly lighter nucleus, accompanied by the emission of particles, electromagnetic radiation, or both?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Radioactivity",
+    "D": "Decay",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of intermolecular force is responsible for the high boiling and melting points of metals?",
+    "A": "Dipole-dipole forces",
+    "B": "London dispersion forces",
+    "C": "Ion-dipole forces",
+    "D": "Metallic bonding",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the process by which a gas changes directly into a solid?",
+    "A": "Deposition",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a molecule that has the same molecular formula as another molecule but a different arrangement of atoms?",
+    "A": "Isomer",
+    "B": "Resonance structure",
+    "C": "Homolog",
+    "D": "Enantiomer",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is used as a common reducing agent in chemical reactions?",
+    "A": "Hydrogen peroxide",
+    "B": "Sodium hydroxide",
+    "C": "Sodium chloride",
+    "D": "Sodium borohydride",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the compound with the chemical formula NaHCO3?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Sodium hydroxide",
+    "D": "Sodium carbonate",
+    "answer": "B"
+  },
+  {
+    "question": "Which law states that the rate of diffusion of a gas is inversely proportional to the square root of its molar mass?",
+    "A": "Boyle's law",
+    "B": "Charles's law",
+    "C": "Graham's law",
+    "D": "Avogadro's law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that can donate a pair of electrons to form a covalent bond?",
+    "A": "Base",
+    "B": "Acid",
+    "C": "Reductant",
+    "D": "Lewis base",
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following elements is a lanthanide?",
+    "A": "Cerium",
+    "B": "Strontium",
+    "C": "Iodine",
+    "D": "Bromine",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which a liquid is heated to its boiling point and the resulting vapor is condensed and collected?",
+    "A": "Evaporation",
+    "B": "Sublimation",
+    "C": "Distillation",
+    "D": "Filtration",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following substances has the highest heat capacity?",
+    "A": "Water",
+    "B": "Iron",
+    "C": "Gold",
+    "D": "Aluminum",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a chemical reaction in which two reactants combine to form a single product?",
+    "A": "Decomposition reaction",
+    "B": "Combination reaction",
+    "C": "Displacement reaction",
+    "D": "Redox reaction",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds is used as a primary ingredient in antifreeze solutions?",
+    "A": "Methanol",
+    "B": "Ethanol",
+    "C": "Isopropanol",
+    "D": "Butanol",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the amount of solute that can dissolve in a solvent at a specific temperature?",
+    "A": "Solubility",
+    "B": "Concentration",
+    "C": "Saturation",
+    "D": "Dissolution",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the molecule that carries genetic information in cells and is responsible for protein synthesis?",
+    "A": "DNA",
+    "B": "RNA",
+    "C": "ATP",
+    "D": "Glucose",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a Lewis acid?",
+    "A": "Hydroxide ion",
+    "B": "Proton",
+    "C": "Chloride ion",
+    "D": "Ammonium ion",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a chemical compound that can react with both acids and bases?",
+    "A": "Amphoteric",
+    "B": "Neutral",
+    "C": "Aqueous",
+    "D": "Ionic",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a common oxidizing agent used in chemical reactions?",
+    "A": "Sodium chloride",
+    "B": "Potassium hydroxide",
+    "C": "Hydrogen peroxide",
+    "D": "Sodium sulfate",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process that involves the removal of water from a substance?",
+    "A": "Hydration",
+    "B": "Dehydration",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a polyatomic ion with a positive charge?",
+    "A": "Sulfate",
+    "B": "Nitrate",
+    "C": "Ammonium",
+    "D": "Carbonate",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a solution with a higher concentration of solute than a saturated solution at the same temperature?",
+    "A": "Supersaturated solution",
+    "B": "Unsaturated solution",
+    "C": "Saturated solution",
+    "D": "Diluted solution",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a disinfectant and bleaching agent?",
+    "A": "Sodium hydroxide",
+    "B": "Hydrogen peroxide",
+    "C": "Sodium chloride",
+    "D": "Sodium hypochlorite",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a chemical reaction in which one reactant is oxidized and another reactant is reduced?",
+    "A": "Decomposition reaction",
+    "B": "Combination reaction",
+    "C": "Displacement reaction",
+    "D": "Redox reaction",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the process that involves the emission of light by a substance that has absorbed light or other electromagnetic radiation?",
+    "A": "Fluorescence",
+    "B": "Phosphorescence",
+    "C": "Absorption",
+    "D": "Diffraction",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a primary component of natural gas?",
+    "A": "Methane",
+    "B": "Ethane",
+    "C": "Propane",
+    "D": "Butane",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a reaction in which a single compound breaks down to form two or more simpler substances?",
+    "A": "Decomposition reaction",
+    "B": "Combination reaction",
+    "C": "Displacement reaction",
+    "D": "Redox reaction",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is responsible for the sour taste of citrus fruits?",
+    "A": "Citric acid",
+    "B": "Acetic acid",
+    "C": "Lactic acid",
+    "D": "Ascorbic acid",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which an atom, ion, or molecule gains electrons and thus becomes negatively charged?",
+    "A": "Oxidation",
+    "B": "Reduction",
+    "C": "Ionization",
+    "D": "Decomposition",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following elements is a noble gas?",
+    "A": "Helium",
+    "B": "Boron",
+    "C": "Sodium",
+    "D": "Phosphorus",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a chemical reaction that absorbs heat from the surroundings?",
+    "A": "Exothermic reaction",
+    "B": "Endothermic reaction",
+    "C": "Spontaneous reaction",
+    "D": "Catalyzed reaction",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an example of an allotrope of carbon?",
+    "A": "Graphite",
+    "B": "Calcite",
+    "C": "Hematite",
+    "D": "Gypsum",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which an atom, ion, or molecule loses electrons and thus becomes positively charged?",
+    "A": "Oxidation",
+    "B": "Reduction",
+    "C": "Ionization",
+    "D": "Decomposition",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a polyatomic ion with a negative charge?",
+    "A": "Sulfate",
+    "B": "Nitrate",
+    "C": "Ammonium",
+    "D": "Carbonate",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the study of the energy changes that occur during chemical reactions and changes in matter?",
+    "A": "Thermodynamics",
+    "B": "Kinetics",
+    "C": "Electrochemistry",
+    "D": "Quantum mechanics",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is used as a common disinfectant and antiseptic?",
+    "A": "Hydrogen peroxide",
+    "B": "Sodium hypochlorite",
+    "C": "Sodium hydroxide",
+    "D": "Isopropanol",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a molecule that has both a positively and a negatively charged end?",
+    "A": "Ion",
+    "B": "Dipole",
+    "C": "Isotope",
+    "D": "Resonance structure",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following elements is used as a moderator in some nuclear reactors?",
+    "A": "Uranium",
+    "B": "Plutonium",
+    "C": "Thorium",
+    "D": "Graphite",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction by lowering the activation energy but is not consumed in the reaction?",
+    "A": "Catalyst",
+    "B": "Inhibitor",
+    "C": "Reactant",
+    "D": "Product",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following elements has the highest atomic number?",
+    "A": "Uranium",
+    "B": "Plutonium",
+    "C": "Thorium",
+    "D": "Radon",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a compound that contains only carbon and hydrogen?",
+    "A": "Carbide",
+    "B": "Hydride",
+    "C": "Hydrocarbon",
+    "D": "Carbonate",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is used as a refrigerant in air conditioning systems?",
+    "A": "Carbon dioxide",
+    "B": "Methane",
+    "C": "Chlorofluorocarbon (CFC)",
+    "D": "Nitrogen",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the number of protons in the nucleus of an atom?",
+    "A": "Mass number",
+    "B": "Atomic number",
+    "C": "Molar mass",
+    "D": "Isotope number",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "A": "Sodium",
+    "B": "Calcium",
+    "C": "Iron",
+    "D": "Potassium",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the energy required to remove one mole of electrons from one mole of atoms in the gaseous state?",
+    "A": "Ionization energy",
+    "B": "Electron affinity",
+    "C": "Bond energy",
+    "D": "Enthalpy change",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a preservative for food and cosmetics?",
+    "A": "Ascorbic acid",
+    "B": "Citric acid",
+    "C": "Benzoic acid",
+    "D": "Acetic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the force of attraction between oppositely charged ions in an ionic compound?",
+    "A": "Van der Waals forces",
+    "B": "Covalent bonds",
+    "C": "Ionic bonds",
+    "D": "Hydrogen bonds",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a fertilizer due to its high nitrogen content?",
+    "A": "Ammonium nitrate",
+    "B": "Sodium chloride",
+    "C": "Potassium sulfate",
+    "D": "Calcium carbonate",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a chemical compound that has the same molecular formula but different structural arrangement of atoms?",
+    "A": "Isomer",
+    "B": "Resonance structure",
+    "C": "Homolog",
+    "D": "Enantiomer",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a solvent, antifreeze, and fuel additive?",
+    "A": "Methanol",
+    "B": "Ethanol",
+    "C": "Propanol",
+    "D": "Butanol",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a chemical bond in which two atoms share a pair of electrons with each other?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds is a strong acid?",
+    "A": "Acetic acid",
+    "B": "Citric acid",
+    "C": "Hydrochloric acid",
+    "D": "Carbonic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the minimum amount of energy required to start a chemical reaction?",
+    "A": "Activation energy",
+    "B": "Ionization energy",
+    "C": "Bond dissociation energy",
+    "D": "Enthalpy change",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which an atom loses an electron and becomes positively charged?",
+    "A": "Reduction",
+    "B": "Oxidation",
+    "C": "Ionization",
+    "D": "Decomposition",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following elements is used as a moderator in nuclear reactors and as a neutron-absorbing material in control rods?",
+    "A": "Uranium",
+    "B": "Plutonium",
+    "C": "Thorium",
+    "D": "Boron",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the ability of an atom to attract electrons in a chemical bond?",
+    "A": "Electron affinity",
+    "B": "Ionization energy",
+    "C": "Electronegativity",
+    "D": "Valence",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a common method used to separate mixtures based on the differences in boiling points of the components?",
+    "A": "Filtration",
+    "B": "Evaporation",
+    "C": "Distillation",
+    "D": "Crystallization",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of converting a liquid into a gas at a temperature below its boiling point?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a preservative and antiseptic in medical and cosmetic products?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Boric acid",
+    "D": "Potassium sulfate",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the mass of one mole of a substance?",
+    "A": "Atomic mass",
+    "B": "Molar mass",
+    "C": "Gram atomic mass",
+    "D": "Mass number",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds is used as a common laboratory desiccant due to its ability to absorb moisture?",
+    "A": "Sodium chloride",
+    "B": "Calcium sulfate",
+    "C": "Sodium bicarbonate",
+    "D": "Potassium nitrate",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a solution that has a lower concentration of solute than a saturated solution at the same temperature?",
+    "A": "Supersaturated solution",
+    "B": "Unsaturated solution",
+    "C": "Saturated solution",
+    "D": "Diluted solution",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds is a strong base?",
+    "A": "Hydrochloric acid",
+    "B": "Acetic acid",
+    "C": "Sodium hydroxide",
+    "D": "Carbonic acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the amount of heat energy required to raise the temperature of one gram of a substance by one degree Celsius?",
+    "A": "Heat capacity",
+    "B": "Specific heat",
+    "C": "Enthalpy change",
+    "D": "Entropy",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a reducing agent in various chemical reactions?",
+    "A": "Hydrogen peroxide",
+    "B": "Sodium hydroxide",
+    "C": "Sodium borohydride",
+    "D": "Sodium chloride",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a solid changing directly into a gas without becoming a liquid first?",
+    "A": "Sublimation",
+    "B": "Vaporization",
+    "C": "Evaporation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a component of fertilizers and explosives?",
+    "A": "Ammonium nitrate",
+    "B": "Sodium chloride",
+    "C": "Calcium carbonate",
+    "D": "Sodium hydroxide",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the study of the rates of chemical reactions and the mechanisms by which they occur?",
+    "A": "Thermodynamics",
+    "B": "Kinetics",
+    "C": "Electrochemistry",
+    "D": "Quantum mechanics",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a unit used to measure the energy content of food?",
+    "A": "Joule",
+    "B": "Newton",
+    "C": "Watt",
+    "D": "Calorie",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a chemical reaction in which an element displaces another element from a compound?",
+    "A": "Decomposition reaction",
+    "B": "Combination reaction",
+    "C": "Displacement reaction",
+    "D": "Redox reaction",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is used as a common solvent and antifreeze in automotive engines?",
+    "A": "Ethanol",
+    "B": "Methanol",
+    "C": "Isopropanol",
+    "D": "Butanol",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the smallest particle of an element that retains the properties of that element?",
+    "A": "Atom",
+    "B": "Molecule",
+    "C": "Ion",
+    "D": "Electron",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is responsible for the characteristic smell of rotten eggs?",
+    "A": "Hydrogen sulfide",
+    "B": "Sulfur dioxide",
+    "C": "Carbon monoxide",
+    "D": "Nitrogen dioxide",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the process of converting light energy into chemical energy in plants?",
+    "A": "Photosynthesis",
+    "B": "Respiration",
+    "C": "Fermentation",
+    "D": "Oxidation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is used as a common antacid to neutralize excess stomach acid?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Calcium carbonate",
+    "D": "Potassium nitrate",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a gas changing directly into a solid without becoming a liquid first?",
+    "A": "Deposition",
+    "B": "Vaporization",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a rust remover due to its ability to dissolve iron oxide?",
+    "A": "Hydrochloric acid",
+    "B": "Acetic acid",
+    "C": "Sulfuric acid",
+    "D": "Nitric acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a liquid changing into a solid?",
+    "A": "Solidification",
+    "B": "Vaporization",
+    "C": "Evaporation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is used as a common electrolyte in batteries?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Sulfuric acid",
+    "D": "Potassium nitrate",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the arrangement of atoms in a three-dimensional space that results in a specific shape for a molecule?",
+    "A": "Atomic structure",
+    "B": "Molecular formula",
+    "C": "Molecular geometry",
+    "D": "Isomerism",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is responsible for the tangy taste of citrus fruits?",
+    "A": "Citric acid",
+    "B": "Ascorbic acid",
+    "C": "Acetic acid",
+    "D": "Lactic acid",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a chemical reaction in which oxygen is added to a substance and there is an increase in oxidation state?",
+    "A": "Reduction",
+    "B": "Oxidation",
+    "C": "Ionization",
+    "D": "Decomposition",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a bleach and disinfectant?",
+    "A": "Hydrogen peroxide",
+    "B": "Sodium hydroxide",
+    "C": "Sodium hypochlorite",
+    "D": "Sodium borohydride",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a solid changing directly into a gas without passing through the liquid state?",
+    "A": "Sublimation",
+    "B": "Vaporization",
+    "C": "Evaporation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is responsible for the pungent smell of onions and garlic?",
+    "A": "Sulfur dioxide",
+    "B": "Hydrogen sulfide",
+    "C": "Nitrogen dioxide",
+    "D": "Carbon monoxide",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a reaction in which a compound is broken down into simpler substances by the addition of water?",
+    "A": "Hydration",
+    "B": "Condensation",
+    "C": "Dehydration",
+    "D": "Displacement",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is used as a common laboratory desiccant and drying agent?",
+    "A": "Sodium chloride",
+    "B": "Calcium sulfate",
+    "C": "Sodium bicarbonate",
+    "D": "Potassium nitrate",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process of a gas changing into a liquid?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a component of antacids to relieve indigestion?",
+    "A": "Hydrochloric acid",
+    "B": "Sodium bicarbonate",
+    "C": "Calcium carbonate",
+    "D": "Sulfuric acid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a solution that has a higher concentration of solute than a saturated solution at the same temperature?",
+    "A": "Supersaturated solution",
+    "B": "Unsaturated solution",
+    "C": "Saturated solution",
+    "D": "Diluted solution",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a solvent, degreaser, and cleaning agent?",
+    "A": "Ethanol",
+    "B": "Isopropanol",
+    "C": "Methanol",
+    "D": "Butanol",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process of converting chemical energy into mechanical energy in living organisms?",
+    "A": "Respiration",
+    "B": "Photosynthesis",
+    "C": "Fermentation",
+    "D": "Oxidation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is used as a common food additive to enhance the flavor of savory dishes?",
+    "A": "Monosodium glutamate (MSG)",
+    "B": "Aspartame",
+    "C": "Sucralose",
+    "D": "Saccharin",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a chemical bond formed between a metal and a nonmetal through the transfer of electrons?",
+    "A": "Covalent bond",
+    "B": "Ionic bond",
+    "C": "Hydrogen bond",
+    "D": "Metallic bond",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a sweetener in low-calorie and sugar-free foods?",
+    "A": "Monosodium glutamate (MSG)",
+    "B": "Aspartame",
+    "C": "Sucralose",
+    "D": "Saccharin",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process of a liquid changing into a gas at its boiling point throughout the entire liquid?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Boiling",
+    "D": "Sublimation",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a fire-extinguishing agent due to its ability to remove heat from a fire?",
+    "A": "Carbon dioxide",
+    "B": "Sodium chloride",
+    "C": "Ammonium nitrate",
+    "D": "Calcium carbonate",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a chemical reaction in which an element combines with oxygen to form an oxide?",
+    "A": "Reduction",
+    "B": "Oxidation",
+    "C": "Ionization",
+    "D": "Decomposition",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds is used as a common acidulant and preservative in food and beverages?",
+    "A": "Citric acid",
+    "B": "Ascorbic acid",
+    "C": "Acetic acid",
+    "D": "Lactic acid",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the process of a solid changing into a liquid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a fuel and solvent?",
+    "A": "Ethanol",
+    "B": "Isopropanol",
+    "C": "Methanol",
+    "D": "Butanol",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Reactant",
+    "C": "Product",
+    "D": "Inhibitor",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is responsible for the characteristic odor of vinegar?",
+    "A": "Hydrochloric acid",
+    "B": "Acetic acid",
+    "C": "Sulfuric acid",
+    "D": "Nitric acid",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the heat energy required to raise the temperature of one gram of a substance by one degree Celsius?",
+    "A": "Enthalpy change",
+    "B": "Specific heat",
+    "C": "Heat capacity",
+    "D": "Entropy",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a reducing agent and in metallurgical processes?",
+    "A": "Hydrogen peroxide",
+    "B": "Sodium hydroxide",
+    "C": "Sodium borohydride",
+    "D": "Sodium chloride",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a process in which a substance combines with water to produce a new substance with new properties?",
+    "A": "Hydrolysis",
+    "B": "Oxidation",
+    "C": "Reduction",
+    "D": "Ionization",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a disinfectant and antiseptic in medical settings?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Boric acid",
+    "D": "Hydrogen peroxide",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the amount of heat energy required to raise the temperature of one mole of a substance by one degree Celsius?",
+    "A": "Specific heat",
+    "B": "Enthalpy change",
+    "C": "Heat capacity",
+    "D": "Entropy",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a solvent and cleaning agent?",
+    "A": "Ethanol",
+    "B": "Methanol",
+    "C": "Isopropanol",
+    "D": "Butanol",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a liquid changing into a gas at its boiling point?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as an antifungal and antibacterial agent in healthcare products?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Boric acid",
+    "D": "Hydrogen peroxide",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a gas changing into a liquid?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a fire-extinguishing agent and refrigerant?",
+    "A": "Carbon dioxide",
+    "B": "Sulfur dioxide",
+    "C": "Ammonia",
+    "D": "Methane",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a chemical reaction that releases heat energy to the surroundings?",
+    "A": "Exothermic reaction",
+    "B": "Endothermic reaction",
+    "C": "Spontaneous reaction",
+    "D": "Catalyzed reaction",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a bleaching agent and disinfectant?",
+    "A": "Hydrogen peroxide",
+    "B": "Sodium hypochlorite",
+    "C": "Sodium hydroxide",
+    "D": "Sodium chloride",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process of a solid changing into a liquid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a reducing agent and in metallurgical processes?",
+    "A": "Hydrogen peroxide",
+    "B": "Sodium hydroxide",
+    "C": "Sodium borohydride",
+    "D": "Sodium chloride",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a process in which a substance combines with water to produce a new substance with new properties?",
+    "A": "Hydrolysis",
+    "B": "Oxidation",
+    "C": "Reduction",
+    "D": "Ionization",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a disinfectant and antiseptic in medical settings?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Boric acid",
+    "D": "Hydrogen peroxide",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the amount of heat energy required to raise the temperature of one mole of a substance by one degree Celsius?",
+    "A": "Specific heat",
+    "B": "Enthalpy change",
+    "C": "Heat capacity",
+    "D": "Entropy",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a solvent and cleaning agent?",
+    "A": "Ethanol",
+    "B": "Methanol",
+    "C": "Isopropanol",
+    "D": "Butanol",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a liquid changing into a gas at its boiling point?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as an antifungal and antibacterial agent in healthcare products?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Boric acid",
+    "D": "Hydrogen peroxide",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a gas changing into a liquid?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a fire-extinguishing agent and refrigerant?",
+    "A": "Carbon dioxide",
+    "B": "Sulfur dioxide",
+    "C": "Ammonia",
+    "D": "Methane",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a chemical reaction that releases heat energy to the surroundings?",
+    "A": "Exothermic reaction",
+    "B": "Endothermic reaction",
+    "C": "Spontaneous reaction",
+    "D": "Catalyzed reaction",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a bleaching agent and disinfectant?",
+    "A": "Hydrogen peroxide",
+    "B": "Sodium hypochlorite",
+    "C": "Sodium hydroxide",
+    "D": "Sodium chloride",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process of a solid changing into a liquid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a reducing agent and in metallurgical processes?",
+    "A": "Hydrogen peroxide",
+    "B": "Sodium hydroxide",
+    "C": "Sodium borohydride",
+    "D": "Sodium chloride",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a process in which a substance combines with water to produce a new substance with new properties?",
+    "A": "Hydrolysis",
+    "B": "Oxidation",
+    "C": "Reduction",
+    "D": "Ionization",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a disinfectant and antiseptic in medical settings?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Boric acid",
+    "D": "Hydrogen peroxide",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the amount of heat energy required to raise the temperature of one mole of a substance by one degree Celsius?",
+    "A": "Specific heat",
+    "B": "Enthalpy change",
+    "C": "Heat capacity",
+    "D": "Entropy",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a solvent and cleaning agent?",
+    "A": "Ethanol",
+    "B": "Methanol",
+    "C": "Isopropanol",
+    "D": "Butanol",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a liquid changing into a gas at its boiling point?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as an antifungal and antibacterial agent in healthcare products?",
+    "A": "Sodium chloride",
+    "B": "Sodium bicarbonate",
+    "C": "Boric acid",
+    "D": "Hydrogen peroxide",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a gas changing into a liquid?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a fire-extinguishing agent and refrigerant?",
+    "A": "Carbon dioxide",
+    "B": "Sulfur dioxide",
+    "C": "Ammonia",
+    "D": "Methane",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a chemical reaction that releases heat energy to the surroundings?",
+    "A": "Exothermic reaction",
+    "B": "Endothermic reaction",
+    "C": "Spontaneous reaction",
+    "D": "Catalyzed reaction",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds is commonly used as a bleaching agent and disinfectant?",
+    "A": "Hydrogen peroxide",
+    "B": "Sodium hypochlorite",
+    "C": "Sodium hydroxide",
+    "D": "Sodium chloride",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process of a solid changing into a liquid?",
+    "A": "Melting",
+    "B": "Freezing",
+    "C": "Vaporization",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a theoretical particle consisting of a bound state of a top quark and a top antiquark?",
+    "A": "Toponium",
+    "B": "Charm quark",
+    "C": "Higgs boson",
+    "D": "Pion",
+    "answer": "A"
+  },
+  {
+    "question": "In which reaction mechanism does a single reactant produce two or more products?",
+    "A": "Unimolecular reaction",
+    "B": "Bimolecular reaction",
+    "C": "Termolecular reaction",
+    "D": "Photolysis",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the quantum mechanical principle that states that no two identical fermions can occupy the same quantum state within a quantum system simultaneously?",
+    "A": "Pauli exclusion principle",
+    "B": "Heisenberg uncertainty principle",
+    "C": "Bohr's correspondence principle",
+    "D": "Aufbau principle",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of non-covalent bond is responsible for the unique properties of water, such as high boiling and melting points, and high surface tension?",
+    "A": "Van der Waals forces",
+    "B": "Hydrophobic interactions",
+    "C": "Hydrogen bonding",
+    "D": "London dispersion forces",
+    "answer": "C"
+  },
+  {
+    "question": "Which theoretical framework attempts to reconcile general relativity and quantum mechanics?",
+    "A": "String theory",
+    "B": "Loop quantum gravity",
+    "C": "Grand Unified Theory (GUT)",
+    "D": "M-theory",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the phenomenon in which a single reactant molecule is converted into multiple product molecules in a single step?",
+    "A": "Isomerization",
+    "B": "Dissociation",
+    "C": "Photodissociation",
+    "D": "Homolysis",
+    "answer": "C"
+  },
+  {
+    "question": "Which element has the highest electronegativity on the Pauling scale?",
+    "A": "Fluorine",
+    "B": "Oxygen",
+    "C": "Nitrogen",
+    "D": "Chlorine",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of spectroscopy is based on the interaction between magnetic nuclei and an external magnetic field?",
+    "A": "UV-Vis spectroscopy",
+    "B": "Infrared spectroscopy",
+    "C": "Nuclear Magnetic Resonance (NMR) spectroscopy",
+    "D": "Mass spectrometry",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process in which a compound absorbs water molecules and forms hydrates?",
+    "A": "Hydrogenation",
+    "B": "Hygroscopy",
+    "C": "Hydration",
+    "D": "Hydrolysis",
+    "answer": "B"
+  },
+  {
+    "question": "Which particle in the nucleus of an atom has a charge of +2/3 e?",
+    "A": "Proton",
+    "B": "Neutron",
+    "C": "Muon",
+    "D": "Quark",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a chemical reaction that absorbs energy from its surroundings?",
+    "A": "Endothermic reaction",
+    "B": "Exothermic reaction",
+    "C": "Isentropic reaction",
+    "D": "Catalytic reaction",
+    "answer": "A"
+  },
+  {
+    "question": "Which law states that the rate of a chemical reaction is directly proportional to the product of the concentrations of the reactants?",
+    "A": "Arrhenius equation",
+    "B": "Nernst equation",
+    "C": "Law of mass action",
+    "D": "Henderson-Hasselbalch equation",
+    "answer": "C"
+  },
+  {
+    "question": "In coordination chemistry, what is the term for the number of ligand donor atoms to which a central metal ion is bonded?",
+    "A": "Coordination number",
+    "B": "Oxidation number",
+    "C": "Ionic radius",
+    "D": "Effective nuclear charge",
+    "answer": "A"
+  },
+  {
+    "question": "Which theory in chemistry explains the behavior of valence electrons in the formation and properties of chemical compounds?",
+    "A": "VSEPR theory",
+    "B": "Crystal field theory",
+    "C": "Valence bond theory",
+    "D": "Hard-Soft Acid-Base theory",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon in thermodynamics describes the tendency of systems to evolve towards maximum entropy over time?",
+    "A": "Hess's law",
+    "B": "Le Chatelier's principle",
+    "C": "Gibbs free energy",
+    "D": "Second law of thermodynamics",
+    "answer": "D"
+  },
+  {
+    "question": "In organic chemistry, what is the term for a reaction in which a molecule is transformed into a new compound with the addition of two functional groups?",
+    "A": "Oxidation",
+    "B": "Substitution",
+    "C": "Addition",
+    "D": "Cross-coupling",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of isomerism arises due to the different spatial arrangements of atoms in molecules that have the same molecular formula?",
+    "A": "Tautomeric isomerism",
+    "B": "Stereoisomerism",
+    "C": "Conformational isomerism",
+    "D": "Structural isomerism",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process in which a nucleus decays and emits radiation without an external stimulus?",
+    "A": "Photodisintegration",
+    "B": "Nuclear fission",
+    "C": "Radioactive decay",
+    "D": "Spontaneous emission",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of catalysis occurs when the catalyst and the reactants are present in different phases?",
+    "A": "Homogeneous catalysis",
+    "B": "Heterogeneous catalysis",
+    "C": "Enzymatic catalysis",
+    "D": "Photochemical catalysis",
+    "answer": "B"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for the mathematical equation that describes how the state of a physical system changes over time?",
+    "A": "Hamiltonian operator",
+    "B": "Wave function",
+    "C": "Schrödinger equation",
+    "D": "Commutator",
+    "answer": "C"
+  },
+  {
+    "question": "Which chemical element has the highest number of isotopes?",
+    "A": "Carbon",
+    "B": "Hydrogen",
+    "C": "Oxygen",
+    "D": "Uranium",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the quantum mechanical operator that corresponds to the observable of angular momentum in a quantum system?",
+    "A": "Position operator",
+    "B": "Hamiltonian operator",
+    "C": "Momentum operator",
+    "D": "Angular momentum operator",
+    "answer": "D"
+  },
+  {
+    "question": "Which phenomenon is characterized by a substance transitioning directly from a solid to a gas without passing through the liquid phase?",
+    "A": "Deposition",
+    "B": "Condensation",
+    "C": "Sublimation",
+    "D": "Evaporation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a chemical reaction in which two compounds exchange ions to form two new compounds?",
+    "A": "Single displacement reaction",
+    "B": "Double displacement reaction",
+    "C": "Redox reaction",
+    "D": "Polymerization reaction",
+    "answer": "B"
+  },
+  {
+    "question": "Which scientist is credited with proposing the concept of electronegativity?",
+    "A": "Linus Pauling",
+    "B": "Ernest Rutherford",
+    "C": "Robert Boyle",
+    "D": "Marie Curie",
+    "answer": "A"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for a region of space around a nucleus where an electron is most likely to be found?",
+    "A": "Orbital",
+    "B": "Shell",
+    "C": "Subshell",
+    "D": "Quantum state",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the process by which a liquid is converted into a gas at a temperature below its boiling point?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "Which chemical compound is responsible for the green coloration of plants and is essential for photosynthesis?",
+    "A": "Hemoglobin",
+    "B": "Chlorophyll",
+    "C": "Melanin",
+    "D": "Insulin",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the maximum amount of solute that can dissolve in a solvent at a specific temperature?",
+    "A": "Solubility",
+    "B": "Molarity",
+    "C": "Equilibrium constant",
+    "D": "Vapor pressure",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of polymerization involves the repeated addition of monomers without the formation of any byproducts?",
+    "A": "Step-growth polymerization",
+    "B": "Chain-growth polymerization",
+    "C": "Condensation polymerization",
+    "D": "Polycondensation",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a substance that accelerates a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Reactant",
+    "C": "Product",
+    "D": "Inhibitor",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon in quantum mechanics states that particles like electrons cannot simultaneously possess precise values of both momentum and position?",
+    "A": "Heisenberg uncertainty principle",
+    "B": "Pauli exclusion principle",
+    "C": "Wave-particle duality",
+    "D": "Photoelectric effect",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a reaction in which a molecule is broken down into smaller molecules by the addition of water?",
+    "A": "Hydrolysis",
+    "B": "Dehydration",
+    "C": "Condensation",
+    "D": "Isomerization",
+    "answer": "A"
+  },
+  {
+    "question": "In nuclear physics, what is the term for the time required for half of a sample of radioactive material to decay?",
+    "A": "Half-life",
+    "B": "Decay constant",
+    "C": "Activity",
+    "D": "Binding energy",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of chemical bond is formed by the sharing of electrons between atoms?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the measure of disorder or randomness in a system?",
+    "A": "Entropy",
+    "B": "Enthalpy",
+    "C": "Gibbs free energy",
+    "D": "Activation energy",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of isomerism occurs when two compounds have the same molecular formula but different connectivity of atoms?",
+    "A": "Conformational isomerism",
+    "B": "Tautomeric isomerism",
+    "C": "Stereoisomerism",
+    "D": "Structural isomerism",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a chemical compound that is structurally similar to another compound but differs in the arrangement of atoms and their connectivity?",
+    "A": "Isomer",
+    "B": "Homolog",
+    "C": "Analog",
+    "D": "Conformer",
+    "answer": "A"
+  },
+  {
+    "question": "In thermodynamics, what is the term for the energy required to remove an electron from an atom or ion?",
+    "A": "Ionization energy",
+    "B": "Electron affinity",
+    "C": "Activation energy",
+    "D": "Binding energy",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of spectroscopy involves the measurement of the absorption and emission of electromagnetic radiation by nuclei in a magnetic field?",
+    "A": "Infrared spectroscopy",
+    "B": "Nuclear Magnetic Resonance (NMR) spectroscopy",
+    "C": "UV-Vis spectroscopy",
+    "D": "X-ray spectroscopy",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a substance that can accept a pair of electrons to form a coordinate covalent bond?",
+    "A": "Lewis acid",
+    "B": "Bronsted-Lowry acid",
+    "C": "Arrhenius acid",
+    "D": "Brønsted-Lowry base",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of reaction mechanism involves a single reactant molecule directly converting into multiple product molecules?",
+    "A": "Photodissociation",
+    "B": "Unimolecular reaction",
+    "C": "Bimolecular reaction",
+    "D": "Termolecular reaction",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the phenomenon in which a system at equilibrium responds to a change in conditions by counteracting that change?",
+    "A": "Le Chatelier's principle",
+    "B": "Hess's law",
+    "C": "Arrhenius principle",
+    "D": "Bohr's principle",
+    "answer": "A"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for the mathematical representation of the state of a quantum system?",
+    "A": "Wave function",
+    "B": "Quantum number",
+    "C": "Eigenstate",
+    "D": "Quantum state",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a process in which a substance changes from a solid directly into a gas without passing through the liquid phase?",
+    "A": "Evaporation",
+    "B": "Deposition",
+    "C": "Sublimation",
+    "D": "Condensation",
+    "answer": "C"
+  },
+  {
+    "question": "Which law states that the entropy of a perfect crystal is zero at absolute zero temperature?",
+    "A": "Zeroth law of thermodynamics",
+    "B": "First law of thermodynamics",
+    "C": "Second law of thermodynamics",
+    "D": "Third law of thermodynamics",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the arrangement of atoms in a molecule in three-dimensional space?",
+    "A": "Structure",
+    "B": "Geometry",
+    "C": "Topology",
+    "D": "Symmetry",
+    "answer": "B"
+  },
+  {
+    "question": "Which theory in chemistry describes the behavior of valence electrons in molecules and predicts molecular shapes based on electron pair repulsions?",
+    "A": "Valence bond theory",
+    "B": "VSEPR theory",
+    "C": "Crystal field theory",
+    "D": "Hybridization theory",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a process in which a substance absorbs heat from its surroundings?",
+    "A": "Exothermic process",
+    "B": "Endothermic process",
+    "C": "Adiabatic process",
+    "D": "Isothermal process",
+    "answer": "B"
+  },
+  {
+    "question": "In chemical kinetics, what is the term for the minimum amount of energy required for a reaction to occur?",
+    "A": "Activation energy",
+    "B": "Collision energy",
+    "C": "Gibbs free energy",
+    "D": "Reaction energy",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of isomerism occurs when two compounds have the same molecular formula but different arrangement of atoms in space?",
+    "A": "Tautomeric isomerism",
+    "B": "Structural isomerism",
+    "C": "Stereoisomerism",
+    "D": "Conformational isomerism",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process in which light of a specific frequency or energy is absorbed by an atom, ion, or molecule, causing an electron to transition to a higher energy level?",
+    "A": "Emission",
+    "B": "Absorption",
+    "C": "Ionization",
+    "D": "Resonance",
+    "answer": "B"
+  },
+  {
+    "question": "Which scientist introduced the concept of hybridization of atomic orbitals to explain molecular shapes and bonding?",
+    "A": "Linus Pauling",
+    "B": "Erwin Schrödinger",
+    "C": "Gilbert Lewis",
+    "D": "Niels Bohr",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the process of a solid changing directly into a gas without passing through the liquid phase?",
+    "A": "Vaporization",
+    "B": "Deposition",
+    "C": "Evaporation",
+    "D": "Sublimation",
+    "answer": "D"
+  },
+  {
+    "question": "In coordination chemistry, what is the term for the ligand that occupies two adjacent coordination sites on a metal ion in a complex?",
+    "A": "Chelating ligand",
+    "B": "Bidentate ligand",
+    "C": "Monodentate ligand",
+    "D": "Polydentate ligand",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of reaction involves the combination of small molecules to form a larger one with the elimination of a smaller molecule?",
+    "A": "Elimination reaction",
+    "B": "Addition reaction",
+    "C": "Substitution reaction",
+    "D": "Condensation reaction",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the amount of energy required to remove one mole of electrons from one mole of gaseous atoms or ions?",
+    "A": "Electron affinity",
+    "B": "Ionization energy",
+    "C": "Activation energy",
+    "D": "Bond dissociation energy",
+    "answer": "B"
+  },
+  {
+    "question": "Which phenomenon involves the separation of molecules based on their migration rates in an electric field?",
+    "A": "Chromatography",
+    "B": "Mass spectrometry",
+    "C": "Spectroscopy",
+    "D": "Titration",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the equilibrium constant of a chemical reaction with all reactants and products in their standard states?",
+    "A": "Equilibrium constant (Kc)",
+    "B": "Reaction quotient (Q)",
+    "C": "Rate constant (k)",
+    "D": "Gibbs free energy (ΔG)",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of reaction mechanism involves the breaking of a chemical bond and the rearrangement of atoms to form new bonds?",
+    "A": "Homolytic cleavage",
+    "B": "Heterolytic cleavage",
+    "C": "Radical reaction",
+    "D": "Electrophilic substitution",
+    "answer": "A"
+  },
+  {
+    "question": "In organic chemistry, what is the term for a reaction in which a molecule is transformed into an isomer with the same molecular formula?",
+    "A": "Tautomerization",
+    "B": "Isomerization",
+    "C": "Cyclization",
+    "D": "Dehydration",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the amount of heat required to raise the temperature of one gram of a substance by one degree Celsius?",
+    "A": "Specific heat capacity",
+    "B": "Molar heat capacity",
+    "C": "Heat of fusion",
+    "D": "Heat of reaction",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of solid has a highly ordered three-dimensional arrangement of particles with strong and directional intermolecular forces?",
+    "A": "Amorphous solid",
+    "B": "Ionic solid",
+    "C": "Molecular solid",
+    "D": "Covalent network solid",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the process of breaking down complex organic molecules into simpler ones with the release of energy?",
+    "A": "Oxidation",
+    "B": "Reduction",
+    "C": "Hydrolysis",
+    "D": "Catabolism",
+    "answer": "D"
+  },
+  {
+    "question": "Which principle states that the total pressure exerted by a mixture of non-reacting gases is equal to the sum of the pressures that each gas would exert if it occupied the container alone?",
+    "A": "Avogadro's principle",
+    "B": "Dalton's law of partial pressures",
+    "C": "Gay-Lussac's law",
+    "D": "Charles's law",
+    "answer": "B"
+  },
+  {
+    "question": "In organic chemistry, what is the term for a compound with the same molecular formula but different arrangement of atoms in space?",
+    "A": "Isomer",
+    "B": "Homolog",
+    "C": "Analog",
+    "D": "Conformer",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a substance that can donate a pair of electrons to form a coordinate covalent bond?",
+    "A": "Lewis base",
+    "B": "Bronsted-Lowry base",
+    "C": "Arrhenius base",
+    "D": "Brønsted-Lowry acid",
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon in chemistry describes the behavior of gases at high pressures and low temperatures, where they deviate from ideal gas behavior?",
+    "A": "Avogadro's law",
+    "B": "Van der Waals equation",
+    "C": "Gay-Lussac's law",
+    "D": "Boyle's law",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the point in a titration at which the amount of titrant added is stoichiometrically equivalent to the amount of analyte?",
+    "A": "Endpoint",
+    "B": "Equivalence point",
+    "C": "Inflection point",
+    "D": "Breakpoint",
+    "answer": "B"
+  },
+  {
+    "question": "In chemical kinetics, what is the term for the change in concentration of reactants or products per unit of time?",
+    "A": "Rate law",
+    "B": "Reaction rate",
+    "C": "Rate constant",
+    "D": "Reaction order",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of solid consists of positive ions held in a sea of mobile electrons?",
+    "A": "Ionic solid",
+    "B": "Metallic solid",
+    "C": "Covalent network solid",
+    "D": "Amorphous solid",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a substance that can act as both an acid and a base?",
+    "A": "Amphoteric substance",
+    "B": "Amphiphilic substance",
+    "C": "Aromatic substance",
+    "D": "Allosteric substance",
+    "answer": "A"
+  },
+  {
+    "question": "Which principle states that the entropy of a perfect crystal is zero at absolute zero temperature?",
+    "A": "First law of thermodynamics",
+    "B": "Second law of thermodynamics",
+    "C": "Zeroth law of thermodynamics",
+    "D": "Third law of thermodynamics",
+    "answer": "D"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for the set of quantized energy levels available to electrons in atoms and molecules?",
+    "A": "Spectrum",
+    "B": "Spectral line",
+    "C": "Spectral band",
+    "D": "Energy spectrum",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the point in a phase diagram where all three phases (solid, liquid, and gas) coexist in equilibrium?",
+    "A": "Triple point",
+    "B": "Critical point",
+    "C": "Eutectic point",
+    "D": "Transition point",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of spectroscopy involves the measurement of the interaction between magnetic nuclei and radiofrequency radiation?",
+    "A": "UV-Vis spectroscopy",
+    "B": "Mass spectrometry",
+    "C": "Nuclear Magnetic Resonance (NMR) spectroscopy",
+    "D": "Infrared spectroscopy",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a molecule or ion that donates an electron pair to another atom or ion to form a coordinate covalent bond?",
+    "A": "Lewis base",
+    "B": "Bronsted-Lowry base",
+    "C": "Arrhenius base",
+    "D": "Brønsted-Lowry acid",
+    "answer": "A"
+  },
+  {
+    "question": "In thermodynamics, what is the term for a thermodynamic function that measures the randomness or disorder of a system?",
+    "A": "Enthalpy",
+    "B": "Entropy",
+    "C": "Gibbs free energy",
+    "D": "Internal energy",
+    "answer": "B"
+  },
+  {
+    "question": "Which phenomenon describes the diffraction of X-rays by crystal lattices, providing information about the arrangement of atoms in crystals?",
+    "A": "Photoelectric effect",
+    "B": "X-ray absorption spectroscopy",
+    "C": "X-ray crystallography",
+    "D": "X-ray fluorescence",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a chemical compound that can donate a proton (H+) to another substance?",
+    "A": "Base",
+    "B": "Acid",
+    "C": "Salt",
+    "D": "Neutral compound",
+    "answer": "B"
+  },
+  {
+    "question": "In chemical kinetics, what is the term for the rate of reaction when all reactants are present at a concentration of 1 M?",
+    "A": "Rate constant",
+    "B": "Specific rate constant",
+    "C": "First-order rate constant",
+    "D": "Zero-order rate constant",
+    "answer": "B"
+  },
+  {
+    "question": "Which principle states that the rate of a chemical reaction is proportional to the product of the concentrations of the reactants, each raised to the power of its stoichiometric coefficient?",
+    "A": "Hess's law",
+    "B": "Le Chatelier's principle",
+    "C": "Law of mass action",
+    "D": "Arrhenius equation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the minimum energy required to remove an electron from the outermost shell of an atom?",
+    "A": "Ionization energy",
+    "B": "Electron affinity",
+    "C": "Binding energy",
+    "D": "Activation energy",
+    "answer": "A"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for a physical quantity that can only take certain discrete values?",
+    "A": "Continuous variable",
+    "B": "Scalar quantity",
+    "C": "Quantum number",
+    "D": "Quantized variable",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the heat required to raise the temperature of one mole of a substance by one degree Celsius?",
+    "A": "Heat of fusion",
+    "B": "Heat capacity",
+    "C": "Molar heat capacity",
+    "D": "Specific heat capacity",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of chemical reaction involves the combination of two smaller molecules to form a larger one, with the elimination of a small molecule such as water?",
+    "A": "Hydrolysis reaction",
+    "B": "Dehydration reaction",
+    "C": "Reduction reaction",
+    "D": "Oxidation reaction",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a measure of the average kinetic energy of the particles in a substance?",
+    "A": "Temperature",
+    "B": "Pressure",
+    "C": "Heat",
+    "D": "Enthalpy",
+    "answer": "A"
+  },
+  {
+    "question": "In organic chemistry, what is the term for a reaction in which a nucleophile attacks the carbonyl carbon of an aldehyde or ketone?",
+    "A": "Substitution reaction",
+    "B": "Addition reaction",
+    "C": "Elimination reaction",
+    "D": "Condensation reaction",
+    "answer": "B"
+  },
+  {
+    "question": "Which law describes the distribution of energy among the various vibrational modes of molecules at different temperatures?",
+    "A": "Boltzmann's law",
+    "B": "Charles's law",
+    "C": "Avogadro's law",
+    "D": "Boyle's law",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the enthalpy change when one mole of a substance is completely burned in excess oxygen?",
+    "A": "Standard enthalpy of formation",
+    "B": "Standard enthalpy of combustion",
+    "C": "Standard enthalpy of reaction",
+    "D": "Standard enthalpy of vaporization",
+    "answer": "B"
+  },
+  {
+    "question": "Which phenomenon involves the separation of mixtures based on the differential adsorption of components onto a solid surface?",
+    "A": "Chromatography",
+    "B": "Titration",
+    "C": "Extraction",
+    "D": "Dialysis",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the measure of the average kinetic energy of particles in a substance?",
+    "A": "Pressure",
+    "B": "Temperature",
+    "C": "Entropy",
+    "D": "Enthalpy",
+    "answer": "B"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for the quantum number that describes the orientation of an orbital in space?",
+    "A": "Principal quantum number",
+    "B": "Angular momentum quantum number",
+    "C": "Magnetic quantum number",
+    "D": "Spin quantum number",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Reactant",
+    "C": "Product",
+    "D": "Intermediate",
+    "answer": "A"
+  },
+  {
+    "question": "In chemical kinetics, what is the term for the change in concentration of a reactant or product per unit of time?",
+    "A": "Rate constant",
+    "B": "Reaction rate",
+    "C": "Reaction order",
+    "D": "Activation energy",
+    "answer": "B"
+  },
+  {
+    "question": "Which principle states that the total pressure exerted by a mixture of non-reacting gases is equal to the sum of the partial pressures of each gas?",
+    "A": "Avogadro's principle",
+    "B": "Dalton's law of partial pressures",
+    "C": "Gay-Lussac's law",
+    "D": "Charles's law",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the process of a gas changing directly into a solid without passing through the liquid phase?",
+    "A": "Deposition",
+    "B": "Sublimation",
+    "C": "Evaporation",
+    "D": "Condensation",
+    "answer": "A"
+  },
+  {
+    "question": "In coordination chemistry, what is the term for a complex ion that consists of a central metal ion bonded to surrounding ligands?",
+    "A": "Chelate",
+    "B": "Coordination sphere",
+    "C": "Metal complex",
+    "D": "Coordination compound",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the amount of heat required to raise the temperature of one gram of a substance by one degree Celsius?",
+    "A": "Heat capacity",
+    "B": "Molar heat capacity",
+    "C": "Specific heat capacity",
+    "D": "Enthalpy",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of solid has a highly ordered three-dimensional arrangement of particles with strong and directional covalent bonds?",
+    "A": "Metallic solid",
+    "B": "Ionic solid",
+    "C": "Molecular solid",
+    "D": "Covalent network solid",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the enthalpy change when one mole of a substance is formed from its elements in their standard states?",
+    "A": "Standard enthalpy of formation",
+    "B": "Standard enthalpy of combustion",
+    "C": "Standard enthalpy of reaction",
+    "D": "Standard enthalpy of vaporization",
+    "answer": "A"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for a set of atomic or molecular orbitals that have the same principal quantum number and energy level?",
+    "A": "Subshell",
+    "B": "Energy level",
+    "C": "Shell",
+    "D": "Orbital",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process of a liquid changing into a gas at a temperature below its boiling point?",
+    "A": "Vaporization",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "B"
+  },
+  {
+    "question": "In organic chemistry, what is the term for a type of isomerism in which the spatial arrangement of atoms in a molecule is different because of the presence of a double bond?",
+    "A": "Conformational isomerism",
+    "B": "Stereoisomerism",
+    "C": "Geometric isomerism",
+    "D": "Structural isomerism",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the measure of the average kinetic energy of particles in a substance?",
+    "A": "Entropy",
+    "B": "Enthalpy",
+    "C": "Temperature",
+    "D": "Pressure",
+    "answer": "C"
+  },
+  {
+    "question": "Which phenomenon involves the bending of light as it passes from one medium to another, causing the light to change direction?",
+    "A": "Reflection",
+    "B": "Dispersion",
+    "C": "Diffraction",
+    "D": "Refraction",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a chemical reaction in which a compound reacts with oxygen, usually with the release of energy in the form of heat and light?",
+    "A": "Hydration",
+    "B": "Oxidation",
+    "C": "Reduction",
+    "D": "Combustion",
+    "answer": "D"
+  },
+  {
+    "question": "In chemical kinetics, what is the term for the ratio of the rate of a chemical reaction to the concentration of the reacting species?",
+    "A": "Rate law",
+    "B": "Rate constant",
+    "C": "Reaction order",
+    "D": "Reaction rate",
+    "answer": "A"
+  },
+  {
+    "question": "Which law states that the pressure of a gas is inversely proportional to its volume at a constant temperature?",
+    "A": "Boyle's law",
+    "B": "Charles's law",
+    "C": "Avogadro's law",
+    "D": "Gay-Lussac's law",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a process in which heat is transferred through a material without any movement of the material itself?",
+    "A": "Convection",
+    "B": "Conduction",
+    "C": "Radiation",
+    "D": "Evaporation",
+    "answer": "B"
+  },
+  {
+    "question": "In quantum mechanics, what is the term for the rule that states that no two electrons in an atom can have the same set of quantum numbers?",
+    "A": "Aufbau principle",
+    "B": "Pauli exclusion principle",
+    "C": "Hund's rule",
+    "D": "Heisenberg uncertainty principle",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the energy required to remove an electron from an atom or ion in its ground state?",
+    "A": "Ionization energy",
+    "B": "Electron affinity",
+    "C": "Atomic radius",
+    "D": "Binding energy",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of reaction mechanism involves the simultaneous collision of three reactant molecules?",
+    "A": "Monomolecular reaction",
+    "B": "Bimolecular reaction",
+    "C": "Termolecular reaction",
+    "D": "Photodissociation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the measure of the ability of an atom to attract shared electrons in a covalent bond?",
+    "A": "Ionization energy",
+    "B": "Electron affinity",
+    "C": "Electronegativity",
+    "D": "Bond enthalpy",
+    "answer": "C"
+  },
+  {
+    "question": "In organic chemistry, what is the term for a reaction in which a molecule loses atoms or groups of atoms?",
+    "A": "Addition reaction",
+    "B": "Substitution reaction",
+    "C": "Elimination reaction",
+    "D": "Reduction reaction",
+    "answer": "C"
+  },
+  {
+    "question": "Which principle states that when a chemical reaction system at equilibrium is subjected to a change in concentration, temperature, or pressure, the system will adjust itself to counteract that change?",
+    "A": "Hess's law",
+    "B": "Le Chatelier's principle",
+    "C": "Bohr's principle",
+    "D": "Arrhenius principle",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a type of isomerism in which two compounds have the same molecular formula but different arrangement of atoms in space?",
+    "A": "Structural isomerism",
+    "B": "Stereoisomerism",
+    "C": "Tautomeric isomerism",
+    "D": "Conformational isomerism",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the electrostatic attraction between positively charged ions and negatively charged ions in an ionic compound?",
+    "A": "Covalent bond",
+    "B": "Metallic bond",
+    "C": "Hydrogen bond",
+    "D": "Ionic bond",
+    "answer": "D"
+  },
+  {
+    "question": "Which process involves the removal of water molecules to form a more complex molecule?",
+    "A": "Condensation",
+    "B": "Vaporization",
+    "C": "Hydration",
+    "D": "Sublimation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the number of protons in the nucleus of an atom?",
+    "A": "Atomic mass",
+    "B": "Atomic number",
+    "C": "Atomic weight",
+    "D": "Mass number",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electrons between atoms?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Hydrogen bond",
+    "D": "Metallic bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a type of isomerism in which molecules have the same molecular formula but different arrangements of atoms in their spatial arrangement?",
+    "A": "Conformational isomerism",
+    "B": "Structural isomerism",
+    "C": "Tautomeric isomerism",
+    "D": "Stereoisomerism",
+    "answer": "B"
+  },
+  {
+    "question": "In the periodic table, which group of elements is known as the alkali metals?",
+    "A": "Group 1",
+    "B": "Group 2",
+    "C": "Group 17",
+    "D": "Group 18",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the process of converting a substance from a solid directly into a gas without passing through the liquid phase?",
+    "A": "Evaporation",
+    "B": "Sublimation",
+    "C": "Vaporization",
+    "D": "Condensation",
+    "answer": "B"
+  },
+  {
+    "question": "Which scientist is known for the development of the periodic table of elements?",
+    "A": "Isaac Newton",
+    "B": "Albert Einstein",
+    "C": "Dmitri Mendeleev",
+    "D": "Marie Curie",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+    "A": "Catalyst",
+    "B": "Reactant",
+    "C": "Product",
+    "D": "Intermediate",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of reaction involves the breaking of a molecule into smaller fragments by absorbing light energy?",
+    "A": "Decomposition reaction",
+    "B": "Combustion reaction",
+    "C": "Redox reaction",
+    "D": "Photodissociation reaction",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the mass of an atom relative to the mass of carbon-12?",
+    "A": "Molecular mass",
+    "B": "Relative atomic mass",
+    "C": "Molar mass",
+    "D": "Atomic number",
+    "answer": "B"
+  },
+  {
+    "question": "Which type of radiation has the shortest wavelength and the highest energy?",
+    "A": "Gamma radiation",
+    "B": "Alpha radiation",
+    "C": "Beta radiation",
+    "D": "X-ray radiation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the branch of chemistry that deals with the study of carbon compounds and their properties?",
+    "A": "Inorganic chemistry",
+    "B": "Physical chemistry",
+    "C": "Organic chemistry",
+    "D": "Analytical chemistry",
+    "answer": "C"
+  },
+  {
+    "question": "Which law states that the volume of a gas is inversely proportional to its pressure, assuming constant temperature?",
+    "A": "Boyle's law",
+    "B": "Avogadro's law",
+    "C": "Charles's law",
+    "D": "Dalton's law",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a molecule that has an unequal distribution of charge, resulting in partially positive and partially negative regions?",
+    "A": "Ionic molecule",
+    "B": "Covalent molecule",
+    "C": "Polar molecule",
+    "D": "Nonpolar molecule",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of chemical reaction involves the combination of a substance with oxygen, often with the release of heat and light?",
+    "A": "Combustion reaction",
+    "B": "Decomposition reaction",
+    "C": "Redox reaction",
+    "D": "Synthesis reaction",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the minimum energy required to initiate a chemical reaction?",
+    "A": "Activation energy",
+    "B": "Bond energy",
+    "C": "Ionization energy",
+    "D": "Heat of reaction",
+    "answer": "A"
+  },
+  {
+    "question": "In the context of acids and bases, what is the term for a substance that can accept a proton (H+)?",
+    "A": "Acid",
+    "B": "Base",
+    "C": "Salt",
+    "D": "Neutral compound",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a homogeneous mixture of two or more substances?",
+    "A": "Compound",
+    "B": "Element",
+    "C": "Mixture",
+    "D": "Solution",
+    "answer": "D"
+  },
+  {
+    "question": "Which subatomic particle is responsible for the chemical properties and bonding behavior of atoms?",
+    "A": "Neutron",
+    "B": "Proton",
+    "C": "Electron",
+    "D": "Nucleus",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the process in which a liquid changes into a solid due to a decrease in temperature?",
+    "A": "Deposition",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Freezing",
+    "answer": "D"
+  },
+  {
+    "question": "In a chemical equation, what do the coefficients represent?",
+    "A": "The state of matter of each reactant and product",
+    "B": "The number of atoms of each element in a molecule",
+    "C": "The mass of each reactant and product",
+    "D": "The relative proportions of reactants and products",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of radiation consists of high-energy photons that can penetrate matter and ionize atoms?",
+    "A": "Gamma radiation",
+    "B": "Alpha radiation",
+    "C": "Beta radiation",
+    "D": "X-ray radiation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the attractive force between a hydrogen atom bonded to a strongly electronegative atom and a lone pair of electrons on another electronegative atom?",
+    "A": "Covalent bond",
+    "B": "Ionic bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "D"
+  },
+  {
+    "question": "In a chemical reaction, what is the term for the substances that are formed as a result of the reaction?",
+    "A": "Reactants",
+    "B": "Intermediates",
+    "C": "Products",
+    "D": "Catalysts",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of chemical reaction involves the exchange of ions between two compounds, resulting in the formation of two new compounds?",
+    "A": "Decomposition reaction",
+    "B": "Combustion reaction",
+    "C": "Double displacement reaction",
+    "D": "Redox reaction",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the force exerted per unit area by gas molecules as they collide with surfaces?",
+    "A": "Pressure",
+    "B": "Temperature",
+    "C": "Volume",
+    "D": "Entropy",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of bond involves the sharing of electrons between atoms with a significant difference in electronegativity?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the substance that is dissolved in a solution?",
+    "A": "Solvent",
+    "B": "Solute",
+    "C": "Solution",
+    "D": "Concentration",
+    "answer": "B"
+  },
+  {
+    "question": "Which element is the most abundant in Earth's crust?",
+    "A": "Oxygen",
+    "B": "Carbon",
+    "C": "Silicon",
+    "D": "Hydrogen",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the amount of energy required to raise the temperature of one gram of water by one degree Celsius?",
+    "A": "Specific heat capacity",
+    "B": "Molar heat capacity",
+    "C": "Heat of fusion",
+    "D": "Heat of reaction",
+    "answer": "A"
+  },
+  {
+    "question": "In the context of chemical reactions, what does the term 'stoichiometry' refer to?",
+    "A": "The study of reaction mechanisms",
+    "B": "The calculation of reaction rates",
+    "C": "The study of reaction equilibria",
+    "D": "The study of reactant and product ratios",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a substance that can act as both an acid and a base?",
+    "A": "Amphiphilic substance",
+    "B": "Amphoteric substance",
+    "C": "Aromatic substance",
+    "D": "Allosteric substance",
+    "answer": "B"
+  },
+  {
+    "question": "Which scientist is known for his contributions to quantum mechanics and the uncertainty principle?",
+    "A": "Niels Bohr",
+    "B": "Max Planck",
+    "C": "Erwin Schrödinger",
+    "D": "Werner Heisenberg",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the spontaneous emission of radiation by unstable atomic nuclei?",
+    "A": "Fusion",
+    "B": "Fission",
+    "C": "Radioactivity",
+    "D": "Decay",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of reaction involves the combination of an element with oxygen to produce an oxide?",
+    "A": "Redox reaction",
+    "B": "Synthesis reaction",
+    "C": "Decomposition reaction",
+    "D": "Combustion reaction",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the point in a titration at which the amount of titrant added is stoichiometrically equivalent to the amount of analyte?",
+    "A": "Endpoint",
+    "B": "Equivalence point",
+    "C": "Inflection point",
+    "D": "Breakpoint",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of acids and bases, what is the term for a substance that can donate a proton (H+)?",
+    "A": "Acid",
+    "B": "Base",
+    "C": "Salt",
+    "D": "Neutral compound",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the process of a liquid changing into a gas at the surface of the liquid, even at temperatures below the boiling point?",
+    "A": "Vaporization",
+    "B": "Condensation",
+    "C": "Evaporation",
+    "D": "Sublimation",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of reaction involves the breaking down of a compound into simpler substances by the action of heat?",
+    "A": "Synthesis reaction",
+    "B": "Combustion reaction",
+    "C": "Decomposition reaction",
+    "D": "Redox reaction",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction by providing an alternative reaction pathway with lower activation energy?",
+    "A": "Catalyst",
+    "B": "Reactant",
+    "C": "Product",
+    "D": "Intermediate",
+    "answer": "A"
+  },
+  {
+    "question": "Which type of radiation consists of fast-moving electrons emitted from the nucleus of a radioactive atom?",
+    "A": "Gamma radiation",
+    "B": "Alpha radiation",
+    "C": "Beta radiation",
+    "D": "X-ray radiation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the mass of one mole of a substance in grams?",
+    "A": "Molar mass",
+    "B": "Molecular mass",
+    "C": "Atomic mass",
+    "D": "Relative mass",
+    "answer": "A"
+  },
+  {
+    "question": "Which scientist is known for the discovery of the electron and the development of the plum pudding model of the atom?",
+    "A": "Ernest Rutherford",
+    "B": "J.J. Thomson",
+    "C": "Niels Bohr",
+    "D": "Marie Curie",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a substance that donates electrons in a chemical reaction?",
+    "A": "Oxidizing agent",
+    "B": "Reducing agent",
+    "C": "Catalyst",
+    "D": "Solvent",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of acids and bases, what is the term for a substance that can accept a pair of electrons to form a covalent bond?",
+    "A": "Acid",
+    "B": "Base",
+    "C": "Salt",
+    "D": "Neutral compound",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the temperature at which a solid substance changes into a liquid?",
+    "A": "Melting point",
+    "B": "Freezing point",
+    "C": "Boiling point",
+    "D": "Condensation point",
+    "answer": "A"
+  },
+  {
+    "question": "Which law states that the total pressure exerted by a mixture of gases is equal to the sum of the partial pressures of each individual gas?",
+    "A": "Boyle's law",
+    "B": "Charles's law",
+    "C": "Dalton's law",
+    "D": "Gay-Lussac's law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a measure of the average kinetic energy of particles in a substance?",
+    "A": "Pressure",
+    "B": "Temperature",
+    "C": "Entropy",
+    "D": "Enthalpy",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of chemical reactions, what does the term 'catalyst' refer to?",
+    "A": "A substance that consumes reactants in a chemical reaction",
+    "B": "A substance that slows down the rate of a chemical reaction",
+    "C": "A substance that increases the activation energy of a reaction",
+    "D": "A substance that speeds up a chemical reaction without being consumed",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the amount of substance in a solution, usually expressed in moles per liter?",
+    "A": "Molar mass",
+    "B": "Molarity",
+    "C": "Molar volume",
+    "D": "Molar concentration",
+    "answer": "B"
+  },
+  {
+    "question": "In the periodic table, which group of elements is known as the noble gases?",
+    "A": "Group 1",
+    "B": "Group 2",
+    "C": "Group 17",
+    "D": "Group 18",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for the attractive force between the positive end of one polar molecule and the negative end of another polar molecule?",
+    "A": "Dipole-dipole interaction",
+    "B": "Ion-dipole interaction",
+    "C": "London dispersion force",
+    "D": "Hydrogen bond",
+    "answer": "A"
+  },
+  {
+    "question": "Which subatomic particle carries a positive charge?",
+    "A": "Neutron",
+    "B": "Proton",
+    "C": "Electron",
+    "D": "Nucleus",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a chemical reaction in which two or more reactants combine to form a single product?",
+    "A": "Decomposition reaction",
+    "B": "Combustion reaction",
+    "C": "Synthesis reaction",
+    "D": "Redox reaction",
+    "answer": "C"
+  },
+  {
+    "question": "Which type of bond involves the sharing of electrons between atoms with similar electronegativity?",
+    "A": "Ionic bond",
+    "B": "Covalent bond",
+    "C": "Metallic bond",
+    "D": "Hydrogen bond",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the number of protons plus neutrons in the nucleus of an atom?",
+    "A": "Atomic mass",
+    "B": "Atomic number",
+    "C": "Atomic weight",
+    "D": "Mass number",
+    "answer": "D"
+  },
+  {
+    "question": "Which type of chemical reaction involves the breakdown of a compound into simpler substances by the action of water?",
+    "A": "Synthesis reaction",
+    "B": "Decomposition reaction",
+    "C": "Combustion reaction",
+    "D": "Redox reaction",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the heat required to raise the temperature of one mole of a substance by one degree Celsius?",
+    "A": "Heat capacity",
+    "B": "Molar heat capacity",
+    "C": "Specific heat capacity",
+    "D": "Enthalpy",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of chemical reactions, what does the term 'reactant' refer to?",
+    "A": "A substance formed as a result of a chemical reaction",
+    "B": "A substance that speeds up a chemical reaction",
+    "C": "A substance that undergoes a chemical reaction",
+    "D": "A substance that remains unchanged in a chemical reaction",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the energy required to remove an electron from an atom or ion in its ground state?",
+    "A": "Ionization energy",
+    "B": "Electron affinity",
+    "C": "Atomic radius",
+    "D": "Binding energy",
+    "answer": "A"
+  },
+  {
+    "question": "Which law states that the volume of a gas is directly proportional to its temperature, assuming constant pressure?",
+    "A": "Boyle's law",
+    "B": "Avogadro's law",
+    "C": "Charles's law",
+    "D": "Dalton's law",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a reaction in which a molecule gains electrons?",
+    "A": "Oxidation",
+    "B": "Reduction",
+    "C": "Combustion",
+    "D": "Decomposition",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of chemical reactions, what does the term 'product' refer to?",
+    "A": "A substance formed as a result of a chemical reaction",
+    "B": "A substance that speeds up a chemical reaction",
+    "C": "A substance that undergoes a chemical reaction",
+    "D": "A substance that remains unchanged in a chemical reaction",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the process of a gas changing directly into a solid without passing through the liquid phase?",
+    "A": "Deposition",
+    "B": "Evaporation",
+    "C": "Condensation",
+    "D": "Sublimation",
+    "answer": "A"
+  }
+]

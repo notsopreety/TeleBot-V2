@@ -1,0 +1,6378 @@
+[
+  {
+    "question": "What is the result of 5 + 7?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "13",
+    "answer": "B"
+  },
+  {
+    "question": "Simplify: 3 * (4 + 2)",
+    "A": "18",
+    "B": "15",
+    "C": "12",
+    "D": "24",
+    "answer": "D"
+  },
+  {
+    "question": "What is the square root of 49?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "5",
+    "answer": "B"
+  },
+  {
+    "question": "If x = 3 and y = 5, what is the value of 2x + y?",
+    "A": "11",
+    "B": "10",
+    "C": "12",
+    "D": "13",
+    "answer": "A"
+  },
+  {
+    "question": "What is 20% of 150?",
+    "A": "30",
+    "B": "20",
+    "C": "25",
+    "D": "15",
+    "answer": "C"
+  },
+  {
+    "question": "If a = 4 and b = 7, what is the value of a^2 + b^2?",
+    "A": "65",
+    "B": "57",
+    "C": "41",
+    "D": "53",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of pi (π) to two decimal places?",
+    "A": "3.14",
+    "B": "3.16",
+    "C": "3.12",
+    "D": "3.18",
+    "answer": "A"
+  },
+  {
+    "question": "If 2x - 5 = 11, what is the value of x?",
+    "A": "8",
+    "B": "6",
+    "C": "7",
+    "D": "9",
+    "answer": "D"
+  },
+  {
+    "question": "What is the product of 9 and 7?",
+    "A": "56",
+    "B": "63",
+    "C": "49",
+    "D": "54",
+    "answer": "B"
+  },
+  {
+    "question": "If a car travels 240 kilometers in 4 hours, what is its speed in km/h?",
+    "A": "60",
+    "B": "50",
+    "C": "55",
+    "D": "45",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of 15 divided by 3?",
+    "A": "5",
+    "B": "3",
+    "C": "6",
+    "D": "2",
+    "answer": "A"
+  },
+  {
+    "question": "If the sum of two angles is 90 degrees, what type of angles are they?",
+    "A": "Acute angles",
+    "B": "Right angles",
+    "C": "Obtuse angles",
+    "D": "Straight angles",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 4! (4 factorial)?",
+    "A": "24",
+    "B": "12",
+    "C": "8",
+    "D": "16",
+    "answer": "A"
+  },
+  {
+    "question": "If a = 6 and b = 8, what is the value of 2a + 3b?",
+    "A": "36",
+    "B": "30",
+    "C": "24",
+    "D": "26",
+    "answer": "A"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "answer": "B"
+  },
+  {
+    "question": "If the radius of a circle is 10 units, what is its diameter?",
+    "A": "5 units",
+    "B": "20 units",
+    "C": "10 units",
+    "D": "15 units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the area of a rectangle with length 12 units and width 8 units?",
+    "A": "96 square units",
+    "B": "80 square units",
+    "C": "104 square units",
+    "D": "64 square units",
+    "answer": "A"
+  },
+  {
+    "question": "If 3x + 7 = 22, what is the value of x?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "answer": "A"
+  },
+  {
+    "question": "What is 3 cubed (3^3)?",
+    "A": "6",
+    "B": "27",
+    "C": "9",
+    "D": "81",
+    "answer": "B"
+  },
+  {
+    "question": "If a triangle has angles 45 degrees, 45 degrees, and 90 degrees, what type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "D"
+  },
+  {
+    "question": "What is the value of 2^5?",
+    "A": "8",
+    "B": "16",
+    "C": "32",
+    "D": "64",
+    "answer": "C"
+  },
+  {
+    "question": "What is 10 multiplied by 5?",
+    "A": "50",
+    "B": "15",
+    "C": "25",
+    "D": "30",
+    "answer": "A"
+  },
+  {
+    "question": "If you add 3 to a number and then subtract 7, what is the result?",
+    "A": "-4",
+    "B": "0",
+    "C": "10",
+    "D": "4",
+    "answer": "A"
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "A": "4",
+    "B": "3",
+    "C": "2",
+    "D": "5",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 8 divided by 2?",
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "If a = 2 and b = 2, what is the value of a + b?",
+    "A": "4",
+    "B": "2",
+    "C": "1",
+    "D": "3",
+    "answer": "A"
+  },
+  {
+    "question": "What is the area of a square with side length 6 units?",
+    "A": "24 square units",
+    "B": "12 square units",
+    "C": "36 square units",
+    "D": "18 square units",
+    "answer": "C"
+  },
+  {
+    "question": "If 5x = 35, what is the value of x?",
+    "A": "8",
+    "B": "6",
+    "C": "7",
+    "D": "5",
+    "answer": "C"
+  },
+  {
+    "question": "What is 25% of 80?",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "15",
+    "answer": "A"
+  },
+  {
+    "question": "If a rectangle has length 10 units and width 3 units, what is its perimeter?",
+    "A": "36 units",
+    "B": "30 units",
+    "C": "26 units",
+    "D": "20 units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 7 squared?",
+    "A": "14",
+    "B": "49",
+    "C": "21",
+    "D": "7",
+    "answer": "B"
+  },
+  {
+    "question": "If the sum of two numbers is 15 and one of them is 8, what is the other number?",
+    "A": "7",
+    "B": "6",
+    "C": "5",
+    "D": "9",
+    "answer": "A"
+  },
+  {
+    "question": "What is the product of 3 and 9?",
+    "A": "27",
+    "B": "12",
+    "C": "21",
+    "D": "18",
+    "answer": "A"
+  },
+  {
+    "question": "If a square has an area of 49 square units, what is the length of one side?",
+    "A": "7 units",
+    "B": "14 units",
+    "C": "21 units",
+    "D": "28 units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of 9 minus 4?",
+    "A": "3",
+    "B": "5",
+    "C": "6",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "If 2y + 6 = 14, what is the value of y?",
+    "A": "4",
+    "B": "8",
+    "C": "6",
+    "D": "7",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of 6 cubed (6^3)?",
+    "A": "36",
+    "B": "216",
+    "C": "18",
+    "D": "126",
+    "answer": "B"
+  },
+  {
+    "question": "How many degrees are there in a right angle?",
+    "A": "45 degrees",
+    "B": "90 degrees",
+    "C": "180 degrees",
+    "D": "360 degrees",
+    "answer": "B"
+  },
+  {
+    "question": "If a triangle has sides of lengths 5, 6, and 7 units, what type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of 10 divided by 5?",
+    "A": "2",
+    "B": "5",
+    "C": "10",
+    "D": "0",
+    "answer": "A"
+  },
+  {
+    "question": "If x = 4 and y = 9, what is the value of x^2 + y^2?",
+    "A": "65",
+    "B": "97",
+    "C": "52",
+    "D": "97",
+    "answer": "D"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle?",
+    "A": "90 degrees",
+    "B": "180 degrees",
+    "C": "270 degrees",
+    "D": "360 degrees",
+    "answer": "B"
+  },
+  {
+    "question": "If 3a + 5 = 20, what is the value of a?",
+    "A": "3",
+    "B": "5",
+    "C": "7",
+    "D": "8",
+    "answer": "C"
+  },
+  {
+    "question": "What is the result of 12 divided by 3?",
+    "A": "4",
+    "B": "3",
+    "C": "6",
+    "D": "2",
+    "answer": "B"
+  },
+  {
+    "question": "How many edges does a cube have?",
+    "A": "6",
+    "B": "8",
+    "C": "12",
+    "D": "4",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of 5 squared?",
+    "A": "10",
+    "B": "25",
+    "C": "15",
+    "D": "5",
+    "answer": "B"
+  },
+  {
+    "question": "If a rectangle has length 8 units and width 5 units, what is its area?",
+    "A": "40 square units",
+    "B": "13 square units",
+    "C": "45 square units",
+    "D": "20 square units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the sum of the first 5 natural numbers?",
+    "A": "10",
+    "B": "15",
+    "C": "20",
+    "D": "25",
+    "answer": "A"
+  },
+  {
+    "question": "If 4x = 32, what is the value of x?",
+    "A": "6",
+    "B": "8",
+    "C": "4",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 9 minus 3?",
+    "A": "3",
+    "B": "6",
+    "C": "9",
+    "D": "12",
+    "answer": "B"
+  },
+  {
+    "question": "If a circle has a radius of 7 units, what is its circumference?",
+    "A": "44 units",
+    "B": "22 units",
+    "C": "14 units",
+    "D": "42 units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of 2 * 4 + 3?",
+    "A": "10",
+    "B": "11",
+    "C": "14",
+    "D": "9",
+    "answer": "C"
+  },
+  {
+    "question": "How many faces does a rectangular prism have?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "12",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 15% of 200?",
+    "A": "25",
+    "B": "30",
+    "C": "15",
+    "D": "20",
+    "answer": "D"
+  },
+  {
+    "question": "If 6y + 9 = 33, what is the value of y?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "answer": "C"
+  },
+  {
+    "question": "What is the smallest prime number greater than 2?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "answer": "C"
+  },
+  {
+    "question": "What is the area of a triangle with base 10 units and height 8 units?",
+    "A": "80 square units",
+    "B": "40 square units",
+    "C": "20 square units",
+    "D": "60 square units",
+    "answer": "A"
+  },
+  {
+    "question": "If a = 5 and b = 3, what is the value of a - b?",
+    "A": "2",
+    "B": "8",
+    "C": "3",
+    "D": "15",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 2 cubed (2^3)?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "16",
+    "answer": "C"
+  },
+  {
+    "question": "If a triangle has angles 60 degrees, 60 degrees, and 60 degrees, what type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 3^4?",
+    "A": "7",
+    "B": "9",
+    "C": "12",
+    "D": "81",
+    "answer": "D"
+  },
+  {
+    "question": "What is the sum of the angles in a triangle?",
+    "A": "45 degrees",
+    "B": "90 degrees",
+    "C": "180 degrees",
+    "D": "360 degrees",
+    "answer": "C"
+  },
+  {
+    "question": "If x = 7 and y = 2, what is the value of 3x - y?",
+    "A": "19",
+    "B": "17",
+    "C": "21",
+    "D": "23",
+    "answer": "B"
+  },
+  {
+    "question": "What is the result of 7 + 9?",
+    "A": "16",
+    "B": "14",
+    "C": "18",
+    "D": "15",
+    "answer": "C"
+  },
+  {
+    "question": "If you have 3 apples and give away 2, how many apples do you have left?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "0",
+    "answer": "A"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of 4 multiplied by 6?",
+    "A": "20",
+    "B": "24",
+    "C": "16",
+    "D": "26",
+    "answer": "B"
+  },
+  {
+    "question": "If a = 3 and b = 3, what is the value of a + b?",
+    "A": "6",
+    "B": "3",
+    "C": "1",
+    "D": "9",
+    "answer": "A"
+  },
+  {
+    "question": "What is the area of a rectangle with length 5 units and width 9 units?",
+    "A": "14 square units",
+    "B": "45 square units",
+    "C": "54 square units",
+    "D": "40 square units",
+    "answer": "C"
+  },
+  {
+    "question": "If 2a = 14, what is the value of a?",
+    "A": "3",
+    "B": "7",
+    "C": "5",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "What is 30% of 50?",
+    "A": "15",
+    "B": "20",
+    "C": "25",
+    "D": "30",
+    "answer": "A"
+  },
+  {
+    "question": "If a square has a side length of 12 units, what is its perimeter?",
+    "A": "24 units",
+    "B": "48 units",
+    "C": "36 units",
+    "D": "12 units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the result of 8 minus 3?",
+    "A": "3",
+    "B": "5",
+    "C": "6",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "How many faces does a sphere have?",
+    "A": "1",
+    "B": "2",
+    "C": "0",
+    "D": "4",
+    "answer": "A"
+  },
+  {
+    "question": "What is the product of 5 and 7?",
+    "A": "35",
+    "B": "42",
+    "C": "12",
+    "D": "25",
+    "answer": "A"
+  },
+  {
+    "question": "If a rectangle has length 7 units and width 4 units, what is its area?",
+    "A": "11 square units",
+    "B": "28 square units",
+    "C": "16 square units",
+    "D": "31 square units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the result of 6 divided by 2?",
+    "A": "2",
+    "B": "3",
+    "C": "6",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 4 squared?",
+    "A": "8",
+    "B": "12",
+    "C": "16",
+    "D": "4",
+    "answer": "C"
+  },
+  {
+    "question": "If a triangle has angles 90 degrees, 45 degrees, and 45 degrees, what type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "D"
+  },
+  {
+    "question": "What is the value of 2^4?",
+    "A": "6",
+    "B": "16",
+    "C": "32",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "If a square has an area of 16 square units, what is the length of one side?",
+    "A": "4 units",
+    "B": "8 units",
+    "C": "12 units",
+    "D": "16 units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the sum of the angles in a quadrilateral?",
+    "A": "90 degrees",
+    "B": "180 degrees",
+    "C": "270 degrees",
+    "D": "360 degrees",
+    "answer": "D"
+  },
+  {
+    "question": "If x = 5 and y = 7, what is the value of x + y?",
+    "A": "12",
+    "B": "35",
+    "C": "57",
+    "D": "47",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of 15 + 20?",
+    "A": "35",
+    "B": "25",
+    "C": "30",
+    "D": "40",
+    "answer": "A"
+  },
+  {
+    "question": "If you have 5 candies and give away 3, how many candies do you have left?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "answer": "A"
+  },
+  {
+    "question": "How many sides does an octagon have?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of 9 multiplied by 7?",
+    "A": "63",
+    "B": "54",
+    "C": "72",
+    "D": "81",
+    "answer": "A"
+  },
+  {
+    "question": "If a = 4 and b = 4, what is the value of a + b?",
+    "A": "8",
+    "B": "4",
+    "C": "1",
+    "D": "16",
+    "answer": "A"
+  },
+  {
+    "question": "What is the area of a rectangle with length 8 units and width 6 units?",
+    "A": "44 square units",
+    "B": "48 square units",
+    "C": "30 square units",
+    "D": "14 square units",
+    "answer": "B"
+  },
+  {
+    "question": "If 3a = 27, what is the value of a?",
+    "A": "9",
+    "B": "6",
+    "C": "3",
+    "D": "12",
+    "answer": "A"
+  },
+  {
+    "question": "What is 40% of 75?",
+    "A": "30",
+    "B": "45",
+    "C": "50",
+    "D": "60",
+    "answer": "B"
+  },
+  {
+    "question": "If a square has a side length of 15 units, what is its perimeter?",
+    "A": "30 units",
+    "B": "45 units",
+    "C": "60 units",
+    "D": "75 units",
+    "answer": "C"
+  },
+  {
+    "question": "What is the result of 10 minus 6?",
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "How many faces does a triangular prism have?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "answer": "B"
+  },
+  {
+    "question": "What is the product of 8 and 9?",
+    "A": "64",
+    "B": "72",
+    "C": "80",
+    "D": "81",
+    "answer": "B"
+  },
+  {
+    "question": "If a rectangle has length 10 units and width 6 units, what is its area?",
+    "A": "16 square units",
+    "B": "60 square units",
+    "C": "36 square units",
+    "D": "46 square units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the result of 7 divided by 1?",
+    "A": "1",
+    "B": "7",
+    "C": "8",
+    "D": "14",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 5 squared?",
+    "A": "10",
+    "B": "25",
+    "C": "15",
+    "D": "5",
+    "answer": "B"
+  },
+  {
+    "question": "If a triangle has angles 45 degrees, 45 degrees, and 90 degrees, what type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "D"
+  },
+  {
+    "question": "What is the value of 2^3?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "16",
+    "answer": "C"
+  },
+  {
+    "question": "If a square has an area of 36 square units, what is the length of one side?",
+    "A": "3 units",
+    "B": "6 units",
+    "C": "9 units",
+    "D": "12 units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the sum of the angles in a pentagon?",
+    "A": "90 degrees",
+    "B": "180 degrees",
+    "C": "270 degrees",
+    "D": "540 degrees",
+    "answer": "D"
+  },
+  {
+    "question": "If x = 6 and y = 8, what is the value of x + y?",
+    "A": "12",
+    "B": "35",
+    "C": "57",
+    "D": "48",
+    "answer": "D"
+  },
+  {
+    "question": "What is the result of 25 + 15?",
+    "A": "30",
+    "B": "40",
+    "C": "50",
+    "D": "60",
+    "answer": "C"
+  },
+  {
+    "question": "If you have 8 pencils and give away 2, how many pencils do you have left?",
+    "A": "2",
+    "B": "3",
+    "C": "6",
+    "D": "8",
+    "answer": "D"
+  },
+  {
+    "question": "How many sides does a pentagon have?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 6 multiplied by 9?",
+    "A": "45",
+    "B": "54",
+    "C": "63",
+    "D": "72",
+    "answer": "B"
+  },
+  {
+    "question": "If a = 2 and b = 2, what is the value of a + b?",
+    "A": "2",
+    "B": "4",
+    "C": "1",
+    "D": "3",
+    "answer": "B"
+  },
+  {
+    "question": "What is the area of a rectangle with length 12 units and width 7 units?",
+    "A": "84 square units",
+    "B": "19 square units",
+    "C": "35 square units",
+    "D": "24 square units",
+    "answer": "A"
+  },
+  {
+    "question": "If 4a = 32, what is the value of a?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "What is 15% of 80?",
+    "A": "10",
+    "B": "12",
+    "C": "15",
+    "D": "20",
+    "answer": "D"
+  },
+  {
+    "question": "If a square has a side length of 20 units, what is its perimeter?",
+    "A": "40 units",
+    "B": "60 units",
+    "C": "80 units",
+    "D": "100 units",
+    "answer": "C"
+  },
+  {
+    "question": "What is the result of 9 minus 5?",
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "How many faces does a cube have?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "12",
+    "answer": "B"
+  },
+  {
+    "question": "What is the product of 6 and 8?",
+    "A": "42",
+    "B": "48",
+    "C": "54",
+    "D": "64",
+    "answer": "B"
+  },
+  {
+    "question": "If a rectangle has length 9 units and width 5 units, what is its area?",
+    "A": "35 square units",
+    "B": "45 square units",
+    "C": "14 square units",
+    "D": "40 square units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the result of 12 divided by 2?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "12",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of 7 squared?",
+    "A": "14",
+    "B": "49",
+    "C": "21",
+    "D": "7",
+    "answer": "B"
+  },
+  {
+    "question": "If a triangle has angles 60 degrees, 60 degrees, and 60 degrees, what type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 2^2?",
+    "A": "2",
+    "B": "4",
+    "C": "8",
+    "D": "16",
+    "answer": "B"
+  },
+  {
+    "question": "If a square has an area of 25 square units, what is the length of one side?",
+    "A": "3 units",
+    "B": "5 units",
+    "C": "6 units",
+    "D": "7 units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the sum of the angles in a hexagon?",
+    "A": "90 degrees",
+    "B": "180 degrees",
+    "C": "270 degrees",
+    "D": "720 degrees",
+    "answer": "B"
+  },
+  {
+    "question": "If x = 8 and y = 6, what is the value of x + y?",
+    "A": "12",
+    "B": "14",
+    "C": "16",
+    "D": "18",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: 3x + 10 = 25.",
+    "A": "x = 5",
+    "B": "x = 8",
+    "C": "x = 7",
+    "D": "x = 10",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of (4 + 7) * 3?",
+    "A": "33",
+    "B": "21",
+    "C": "28",
+    "D": "18",
+    "answer": "C"
+  },
+  {
+    "question": "The ratio of boys to girls in a class is 3:5. If there are 24 students in total, how many are girls?",
+    "A": "12",
+    "B": "15",
+    "C": "18",
+    "D": "20",
+    "answer": "B"
+  },
+  {
+    "question": "If a car travels 240 kilometers in 3 hours, what is its average speed in kilometers per hour?",
+    "A": "60 km/h",
+    "B": "80 km/h",
+    "C": "120 km/h",
+    "D": "180 km/h",
+    "answer": "A"
+  },
+  {
+    "question": "The sum of three consecutive odd numbers is 51. What is the largest of these numbers?",
+    "A": "17",
+    "B": "19",
+    "C": "21",
+    "D": "23",
+    "answer": "C"
+  },
+  {
+    "question": "If the area of a rectangle is 45 square units and its length is 9 units, what is its width?",
+    "A": "5 units",
+    "B": "6 units",
+    "C": "7 units",
+    "D": "8 units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "10",
+    "answer": "C"
+  },
+  {
+    "question": "If 5x + 3 = 18, what is the value of x?",
+    "A": "3",
+    "B": "5",
+    "C": "6",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "The area of a circle is 64π square units. What is its radius?",
+    "A": "4 units",
+    "B": "6 units",
+    "C": "8 units",
+    "D": "16 units",
+    "answer": "A"
+  },
+  {
+    "question": "If a box contains 12 red balls, 15 blue balls, and 18 green balls, what is the probability of drawing a red ball?",
+    "A": "1/3",
+    "B": "1/4",
+    "C": "1/5",
+    "D": "1/6",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 2 to the power of 5?",
+    "A": "8",
+    "B": "16",
+    "C": "32",
+    "D": "64",
+    "answer": "C"
+  },
+  {
+    "question": "If the hypotenuse of a right triangle is 10 units and one leg is 6 units, what is the length of the other leg?",
+    "A": "8 units",
+    "B": "9 units",
+    "C": "12 units",
+    "D": "15 units",
+    "answer": "A"
+  },
+  {
+    "question": "A train travels 300 kilometers in 5 hours. What is its speed in kilometers per hour?",
+    "A": "50 km/h",
+    "B": "55 km/h",
+    "C": "60 km/h",
+    "D": "65 km/h",
+    "answer": "B"
+  },
+  {
+    "question": "The product of two consecutive even integers is 168. What are the integers?",
+    "A": "12 and 14",
+    "B": "14 and 16",
+    "C": "16 and 18",
+    "D": "18 and 20",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 3 divided by 1/3?",
+    "A": "1",
+    "B": "3",
+    "C": "9",
+    "D": "27",
+    "answer": "D"
+  },
+  {
+    "question": "If a right angle triangle has legs of length 5 units and 12 units, what is the length of its hypotenuse?",
+    "A": "13 units",
+    "B": "17 units",
+    "C": "20 units",
+    "D": "25 units",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for x: 2(x + 4) = 18.",
+    "A": "x = 5",
+    "B": "x = 7",
+    "C": "x = 8",
+    "D": "x = 9",
+    "answer": "B"
+  },
+  {
+    "question": "If a cylinder has a radius of 5 units and a height of 10 units, what is its volume?",
+    "A": "100π cubic units",
+    "B": "150π cubic units",
+    "C": "200π cubic units",
+    "D": "250π cubic units",
+    "answer": "C"
+  },
+  {
+    "question": "The sum of the ages of John and Alice is 35. John is 9 years older than Alice. How old is Alice?",
+    "A": "13 years",
+    "B": "14 years",
+    "C": "15 years",
+    "D": "16 years",
+    "answer": "A"
+  },
+  {
+    "question": "If the perimeter of a square is 48 units, what is the length of each side?",
+    "A": "12 units",
+    "B": "16 units",
+    "C": "18 units",
+    "D": "24 units",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for x: 2x - 5 = 11.",
+    "A": "x = 3",
+    "B": "x = 8",
+    "C": "x = 6",
+    "D": "x = 9",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of (3 * 4) + (2 * 5)?",
+    "A": "19",
+    "B": "22",
+    "C": "23",
+    "D": "24",
+    "answer": "B"
+  },
+  {
+    "question": "A rectangle has a length of 15 units and a width of 8 units. What is its perimeter?",
+    "A": "38 units",
+    "B": "46 units",
+    "C": "56 units",
+    "D": "64 units",
+    "answer": "C"
+  },
+  {
+    "question": "The sum of two consecutive even numbers is 58. What are the numbers?",
+    "A": "28 and 30",
+    "B": "30 and 32",
+    "C": "32 and 34",
+    "D": "34 and 36",
+    "answer": "B"
+  },
+  {
+    "question": "If a car travels at a speed of 60 km/h for 4 hours, how far does it travel?",
+    "A": "160 km",
+    "B": "220 km",
+    "C": "240 km",
+    "D": "280 km",
+    "answer": "A"
+  },
+  {
+    "question": "The square root of 144 is:",
+    "A": "9",
+    "B": "10",
+    "C": "12",
+    "D": "14",
+    "answer": "C"
+  },
+  {
+    "question": "If 2y + 7 = 15, what is the value of y?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "answer": "B"
+  },
+  {
+    "question": "The volume of a cube is 125 cubic units. What is the length of one side?",
+    "A": "3 units",
+    "B": "4 units",
+    "C": "5 units",
+    "D": "6 units",
+    "answer": "C"
+  },
+  {
+    "question": "If the base of a triangle is 10 units and its height is 8 units, what is its area?",
+    "A": "40 square units",
+    "B": "48 square units",
+    "C": "50 square units",
+    "D": "60 square units",
+    "answer": "B"
+  },
+  {
+    "question": "The sum of the ages of Peter, John, and Mary is 45. John is twice as old as Peter, and Mary is 5 years older than John. How old is Peter?",
+    "A": "10 years",
+    "B": "15 years",
+    "C": "20 years",
+    "D": "25 years",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 4 to the power of 3?",
+    "A": "16",
+    "B": "32",
+    "C": "64",
+    "D": "128",
+    "answer": "B"
+  },
+  {
+    "question": "A triangle has sides of length 7, 24, and 25 units. What type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "D"
+  },
+  {
+    "question": "If a rectangle has a length of 18 units and a width of 9 units, what is its area?",
+    "A": "81 square units",
+    "B": "144 square units",
+    "C": "162 square units",
+    "D": "198 square units",
+    "answer": "B"
+  },
+  {
+    "question": "A train travels 180 kilometers in 2.5 hours. What is its speed in kilometers per hour?",
+    "A": "64 km/h",
+    "B": "70 km/h",
+    "C": "72 km/h",
+    "D": "75 km/h",
+    "answer": "B"
+  },
+  {
+    "question": "If the difference between two numbers is 7 and their product is 42, what are the numbers?",
+    "A": "5 and 12",
+    "B": "6 and 13",
+    "C": "7 and 14",
+    "D": "8 and 15",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 1.5 divided by 0.5?",
+    "A": "0.5",
+    "B": "1",
+    "C": "2",
+    "D": "3",
+    "answer": "C"
+  },
+  {
+    "question": "If a right angle triangle has legs of length 9 units and 12 units, what is the length of its hypotenuse?",
+    "A": "15 units",
+    "B": "18 units",
+    "C": "21 units",
+    "D": "24 units",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for x: 3(x + 2) = 27.",
+    "A": "x = 7",
+    "B": "x = 6",
+    "C": "x = 5",
+    "D": "x = 9",
+    "answer": "B"
+  },
+  {
+    "question": "If a cone has a radius of 6 units and a height of 8 units, what is its volume? (Use π = 3.14)",
+    "A": "75.36 cubic units",
+    "B": "100.48 cubic units",
+    "C": "125.60 cubic units",
+    "D": "150.72 cubic units",
+    "answer": "C"
+  },
+  {
+    "question": "The perimeter of a rectangle is 28 units. If its length is 8 units, what is its width?",
+    "A": "3 units",
+    "B": "4 units",
+    "C": "5 units",
+    "D": "6 units",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: 4x + 7 = 31.",
+    "A": "x = 6",
+    "B": "x = 8",
+    "C": "x = 9",
+    "D": "x = 10",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of (5 - 3) * (4 + 2)?",
+    "A": "6",
+    "B": "8",
+    "C": "12",
+    "D": "16",
+    "answer": "B"
+  },
+  {
+    "question": "A triangle has sides of length 8, 15, and 17 units. What type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "D"
+  },
+  {
+    "question": "The sum of the ages of Alex, Ben, and Chris is 63. Alex is 7 years older than Ben, and Chris is twice as old as Alex. How old is Chris?",
+    "A": "14 years",
+    "B": "21 years",
+    "C": "28 years",
+    "D": "35 years",
+    "answer": "B"
+  },
+  {
+    "question": "If a box contains 30 red balls, 40 blue balls, and 50 green balls, what is the probability of drawing a blue ball?",
+    "A": "1/2",
+    "B": "2/5",
+    "C": "2/3",
+    "D": "3/5",
+    "answer": "B"
+  },
+  {
+    "question": "The area of a circle is 100π square units. What is its radius?",
+    "A": "5 units",
+    "B": "6 units",
+    "C": "8 units",
+    "D": "10 units",
+    "answer": "D"
+  },
+  {
+    "question": "If 3z - 10 = 14, what is the value of z?",
+    "A": "6",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "The volume of a cylinder is 144π cubic units. If its height is 6 units, what is its radius?",
+    "A": "3 units",
+    "B": "4 units",
+    "C": "6 units",
+    "D": "8 units",
+    "answer": "B"
+  },
+  {
+    "question": "If the base of a triangle is 12 units and its area is 36 square units, what is its height?",
+    "A": "2 units",
+    "B": "3 units",
+    "C": "4 units",
+    "D": "6 units",
+    "answer": "B"
+  },
+  {
+    "question": "The difference between two numbers is 4 and their product is 24. What are the numbers?",
+    "A": "6 and 10",
+    "B": "8 and 12",
+    "C": "9 and 13",
+    "D": "10 and 14",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 2^6?",
+    "A": "16",
+    "B": "32",
+    "C": "64",
+    "D": "128",
+    "answer": "C"
+  },
+  {
+    "question": "If a cone has a radius of 10 units and a slant height of 15 units, what is its lateral surface area? (Use π = 3.14)",
+    "A": "235.5 square units",
+    "B": "282.6 square units",
+    "C": "314.0 square units",
+    "D": "361.2 square units",
+    "answer": "B"
+  },
+  {
+    "question": "A rectangle has a length of 20 units and a diagonal of 26 units. What is its width?",
+    "A": "12 units",
+    "B": "14 units",
+    "C": "16 units",
+    "D": "18 units",
+    "answer": "A"
+  },
+  {
+    "question": "If a train travels at a speed of 80 km/h for 2.5 hours, how far does it travel?",
+    "A": "180 km",
+    "B": "200 km",
+    "C": "210 km",
+    "D": "220 km",
+    "answer": "B"
+  },
+  {
+    "question": "The sum of the digits of a two-digit number is 11. If the digits are reversed, the new number is 9 more than the original number. What is the original number?",
+    "A": "29",
+    "B": "38",
+    "C": "47",
+    "D": "56",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 0.75 as a fraction in simplest form?",
+    "A": "3/4",
+    "B": "2/3",
+    "C": "4/5",
+    "D": "5/6",
+    "answer": "A"
+  },
+  {
+    "question": "If the perimeter of a rectangle is 60 units and its length is 18 units, what is its width?",
+    "A": "6 units",
+    "B": "8 units",
+    "C": "10 units",
+    "D": "12 units",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for x: 5(x - 3) = 40.",
+    "A": "x = 8",
+    "B": "x = 7",
+    "C": "x = 6",
+    "D": "x = 5",
+    "answer": "A"
+  },
+  {
+    "question": "If a cylinder has a volume of 200π cubic units and a height of 10 units, what is its radius?",
+    "A": "4 units",
+    "B": "5 units",
+    "C": "6 units",
+    "D": "8 units",
+    "answer": "C"
+  },
+  {
+    "question": "The area of a parallelogram is 48 square units. If its base is 8 units, what is its height?",
+    "A": "4 units",
+    "B": "6 units",
+    "C": "8 units",
+    "D": "12 units",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: 3x - 2 = 13.",
+    "A": "x = 3",
+    "B": "x = 5",
+    "C": "x = 6",
+    "D": "x = 7",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of (8 / 4) * (6 - 2)?",
+    "A": "8",
+    "B": "12",
+    "C": "16",
+    "D": "24",
+    "answer": "B"
+  },
+  {
+    "question": "A triangle has sides of length 10, 10, and 12 units. What type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "B"
+  },
+  {
+    "question": "The sum of the ages of David, Emma, and Frank is 70. David is 5 years older than Emma, and Frank is twice as old as Emma. How old is Emma?",
+    "A": "15 years",
+    "B": "20 years",
+    "C": "25 years",
+    "D": "30 years",
+    "answer": "B"
+  },
+  {
+    "question": "If a box contains 25 red balls, 35 blue balls, and 40 green balls, what is the probability of drawing a green ball?",
+    "A": "1/4",
+    "B": "2/5",
+    "C": "3/5",
+    "D": "3/7",
+    "answer": "C"
+  },
+  {
+    "question": "The area of a square is 169 square units. What is the length of one side?",
+    "A": "11 units",
+    "B": "12 units",
+    "C": "13 units",
+    "D": "14 units",
+    "answer": "C"
+  },
+  {
+    "question": "If 4y - 3 = 21, what is the value of y?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "A"
+  },
+  {
+    "question": "The volume of a cone is 144π cubic units. If its height is 9 units, what is its radius?",
+    "A": "3 units",
+    "B": "4 units",
+    "C": "6 units",
+    "D": "8 units",
+    "answer": "B"
+  },
+  {
+    "question": "If the base of a triangle is 15 units and its area is 60 square units, what is its height?",
+    "A": "4 units",
+    "B": "6 units",
+    "C": "8 units",
+    "D": "10 units",
+    "answer": "B"
+  },
+  {
+    "question": "The sum of the digits of a two-digit number is 9. If the digits are reversed, the new number is 27 more than the original number. What is the original number?",
+    "A": "36",
+    "B": "45",
+    "C": "54",
+    "D": "63",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 3^4?",
+    "A": "9",
+    "B": "27",
+    "C": "81",
+    "D": "243",
+    "answer": "C"
+  },
+  {
+    "question": "If a pyramid has a base area of 36 square units and a height of 10 units, what is its volume?",
+    "A": "120 cubic units",
+    "B": "180 cubic units",
+    "C": "240 cubic units",
+    "D": "360 cubic units",
+    "answer": "B"
+  },
+  {
+    "question": "A rectangle has a length of 25 units and a diagonal of 29 units. What is its width?",
+    "A": "12 units",
+    "B": "15 units",
+    "C": "20 units",
+    "D": "24 units",
+    "answer": "A"
+  },
+  {
+    "question": "If a train travels at a speed of 100 km/h for 3 hours, how far does it travel?",
+    "A": "250 km",
+    "B": "300 km",
+    "C": "350 km",
+    "D": "400 km",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 0.6 as a fraction in simplest form?",
+    "A": "3/5",
+    "B": "1/2",
+    "C": "2/3",
+    "D": "5/8",
+    "answer": "A"
+  },
+  {
+    "question": "If the perimeter of a rectangle is 50 units and its length is 15 units, what is its width?",
+    "A": "7.5 units",
+    "B": "10 units",
+    "C": "12.5 units",
+    "D": "15 units",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for x: 2(x - 4) = 18.",
+    "A": "x = 7",
+    "B": "x = 8",
+    "C": "x = 9",
+    "D": "x = 10",
+    "answer": "B"
+  },
+  {
+    "question": "If a cylinder has a volume of 500π cubic units and a radius of 5 units, what is its height?",
+    "A": "8 units",
+    "B": "10 units",
+    "C": "12 units",
+    "D": "14 units",
+    "answer": "B"
+  },
+  {
+    "question": "The area of a trapezoid is 72 square units. If its height is 6 units and one base is 12 units, what is the length of the other base?",
+    "A": "6 units",
+    "B": "9 units",
+    "C": "15 units",
+    "D": "18 units",
+    "answer": "D"
+  },
+  {
+    "question": "Solve for x: 2x + 5 = 19.",
+    "A": "x = 7",
+    "B": "x = 8",
+    "C": "x = 9",
+    "D": "x = 10",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of (9 / 3) * (5 + 1)?",
+    "A": "12",
+    "B": "18",
+    "C": "24",
+    "D": "36",
+    "answer": "B"
+  },
+  {
+    "question": "A triangle has sides of length 7, 24, and 25 units. What type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "D"
+  },
+  {
+    "question": "The sum of the ages of Adam, Brooke, and Casey is 75. Adam is 3 years older than Brooke, and Casey is 4 years younger than Brooke. How old is Brooke?",
+    "A": "23 years",
+    "B": "24 years",
+    "C": "25 years",
+    "D": "26 years",
+    "answer": "B"
+  },
+  {
+    "question": "If a box contains 20 red balls, 30 blue balls, and 40 green balls, what is the probability of drawing a red ball?",
+    "A": "1/6",
+    "B": "1/5",
+    "C": "1/4",
+    "D": "1/3",
+    "answer": "D"
+  },
+  {
+    "question": "The area of a circle is 121π square units. What is its radius?",
+    "A": "7 units",
+    "B": "8 units",
+    "C": "9 units",
+    "D": "10 units",
+    "answer": "C"
+  },
+  {
+    "question": "If 6z - 9 = 27, what is the value of z?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "C"
+  },
+  {
+    "question": "The volume of a cone is 120π cubic units. If its height is 12 units, what is its radius?",
+    "A": "3 units",
+    "B": "4 units",
+    "C": "5 units",
+    "D": "6 units",
+    "answer": "B"
+  },
+  {
+    "question": "If the base of a triangle is 18 units and its area is 72 square units, what is its height?",
+    "A": "2 units",
+    "B": "4 units",
+    "C": "6 units",
+    "D": "8 units",
+    "answer": "C"
+  },
+  {
+    "question": "The sum of the digits of a two-digit number is 8. If the digits are reversed, the new number is 18 more than the original number. What is the original number?",
+    "A": "26",
+    "B": "35",
+    "C": "44",
+    "D": "53",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 4^3?",
+    "A": "16",
+    "B": "64",
+    "C": "256",
+    "D": "512",
+    "answer": "B"
+  },
+  {
+    "question": "If a pyramid has a base area of 64 square units and a height of 8 units, what is its volume?",
+    "A": "128 cubic units",
+    "B": "192 cubic units",
+    "C": "256 cubic units",
+    "D": "384 cubic units",
+    "answer": "A"
+  },
+  {
+    "question": "A rectangle has a length of 30 units and a diagonal of 34 units. What is its width?",
+    "A": "4 units",
+    "B": "12 units",
+    "C": "18 units",
+    "D": "24 units",
+    "answer": "B"
+  },
+  {
+    "question": "If a train travels at a speed of 120 km/h for 2 hours, how far does it travel?",
+    "A": "180 km",
+    "B": "240 km",
+    "C": "300 km",
+    "D": "360 km",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 0.9 as a fraction in simplest form?",
+    "A": "1/9",
+    "B": "3/5",
+    "C": "9/10",
+    "D": "10/11",
+    "answer": "C"
+  },
+  {
+    "question": "If the perimeter of a rectangle is 70 units and its length is 20 units, what is its width?",
+    "A": "10 units",
+    "B": "15 units",
+    "C": "20 units",
+    "D": "25 units",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: 3(x - 5) = 27.",
+    "A": "x = 9",
+    "B": "x = 8",
+    "C": "x = 7",
+    "D": "x = 6",
+    "answer": "A"
+  },
+  {
+    "question": "If a cylinder has a volume of 800π cubic units and a radius of 8 units, what is its height?",
+    "A": "5 units",
+    "B": "10 units",
+    "C": "12 units",
+    "D": "15 units",
+    "answer": "D"
+  },
+  {
+    "question": "The area of a trapezoid is 90 square units. If its height is 5 units and one base is 15 units, what is the length of the other base?",
+    "A": "6 units",
+    "B": "9 units",
+    "C": "12 units",
+    "D": "18 units",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: 5x - 3 = 22.",
+    "A": "x = 5",
+    "B": "x = 6",
+    "C": "x = 7",
+    "D": "x = 8",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of (12 / 4) * (9 - 3)?",
+    "A": "18",
+    "B": "24",
+    "C": "36",
+    "D": "48",
+    "answer": "B"
+  },
+  {
+    "question": "A triangle has sides of length 5, 12, and 13 units. What type of triangle is it?",
+    "A": "Equilateral triangle",
+    "B": "Isosceles triangle",
+    "C": "Scalene triangle",
+    "D": "Right triangle",
+    "answer": "D"
+  },
+  {
+    "question": "The sum of the ages of Ethan, Grace, and Hannah is 58. Ethan is 2 years older than Grace, and Hannah is 3 years younger than Grace. How old is Grace?",
+    "A": "17 years",
+    "B": "18 years",
+    "C": "19 years",
+    "D": "20 years",
+    "answer": "B"
+  },
+  {
+    "question": "If a box contains 15 red balls, 25 blue balls, and 30 green balls, what is the probability of drawing a blue ball?",
+    "A": "1/3",
+    "B": "2/5",
+    "C": "1/2",
+    "D": "3/5",
+    "answer": "A"
+  },
+  {
+    "question": "The area of a square is 256 square units. What is the length of one side?",
+    "A": "14 units",
+    "B": "16 units",
+    "C": "18 units",
+    "D": "20 units",
+    "answer": "B"
+  },
+  {
+    "question": "If 7z + 10 = 45, what is the value of z?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "The volume of a cone is 180π cubic units. If its height is 15 units, what is its radius?",
+    "A": "3 units",
+    "B": "4 units",
+    "C": "5 units",
+    "D": "6 units",
+    "answer": "C"
+  },
+  {
+    "question": "If the base of a triangle is 24 units and its area is 96 square units, what is its height?",
+    "A": "2 units",
+    "B": "3 units",
+    "C": "4 units",
+    "D": "6 units",
+    "answer": "C"
+  },
+  {
+    "question": "The sum of the digits of a two-digit number is 10. If the digits are reversed, the new number is 18 more than the original number. What is the original number?",
+    "A": "44",
+    "B": "53",
+    "C": "62",
+    "D": "71",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 5^2?",
+    "A": "10",
+    "B": "15",
+    "C": "20",
+    "D": "25",
+    "answer": "D"
+  },
+  {
+    "question": "If a pyramid has a base area of 100 square units and a height of 10 units, what is its volume?",
+    "A": "100 cubic units",
+    "B": "200 cubic units",
+    "C": "300 cubic units",
+    "D": "400 cubic units",
+    "answer": "B"
+  },
+  {
+    "question": "A rectangle has a length of 40 units and a diagonal of 41 units. What is its width?",
+    "A": "9 units",
+    "B": "12 units",
+    "C": "15 units",
+    "D": "20 units",
+    "answer": "A"
+  },
+  {
+    "question": "If a train travels at a speed of 150 km/h for 2.5 hours, how far does it travel?",
+    "A": "250 km",
+    "B": "375 km",
+    "C": "400 km",
+    "D": "450 km",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 0.75 as a fraction in simplest form?",
+    "A": "3/4",
+    "B": "1/2",
+    "C": "3/5",
+    "D": "4/5",
+    "answer": "A"
+  },
+  {
+    "question": "If the perimeter of a rectangle is 80 units and its length is 25 units, what is its width?",
+    "A": "10 units",
+    "B": "15 units",
+    "C": "20 units",
+    "D": "30 units",
+    "answer": "C"
+  },
+  {
+    "question": "Solve for x: 4(x - 6) = 52.",
+    "A": "x = 10",
+    "B": "x = 11",
+    "C": "x = 12",
+    "D": "x = 13",
+    "answer": "A"
+  },
+  {
+    "question": "If a cylinder has a volume of 1000π cubic units and a height of 10 units, what is its radius?",
+    "A": "5 units",
+    "B": "6 units",
+    "C": "7 units",
+    "D": "8 units",
+    "answer": "B"
+  },
+  {
+    "question": "The area of a trapezoid is 120 square units. If its height is 8 units and one base is 15 units, what is the length of the other base?",
+    "A": "6 units",
+    "B": "9 units",
+    "C": "12 units",
+    "D": "18 units",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: 2x^2 - 5x - 12 = 0.",
+    "A": "x = -3, x = 4",
+    "B": "x = -4, x = 3",
+    "C": "x = -2, x = 6",
+    "D": "x = -6, x = 2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of √(64 + √144)?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "10",
+    "answer": "C"
+  },
+  {
+    "question": "A triangle has angles of 30°, 60°, and 90°. If the hypotenuse is 10 units, what is the length of the shortest side?",
+    "A": "2.5 units",
+    "B": "5 units",
+    "C": "5√3 units",
+    "D": "10 units",
+    "answer": "B"
+  },
+  {
+    "question": "The sum of the ages of Alice, Bob, and Carol is 90. Alice is twice as old as Bob, and Carol is 5 years older than Alice. How old is Bob?",
+    "A": "15 years",
+    "B": "20 years",
+    "C": "25 years",
+    "D": "30 years",
+    "answer": "B"
+  },
+  {
+    "question": "If a box contains 18 red balls, 24 blue balls, and 30 green balls, what is the probability of drawing a red ball followed by a blue ball (without replacement)?",
+    "A": "9/101",
+    "B": "6/83",
+    "C": "3/55",
+    "D": "1/10",
+    "answer": "C"
+  },
+  {
+    "question": "The volume of a sphere is 288π cubic units. What is its radius?",
+    "A": "3 units",
+    "B": "4 units",
+    "C": "6 units",
+    "D": "8 units",
+    "answer": "B"
+  },
+  {
+    "question": "If log₂(x) + log₂(x - 10) = 3, what is the value of x?",
+    "A": "15",
+    "B": "20",
+    "C": "25",
+    "D": "30",
+    "answer": "B"
+  },
+  {
+    "question": "The volume of a cone is 400π cubic units. If its height is 20 units, what is its radius?",
+    "A": "5 units",
+    "B": "8 units",
+    "C": "10 units",
+    "D": "12 units",
+    "answer": "B"
+  },
+  {
+    "question": "If the base of a triangle is 36 units and its area is 216 square units, what is its height?",
+    "A": "4 units",
+    "B": "6 units",
+    "C": "8 units",
+    "D": "12 units",
+    "answer": "C"
+  },
+  {
+    "question": "The product of two consecutive odd integers is 143. What are the integers?",
+    "A": "11 and 13",
+    "B": "9 and 11",
+    "C": "13 and 15",
+    "D": "15 and 17",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 3^(1/2)? (√3)",
+    "A": "1",
+    "B": "√3",
+    "C": "3",
+    "D": "2",
+    "answer": "B"
+  },
+  {
+    "question": "If a prism has a base area of 64 square units and a height of 10 units, what is its volume?",
+    "A": "640 cubic units",
+    "B": "6400 cubic units",
+    "C": "64000 cubic units",
+    "D": "640000 cubic units",
+    "answer": "B"
+  },
+  {
+    "question": "A rectangular box has dimensions of 12 cm, 16 cm, and 20 cm. What is the length of the longest diagonal inside the box?",
+    "A": "22 cm",
+    "B": "26 cm",
+    "C": "30 cm",
+    "D": "36 cm",
+    "answer": "B"
+  },
+  {
+    "question": "If a car travels at a speed of 90 km/h for 4 hours, and then at a speed of 120 km/h for 3 hours, what is the total distance traveled?",
+    "A": "540 km",
+    "B": "630 km",
+    "C": "720 km",
+    "D": "810 km",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of 0.8 as a fraction in simplest form?",
+    "A": "2/5",
+    "B": "3/4",
+    "C": "4/5",
+    "D": "5/6",
+    "answer": "A"
+  },
+  {
+    "question": "If the perimeter of a rectangle is 100 units and its length is 30 units, what is its width?",
+    "A": "10 units",
+    "B": "15 units",
+    "C": "20 units",
+    "D": "25 units",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: log₅(x + 2) = 2.",
+    "A": "x = 23",
+    "B": "x = 24",
+    "C": "x = 25",
+    "D": "x = 26",
+    "answer": "C"
+  },
+  {
+    "question": "If a cylinder has a volume of 1600π cubic units and a height of 20 units, what is its radius?",
+    "A": "5 units",
+    "B": "8 units",
+    "C": "10 units",
+    "D": "12 units",
+    "answer": "C"
+  },
+  {
+    "question": "The area of a trapezoid is 180 square units. If its height is 9 units and one base is 15 units, what is the length of the other base?",
+    "A": "6 units",
+    "B": "9 units",
+    "C": "12 units",
+    "D": "18 units",
+    "answer": "C"
+  },
+  {
+    "question": "Solve for x: log₂(x^2 + 5) = 3.",
+    "A": "x = 2",
+    "B": "x = 3",
+    "C": "x = 4",
+    "D": "x = 5",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of √(36 + √256)?",
+    "A": "8",
+    "B": "10",
+    "C": "12",
+    "D": "14",
+    "answer": "D"
+  },
+  {
+    "question": "In a right triangle, the hypotenuse is 15 units and one leg is 9 units. What is the length of the other leg?",
+    "A": "6 units",
+    "B": "8 units",
+    "C": "12 units",
+    "D": "18 units",
+    "answer": "B"
+  },
+  {
+    "question": "The sum of the ages of Daniel, Emily, and Fiona is 105. Daniel is 3 years older than Emily, and Fiona is 6 years younger than Daniel. How old is Emily?",
+    "A": "25 years",
+    "B": "30 years",
+    "C": "35 years",
+    "D": "40 years",
+    "answer": "B"
+  },
+  {
+    "question": "If a box contains 12 red balls, 20 blue balls, and 25 green balls, what is the probability of drawing a red ball, then a blue ball, and then a green ball (without replacement)?",
+    "A": "1/530",
+    "B": "1/380",
+    "C": "1/190",
+    "D": "1/95",
+    "answer": "C"
+  },
+  {
+    "question": "The volume of a cylinder is 1250π cubic units. If its height is 10 units, what is its radius?",
+    "A": "5 units",
+    "B": "8 units",
+    "C": "10 units",
+    "D": "12 units",
+    "answer": "B"
+  },
+  {
+    "question": "If log₃(x) + log₃(x + 6) = 2, what is the value of x?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "C"
+  },
+  {
+    "question": "The volume of a cone is 800π cubic units. If its height is 16 units, what is its radius?",
+    "A": "4 units",
+    "B": "6 units",
+    "C": "8 units",
+    "D": "10 units",
+    "answer": "D"
+  },
+  {
+    "question": "If the base of a triangle is 40 units and its area is 400 square units, what is its height?",
+    "A": "4 units",
+    "B": "8 units",
+    "C": "10 units",
+    "D": "20 units",
+    "answer": "C"
+  },
+  {
+    "question": "The product of two consecutive prime numbers is 391. What are the prime numbers?",
+    "A": "17 and 23",
+    "B": "19 and 23",
+    "C": "23 and 29",
+    "D": "29 and 31",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 4^(1/2)? (√4)",
+    "A": "1",
+    "B": "2",
+    "C": "4",
+    "D": "√2",
+    "answer": "B"
+  },
+  {
+    "question": "If a prism has a base area of 144 square units and a height of 15 units, what is its volume?",
+    "A": "1440 cubic units",
+    "B": "2160 cubic units",
+    "C": "2880 cubic units",
+    "D": "4320 cubic units",
+    "answer": "B"
+  },
+  {
+    "question": "A rectangular box has dimensions of 15 cm, 20 cm, and 25 cm. What is the length of the longest diagonal inside the box?",
+    "A": "30 cm",
+    "B": "35 cm",
+    "C": "40 cm",
+    "D": "45 cm",
+    "answer": "C"
+  },
+  {
+    "question": "If a car travels at a speed of 100 km/h for 5 hours, and then at a speed of 130 km/h for 2 hours, what is the total distance traveled?",
+    "A": "750 km",
+    "B": "900 km",
+    "C": "1050 km",
+    "D": "1200 km",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of 0.64 as a fraction in simplest form?",
+    "A": "4/5",
+    "B": "16/25",
+    "C": "32/50",
+    "D": "64/100",
+    "answer": "B"
+  },
+  {
+    "question": "If the perimeter of a rectangle is 120 units and its length is 40 units, what is its width?",
+    "A": "20 units",
+    "B": "25 units",
+    "C": "30 units",
+    "D": "35 units",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: log₄(x + 3) = 3.",
+    "A": "x = 61",
+    "B": "x = 62",
+    "C": "x = 63",
+    "D": "x = 64",
+    "answer": "C"
+  },
+  {
+    "question": "If a cylinder has a volume of 2500π cubic units and a radius of 10 units, what is its height?",
+    "A": "10 units",
+    "B": "15 units",
+    "C": "20 units",
+    "D": "25 units",
+    "answer": "D"
+  },
+  {
+    "question": "The area of a trapezoid is 240 square units. If its height is 10 units and one base is 20 units, what is the length of the other base?",
+    "A": "8 units",
+    "B": "12 units",
+    "C": "16 units",
+    "D": "24 units",
+    "answer": "C"
+  },
+  {
+    "question": "Solve for x: e^(2x) - 5e^x + 6 = 0.",
+    "A": "x = ln(2), x = ln(3)",
+    "B": "x = ln(3), x = ln(2)",
+    "C": "x = ln(1), x = ln(6)",
+    "D": "x = ln(6), x = ln(1)",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of √(100 + √400)?",
+    "A": "12",
+    "B": "14",
+    "C": "16",
+    "D": "18",
+    "answer": "B"
+  },
+  {
+    "question": "In a right triangle, one acute angle is 30°. If the hypotenuse is 10 units, what is the length of the shorter leg?",
+    "A": "2.5 units",
+    "B": "5 units",
+    "C": "5√3 units",
+    "D": "10 units",
+    "answer": "A"
+  },
+  {
+    "question": "The sum of the ages of Grace, Henry, and Ivy is 120. Grace is 4 years older than Henry, and Ivy is 5 years younger than Grace. How old is Henry?",
+    "A": "35 years",
+    "B": "40 years",
+    "C": "45 years",
+    "D": "50 years",
+    "answer": "B"
+  },
+  {
+    "question": "If a box contains 8 red balls, 16 blue balls, and 20 green balls, what is the probability of drawing a red ball, then a blue ball, and finally a green ball (without replacement)?",
+    "A": "1/2580",
+    "B": "1/1760",
+    "C": "1/880",
+    "D": "1/440",
+    "answer": "C"
+  },
+  {
+    "question": "The volume of a cylinder is 2000π cubic units. If its height is 12 units, what is its radius?",
+    "A": "5 units",
+    "B": "8 units",
+    "C": "10 units",
+    "D": "12 units",
+    "answer": "B"
+  },
+  {
+    "question": "If log₇(x) + log₇(x + 7) = 3, what is the value of x?",
+    "A": "7",
+    "B": "14",
+    "C": "21",
+    "D": "28",
+    "answer": "A"
+  },
+  {
+    "question": "The volume of a cone is 900π cubic units. If its height is 18 units, what is its radius?",
+    "A": "3 units",
+    "B": "6 units",
+    "C": "9 units",
+    "D": "12 units",
+    "answer": "C"
+  },
+  {
+    "question": "If the base of a triangle is 48 units and its area is 576 square units, what is its height?",
+    "A": "6 units",
+    "B": "8 units",
+    "C": "10 units",
+    "D": "12 units",
+    "answer": "C"
+  },
+  {
+    "question": "The product of two consecutive prime numbers is 187. What are the prime numbers?",
+    "A": "11 and 17",
+    "B": "13 and 19",
+    "C": "17 and 23",
+    "D": "19 and 29",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 6^(1/2)? (√6)",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "√2",
+    "answer": "D"
+  },
+  {
+    "question": "If a prism has a base area of 225 square units and a height of 20 units, what is its volume?",
+    "A": "4500 cubic units",
+    "B": "6000 cubic units",
+    "C": "9000 cubic units",
+    "D": "12000 cubic units",
+    "answer": "B"
+  },
+  {
+    "question": "A rectangular box has dimensions of 18 cm, 24 cm, and 30 cm. What is the length of the longest diagonal inside the box?",
+    "A": "36 cm",
+    "B": "42 cm",
+    "C": "48 cm",
+    "D": "54 cm",
+    "answer": "C"
+  },
+  {
+    "question": "If a car travels at a speed of 110 km/h for 6 hours, and then at a speed of 140 km/h for 3 hours, what is the total distance traveled?",
+    "A": "990 km",
+    "B": "1120 km",
+    "C": "1260 km",
+    "D": "1400 km",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of 0.49 as a fraction in simplest form?",
+    "A": "7/10",
+    "B": "7/9",
+    "C": "7/8",
+    "D": "7/7",
+    "answer": "A"
+  },
+  {
+    "question": "If the perimeter of a rectangle is 150 units and its length is 50 units, what is its width?",
+    "A": "25 units",
+    "B": "30 units",
+    "C": "35 units",
+    "D": "40 units",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: log₆(x + 4) = 4.",
+    "A": "x = 362",
+    "B": "x = 363",
+    "C": "x = 364",
+    "D": "x = 365",
+    "answer": "C"
+  },
+  {
+    "question": "If a cylinder has a volume of 3600π cubic units and a radius of 15 units, what is its height?",
+    "A": "10 units",
+    "B": "15 units",
+    "C": "20 units",
+    "D": "25 units",
+    "answer": "C"
+  },
+  {
+    "question": "The area of a trapezoid is 320 square units. If its height is 16 units and one base is 25 units, what is the length of the other base?",
+    "A": "10 units",
+    "B": "15 units",
+    "C": "20 units",
+    "D": "30 units",
+    "answer": "D"
+  },
+  {
+    "question": "In a right triangle, if one angle is 30 degrees, what is the measure of the other acute angle?",
+    "A": "30°",
+    "B": "45°",
+    "C": "60°",
+    "D": "75°",
+    "answer": "C"
+  },
+  {
+    "question": "What is the area of a triangle with base 8 units and height 12 units?",
+    "A": "20 square units",
+    "B": "48 square units",
+    "C": "64 square units",
+    "D": "96 square units",
+    "answer": "B"
+  },
+  {
+    "question": "A rectangle has a length of 10 units and a width of 6 units. What is its perimeter?",
+    "A": "12 units",
+    "B": "22 units",
+    "C": "32 units",
+    "D": "60 units",
+    "answer": "C"
+  },
+  {
+    "question": "What is the circumference of a circle with radius 5 units? (Use π ≈ 3.14)",
+    "A": "10π units",
+    "B": "15π units",
+    "C": "25π units",
+    "D": "30π units",
+    "answer": "B"
+  },
+  {
+    "question": "In a parallelogram, if one angle measures 70 degrees, what is the measure of each of the other three angles?",
+    "A": "70° each",
+    "B": "110° each",
+    "C": "140° each",
+    "D": "180° each",
+    "answer": "B"
+  },
+  {
+    "question": "What is the volume of a cube with side length 6 units?",
+    "A": "12 cubic units",
+    "B": "36 cubic units",
+    "C": "72 cubic units",
+    "D": "216 cubic units",
+    "answer": "B"
+  },
+  {
+    "question": "A regular hexagon has a side length of 8 units. What is its perimeter?",
+    "A": "16 units",
+    "B": "24 units",
+    "C": "32 units",
+    "D": "48 units",
+    "answer": "C"
+  },
+  {
+    "question": "What is the area of a trapezoid with bases 12 units and 16 units, and height 10 units?",
+    "A": "140 square units",
+    "B": "1400 square units",
+    "C": "14000 square units",
+    "D": "2800 square units",
+    "answer": "A"
+  },
+  {
+    "question": "The surface area of a sphere is 144π square units. What is its radius?",
+    "A": "3 units",
+    "B": "4 units",
+    "C": "6 units",
+    "D": "8 units",
+    "answer": "C"
+  },
+  {
+    "question": "In a trapezoid, the length of one base is 10 units, the length of the other base is 16 units, and the height is 8 units. What is its area?",
+    "A": "104 square units",
+    "B": "128 square units",
+    "C": "208 square units",
+    "D": "256 square units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the length of the diagonal of a square with side length 10 units?",
+    "A": "5 units",
+    "B": "10 units",
+    "C": "14 units",
+    "D": "20 units",
+    "answer": "C"
+  },
+  {
+    "question": "The radius of a circle is 7 units. What is its area? (Use π ≈ 3.14)",
+    "A": "21π square units",
+    "B": "49π square units",
+    "C": "98π square units",
+    "D": "154π square units",
+    "answer": "B"
+  },
+  {
+    "question": "A regular octagon has a side length of 5 units. What is its perimeter?",
+    "A": "20 units",
+    "B": "30 units",
+    "C": "40 units",
+    "D": "50 units",
+    "answer": "D"
+  },
+  {
+    "question": "What is the volume of a cylinder with radius 3 units and height 10 units?",
+    "A": "30π cubic units",
+    "B": "90π cubic units",
+    "C": "100π cubic units",
+    "D": "300π cubic units",
+    "answer": "A"
+  },
+  {
+    "question": "In a rhombus, if one angle measures 120 degrees, what is the measure of each of the other three angles?",
+    "A": "30° each",
+    "B": "60° each",
+    "C": "120° each",
+    "D": "150° each",
+    "answer": "B"
+  },
+  {
+    "question": "A triangular prism has a base with sides 6 units, 8 units, and 10 units, and a height of 12 units. What is its volume?",
+    "A": "480 cubic units",
+    "B": "560 cubic units",
+    "C": "640 cubic units",
+    "D": "720 cubic units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the length of the hypotenuse of a right triangle with legs of length 7 units and 24 units?",
+    "A": "25 units",
+    "B": "31 units",
+    "C": "37 units",
+    "D": "49 units",
+    "answer": "A"
+  },
+  {
+    "question": "The area of a regular pentagon is 100 square units. If each side is 5 units long, what is its apothem length?",
+    "A": "8 units",
+    "B": "10 units",
+    "C": "12 units",
+    "D": "15 units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the surface area of a cone with radius 6 units and slant height 10 units? (Use π ≈ 3.14)",
+    "A": "84π square units",
+    "B": "108π square units",
+    "C": "180π square units",
+    "D": "216π square units",
+    "answer": "C"
+  },
+  {
+    "question": "In a kite, one angle measures 110 degrees. What is the measure of the other acute angle?",
+    "A": "35°",
+    "B": "55°",
+    "C": "70°",
+    "D": "80°",
+    "answer": "B"
+  },
+  {
+    "question": "In a triangle, if one angle measures 50 degrees and another angle measures 70 degrees, what is the measure of the third angle?",
+    "A": "30°",
+    "B": "50°",
+    "C": "60°",
+    "D": "80°",
+    "answer": "C"
+  },
+  {
+    "question": "What is the area of a rectangle with length 14 units and width 9 units?",
+    "A": "23 square units",
+    "B": "54 square units",
+    "C": "126 square units",
+    "D": "1260 square units",
+    "answer": "C"
+  },
+  {
+    "question": "A square has a diagonal of length 10 units. What is the length of each side of the square?",
+    "A": "5 units",
+    "B": "7 units",
+    "C": "10 units",
+    "D": "14 units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the circumference of a circle with diameter 12 units? (Use π ≈ 3.14)",
+    "A": "6π units",
+    "B": "12π units",
+    "C": "18π units",
+    "D": "24π units",
+    "answer": "B"
+  },
+  {
+    "question": "In a parallelogram, if one angle measures 120 degrees, what is the measure of each of the other three angles?",
+    "A": "30° each",
+    "B": "60° each",
+    "C": "120° each",
+    "D": "150° each",
+    "answer": "B"
+  },
+  {
+    "question": "What is the volume of a rectangular prism with length 6 units, width 4 units, and height 10 units?",
+    "A": "40 cubic units",
+    "B": "160 cubic units",
+    "C": "240 cubic units",
+    "D": "360 cubic units",
+    "answer": "B"
+  },
+  {
+    "question": "An equilateral triangle has a side length of 9 units. What is its perimeter?",
+    "A": "9 units",
+    "B": "18 units",
+    "C": "27 units",
+    "D": "36 units",
+    "answer": "C"
+  },
+  {
+    "question": "What is the area of a trapezoid with bases 7 units and 11 units, and height 8 units?",
+    "A": "48 square units",
+    "B": "72 square units",
+    "C": "90 square units",
+    "D": "96 square units",
+    "answer": "B"
+  },
+  {
+    "question": "The surface area of a sphere is 256π square units. What is its radius?",
+    "A": "4 units",
+    "B": "6 units",
+    "C": "8 units",
+    "D": "16 units",
+    "answer": "B"
+  },
+  {
+    "question": "In a trapezoid, the length of one base is 15 units, the length of the other base is 25 units, and the height is 12 units. What is its area?",
+    "A": "240 square units",
+    "B": "300 square units",
+    "C": "360 square units",
+    "D": "480 square units",
+    "answer": "D"
+  },
+  {
+    "question": "What is the length of the diagonal of a square with side length 14 units?",
+    "A": "7 units",
+    "B": "14 units",
+    "C": "21 units",
+    "D": "28 units",
+    "answer": "C"
+  },
+  {
+    "question": "The radius of a circle is 10 units. What is its area? (Use π ≈ 3.14)",
+    "A": "100π square units",
+    "B": "314π square units",
+    "C": "500π square units",
+    "D": "1000π square units",
+    "answer": "A"
+  },
+  {
+    "question": "A regular heptagon has a side length of 6 units. What is its perimeter?",
+    "A": "24 units",
+    "B": "30 units",
+    "C": "36 units",
+    "D": "42 units",
+    "answer": "C"
+  },
+  {
+    "question": "What is the volume of a cylinder with radius 5 units and height 12 units?",
+    "A": "300π cubic units",
+    "B": "360π cubic units",
+    "C": "600π cubic units",
+    "D": "720π cubic units",
+    "answer": "A"
+  },
+  {
+    "question": "In a rhombus, if one angle measures 150 degrees, what is the measure of each of the other three angles?",
+    "A": "30° each",
+    "B": "60° each",
+    "C": "120° each",
+    "D": "150° each",
+    "answer": "B"
+  },
+  {
+    "question": "A triangular pyramid has a base with sides 5 units, 12 units, and 13 units, and a height of 8 units. What is its volume?",
+    "A": "80 cubic units",
+    "B": "160 cubic units",
+    "C": "240 cubic units",
+    "D": "320 cubic units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the length of the hypotenuse of a right triangle with legs of length 9 units and 40 units?",
+    "A": "41 units",
+    "B": "49 units",
+    "C": "51 units",
+    "D": "81 units",
+    "answer": "A"
+  },
+  {
+    "question": "The area of a regular hexagon is 216√3 square units. If each side is 9 units long, what is its apothem length?",
+    "A": "3 units",
+    "B": "6 units",
+    "C": "9 units",
+    "D": "18 units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the surface area of a cone with radius 8 units and slant height 15 units? (Use π ≈ 3.14)",
+    "A": "104π square units",
+    "B": "176π square units",
+    "C": "240π square units",
+    "D": "360π square units",
+    "answer": "B"
+  },
+  {
+    "question": "In a kite, one angle measures 100 degrees. What is the measure of the other acute angle?",
+    "A": "40°",
+    "B": "60°",
+    "C": "80°",
+    "D": "100°",
+    "answer": "C"
+  },
+  {
+    "question": "In a triangle, if one angle measures 40 degrees and another angle measures 85 degrees, what is the measure of the third angle?",
+    "A": "25°",
+    "B": "45°",
+    "C": "55°",
+    "D": "95°",
+    "answer": "C"
+  },
+  {
+    "question": "What is the area of a parallelogram with base 12 units and height 7 units?",
+    "A": "84 square units",
+    "B": "72 square units",
+    "C": "19 square units",
+    "D": "84 units",
+    "answer": "A"
+  },
+  {
+    "question": "A rectangle has a length of 18 units and a diagonal of length 20 units. What is its width?",
+    "A": "8 units",
+    "B": "10 units",
+    "C": "14 units",
+    "D": "18 units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the circumference of a circle with radius 9 units? (Use π ≈ 3.14)",
+    "A": "18π units",
+    "B": "27π units",
+    "C": "54π units",
+    "D": "81π units",
+    "answer": "B"
+  },
+  {
+    "question": "In a parallelogram, if one angle measures 130 degrees, what is the measure of each of the other three angles?",
+    "A": "50° each",
+    "B": "75° each",
+    "C": "130° each",
+    "D": "230° each",
+    "answer": "B"
+  },
+  {
+    "question": "What is the volume of a cube with side length 7 units?",
+    "A": "14 cubic units",
+    "B": "21 cubic units",
+    "C": "49 cubic units",
+    "D": "343 cubic units",
+    "answer": "C"
+  },
+  {
+    "question": "An equilateral triangle has a side length of 12 units. What is its perimeter?",
+    "A": "12 units",
+    "B": "24 units",
+    "C": "36 units",
+    "D": "48 units",
+    "answer": "C"
+  },
+  {
+    "question": "What is the area of a trapezoid with bases 10 units and 14 units, and height 9 units?",
+    "A": "108 square units",
+    "B": "120 square units",
+    "C": "252 square units",
+    "D": "1170 square units",
+    "answer": "A"
+  },
+  {
+    "question": "The surface area of a sphere is 625π square units. What is its radius?",
+    "A": "5 units",
+    "B": "10 units",
+    "C": "15 units",
+    "D": "25 units",
+    "answer": "D"
+  },
+  {
+    "question": "In a trapezoid, the length of one base is 18 units, the length of the other base is 24 units, and the height is 14 units. What is its area?",
+    "A": "294 square units",
+    "B": "336 square units",
+    "C": "504 square units",
+    "D": "756 square units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the length of the diagonal of a square with side length 18 units?",
+    "A": "9 units",
+    "B": "18 units",
+    "C": "27 units",
+    "D": "36 units",
+    "answer": "C"
+  },
+  {
+    "question": "The radius of a circle is 14 units. What is its area? (Use π ≈ 3.14)",
+    "A": "196π square units",
+    "B": "308π square units",
+    "C": "616π square units",
+    "D": "1372π square units",
+    "answer": "A"
+  },
+  {
+    "question": "A regular octagon has a side length of 8 units. What is its perimeter?",
+    "A": "48 units",
+    "B": "64 units",
+    "C": "72 units",
+    "D": "128 units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the volume of a cylinder with radius 4 units and height 14 units?",
+    "A": "224π cubic units",
+    "B": "2240π cubic units",
+    "C": "448π cubic units",
+    "D": "4480π cubic units",
+    "answer": "C"
+  },
+  {
+    "question": "In a rhombus, if one angle measures 130 degrees, what is the measure of each of the other three angles?",
+    "A": "50° each",
+    "B": "75° each",
+    "C": "130° each",
+    "D": "230° each",
+    "answer": "B"
+  },
+  {
+    "question": "A triangular pyramid has a base with sides 7 units, 24 units, and 25 units, and a height of 10 units. What is its volume?",
+    "A": "280 cubic units",
+    "B": "560 cubic units",
+    "C": "840 cubic units",
+    "D": "1400 cubic units",
+    "answer": "B"
+  },
+  {
+    "question": "What is the length of the hypotenuse of a right triangle with legs of length 8 units and 15 units?",
+    "A": "17 units",
+    "B": "23 units",
+    "C": "25 units",
+    "D": "30 units",
+    "answer": "A"
+  },
+  {
+    "question": "The area of a regular hexagon is 432√3 square units. If each side is 12 units long, what is its apothem length?",
+    "A": "6 units",
+    "B": "8 units",
+    "C": "9 units",
+    "D": "12 units",
+    "answer": "A"
+  },
+  {
+    "question": "What is the surface area of a cone with radius 9 units and slant height 18 units? (Use π ≈ 3.14)",
+    "A": "207π square units",
+    "B": "306π square units",
+    "C": "486π square units",
+    "D": "729π square units",
+    "answer": "B"
+  },
+  {
+    "question": "In a kite, one angle measures 115 degrees. What is the measure of the other acute angle?",
+    "A": "25°",
+    "B": "35°",
+    "C": "65°",
+    "D": "75°",
+    "answer": "B"
+  },
+  {
+    "question": "What is the result when you multiply any number by 0?",
+    "A": "The number remains the same.",
+    "B": "The number becomes 0.",
+    "C": "The number doubles.",
+    "D": "The number becomes negative.",
+    "answer": "B"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle?",
+    "A": "90 degrees",
+    "B": "120 degrees",
+    "C": "180 degrees",
+    "D": "270 degrees",
+    "answer": "C"
+  },
+  {
+    "question": "Which mathematical term represents the ratio of a circle's circumference to its diameter?",
+    "A": "Pi (π)",
+    "B": "Theta (θ)",
+    "C": "Delta (Δ)",
+    "D": "Sigma (σ)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 7 squared?",
+    "A": "7",
+    "B": "14",
+    "C": "21",
+    "D": "49",
+    "answer": "D"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3",
+    "answer": "C"
+  },
+  {
+    "question": "What is the result of 5 + 3 * 2?",
+    "A": "10",
+    "B": "11",
+    "C": "13",
+    "D": "16",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a number that can be expressed as a fraction of two integers?",
+    "A": "Rational number",
+    "B": "Irrational number",
+    "C": "Prime number",
+    "D": "Complex number",
+    "answer": "A"
+  },
+  {
+    "question": "Which geometric shape has all sides of equal length and all angles of equal measure?",
+    "A": "Rectangle",
+    "B": "Triangle",
+    "C": "Circle",
+    "D": "Square",
+    "answer": "D"
+  },
+  {
+    "question": "What is the result of dividing 15 by 0?",
+    "A": "0",
+    "B": "Infinity",
+    "C": "15",
+    "D": "Undefined",
+    "answer": "B"
+  },
+  {
+    "question": "What is the value of 2 cubed?",
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8",
+    "answer": "D"
+  },
+  {
+    "question": "What is the sum of the angles in a quadrilateral?",
+    "A": "180 degrees",
+    "B": "270 degrees",
+    "C": "360 degrees",
+    "D": "450 degrees",
+    "answer": "C"
+  },
+  {
+    "question": "Which mathematical operation is the opposite of differentiation?",
+    "A": "Integration",
+    "B": "Multiplication",
+    "C": "Exponentiation",
+    "D": "Subtraction",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a number that is divisible by 2?",
+    "A": "Prime number",
+    "B": "Odd number",
+    "C": "Even number",
+    "D": "Rational number",
+    "answer": "C"
+  },
+  {
+    "question": "Which geometric shape has no sides or vertices?",
+    "A": "Circle",
+    "B": "Triangle",
+    "C": "Square",
+    "D": "Pentagon",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of subtracting 9 from 15?",
+    "A": "6",
+    "B": "9",
+    "C": "15",
+    "D": "24",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a number that cannot be expressed as a fraction of two integers?",
+    "A": "Rational number",
+    "B": "Irrational number",
+    "C": "Prime number",
+    "D": "Whole number",
+    "answer": "B"
+  },
+  {
+    "question": "Which mathematical operation is the opposite of addition?",
+    "A": "Subtraction",
+    "B": "Multiplication",
+    "C": "Division",
+    "D": "Exponentiation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the sum of the angles in a pentagon?",
+    "A": "180 degrees",
+    "B": "360 degrees",
+    "C": "450 degrees",
+    "D": "540 degrees",
+    "answer": "D"
+  },
+  {
+    "question": "Which mathematical constant represents the ratio of a circle's circumference to its radius?",
+    "A": "Euler's number (e)",
+    "B": "Golden ratio (φ)",
+    "C": "Tau (τ)",
+    "D": "Pi (π)",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a number that is greater than 1 and has only two positive divisors: 1 and itself?",
+    "A": "Rational number",
+    "B": "Irrational number",
+    "C": "Prime number",
+    "D": "Whole number",
+    "answer": "C"
+  },
+  {
+    "question": "What is the result of raising 4 to the power of 3?",
+    "A": "8",
+    "B": "12",
+    "C": "16",
+    "D": "64",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a number that has a decimal part that repeats in a pattern?",
+    "A": "Rational number",
+    "B": "Irrational number",
+    "C": "Terminating number",
+    "D": "Repeating number",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of adding 3 to -7?",
+    "A": "-10",
+    "B": "-4",
+    "C": "0",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "Which mathematical constant represents the base of natural logarithms?",
+    "A": "Euler's number (e)",
+    "B": "Golden ratio (φ)",
+    "C": "Tau (τ)",
+    "D": "Pi (π)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a polygon with five sides?",
+    "A": "Pentagon",
+    "B": "Hexagon",
+    "C": "Octagon",
+    "D": "Decagon",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of dividing 12 by 4?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "6",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a number that is not a prime and is greater than 1?",
+    "A": "Composite number",
+    "B": "Odd number",
+    "C": "Perfect number",
+    "D": "Irrational number",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical operation is the opposite of multiplication?",
+    "A": "Division",
+    "B": "Addition",
+    "C": "Subtraction",
+    "D": "Exponentiation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the sum of the angles in a hexagon?",
+    "A": "180 degrees",
+    "B": "360 degrees",
+    "C": "450 degrees",
+    "D": "720 degrees",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a number that is the sum of its proper divisors (excluding itself)?",
+    "A": "Prime number",
+    "B": "Composite number",
+    "C": "Perfect number",
+    "D": "Irrational number",
+    "answer": "C"
+  },
+  {
+    "question": "What is the result of raising 5 to the power of 0?",
+    "A": "0",
+    "B": "1",
+    "C": "5",
+    "D": "25",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a polygon with six sides?",
+    "A": "Hexagon",
+    "B": "Pentagon",
+    "C": "Octagon",
+    "D": "Decagon",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical term represents the distance between a number and zero on the number line?",
+    "A": "Absolute value",
+    "B": "Variable",
+    "C": "Coefficient",
+    "D": "Radical",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of subtracting 18 from -5?",
+    "A": "-23",
+    "B": "-13",
+    "C": "13",
+    "D": "23",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a polygon with eight sides?",
+    "A": "Octagon",
+    "B": "Hexagon",
+    "C": "Pentagon",
+    "D": "Decagon",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a number that is a multiple of two or more numbers?",
+    "A": "Prime number",
+    "B": "Odd number",
+    "C": "Even number",
+    "D": "Rational number",
+    "answer": "C"
+  },
+  {
+    "question": "Which mathematical operation is the opposite of exponentiation?",
+    "A": "Logarithm",
+    "B": "Multiplication",
+    "C": "Addition",
+    "D": "Differentiation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a polygon with nine sides?",
+    "A": "Nonagon",
+    "B": "Octagon",
+    "C": "Hexagon",
+    "D": "Decagon",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical constant represents the ratio of the circumference of a circle to its diameter?",
+    "A": "Pi (π)",
+    "B": "Euler's number (e)",
+    "C": "Golden ratio (φ)",
+    "D": "Tau (τ)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a number that is the same when read forwards and backwards?",
+    "A": "Palindrome",
+    "B": "Prime number",
+    "C": "Irrational number",
+    "D": "Factorial",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of multiplying -6 by -9?",
+    "A": "-54",
+    "B": "54",
+    "C": "-15",
+    "D": "15",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a number that is neither prime nor composite?",
+    "A": "Odd number",
+    "B": "Even number",
+    "C": "Neutral number",
+    "D": "Square number",
+    "answer": "C"
+  },
+  {
+    "question": "Which mathematical operation is the opposite of division?",
+    "A": "Multiplication",
+    "B": "Subtraction",
+    "C": "Addition",
+    "D": "Exponentiation",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a polygon with ten sides?",
+    "A": "Decagon",
+    "B": "Nonagon",
+    "C": "Octagon",
+    "D": "Hexagon",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical constant represents the square root of -1?",
+    "A": "Imaginary unit (i)",
+    "B": "Euler's number (e)",
+    "C": "Golden ratio (φ)",
+    "D": "Pi (π)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a number that is divisible by only 1 and itself?",
+    "A": "Prime number",
+    "B": "Composite number",
+    "C": "Odd number",
+    "D": "Square number",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of dividing 0 by any nonzero number?",
+    "A": "0",
+    "B": "1",
+    "C": "Undefined",
+    "D": "Infinity",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the point where the x-axis and y-axis intersect in a Cartesian coordinate system?",
+    "A": "Origin",
+    "B": "Endpoint",
+    "C": "Intersection",
+    "D": "Focus",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a polygon with twelve sides?",
+    "A": "Dodecagon",
+    "B": "Decagon",
+    "C": "Octagon",
+    "D": "Hexagon",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical constant represents the base of common logarithms?",
+    "A": "Euler's number (e)",
+    "B": "Golden ratio (φ)",
+    "C": "Pi (π)",
+    "D": "10",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a number that is the result of multiplying an integer by itself?",
+    "A": "Prime number",
+    "B": "Square number",
+    "C": "Composite number",
+    "D": "Cube number",
+    "answer": "B"
+  },
+  {
+    "question": "What is the result of adding 6 to -12?",
+    "A": "-18",
+    "B": "-6",
+    "C": "0",
+    "D": "18",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a polygon with fifteen sides?",
+    "A": "Pentadecagon",
+    "B": "Dodecagon",
+    "C": "Decagon",
+    "D": "Hexagon",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical term represents the quantity that remains after one quantity is subtracted from another?",
+    "A": "Factor",
+    "B": "Sum",
+    "C": "Difference",
+    "D": "Product",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a number that is divisible by 2 but not by 3?",
+    "A": "Prime number",
+    "B": "Odd number",
+    "C": "Even number",
+    "D": "Rational number",
+    "answer": "C"
+  },
+  {
+    "question": "What is the result of subtracting 7 from -3?",
+    "A": "-10",
+    "B": "-4",
+    "C": "0",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a polygon with twenty sides?",
+    "A": "Icosagon",
+    "B": "Dodecagon",
+    "C": "Decagon",
+    "D": "Hexagon",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical constant represents the ratio of a circle's diameter to its circumference?",
+    "A": "Pi (π)",
+    "B": "Euler's number (e)",
+    "C": "Golden ratio (φ)",
+    "D": "Tau (τ)",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a number that is not a perfect square?",
+    "A": "Composite number",
+    "B": "Square number",
+    "C": "Odd number",
+    "D": "Cube number",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of multiplying -8 by 7?",
+    "A": "-56",
+    "B": "56",
+    "C": "-15",
+    "D": "15",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a polygon with thirty sides?",
+    "A": "Triacontagon",
+    "B": "Icosagon",
+    "C": "Decagon",
+    "D": "Hexagon",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical term represents the number that is raised to a power in an exponential expression?",
+    "A": "Base",
+    "B": "Exponent",
+    "C": "Coefficient",
+    "D": "Variable",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a number that cannot be expressed as a fraction and has a non-repeating, non-terminating decimal expansion?",
+    "A": "Rational number",
+    "B": "Irrational number",
+    "C": "Prime number",
+    "D": "Complex number",
+    "answer": "B"
+  },
+  {
+    "question": "Which famous mathematical problem asks if there are three positive integers such that a^3 + b^3 = c^3?",
+    "A": "Goldbach's conjecture",
+    "B": "Fermat's Last Theorem",
+    "C": "Collatz conjecture",
+    "D": "Twin prime conjecture",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a polynomial with four terms?",
+    "A": "Univariate",
+    "B": "Bivariate",
+    "C": "Trinomial",
+    "D": "Quartic",
+    "answer": "D"
+  },
+  {
+    "question": "Which mathematical constant is known as Euler's number?",
+    "A": "π (Pi)",
+    "B": "e (Euler's number)",
+    "C": "φ (Golden ratio)",
+    "D": "τ (Tau)",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the conjecture that every even integer greater than 2 can be expressed as the sum of two prime numbers?",
+    "A": "Goldbach's conjecture",
+    "B": "Fermat's Last Theorem",
+    "C": "Riemann hypothesis",
+    "D": "Collatz conjecture",
+    "answer": "A"
+  },
+  {
+    "question": "Which mathematical concept involves a function calling itself in its own definition?",
+    "A": "Convergence",
+    "B": "Divergence",
+    "C": "Recursion",
+    "D": "Interpolation",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a curve that approaches a line as it extends infinitely?",
+    "A": "Hyperbola",
+    "B": "Parabola",
+    "C": "Asymptote",
+    "D": "Ellipse",
+    "answer": "C"
+  },
+  {
+    "question": "Which famous mathematical theorem states that there are infinitely many prime numbers?",
+    "A": "Euler's theorem",
+    "B": "Fermat's Last Theorem",
+    "C": "Goldbach's conjecture",
+    "D": "Euclid's theorem",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a mathematical object that has magnitude and direction, such as velocity or force?",
+    "A": "Scalar",
+    "B": "Vector",
+    "C": "Tensor",
+    "D": "Matrix",
+    "answer": "B"
+  },
+  {
+    "question": "In calculus, what is the term for a point at which a function is not differentiable?",
+    "A": "Critical point",
+    "B": "Inflection point",
+    "C": "Singular point",
+    "D": "Discontinuity",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the mathematical conjecture that states every positive integer can be written as the sum of at most three palindromic numbers?",
+    "A": "Goldbach's conjecture",
+    "B": "Collatz conjecture",
+    "C": "Polignac's conjecture",
+    "D": "Waring's problem",
+    "answer": "C"
+  },
+  {
+    "question": "In set theory, what is the cardinality of the power set of a set with n elements?",
+    "A": "n",
+    "B": "2^n",
+    "C": "n!",
+    "D": "n^n",
+    "answer": "B"
+  },
+  {
+    "question": "Which branch of mathematics studies the properties and relationships of space and geometric figures?",
+    "A": "Calculus",
+    "B": "Algebra",
+    "C": "Geometry",
+    "D": "Number theory",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a prime number that differs from another prime number by 2, like 11 and 13?",
+    "A": "Perfect prime",
+    "B": "Composite prime",
+    "C": "Twin prime",
+    "D": "Palindrome prime",
+    "answer": "C"
+  },
+  {
+    "question": "In complex analysis, what is the residue of a function at a point?",
+    "A": "The value of the function at that point",
+    "B": "The limit of the function at that point",
+    "C": "The coefficient of the Laurent series term at that point",
+    "D": "The slope of the tangent line at that point",
+    "answer": "C"
+  },
+  {
+    "question": "Which mathematical constant is the limit of the ratio of the circumference of a circle to its diameter?",
+    "A": "Pi (π)",
+    "B": "Euler's number (e)",
+    "C": "Golden ratio (φ)",
+    "D": "Tau (τ)",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the theorem that states any non-constant polynomial equation with complex coefficients has at least one complex root?",
+    "A": "Fundamental theorem of algebra",
+    "B": "Pythagorean theorem",
+    "C": "Fermat's Last Theorem",
+    "D": "Euler's theorem",
+    "answer": "A"
+  },
+  {
+    "question": "In number theory, what is the term for a positive integer greater than 1 that has no positive divisors other than 1 and itself?",
+    "A": "Rational number",
+    "B": "Irrational number",
+    "C": "Prime number",
+    "D": "Complex number",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the mathematical concept that involves assigning a sequence of numbers to objects in order to compare their sizes?",
+    "A": "Ranking",
+    "B": "Order theory",
+    "C": "Cardinality",
+    "D": "Enumeration",
+    "answer": "C"
+  },
+  {
+    "question": "Which mathematical theorem states that for every action, there is an equal and opposite reaction?",
+    "A": "Pascal's theorem",
+    "B": "Euler's theorem",
+    "C": "Newton's third law of motion",
+    "D": "Fermat's Last Theorem",
+    "answer": "C"
+  },
+  {
+    "question": "In combinatorics, what is the term for an ordered arrangement of objects, where repetition is allowed?",
+    "A": "Combination",
+    "B": "Permutation",
+    "C": "Partition",
+    "D": "Enumeration",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a set of points in space that are equidistant from a fixed point called the center?",
+    "A": "Ellipse",
+    "B": "Hyperbola",
+    "C": "Parabola",
+    "D": "Sphere",
+    "answer": "D"
+  },
+  {
+    "question": "In group theory, what is the identity element of a group?",
+    "A": "An element with an inverse",
+    "B": "An element that commutes with all other elements",
+    "C": "The result of a group operation",
+    "D": "An element that leaves other elements unchanged",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the mathematical theory that studies the properties of continuous functions on topological spaces?",
+    "A": "Differential geometry",
+    "B": "Complex analysis",
+    "C": "Topology",
+    "D": "Number theory",
+    "answer": "C"
+  },
+  {
+    "question": "Which mathematical concept involves calculating the number of ways to arrange objects in a specific order?",
+    "A": "Combinatorics",
+    "B": "Set theory",
+    "C": "Number theory",
+    "D": "Graph theory",
+    "answer": "A"
+  },
+  {
+    "question": "In linear algebra, what is the term for a square matrix that is equal to its transpose?",
+    "A": "Orthogonal matrix",
+    "B": "Hermitian matrix",
+    "C": "Symmetric matrix",
+    "D": "Unitary matrix",
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the mathematical constant that represents the ratio of the circumference of a circle to its radius, but is twice the value of pi?",
+    "A": "Pi (π)",
+    "B": "Euler's number (e)",
+    "C": "Golden ratio (φ)",
+    "D": "Tau (τ)",
+    "answer": "D"
+  },
+  {
+    "question": "In calculus, what is the term for a point where a function has a local maximum or minimum?",
+    "A": "Critical point",
+    "B": "Inflection point",
+    "C": "Singular point",
+    "D": "Discontinuity",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the mathematical concept that involves finding the largest possible value a function can take?",
+    "A": "Maximum principle",
+    "B": "Optimization",
+    "C": "Limit theorem",
+    "D": "Convergence theorem",
+    "answer": "B"
+  },
+  {
+    "question": "In graph theory, what is the term for a cycle in a graph that includes every vertex exactly once?",
+    "A": "Eulerian cycle",
+    "B": "Hamiltonian cycle",
+    "C": "Circuit cycle",
+    "D": "Planar cycle",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a geometric shape with an infinite number of sides that gradually approaches a circle?",
+    "A": "Polygon",
+    "B": "Fractal",
+    "C": "Ellipse",
+    "D": "Apollonian gasket",
+    "answer": "D"
+  },
+  {
+    "question": "In mathematical logic, what is the term for a statement that is true for all elements in the domain of discourse?",
+    "A": "Contradiction",
+    "B": "Implication",
+    "C": "Existential quantifier",
+    "D": "Universal quantifier",
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the mathematical theorem that states that a function that is continuous on a closed interval is bounded and achieves its bounds?",
+    "A": "Bolzano's theorem",
+    "B": "Intermediate value theorem",
+    "C": "Mean value theorem",
+    "D": "Fundamental theorem of calculus",
+    "answer": "B"
+  },
+  {
+    "question": "In algebraic geometry, what is the term for a curve that intersects itself at a finite number of points?",
+    "A": "Smooth curve",
+    "B": "Singular curve",
+    "C": "Elliptic curve",
+    "D": "Rational curve",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a number that can be represented as a fraction of two integers, where the numerator is a factor of the denominator?",
+    "A": "Prime number",
+    "B": "Rational number",
+    "C": "Irrational number",
+    "D": "Complex number",
+    "answer": "B"
+  },
+  {
+    "question": "In mathematical analysis, what is the term for a sequence that approaches a fixed value as the number of terms increases?",
+    "A": "Convergent sequence",
+    "B": "Divergent sequence",
+    "C": "Stationary sequence",
+    "D": "Oscillating sequence",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the mathematical theorem that states a continuous function on a compact interval attains its maximum and minimum values?",
+    "A": "Extreme value theorem",
+    "B": "Fundamental theorem of calculus",
+    "C": "Intermediate value theorem",
+    "D": "Mean value theorem",
+    "answer": "A"
+  },
+  {
+    "question": "In algebra, what is the term for an element that has an inverse with respect to multiplication?",
+    "A": "Coprime element",
+    "B": "Prime element",
+    "C": "Unit element",
+    "D": "Invertible element",
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for a function that assigns a real number to each point in a given interval?",
+    "A": "Complex function",
+    "B": "Multivariable function",
+    "C": "Continuous function",
+    "D": "Real-valued function",
+    "answer": "D"
+  },
+  {
+    "question": "In number theory, what is the name of the conjecture that every even integer greater than 2 can be expressed as the sum of two prime numbers?",
+    "A": "Goldbach's conjecture",
+    "B": "Fermat's Last Theorem",
+    "C": "Collatz conjecture",
+    "D": "Twin prime conjecture",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a curve that is the locus of a point that moves so that its distance from a fixed point (focus) is proportional to its distance from a fixed line (directrix)?",
+    "A": "Ellipse",
+    "B": "Hyperbola",
+    "C": "Parabola",
+    "D": "Cycloid",
+    "answer": "C"
+  },
+  {
+    "question": "What is the result of adding two vectors with magnitudes 3 and 5 that are perpendicular to each other?",
+    "A": "2",
+    "B": "8",
+    "C": "15",
+    "D": "√34",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a vector with a magnitude of 1?",
+    "A": "Normal vector",
+    "B": "Unit vector",
+    "C": "Scalar vector",
+    "D": "Zero vector",
+    "answer": "B"
+  },
+  {
+    "question": "In a Cartesian coordinate system, what are the components of the unit vector along the positive x-axis?",
+    "A": "(1, 0)",
+    "B": "(0, 1)",
+    "C": "(1, 1)",
+    "D": "(0, 0)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of subtracting a vector from itself?",
+    "A": "The zero vector",
+    "B": "The original vector",
+    "C": "An undefined operation",
+    "D": "A scalar value",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for two vectors that have the same direction but different magnitudes?",
+    "A": "Collinear vectors",
+    "B": "Parallel vectors",
+    "C": "Antiparallel vectors",
+    "D": "Orthogonal vectors",
+    "answer": "B"
+  },
+  {
+    "question": "In a 2D Cartesian plane, what are the components of the vector (3, -4)?",
+    "A": "3i + 4j",
+    "B": "3j - 4i",
+    "C": "-3i + 4j",
+    "D": "-3j - 4i",
+    "answer": "A"
+  },
+  {
+    "question": "What is the result of multiplying a vector by a scalar?",
+    "A": "A scalar value",
+    "B": "The original vector",
+    "C": "A zero vector",
+    "D": "Another vector",
+    "answer": "D"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, what are the components of the standard unit vector along the positive z-axis?",
+    "A": "(0, 1, 0)",
+    "B": "(0, 0, 1)",
+    "C": "(1, 0, 0)",
+    "D": "(1, 1, 1)",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for a vector that is orthogonal (perpendicular) to a given plane?",
+    "A": "Normal vector",
+    "B": "Unit vector",
+    "C": "Tangent vector",
+    "D": "Position vector",
+    "answer": "A"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if the vector (3, 4) is translated 2 units to the left and 3 units down, what are the components of the translated vector?",
+    "A": "(1, 1)",
+    "B": "(5, 7)",
+    "C": "(-1, -1)",
+    "D": "(-5, -7)",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for two vectors that are neither parallel nor intersecting and lie in different planes?",
+    "A": "Collinear vectors",
+    "B": "Coplanar vectors",
+    "C": "Orthogonal vectors",
+    "D": "Noncoplanar vectors",
+    "answer": "D"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if a vector A = 2i - 3j + 4k, what is the magnitude of vector A?",
+    "A": "√7",
+    "B": "√29",
+    "C": "√39",
+    "D": "√49",
+    "answer": "B"
+  },
+  {
+    "question": "What is the result of adding two parallel vectors?",
+    "A": "A scalar value",
+    "B": "A zero vector",
+    "C": "Another parallel vector",
+    "D": "An orthogonal vector",
+    "answer": "C"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if the vector (2, 1) is scaled by a factor of 3, what are the components of the scaled vector?",
+    "A": "(6, 3)",
+    "B": "(2, 1/3)",
+    "C": "(6, 1)",
+    "D": "(2/3, 1)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the sum of the products of the corresponding components of two vectors?",
+    "A": "Dot product",
+    "B": "Cross product",
+    "C": "Scalar product",
+    "D": "Vector product",
+    "answer": "A"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, what is the formula for calculating the magnitude of a vector v = xi + yj + zk?",
+    "A": "√(x^2 + y^2 + z^2)",
+    "B": "x^2 + y^2 + z^2",
+    "C": "√(x + y + z)",
+    "D": "x + y + z",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the vector that connects two points?",
+    "A": "Unit vector",
+    "B": "Position vector",
+    "C": "Tangent vector",
+    "D": "Normal vector",
+    "answer": "B"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors A = i - j + 2k and B = 2i + j - k, what is the dot product of vectors A and B?",
+    "A": "-3",
+    "B": "0",
+    "C": "3",
+    "D": "6",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the vector that represents the change in position between two points?",
+    "A": "Unit vector",
+    "B": "Position vector",
+    "C": "Displacement vector",
+    "D": "Normal vector",
+    "answer": "C"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors P = 2i - 3j + 4k and Q = 5i + 6j - 7k, what is the cross product of vectors P and Q?",
+    "A": "i - j + k",
+    "B": "-i + j - k",
+    "C": "-i + 2j - 3k",
+    "D": "i - 2j + 3k",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for two vectors that have the same magnitude and direction, but may differ in sign?",
+    "A": "Opposite vectors",
+    "B": "Antiparallel vectors",
+    "C": "Scalar vectors",
+    "D": "Collinear vectors",
+    "answer": "A"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors A = 2i - 3j + 4k and B = -i + 2j - k, what is the angle between vectors A and B?",
+    "A": "30 degrees",
+    "B": "45 degrees",
+    "C": "60 degrees",
+    "D": "90 degrees",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the vector that results from subtracting one vector from another?",
+    "A": "Unit vector",
+    "B": "Position vector",
+    "C": "Tangent vector",
+    "D": "Resultant vector",
+    "answer": "D"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector A = 3i + 4j and vector B = -2i + 7j, what is the sum of vectors A and B?",
+    "A": "i + 3j",
+    "B": "i + 11j",
+    "C": "i + j",
+    "D": "-i + j",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the vector that is directed perpendicular to the plane of a given pair of vectors?",
+    "A": "Unit vector",
+    "B": "Position vector",
+    "C": "Tangent vector",
+    "D": "Cross product",
+    "answer": "D"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors A = i - j + k and B = 2i + 2j - 2k, what is the scalar projection of vector A onto vector B?",
+    "A": "1",
+    "B": "-1",
+    "C": "2",
+    "D": "-2",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for two vectors that are equal in magnitude and direction?",
+    "A": "Opposite vectors",
+    "B": "Collinear vectors",
+    "C": "Scalar vectors",
+    "D": "Equal vectors",
+    "answer": "D"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector P = 3i + 4j and vector Q = 2i - j, what is the cross product of vectors P and Q?",
+    "A": "3",
+    "B": "5",
+    "C": "-5",
+    "D": "7",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the vector that represents the direction and magnitude of motion from an initial point to a final point?",
+    "A": "Unit vector",
+    "B": "Position vector",
+    "C": "Displacement vector",
+    "D": "Normal vector",
+    "answer": "C"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors P = 2i - 3j + 4k and Q = -i + j - 2k, what is the vector product of vectors P and Q?",
+    "A": "3i + 6j + k",
+    "B": "-3i - 6j - k",
+    "C": "3i + 6j - k",
+    "D": "-3i + 6j + k",
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a vector that has both magnitude and direction?",
+    "A": "Scalar vector",
+    "B": "Unit vector",
+    "C": "Position vector",
+    "D": "Vector",
+    "answer": "D"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector A = 2i + 3j and vector B = i - 2j, what is the dot product of vectors A and B?",
+    "A": "1",
+    "B": "-1",
+    "C": "4",
+    "D": "-4",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the vector that represents the position of a point in space relative to a reference point?",
+    "A": "Unit vector",
+    "B": "Position vector",
+    "C": "Tangent vector",
+    "D": "Normal vector",
+    "answer": "B"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vector A = i + 2j + 3k and vector B = 2i + 4j + 6k, what is the sum of vectors A and B?",
+    "A": "3i + 6j + 9k",
+    "B": "2i + 2j + 2k",
+    "C": "3i + 4j + 6k",
+    "D": "4i + 6j + 8k",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a vector that is directed parallel to the plane of a given pair of vectors?",
+    "A": "Unit vector",
+    "B": "Position vector",
+    "C": "Tangent vector",
+    "D": "Scalar vector",
+    "answer": "C"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vectors P = i + 2j and Q = -2i + j, what is the magnitude of the cross product of vectors P and Q?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the vector that represents the direction and distance between two points?",
+    "A": "Unit vector",
+    "B": "Position vector",
+    "C": "Tangent vector",
+    "D": "Displacement vector",
+    "answer": "D"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vector P = i + j + k and vector Q = 2i - j - 2k, what is the dot product of vectors P and Q?",
+    "A": "0",
+    "B": "3",
+    "C": "-1",
+    "D": "5",
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the vector that connects the initial point of one vector to the terminal point of another vector?",
+    "A": "Unit vector",
+    "B": "Position vector",
+    "C": "Tangent vector",
+    "D": "Resultant vector",
+    "answer": "D"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector A = 4i + 3j and vector B = 2i - 6j, what is the scalar projection of vector A onto vector B?",
+    "A": "3",
+    "B": "-2",
+    "C": "4",
+    "D": "-3",
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for the vector that represents the direction of a line or curve at a specific point?",
+    "A": "Unit vector",
+    "B": "Position vector",
+    "C": "Tangent vector",
+    "D": "Normal vector",
+    "answer": "C"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector A = 3i + 4j and vector B = -2i + 7j, what is the magnitude of vector A?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "√25",
+    "answer": "B"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector A = i + 2j and vector B = -2i + j, what is the dot product of vectors A and B?",
+    "A": "-3",
+    "B": "-2",
+    "C": "3",
+    "D": "2",
+    "answer": "A"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors P = i - j + 2k and Q = 5i + 6j - 7k, what is the angle between vectors P and Q?",
+    "A": "45 degrees",
+    "B": "60 degrees",
+    "C": "90 degrees",
+    "D": "120 degrees",
+    "answer": "C"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector P = 3i + 4j and vector Q = 2i - j, what is the cross product of vectors P and Q?",
+    "A": "-5",
+    "B": "5",
+    "C": "7",
+    "D": "-7",
+    "answer": "B"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors A = i + 2j + 3k and B = 2i + 4j + 6k, what is the scalar projection of vector A onto vector B?",
+    "A": "√7",
+    "B": "√29",
+    "C": "√39",
+    "D": "√49",
+    "answer": "B"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vectors A = 2i + 3j and vector B = i - 2j, what is the sum of vectors A and B?",
+    "A": "3i + j",
+    "B": "3i + j",
+    "C": "3i - 5j",
+    "D": "3i + 5j",
+    "answer": "D"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors P = 2i - 3j + 4k and Q = -i + j - 2k, what is the vector product of vectors P and Q?",
+    "A": "3i + 6j - k",
+    "B": "-3i - 6j + k",
+    "C": "3i - 6j + k",
+    "D": "-3i + 6j - k",
+    "answer": "A"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector A = 4i + 3j and vector B = 2i - 6j, what is the scalar projection of vector A onto vector B?",
+    "A": "1",
+    "B": "-2",
+    "C": "3",
+    "D": "-3",
+    "answer": "C"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors P = i + 2j + 3k and Q = 2i - j - 2k, what is the dot product of vectors P and Q?",
+    "A": "0",
+    "B": "5",
+    "C": "-1",
+    "D": "3",
+    "answer": "C"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector P = i + 2j and vector Q = -2i + j, what is the magnitude of the cross product of vectors P and Q?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors A = 2i - 3j + 4k and B = -i + 2j - k, what is the angle between vectors A and B (in degrees)?",
+    "A": "38.4 degrees",
+    "B": "41.4 degrees",
+    "C": "45.0 degrees",
+    "D": "49.0 degrees",
+    "answer": "B"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector A = i + 2j and vector B = -2i + j, what is the scalar projection of vector A onto vector B?",
+    "A": "-0.2",
+    "B": "0.2",
+    "C": "-0.4",
+    "D": "0.4",
+    "answer": "B"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors P = 2i - 3j + 4k and Q = -i + j - 2k, what is the dot product of vectors P and Q?",
+    "A": "-18",
+    "B": "-4",
+    "C": "4",
+    "D": "18",
+    "answer": "C"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector A = 3i + 4j and vector B = -2i + 7j, what is the angle between vectors A and B (in degrees)?",
+    "A": "39.8 degrees",
+    "B": "43.0 degrees",
+    "C": "47.3 degrees",
+    "D": "51.2 degrees",
+    "answer": "C"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors A = i + 2j + 3k and B = 2i + 4j + 6k, what is the magnitude of the cross product of vectors A and B?",
+    "A": "0",
+    "B": "√29",
+    "C": "√58",
+    "D": "√87",
+    "answer": "A"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector P = 4i + 3j and vector Q = 2i - 6j, what is the dot product of vectors P and Q?",
+    "A": "-13",
+    "B": "-8",
+    "C": "13",
+    "D": "8",
+    "answer": "C"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors P = i - j + 2k and Q = 5i + 6j - 7k, what is the magnitude of the cross product of vectors P and Q?",
+    "A": "12",
+    "B": "18",
+    "C": "24",
+    "D": "30",
+    "answer": "B"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector A = i + 2j and vector B = -2i + j, what is the angle between vectors A and B (in degrees)?",
+    "A": "63.4 degrees",
+    "B": "66.9 degrees",
+    "C": "70.5 degrees",
+    "D": "73.9 degrees",
+    "answer": "C"
+  },
+  {
+    "question": "In a 3D Cartesian coordinate system, if vectors A = 2i - 3j + 4k and B = -i + 2j - k, what is the dot product of vectors A and B?",
+    "A": "11",
+    "B": "5",
+    "C": "-5",
+    "D": "-11",
+    "answer": "C"
+  },
+  {
+    "question": "In a 2D Cartesian coordinate system, if vector P = 3i + 4j and vector Q = 2i - j, what is the angle between vectors P and Q (in degrees)?",
+    "A": "25.3 degrees",
+    "B": "29.1 degrees",
+    "C": "33.7 degrees",
+    "D": "38.2 degrees",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: 3x + 7 = 22",
+    "A": "x = 5",
+    "B": "x = 6",
+    "C": "x = 7",
+    "D": "x = 8",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify the expression: 2(x + 3) - 4(2x - 5)",
+    "A": "-4x - 22",
+    "B": "2x - 14",
+    "C": "4x + 2",
+    "D": "-2x + 12",
+    "answer": "C"
+  },
+  {
+    "question": "If 2x + 5 = 3x - 2, what is the value of x?",
+    "A": "7",
+    "B": "-7",
+    "C": "3",
+    "D": "-3",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for y: 4(y - 2) = 3(y + 1)",
+    "A": "y = 5",
+    "B": "y = 4",
+    "C": "y = 3",
+    "D": "y = 2",
+    "answer": "D"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 - 4x + 4",
+    "A": "(x + 2)(x - 2)",
+    "B": "(x + 4)(x - 1)",
+    "C": "(x - 2)^2",
+    "D": "(x - 4)(x + 1)",
+    "answer": "C"
+  },
+  {
+    "question": "Simplify: 2x^2 + 3x - 4x^2 + 6",
+    "A": "-2x^2 + 3x + 6",
+    "B": "-2x^2 - 3x + 6",
+    "C": "-2x^2 - 3x - 6",
+    "D": "2x^2 - 3x + 6",
+    "answer": "A"
+  },
+  {
+    "question": "If 3(2x - 4) = 5x + 6, what is the value of x?",
+    "A": "6",
+    "B": "4",
+    "C": "3",
+    "D": "-3",
+    "answer": "C"
+  },
+  {
+    "question": "Expand the expression: (x + 3)^2",
+    "A": "x^2 + 6x + 9",
+    "B": "x^2 - 6x + 9",
+    "C": "x^2 + 9",
+    "D": "x^2 + 6x + 3",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 2(3x - 4) - 3(2x + 1)",
+    "A": "-x - 11",
+    "B": "x + 11",
+    "C": "-x + 11",
+    "D": "x - 11",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for x: 2x/3 - 4 = 5",
+    "A": "x = 17/2",
+    "B": "x = 13/2",
+    "C": "x = 19/2",
+    "D": "x = 11/2",
+    "answer": "B"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 + 5x + 6",
+    "A": "(x + 2)(x + 3)",
+    "B": "(x - 2)(x - 3)",
+    "C": "(x + 2)(x - 3)",
+    "D": "(x - 2)(x + 3)",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 3(2x^2 - 4x + 5) - 2(3x^2 + 2x - 1)",
+    "A": "3x^2 - 10x + 13",
+    "B": "3x^2 + 10x - 13",
+    "C": "-3x^2 + 10x + 13",
+    "D": "-3x^2 - 10x + 13",
+    "answer": "A"
+  },
+  {
+    "question": "If 4x - 3 = 2x + 9, what is the value of x?",
+    "A": "6",
+    "B": "-6",
+    "C": "12",
+    "D": "-12",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: (2x^2 - 3x + 4) - (x^2 + 2x - 1)",
+    "A": "x^2 - 5x + 5",
+    "B": "x^2 + 5x - 5",
+    "C": "x^2 - x + 5",
+    "D": "x^2 + x - 5",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for y: 2(y + 3) = 3(2y - 1)",
+    "A": "y = 6",
+    "B": "y = 5",
+    "C": "y = 4",
+    "D": "y = 3",
+    "answer": "C"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 - 9",
+    "A": "(x + 3)(x - 3)",
+    "B": "(x + 9)(x - 9)",
+    "C": "(x - 3)^2",
+    "D": "(x + 9)(x + 3)",
+    "answer": "A"
+  },
+  {
+    "question": "If 5(2x + 3) = 4x - 7, what is the value of x?",
+    "A": "4",
+    "B": "-4",
+    "C": "3",
+    "D": "-3",
+    "answer": "B"
+  },
+  {
+    "question": "Simplify: 3x^2 + 2x - 5x^2 + 7",
+    "A": "-2x^2 + 2x + 7",
+    "B": "-2x^2 - 2x + 7",
+    "C": "-2x^2 - 2x - 7",
+    "D": "2x^2 - 2x + 7",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for x: 3(2x - 5) = 2(x + 3)",
+    "A": "x = 11/4",
+    "B": "x = 7/4",
+    "C": "x = 5/4",
+    "D": "x = 3/4",
+    "answer": "B"
+  },
+  {
+    "question": "Factor the quadratic expression: 4x^2 - 12x + 9",
+    "A": "(2x - 3)^2",
+    "B": "(2x + 3)^2",
+    "C": "(2x - 3)(2x + 3)",
+    "D": "(2x + 3)(2x + 3)",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 5(2x + 3) - 3(4x - 2)",
+    "A": "-2x + 21",
+    "B": "2x + 21",
+    "C": "-2x - 21",
+    "D": "2x - 21",
+    "answer": "A"
+  },
+  {
+    "question": "If 3(2x - 5) = 4(3x + 2), what is the value of x?",
+    "A": "3",
+    "B": "-3",
+    "C": "5",
+    "D": "-5",
+    "answer": "C"
+  },
+  {
+    "question": "Solve for y: 2(y + 4) = 3(2y - 5)",
+    "A": "y = 26/5",
+    "B": "y = 18/5",
+    "C": "y = 11/5",
+    "D": "y = 7/5",
+    "answer": "D"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 + 6x + 9",
+    "A": "(x + 3)^2",
+    "B": "(x - 3)^2",
+    "C": "(x + 2)(x + 4)",
+    "D": "(x - 2)(x - 4)",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 3x(2x + 5) - 2x(3x - 4)",
+    "A": "3x^2 + 22x",
+    "B": "6x^2 - 22x",
+    "C": "3x^2 - 22x",
+    "D": "6x^2 + 22x",
+    "answer": "B"
+  },
+  {
+    "question": "If 4(3x - 1) = 5(2x + 3), what is the value of x?",
+    "A": "9",
+    "B": "-9",
+    "C": "7",
+    "D": "-7",
+    "answer": "C"
+  },
+  {
+    "question": "Solve for x: 2x/5 + 3 = 7",
+    "A": "x = 10",
+    "B": "x = 5",
+    "C": "x = 35/2",
+    "D": "x = 25/2",
+    "answer": "D"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 - 25",
+    "A": "(x + 5)(x - 5)",
+    "B": "(x + 25)(x - 25)",
+    "C": "(x - 5)^2",
+    "D": "(x + 5)^2",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 2(3x^2 + 4x - 5) - 3(2x^2 - 3x + 2)",
+    "A": "x^2 + 19x - 19",
+    "B": "x^2 - 19x + 19",
+    "C": "x^2 - 19x - 19",
+    "D": "x^2 + 19x + 19",
+    "answer": "A"
+  },
+  {
+    "question": "If 3(x + 2) = 4(x - 1), what is the value of x?",
+    "A": "11",
+    "B": "-11",
+    "C": "7",
+    "D": "-7",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for y: 3(2y - 1) = 2(y + 4)",
+    "A": "y = 5",
+    "B": "y = 4",
+    "C": "y = 3",
+    "D": "y = 2",
+    "answer": "B"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 + 10x + 21",
+    "A": "(x + 7)(x + 3)",
+    "B": "(x - 7)(x - 3)",
+    "C": "(x + 7)(x - 3)",
+    "D": "(x - 7)(x + 3)",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 4x^2 - 3x + 2 - (2x^2 + 5x - 1)",
+    "A": "2x^2 - 8x + 3",
+    "B": "2x^2 + 8x + 3",
+    "C": "-2x^2 - 8x + 3",
+    "D": "-2x^2 + 8x + 3",
+    "answer": "A"
+  },
+  {
+    "question": "If 5(2x - 3) = 3(4x + 5), what is the value of x?",
+    "A": "15",
+    "B": "-15",
+    "C": "11",
+    "D": "-11",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for x: 3x/4 - 2 = 1",
+    "A": "x = 4/3",
+    "B": "x = 3/4",
+    "C": "x = 5/3",
+    "D": "x = 2/3",
+    "answer": "C"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 - 7x + 10",
+    "A": "(x - 2)(x - 5)",
+    "B": "(x + 2)(x + 5)",
+    "C": "(x - 2)(x + 5)",
+    "D": "(x + 2)(x - 5)",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 2(2x^2 + 3x - 4) + 3(3x^2 - 2x + 1)",
+    "A": "13x^2 + 7x + 2",
+    "B": "13x^2 - 7x - 2",
+    "C": "13x^2 + 7x - 2",
+    "D": "13x^2 - 7x + 2",
+    "answer": "A"
+  },
+  {
+    "question": "If 4(x - 2) = 3(x + 5), what is the value of x?",
+    "A": "23",
+    "B": "-23",
+    "C": "14",
+    "D": "-14",
+    "answer": "C"
+  },
+  {
+    "question": "Solve for y: 3(2y + 1) = 5(2y - 3)",
+    "A": "y = 6",
+    "B": "y = 5",
+    "C": "y = 4",
+    "D": "y = 3",
+    "answer": "B"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 + 8x + 16",
+    "A": "(x + 4)^2",
+    "B": "(x - 4)^2",
+    "C": "(x + 2)(x + 8)",
+    "D": "(x - 2)(x - 8)",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 2(3x + 4) - 3(2x - 1)",
+    "A": "x + 14",
+    "B": "x - 14",
+    "C": "5x + 11",
+    "D": "5x - 11",
+    "answer": "A"
+  },
+  {
+    "question": "If 2(x - 3) = 3(2x + 5), what is the value of x?",
+    "A": "13",
+    "B": "-13",
+    "C": "11",
+    "D": "-11",
+    "answer": "B"
+  },
+  {
+    "question": "Solve for y: 4(y + 2) = 3(2y - 1)",
+    "A": "y = 10/7",
+    "B": "y = 8/7",
+    "C": "y = 6/7",
+    "D": "y = 4/7",
+    "answer": "C"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 - 12x + 36",
+    "A": "(x - 6)^2",
+    "B": "(x + 6)^2",
+    "C": "(x - 3)(x - 12)",
+    "D": "(x + 3)(x + 12)",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 3x(2x + 4) - 2x(3x - 5)",
+    "A": "2x^2 + 22x",
+    "B": "6x^2 - 22x",
+    "C": "2x^2 - 22x",
+    "D": "6x^2 + 22x",
+    "answer": "B"
+  },
+  {
+    "question": "If 3(2x + 1) = 4(x - 2), what is the value of x?",
+    "A": "10",
+    "B": "-10",
+    "C": "5",
+    "D": "-5",
+    "answer": "C"
+  },
+  {
+    "question": "Solve for x: 2x/3 + 4 = 6",
+    "A": "x = 18/7",
+    "B": "x = 7/6",
+    "C": "x = 12/7",
+    "D": "x = 3/2",
+    "answer": "A"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 - 64",
+    "A": "(x + 8)(x - 8)",
+    "B": "(x + 64)(x - 64)",
+    "C": "(x - 8)^2",
+    "D": "(x + 8)^2",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 3(2x^2 + 5x - 6) + 2(3x^2 - 2x + 4)",
+    "A": "13x^2 + 19x + 12",
+    "B": "13x^2 - 19x - 12",
+    "C": "13x^2 + 19x - 12",
+    "D": "13x^2 - 19x + 12",
+    "answer": "A"
+  },
+  {
+    "question": "If 4(x + 3) = 3(x - 1), what is the value of x?",
+    "A": "11",
+    "B": "-11",
+    "C": "7",
+    "D": "-7",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for y: 3(2y + 5) = 2(y - 4)",
+    "A": "y = -7",
+    "B": "y = -5",
+    "C": "y = -3",
+    "D": "y = -1",
+    "answer": "A"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 + 14x + 49",
+    "A": "(x + 7)^2",
+    "B": "(x - 7)^2",
+    "C": "(x + 2)(x + 12)",
+    "D": "(x - 2)(x - 12)",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 4x^2 - 5x + 3 - (2x^2 + 3x - 2)",
+    "A": "2x^2 - 8x + 5",
+    "B": "2x^2 + 8x + 5",
+    "C": "-2x^2 - 8x + 5",
+    "D": "-2x^2 + 8x + 5",
+    "answer": "A"
+  },
+  {
+    "question": "If 5(2x - 4) = 3(4x + 7), what is the value of x?",
+    "A": "26/7",
+    "B": "-26/7",
+    "C": "17/7",
+    "D": "-17/7",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for x: 3x/5 - 2 = 3",
+    "A": "x = 19/5",
+    "B": "x = 15/5",
+    "C": "x = 13/5",
+    "D": "x = 11/5",
+    "answer": "B"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 - 16",
+    "A": "(x + 4)(x - 4)",
+    "B": "(x + 16)(x - 16)",
+    "C": "(x - 4)^2",
+    "D": "(x + 4)^2",
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 3(2x^2 + 3x - 5) - 2(3x^2 - 4x + 1)",
+    "A": "x^2 + 19x - 19",
+    "B": "x^2 - 19x + 19",
+    "C": "x^2 - 19x - 19",
+    "D": "x^2 + 19x + 19",
+    "answer": "A"
+  },
+  {
+    "question": "If 4(x - 2) = 3(x + 4), what is the value of x?",
+    "A": "20/7",
+    "B": "-20/7",
+    "C": "11/7",
+    "D": "-11/7",
+    "answer": "A"
+  },
+  {
+    "question": "Solve for y: 3(2y - 1) = 2(y + 3)",
+    "A": "y = 7/5",
+    "B": "y = 5/3",
+    "C": "y = 3/2",
+    "D": "y = 1",
+    "answer": "A"
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 + 20x + 100",
+    "A": "(x + 10)^2",
+    "B": "(x - 10)^2",
+    "C": "(x + 5)(x + 15)",
+    "D": "(x - 5)(x - 15)",
+    "answer": "A"
+  },
+  {
+    "question": "What is the sine of an angle in a right triangle if the opposite side is 5 and the hypotenuse is 13?",
+    "A": "5/13",
+    "B": "13/5",
+    "C": "12/13",
+    "D": "13/12",
+    "answer": "A"
+  },
+  {
+    "question": "If cos(θ) = 0.8, what is the value of sec(θ)?",
+    "A": "1.25",
+    "B": "1.67",
+    "C": "1.0",
+    "D": "1.4",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 24 and the hypotenuse is 25, what is the cosine of the angle?",
+    "A": "24/25",
+    "B": "25/24",
+    "C": "7/25",
+    "D": "24/7",
+    "answer": "A"
+  },
+  {
+    "question": "If tan(α) = 0.6, what is the value of cot(α)?",
+    "A": "1.67",
+    "B": "1.25",
+    "C": "1.0",
+    "D": "1.4",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 3 and the hypotenuse is 5, what is the sine of the angle?",
+    "A": "3/5",
+    "B": "5/3",
+    "C": "4/5",
+    "D": "5/4",
+    "answer": "A"
+  },
+  {
+    "question": "If sin(θ) = 0.7, what is the value of csc(θ)?",
+    "A": "1.43",
+    "B": "1.25",
+    "C": "1.0",
+    "D": "1.67",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 15 and the adjacent side is 20, what is the tangent of the angle?",
+    "A": "3/4",
+    "B": "4/3",
+    "C": "15/20",
+    "D": "20/15",
+    "answer": "A"
+  },
+  {
+    "question": "If sec(β) = 2.5, what is the value of cos(β)?",
+    "A": "0.4",
+    "B": "0.5",
+    "C": "0.6",
+    "D": "0.3",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 7 and the adjacent side is 24, what is the tangent of the angle?",
+    "A": "7/24",
+    "B": "24/7",
+    "C": "5/12",
+    "D": "12/5",
+    "answer": "A"
+  },
+  {
+    "question": "If csc(θ) = 1.8, what is the value of sin(θ)?",
+    "A": "0.56",
+    "B": "0.45",
+    "C": "0.6",
+    "D": "0.7",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 9 and the hypotenuse is 15, what is the sine of the angle?",
+    "A": "3/5",
+    "B": "5/3",
+    "C": "2/3",
+    "D": "3/2",
+    "answer": "C"
+  },
+  {
+    "question": "If sin(α) = 0.4, what is the value of csc(α)?",
+    "A": "2.5",
+    "B": "2.0",
+    "C": "2.2",
+    "D": "2.8",
+    "answer": "B"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 4 and the adjacent side is 7, what is the cosine of the angle?",
+    "A": "4/7",
+    "B": "7/4",
+    "C": "3/5",
+    "D": "5/3",
+    "answer": "A"
+  },
+  {
+    "question": "If cos(θ) = 0.6, what is the value of sec(θ)?",
+    "A": "1.67",
+    "B": "1.25",
+    "C": "1.0",
+    "D": "1.4",
+    "answer": "D"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 8 and the hypotenuse is 17, what is the sine of the angle?",
+    "A": "8/17",
+    "B": "17/8",
+    "C": "15/17",
+    "D": "17/15",
+    "answer": "A"
+  },
+  {
+    "question": "If tan(α) = 0.5, what is the value of cot(α)?",
+    "A": "2.0",
+    "B": "2.5",
+    "C": "1.0",
+    "D": "1.5",
+    "answer": "B"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 9 and the adjacent side is 40, what is the tangent of the angle?",
+    "A": "9/40",
+    "B": "40/9",
+    "C": "4/9",
+    "D": "9/4",
+    "answer": "C"
+  },
+  {
+    "question": "If sec(β) = 3.2, what is the value of cos(β)?",
+    "A": "0.3125",
+    "B": "0.625",
+    "C": "0.5",
+    "D": "0.75",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 12 and the adjacent side is 16, what is the cosine of the angle?",
+    "A": "3/4",
+    "B": "4/3",
+    "C": "2/3",
+    "D": "3/2",
+    "answer": "C"
+  },
+  {
+    "question": "If csc(θ) = 1.6, what is the value of sin(θ)?",
+    "A": "0.625",
+    "B": "0.7",
+    "C": "0.5",
+    "D": "0.8",
+    "answer": "B"
+  },
+  {
+    "question": "What is the tangent of an angle in a right triangle if the opposite side is 9 and the adjacent side is 12?",
+    "A": "3/4",
+    "B": "4/3",
+    "C": "9/12",
+    "D": "12/9",
+    "answer": "A"
+  },
+  {
+    "question": "If sin(θ) = 0.8, what is the value of csc(θ)?",
+    "A": "1.25",
+    "B": "1.0",
+    "C": "1.67",
+    "D": "1.4",
+    "answer": "C"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 7 and the hypotenuse is 25, what is the sine of the angle?",
+    "A": "7/25",
+    "B": "25/7",
+    "C": "3/7",
+    "D": "7/3",
+    "answer": "A"
+  },
+  {
+    "question": "If tan(α) = 1.2, what is the value of cot(α)?",
+    "A": "5/6",
+    "B": "6/5",
+    "C": "1.0",
+    "D": "1.2",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 16 and the adjacent side is 20, what is the tangent of the angle?",
+    "A": "4/5",
+    "B": "5/4",
+    "C": "16/20",
+    "D": "20/16",
+    "answer": "A"
+  },
+  {
+    "question": "If cos(θ) = 0.6, what is the value of sec(θ)?",
+    "A": "1.67",
+    "B": "1.25",
+    "C": "1.0",
+    "D": "1.4",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 10 and the hypotenuse is 26, what is the sine of the angle?",
+    "A": "10/26",
+    "B": "26/10",
+    "C": "5/13",
+    "D": "13/5",
+    "answer": "C"
+  },
+  {
+    "question": "If csc(β) = 2.5, what is the value of sin(β)?",
+    "A": "0.4",
+    "B": "0.5",
+    "C": "0.6",
+    "D": "0.3",
+    "answer": "B"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 6 and the adjacent side is 18, what is the tangent of the angle?",
+    "A": "6/18",
+    "B": "18/6",
+    "C": "1/3",
+    "D": "3/1",
+    "answer": "C"
+  },
+  {
+    "question": "If sec(θ) = 3.4, what is the value of cos(θ)?",
+    "A": "0.2941",
+    "B": "0.75",
+    "C": "0.5",
+    "D": "0.8",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 14 and the hypotenuse is 25, what is the sine of the angle?",
+    "A": "14/25",
+    "B": "25/14",
+    "C": "24/25",
+    "D": "25/24",
+    "answer": "A"
+  },
+  {
+    "question": "If sin(α) = 0.3, what is the value of csc(α)?",
+    "A": "3.33",
+    "B": "3.0",
+    "C": "2.5",
+    "D": "2.0",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 5 and the adjacent side is 12, what is the cosine of the angle?",
+    "A": "5/12",
+    "B": "12/5",
+    "C": "1/2",
+    "D": "2/1",
+    "answer": "A"
+  },
+  {
+    "question": "If cos(θ) = 0.4, what is the value of sec(θ)?",
+    "A": "2.5",
+    "B": "1.25",
+    "C": "1.0",
+    "D": "2.0",
+    "answer": "B"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 15 and the hypotenuse is 17, what is the sine of the angle?",
+    "A": "15/17",
+    "B": "17/15",
+    "C": "8/15",
+    "D": "15/8",
+    "answer": "A"
+  },
+  {
+    "question": "If tan(α) = 0.7, what is the value of cot(α)?",
+    "A": "1.43",
+    "B": "1.25",
+    "C": "1.0",
+    "D": "1.67",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 8 and the adjacent side is 30, what is the tangent of the angle?",
+    "A": "8/30",
+    "B": "30/8",
+    "C": "4/15",
+    "D": "15/4",
+    "answer": "C"
+  },
+  {
+    "question": "If sec(β) = 4.2, what is the value of cos(β)?",
+    "A": "0.2381",
+    "B": "0.625",
+    "C": "0.5",
+    "D": "0.75",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 16 and the hypotenuse is 20, what is the cosine of the angle?",
+    "A": "4/5",
+    "B": "5/4",
+    "C": "3/4",
+    "D": "4/3",
+    "answer": "C"
+  },
+  {
+    "question": "If csc(θ) = 2.8, what is the value of sin(θ)?",
+    "A": "0.3571",
+    "B": "0.45",
+    "C": "0.6",
+    "D": "0.7",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 10 and the adjacent side is 24, what is the tangent of the angle?",
+    "A": "10/24",
+    "B": "24/10",
+    "C": "5/12",
+    "D": "12/5",
+    "answer": "C"
+  },
+  {
+    "question": "If sin(α) = 0.5, what is the value of csc(α)?",
+    "A": "2.0",
+    "B": "2.5",
+    "C": "1.0",
+    "D": "1.5",
+    "answer": "B"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 18 and the hypotenuse is 30, what is the sine of the angle?",
+    "A": "18/30",
+    "B": "30/18",
+    "C": "3/5",
+    "D": "5/3",
+    "answer": "C"
+  },
+  {
+    "question": "If tan(θ) = 0.9, what is the value of cot(θ)?",
+    "A": "1.11",
+    "B": "1.25",
+    "C": "1.0",
+    "D": "1.67",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 6 and the adjacent side is 8, what is the cosine of the angle?",
+    "A": "6/8",
+    "B": "8/6",
+    "C": "3/4",
+    "D": "4/3",
+    "answer": "C"
+  },
+  {
+    "question": "If cos(α) = 0.2, what is the value of sec(α)?",
+    "A": "5.0",
+    "B": "1.25",
+    "C": "1.0",
+    "D": "2.5",
+    "answer": "D"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 10 and the hypotenuse is 26, what is the sine of the angle?",
+    "A": "10/26",
+    "B": "26/10",
+    "C": "5/13",
+    "D": "13/5",
+    "answer": "C"
+  },
+  {
+    "question": "If csc(β) = 2.2, what is the value of sin(β)?",
+    "A": "0.4545",
+    "B": "0.5",
+    "C": "0.6",
+    "D": "0.3",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 7 and the adjacent side is 10, what is the tangent of the angle?",
+    "A": "7/10",
+    "B": "10/7",
+    "C": "3/4",
+    "D": "4/3",
+    "answer": "A"
+  },
+  {
+    "question": "If sec(θ) = 4.5, what is the value of cos(θ)?",
+    "A": "0.2222",
+    "B": "0.75",
+    "C": "0.5",
+    "D": "0.8",
+    "answer": "A"
+  },
+  {
+    "question": "In a right triangle, if the adjacent side is 15 and the hypotenuse is 20, what is the sine of the angle?",
+    "A": "15/20",
+    "B": "20/15",
+    "C": "3/4",
+    "D": "4/3",
+    "answer": "C"
+  },
+  {
+    "question": "If sin(α) = 0.4, what is the value of csc(α)?",
+    "A": "2.5",
+    "B": "2.0",
+    "C": "2.2",
+    "D": "2.8",
+    "answer": "B"
+  },
+  {
+    "question": "In a right triangle, if the opposite side is 8 and the adjacent side is 6, what is the cosine of the angle?",
+    "A": "8/6",
+    "B": "6/8",
+    "C": "4/5",
+    "D": "5/4",
+    "answer": "C"
+  },
+  {
+    "question": "Given matrices A = [[2, 3], [1, 4]] and B = [[5, 1], [2, 6]], what is the result of A + B?",
+    "A": "[[7, 4], [3, 10]]",
+    "B": "[[3, 2], [2, 10]]",
+    "C": "[[7, 3], [3, 10]]",
+    "D": "[[7, 2], [2, 10]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the transpose of A?",
+    "A": "[[3, 7], [-2, 0]]",
+    "B": "[[3, -2], [7, 0]]",
+    "C": "[[-3, -7], [2, 0]]",
+    "D": "[[-3, 2], [-7, 0]]",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrices A = [[2, 3], [1, 4]] and B = [[5, 1], [2, 6]], what is the result of A - B?",
+    "A": "[[-3, 2], [-1, -2]]",
+    "B": "[[3, 2], [1, 2]]",
+    "C": "[[-3, -2], [-1, -2]]",
+    "D": "[[-7, -4], [-3, -2]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the determinant of A?",
+    "A": "21",
+    "B": "-21",
+    "C": "14",
+    "D": "-14",
+    "answer": "B"
+  },
+  {
+    "question": "Given matrices A = [[2, 3], [1, 4]] and B = [[5, 1], [2, 6]], what is the result of A * B?",
+    "A": "[[16, 20], [13, 25]]",
+    "B": "[[20, 16], [25, 13]]",
+    "C": "[[12, 20], [9, 25]]",
+    "D": "[[12, 16], [9, 13]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the inverse of A?",
+    "A": "[[0, -7], [1/3, -2/3]]",
+    "B": "[[0, 7], [-1/3, 2/3]]",
+    "C": "[[0, -1/3], [-7, 2/3]]",
+    "D": "[[0, 1/3], [7, -2/3]]",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrices A = [[2, 3], [1, 4]] and B = [[5, 1], [2, 6]], what is the result of element-wise multiplication (Hadamard product) of A and B?",
+    "A": "[[10, 3], [2, 24]]",
+    "B": "[[10, 1], [2, 24]]",
+    "C": "[[7, 3], [2, 24]]",
+    "D": "[[7, 1], [2, 24]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the rank of A?",
+    "A": "2",
+    "B": "1",
+    "C": "0",
+    "D": "3",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrices A = [[2, 3], [1, 4]] and B = [[5, 1], [2, 6]], what is the result of scalar multiplication 2 * A?",
+    "A": "[[4, 6], [2, 8]]",
+    "B": "[[10, 3], [2, 24]]",
+    "C": "[[7, 3], [2, 24]]",
+    "D": "[[7, 1], [2, 24]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the trace of A?",
+    "A": "3",
+    "B": "-3",
+    "C": "14",
+    "D": "0",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrices A = [[2, 3], [1, 4]] and B = [[5, 1], [2, 6]], what is the result of element-wise division of A by B?",
+    "A": "[[0.4, 3], [0.5, 4/6]]",
+    "B": "[[0.4, 1], [0.5, 4/6]]",
+    "C": "[[0.2, 3], [0.5, 2/3]]",
+    "D": "[[0.2, 1], [0.5, 2/3]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the sum of the diagonal elements (trace) of A?",
+    "A": "3",
+    "B": "-3",
+    "C": "14",
+    "D": "0",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the result of A^2 (matrix A multiplied by itself)?",
+    "A": "[[7, 18], [5, 16]]",
+    "B": "[[18, 7], [16, 5]]",
+    "C": "[[11, 17], [6, 13]]",
+    "D": "[[11, 6], [17, 13]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the sum of all its elements?",
+    "A": "8",
+    "B": "0",
+    "C": "10",
+    "D": "6",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the result of the element-wise square of A?",
+    "A": "[[4, 9], [1, 16]]",
+    "B": "[[4, 3], [1, 16]]",
+    "C": "[[4, 9], [1, 4]]",
+    "D": "[[2, 3], [1, 4]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the product of its diagonal elements?",
+    "A": "0",
+    "B": "-6",
+    "C": "21",
+    "D": "14",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the result of the element-wise square root of A?",
+    "A": "[[1.414, 1.732], [1, 2]]",
+    "B": "[[1.414, 3], [1, 2]]",
+    "C": "[[4, 9], [1, 16]]",
+    "D": "[[1.732, 2], [1, 2.236]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the sum of the products of its diagonal elements?",
+    "A": "-6",
+    "B": "6",
+    "C": "14",
+    "D": "0",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the result of the element-wise absolute value of A?",
+    "A": "[[2, 3], [1, 4]]",
+    "B": "[[2, 3], [1, 4]]",
+    "C": "[[2, 3], [1, 4]]",
+    "D": "[[2, 3], [1, 4]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the sum of its row-wise maximum values?",
+    "A": "7",
+    "B": "0",
+    "C": "14",
+    "D": "10",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the result of the element-wise exponentiation of A to the power of 3?",
+    "A": "[[8, 27], [1, 64]]",
+    "B": "[[8, 9], [1, 64]]",
+    "C": "[[4, 9], [1, 16]]",
+    "D": "[[4, 3], [1, 16]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the sum of its column-wise minimum values?",
+    "A": "1",
+    "B": "0",
+    "C": "2",
+    "D": "-2",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the result of the element-wise division of 1 by A?",
+    "A": "[[0.5, 1/3], [1, 1/4]]",
+    "B": "[[0.5, 3], [1, 0.25]]",
+    "C": "[[0.5, 1], [1, 0.25]]",
+    "D": "[[2, 1/3], [1, 0.25]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the sum of its row-wise mean values?",
+    "A": "2.0",
+    "B": "0.0",
+    "C": "3.0",
+    "D": "1.0",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the result of the element-wise addition of 10 to A?",
+    "A": "[[12, 13], [11, 14]]",
+    "B": "[[12, 10], [11, 14]]",
+    "C": "[[2, 3], [1, 4]]",
+    "D": "[[12, 3], [11, 14]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the sum of its column-wise mean values?",
+    "A": "2.0",
+    "B": "0.0",
+    "C": "3.0",
+    "D": "1.0",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the result of the element-wise subtraction of 5 from A?",
+    "A": "[[-3, -2], [-4, -1]]",
+    "B": "[[3, 2], [4, 1]]",
+    "C": "[[-3, 3], [-4, 4]]",
+    "D": "[[-7, -8], [-6, -5]]",
+    "answer": "A"
+  },
+  {
+    "question": "For a matrix A = [[3, -2], [7, 0]], what is the sum of the elements above its main diagonal?",
+    "A": "5",
+    "B": "0",
+    "C": "7",
+    "D": "-2",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrices A = [[2, 3], [1, 4]] and B = [[5, 1], [2, 6]], what is the result of A⊗B (Kronecker product)?",
+    "A": "[[10, 2, 15, 3], [4, 12, 5, 15], [5, 1, 20, 4], [2, 6, 8, 24]]",
+    "B": "[[7, 4, 5, 2], [3, 10, 2, 6], [2, 1, 8, 4], [1, 3, 4, 12]]",
+    "C": "[[3, 10, 2, 6], [7, 4, 5, 2], [1, 3, 4, 12], [2, 1, 8, 4]]",
+    "D": "[[4, 12, 5, 15], [10, 2, 15, 3], [2, 6, 8, 24], [5, 1, 20, 4]]",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the result of the element-wise exponentiation of e^A?",
+    "A": "[[7.389, 20.085], [2.718, 54.598]]",
+    "B": "[[20.085, 7.389], [54.598, 2.718]]",
+    "C": "[[54.598, 2.718], [20.085, 7.389]]",
+    "D": "[[7.389, 2.718], [20.085, 54.598]]",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrices A = [[2, 3], [1, 4]] and B = [[5, 1], [2, 6]], what is the result of A◦B (Hadamard power or Schur product)?",
+    "A": "[[10, 3], [2, 24]]",
+    "B": "[[7, 1], [2, 24]]",
+    "C": "[[4, 3], [1, 16]]",
+    "D": "[[20, 1], [2, 24]]",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the Frobenius norm of A?",
+    "A": "5.477",
+    "B": "8.306",
+    "C": "7.071",
+    "D": "6.708",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrices A = [[2, 3], [1, 4]] and B = [[5, 1], [2, 6]], what is the Kronecker sum of A and B?",
+    "A": "[[7, 4, 5, 2], [2, 8, 3, 9], [1, 3, 9, 4], [2, 6, 2, 10]]",
+    "B": "[[7, 4, 5, 2], [2, 8, 3, 9], [1, 3, 9, 4], [2, 6, 2, 10]]",
+    "C": "[[10, 2, 15, 3], [4, 12, 5, 15], [5, 1, 20, 4], [2, 6, 8, 24]]",
+    "D": "[[20, 7, 10, 3], [12, 16, 7, 11], [3, 7, 10, 4], [6, 10, 3, 15]]",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the spectral norm (2-norm) of A?",
+    "A": "5.561",
+    "B": "7.071",
+    "C": "6.708",
+    "D": "8.306",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the Schatten p-norm of A with p = 2?",
+    "A": "5.291",
+    "B": "6.708",
+    "C": "7.071",
+    "D": "8.306",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrices A = [[2, 3], [1, 4]] and B = [[5, 1], [2, 6]], what is the Kronecker delta product of A and B?",
+    "A": "[[5, 0, 0, 0], [0, 6, 0, 0], [0, 0, 5, 0], [0, 0, 0, 6]]",
+    "B": "[[5, 0, 0, 0], [0, 6, 0, 0], [0, 0, 5, 0], [0, 0, 0, 6]]",
+    "C": "[[7, 4, 5, 2], [2, 8, 3, 9], [1, 3, 9, 4], [2, 6, 2, 10]]",
+    "D": "[[20, 7, 10, 3], [12, 16, 7, 11], [3, 7, 10, 4], [6, 10, 3, 15]]",
+    "answer": "A"
+  },
+  {
+    "question": "Given matrix A = [[2, 3], [1, 4]], what is the Schatten p-norm of A with p = 1?",
+    "A": "6.000",
+    "B": "7.000",
+    "C": "5.000",
+    "D": "8.000",
+    "answer": "A"
+  },
+  {
+    "question": "What are the coordinates of the midpoint of the line segment joining the points (3, 4) and (-1, -2)?",
+    "A": "(1, 1)",
+    "B": "(2, 3)",
+    "C": "(2, 1)",
+    "D": "(1, 2)",
+    "answer": "A"
+  },
+  {
+    "question": "The distance between the points (5, 2) and (-3, 7) is:",
+    "A": "10",
+    "B": "9",
+    "C": "8",
+    "D": "7",
+    "answer": "B"
+  },
+  {
+    "question": "The point (4, -3) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "D"
+  },
+  {
+    "question": "What is the slope of the line passing through the points (2, 5) and (6, 9)?",
+    "A": "1",
+    "B": "2",
+    "C": "0.5",
+    "D": "-1",
+    "answer": "A"
+  },
+  {
+    "question": "The point (-2, 0) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "A"
+  },
+  {
+    "question": "Which point lies on the line y = -3x + 2?",
+    "A": "(1, -5)",
+    "B": "(-2, 8)",
+    "C": "(4, 10)",
+    "D": "(0, 2)",
+    "answer": "C"
+  },
+  {
+    "question": "The distance between the points (-2, 3) and (5, -1) is:",
+    "A": "7",
+    "B": "6",
+    "C": "5",
+    "D": "4",
+    "answer": "A"
+  },
+  {
+    "question": "The line passing through the points (3, 2) and (3, -4) is:",
+    "A": "Vertical",
+    "B": "Horizontal",
+    "C": "Diagonal",
+    "D": "None of these",
+    "answer": "B"
+  },
+  {
+    "question": "The coordinates of the vertices of a square are (0, 0), (0, 3), (3, 3), and (3, 0). What is the length of its diagonal?",
+    "A": "3√2",
+    "B": "3",
+    "C": "6",
+    "D": "9",
+    "answer": "A"
+  },
+  {
+    "question": "The equation of the line with slope 2 that passes through the point (1, -3) is:",
+    "A": "y = 2x - 5",
+    "B": "y = 2x + 5",
+    "C": "y = -2x - 5",
+    "D": "y = -2x + 5",
+    "answer": "B"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (-3, 7) and (5, -1) are:",
+    "A": "(1, 3)",
+    "B": "(2, 3)",
+    "C": "(1, 2)",
+    "D": "(3, 1)",
+    "answer": "A"
+  },
+  {
+    "question": "The point (0, -4) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "C"
+  },
+  {
+    "question": "The slope of the line parallel to the y-axis is:",
+    "A": "Infinite",
+    "B": "1",
+    "C": "0",
+    "D": "-1",
+    "answer": "C"
+  },
+  {
+    "question": "Which point does not lie on the line x = 3?",
+    "A": "(3, 0)",
+    "B": "(3, 5)",
+    "C": "(3, -2)",
+    "D": "(0, 3)",
+    "answer": "D"
+  },
+  {
+    "question": "The line passing through the points (1, 2) and (3, 4) is:",
+    "A": "y = 2x",
+    "B": "y = x + 1",
+    "C": "y = x - 1",
+    "D": "y = -x",
+    "answer": "B"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (-1, 3) and (-4, 8) are:",
+    "A": "(-5/2, 11/2)",
+    "B": "(-3/2, 5/2)",
+    "C": "(-2, 5)",
+    "D": "(3/2, 5/2)",
+    "answer": "B"
+  },
+  {
+    "question": "The equation of the line passing through the points (-2, 5) and (4, -3) is:",
+    "A": "y = -x",
+    "B": "y = x - 3",
+    "C": "y = -2x + 1",
+    "D": "y = -x + 3",
+    "answer": "D"
+  },
+  {
+    "question": "The coordinates of the vertices of a rectangle are (0, 0), (0, 5), (8, 5), and (8, 0). What is the length of its longer side?",
+    "A": "5",
+    "B": "8",
+    "C": "13",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "The equation of the line with slope -3 that passes through the point (2, 4) is:",
+    "A": "y = -3x + 10",
+    "B": "y = -3x - 2",
+    "C": "y = -3x + 2",
+    "D": "y = 3x - 2",
+    "answer": "B"
+  },
+  {
+    "question": "The point (-5, 0) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "A"
+  },
+  {
+    "question": "The slope of the line passing through the points (3, 2) and (6, 5) is:",
+    "A": "1",
+    "B": "2",
+    "C": "0.5",
+    "D": "-1",
+    "answer": "A"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (2, -1) and (-4, 3) are:",
+    "A": "(-1, 1)",
+    "B": "(-1, 2)",
+    "C": "(-2, 1)",
+    "D": "(1, -2)",
+    "answer": "A"
+  },
+  {
+    "question": "The distance between the points (0, -3) and (4, 0) is:",
+    "A": "5",
+    "B": "4",
+    "C": "3",
+    "D": "√25",
+    "answer": "A"
+  },
+  {
+    "question": "The point (-3, -5) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "C"
+  },
+  {
+    "question": "The slope of the line parallel to the x-axis is:",
+    "A": "Infinite",
+    "B": "1",
+    "C": "0",
+    "D": "-1",
+    "answer": "C"
+  },
+  {
+    "question": "The equation of the line passing through the points (1, -2) and (-3, 4) is:",
+    "A": "y = -2x - 1",
+    "B": "y = 2x - 1",
+    "C": "y = -2x + 1",
+    "D": "y = 2x + 1",
+    "answer": "B"
+  },
+  {
+    "question": "The point (0, 7) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "B"
+  },
+  {
+    "question": "The slope of the line passing through the points (-1, 3) and (2, 0) is:",
+    "A": "1",
+    "B": "2",
+    "C": "0.5",
+    "D": "-1",
+    "answer": "D"
+  },
+  {
+    "question": "What are the coordinates of the midpoint of the line segment joining the points (1, -2) and (5, 4)?",
+    "A": "(3, 1)",
+    "B": "(2, 3)",
+    "C": "(1, 2)",
+    "D": "(4, 6)",
+    "answer": "A"
+  },
+  {
+    "question": "The distance between the points (-2, 3) and (-5, 7) is:",
+    "A": "5",
+    "B": "4",
+    "C": "√26",
+    "D": "√20",
+    "answer": "C"
+  },
+  {
+    "question": "The point (5, 0) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "A"
+  },
+  {
+    "question": "What is the slope of the line passing through the points (-3, 2) and (1, -1)?",
+    "A": "-0.75",
+    "B": "-0.5",
+    "C": "-0.25",
+    "D": "-1",
+    "answer": "B"
+  },
+  {
+    "question": "The point (-3, 0) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "A"
+  },
+  {
+    "question": "Which point lies on the line y = 2x + 3?",
+    "A": "(1, 1)",
+    "B": "(-2, -1)",
+    "C": "(4, 11)",
+    "D": "(0, 3)",
+    "answer": "C"
+  },
+  {
+    "question": "The distance between the points (2, -1) and (-3, 4) is:",
+    "A": "√25",
+    "B": "√26",
+    "C": "√29",
+    "D": "√30",
+    "answer": "A"
+  },
+  {
+    "question": "The line passing through the points (1, -2) and (1, 4) is:",
+    "A": "Vertical",
+    "B": "Horizontal",
+    "C": "Diagonal",
+    "D": "None of these",
+    "answer": "B"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (3, 7) and (-1, -1) are:",
+    "A": "(1, 3)",
+    "B": "(2, 3)",
+    "C": "(0, 6)",
+    "D": "(3, 0)",
+    "answer": "B"
+  },
+  {
+    "question": "The point (0, 4) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "B"
+  },
+  {
+    "question": "The slope of the line parallel to the y-axis is:",
+    "A": "Infinite",
+    "B": "1",
+    "C": "0",
+    "D": "-1",
+    "answer": "C"
+  },
+  {
+    "question": "Which point does not lie on the line x = -2?",
+    "A": "(-2, 0)",
+    "B": "(-2, 5)",
+    "C": "(-2, -2)",
+    "D": "(0, -2)",
+    "answer": "D"
+  },
+  {
+    "question": "The line passing through the points (-1, 2) and (2, 5) is:",
+    "A": "y = x",
+    "B": "y = x + 1",
+    "C": "y = x - 1",
+    "D": "y = -x",
+    "answer": "A"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (-4, 6) and (2, -2) are:",
+    "A": "(-1, 2)",
+    "B": "(-2, 4)",
+    "C": "(0, 1)",
+    "D": "(1, 0)",
+    "answer": "B"
+  },
+  {
+    "question": "The equation of the line passing through the points (3, 1) and (-1, -3) is:",
+    "A": "y = -x + 4",
+    "B": "y = x - 4",
+    "C": "y = -x - 4",
+    "D": "y = x + 4",
+    "answer": "C"
+  },
+  {
+    "question": "The coordinates of the vertices of a rectangle are (0, 0), (0, 6), (10, 6), and (10, 0). What is the length of its shorter side?",
+    "A": "6",
+    "B": "10",
+    "C": "12",
+    "D": "16",
+    "answer": "A"
+  },
+  {
+    "question": "The equation of the line with slope -2 that passes through the point (3, 5) is:",
+    "A": "y = -2x + 11",
+    "B": "y = 2x - 11",
+    "C": "y = -2x - 11",
+    "D": "y = 2x + 11",
+    "answer": "A"
+  },
+  {
+    "question": "The point (6, 0) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "A"
+  },
+  {
+    "question": "The slope of the line passing through the points (-2, -3) and (1, 2) is:",
+    "A": "1",
+    "B": "2",
+    "C": "0.5",
+    "D": "-1",
+    "answer": "A"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (-1, 3) and (5, -1) are:",
+    "A": "(2, 1)",
+    "B": "(2, 3)",
+    "C": "(3, 1)",
+    "D": "(3, 2)",
+    "answer": "B"
+  },
+  {
+    "question": "What are the coordinates of the midpoint of the line segment joining the points (-2, 3) and (4, -5)?",
+    "A": "(1, -1)",
+    "B": "(1, -2)",
+    "C": "(2, -1)",
+    "D": "(3, -2)",
+    "answer": "A"
+  },
+  {
+    "question": "The distance between the points (1, 2) and (5, 6) is:",
+    "A": "√32",
+    "B": "4",
+    "C": "√8",
+    "D": "2√8",
+    "answer": "B"
+  },
+  {
+    "question": "The point (7, 0) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "A"
+  },
+  {
+    "question": "What is the slope of the line passing through the points (2, 3) and (-1, 6)?",
+    "A": "-1",
+    "B": "-2",
+    "C": "1",
+    "D": "2",
+    "answer": "A"
+  },
+  {
+    "question": "The point (0, -6) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "B"
+  },
+  {
+    "question": "Which point lies on the line y = 3x - 2?",
+    "A": "(1, 1)",
+    "B": "(-2, -8)",
+    "C": "(4, 10)",
+    "D": "(0, -2)",
+    "answer": "B"
+  },
+  {
+    "question": "The distance between the points (-2, 5) and (3, -4) is:",
+    "A": "√74",
+    "B": "√45",
+    "C": "√41",
+    "D": "√53",
+    "answer": "C"
+  },
+  {
+    "question": "The line passing through the points (2, 3) and (2, 7) is:",
+    "A": "Vertical",
+    "B": "Horizontal",
+    "C": "Diagonal",
+    "D": "None of these",
+    "answer": "B"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (1, -3) and (4, 5) are:",
+    "A": "(2.5, 1)",
+    "B": "(2, 1)",
+    "C": "(3, 2)",
+    "D": "(5, 1)",
+    "answer": "A"
+  },
+  {
+    "question": "The point (0, -5) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "C"
+  },
+  {
+    "question": "The slope of the line parallel to the x-axis is:",
+    "A": "Infinite",
+    "B": "1",
+    "C": "0",
+    "D": "-1",
+    "answer": "C"
+  },
+  {
+    "question": "Which point does not lie on the line x = 4?",
+    "A": "(4, 0)",
+    "B": "(4, 5)",
+    "C": "(4, -2)",
+    "D": "(0, 4)",
+    "answer": "D"
+  },
+  {
+    "question": "The line passing through the points (1, -3) and (3, -1) is:",
+    "A": "y = x - 4",
+    "B": "y = -x + 4",
+    "C": "y = x + 2",
+    "D": "y = -x - 2",
+    "answer": "A"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (-5, 2) and (1, 6) are:",
+    "A": "(-2, 4)",
+    "B": "(-2, 2)",
+    "C": "(0, 4)",
+    "D": "(3, -2)",
+    "answer": "A"
+  },
+  {
+    "question": "The equation of the line passing through the points (-2, 4) and (4, 10) is:",
+    "A": "y = x + 2",
+    "B": "y = x - 2",
+    "C": "y = 2x + 6",
+    "D": "y = 2x - 6",
+    "answer": "C"
+  },
+  {
+    "question": "The coordinates of the vertices of a square are (0, 0), (0, 8), (8, 8), and (8, 0). What is the length of its diagonal?",
+    "A": "8√2",
+    "B": "8",
+    "C": "16",
+    "D": "4√2",
+    "answer": "A"
+  },
+  {
+    "question": "The equation of the line with slope 0.5 that passes through the point (-2, 3) is:",
+    "A": "y = 0.5x + 4",
+    "B": "y = 0.5x - 2",
+    "C": "y = -0.5x + 4",
+    "D": "y = -0.5x - 2",
+    "answer": "B"
+  },
+  {
+    "question": "The point (8, 0) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "A"
+  },
+  {
+    "question": "The slope of the line passing through the points (-3, 5) and (2, 0) is:",
+    "A": "-1",
+    "B": "-2",
+    "C": "1",
+    "D": "2",
+    "answer": "B"
+  },
+  {
+    "question": "What are the coordinates of the midpoint of the line segment joining the points (1, -2) and (5, 4)?",
+    "A": "(3, 1)",
+    "B": "(2, 3)",
+    "C": "(1, 2)",
+    "D": "(4, 6)",
+    "answer": "A"
+  },
+  {
+    "question": "The distance between the points (-2, 3) and (-5, 7) is:",
+    "A": "5",
+    "B": "4",
+    "C": "√26",
+    "D": "√20",
+    "answer": "C"
+  },
+  {
+    "question": "The point (5, 0) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "A"
+  },
+  {
+    "question": "What is the slope of the line passing through the points (-3, 2) and (1, -1)?",
+    "A": "-0.75",
+    "B": "-0.5",
+    "C": "-0.25",
+    "D": "-1",
+    "answer": "B"
+  },
+  {
+    "question": "The point (-3, 0) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "A"
+  },
+  {
+    "question": "Which point lies on the line y = 2x + 3?",
+    "A": "(1, 1)",
+    "B": "(-2, -8)",
+    "C": "(4, 10)",
+    "D": "(0, -2)",
+    "answer": "B"
+  },
+  {
+    "question": "The distance between the points (-2, 5) and (3, -4) is:",
+    "A": "√74",
+    "B": "√45",
+    "C": "√41",
+    "D": "√53",
+    "answer": "C"
+  },
+  {
+    "question": "The line passing through the points (2, 3) and (2, 7) is:",
+    "A": "Vertical",
+    "B": "Horizontal",
+    "C": "Diagonal",
+    "D": "None of these",
+    "answer": "B"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (1, -3) and (4, 5) are:",
+    "A": "(2.5, 1)",
+    "B": "(2, 1)",
+    "C": "(3, 2)",
+    "D": "(5, 1)",
+    "answer": "A"
+  },
+  {
+    "question": "The point (0, -5) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "C"
+  },
+  {
+    "question": "The slope of the line parallel to the x-axis is:",
+    "A": "Infinite",
+    "B": "1",
+    "C": "0",
+    "D": "-1",
+    "answer": "C"
+  },
+  {
+    "question": "Which point does not lie on the line x = 4?",
+    "A": "(4, 0)",
+    "B": "(4, 5)",
+    "C": "(4, -2)",
+    "D": "(0, 4)",
+    "answer": "D"
+  },
+  {
+    "question": "The line passing through the points (1, -3) and (3, -1) is:",
+    "A": "y = x - 4",
+    "B": "y = -x + 4",
+    "C": "y = x + 2",
+    "D": "y = -x - 2",
+    "answer": "A"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (-5, 2) and (1, 6) are:",
+    "A": "(-2, 4)",
+    "B": "(-2, 2)",
+    "C": "(0, 4)",
+    "D": "(3, -2)",
+    "answer": "A"
+  },
+  {
+    "question": "The equation of the line passing through the points (-2, 4) and (4, 10) is:",
+    "A": "y = x + 2",
+    "B": "y = x - 2",
+    "C": "y = 2x + 6",
+    "D": "y = 2x - 6",
+    "answer": "C"
+  },
+  {
+    "question": "The coordinates of the vertices of a square are (0, 0), (0, 8), (8, 8), and (8, 0). What is the length of its diagonal?",
+    "A": "8√2",
+    "B": "8",
+    "C": "16",
+    "D": "4√2",
+    "answer": "A"
+  },
+  {
+    "question": "The equation of the line with slope 0.5 that passes through the point (-2, 3) is:",
+    "A": "y = 0.5x + 4",
+    "B": "y = 0.5x - 2",
+    "C": "y = -0.5x + 4",
+    "D": "y = -0.5x - 2",
+    "answer": "B"
+  },
+  {
+    "question": "The point (8, 0) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "A"
+  },
+  {
+    "question": "The slope of the line passing through the points (-3, 5) and (2, 0) is:",
+    "A": "-1",
+    "B": "-2",
+    "C": "1",
+    "D": "2",
+    "answer": "B"
+  },
+  {
+    "question": "What are the coordinates of the midpoint of the line segment joining the points (1, -2) and (5, 4)?",
+    "A": "(3, 1)",
+    "B": "(2, 3)",
+    "C": "(1, 2)",
+    "D": "(4, 6)",
+    "answer": "A"
+  },
+  {
+    "question": "The distance between the points (-2, 3) and (-5, 7) is:",
+    "A": "5",
+    "B": "4",
+    "C": "√26",
+    "D": "√20",
+    "answer": "C"
+  },
+  {
+    "question": "The point (5, 0) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "A"
+  },
+  {
+    "question": "What is the slope of the line passing through the points (-3, 2) and (1, -1)?",
+    "A": "-0.75",
+    "B": "-0.5",
+    "C": "-0.25",
+    "D": "-1",
+    "answer": "B"
+  },
+  {
+    "question": "The point (-3, 0) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "A"
+  },
+  {
+    "question": "Which point lies on the line y = 2x + 3?",
+    "A": "(1, 1)",
+    "B": "(-2, -8)",
+    "C": "(4, 10)",
+    "D": "(0, -2)",
+    "answer": "B"
+  },
+  {
+    "question": "The distance between the points (-2, 5) and (3, -4) is:",
+    "A": "√74",
+    "B": "√45",
+    "C": "√41",
+    "D": "√53",
+    "answer": "C"
+  },
+  {
+    "question": "The line passing through the points (2, 3) and (2, 7) is:",
+    "A": "Vertical",
+    "B": "Horizontal",
+    "C": "Diagonal",
+    "D": "None of these",
+    "answer": "B"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (1, -3) and (4, 5) are:",
+    "A": "(2.5, 1)",
+    "B": "(2, 1)",
+    "C": "(3, 2)",
+    "D": "(5, 1)",
+    "answer": "A"
+  },
+  {
+    "question": "The point (0, -5) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "C"
+  },
+  {
+    "question": "The slope of the line parallel to the x-axis is:",
+    "A": "Infinite",
+    "B": "1",
+    "C": "0",
+    "D": "-1",
+    "answer": "C"
+  },
+  {
+    "question": "Which point does not lie on the line x = 4?",
+    "A": "(4, 0)",
+    "B": "(4, 5)",
+    "C": "(4, -2)",
+    "D": "(0, 4)",
+    "answer": "D"
+  },
+  {
+    "question": "The line passing through the points (1, -3) and (3, -1) is:",
+    "A": "y = x - 4",
+    "B": "y = -x + 4",
+    "C": "y = x + 2",
+    "D": "y = -x - 2",
+    "answer": "A"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (-5, 2) and (1, 6) are:",
+    "A": "(-2, 4)",
+    "B": "(-2, 2)",
+    "C": "(0, 4)",
+    "D": "(3, -2)",
+    "answer": "A"
+  },
+  {
+    "question": "The equation of the line passing through the points (-2, 4) and (4, 10) is:",
+    "A": "y = x + 2",
+    "B": "y = x - 2",
+    "C": "y = 2x + 6",
+    "D": "y = 2x - 6",
+    "answer": "C"
+  },
+  {
+    "question": "The coordinates of the vertices of a square are (0, 0), (0, 8), (8, 8), and (8, 0). What is the length of its diagonal?",
+    "A": "8√2",
+    "B": "8",
+    "C": "16",
+    "D": "4√2",
+    "answer": "A"
+  },
+  {
+    "question": "The equation of the line with slope 0.5 that passes through the point (-2, 3) is:",
+    "A": "y = 0.5x + 4",
+    "B": "y = 0.5x - 2",
+    "C": "y = -0.5x + 4",
+    "D": "y = -0.5x - 2",
+    "answer": "B"
+  },
+  {
+    "question": "The point (8, 0) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "A"
+  },
+  {
+    "question": "The slope of the line passing through the points (-3, 5) and (2, 0) is:",
+    "A": "-1",
+    "B": "-2",
+    "C": "1",
+    "D": "2",
+    "answer": "B"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (-1, 3) and (5, -1) are:",
+    "A": "(2, 1)",
+    "B": "(2, 3)",
+    "C": "(3, 1)",
+    "D": "(3, 2)",
+    "answer": "B"
+  },
+  {
+    "question": "The distance between the points (1, 2) and (5, 6) is:",
+    "A": "√32",
+    "B": "4",
+    "C": "√8",
+    "D": "2√8",
+    "answer": "B"
+  },
+  {
+    "question": "The point (7, 0) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "A"
+  },
+  {
+    "question": "What is the slope of the line passing through the points (2, 3) and (-1, 6)?",
+    "A": "-1",
+    "B": "-2",
+    "C": "1",
+    "D": "2",
+    "answer": "A"
+  },
+  {
+    "question": "The point (0, -6) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "B"
+  },
+  {
+    "question": "Which point lies on the line y = 3x - 2?",
+    "A": "(1, 1)",
+    "B": "(-2, -1)",
+    "C": "(4, 11)",
+    "D": "(0, 3)",
+    "answer": "C"
+  },
+  {
+    "question": "The distance between the points (2, -1) and (-3, 4) is:",
+    "A": "√25",
+    "B": "√26",
+    "C": "√29",
+    "D": "√30",
+    "answer": "A"
+  },
+  {
+    "question": "The line passing through the points (1, -2) and (1, 4) is:",
+    "A": "Vertical",
+    "B": "Horizontal",
+    "C": "Diagonal",
+    "D": "None of these",
+    "answer": "B"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (3, 7) and (-1, -1) are:",
+    "A": "(1, 3)",
+    "B": "(2, 3)",
+    "C": "(0, 6)",
+    "D": "(3, 0)",
+    "answer": "B"
+  },
+  {
+    "question": "The point (0, 4) lies in which quadrant?",
+    "A": "Quadrant I",
+    "B": "Quadrant II",
+    "C": "Quadrant III",
+    "D": "Quadrant IV",
+    "answer": "B"
+  },
+  {
+    "question": "The slope of the line parallel to the y-axis is:",
+    "A": "Infinite",
+    "B": "1",
+    "C": "0",
+    "D": "-1",
+    "answer": "C"
+  },
+  {
+    "question": "Which point does not lie on the line x = -2?",
+    "A": "(-2, 0)",
+    "B": "(-2, 5)",
+    "C": "(-2, -2)",
+    "D": "(0, -2)",
+    "answer": "D"
+  },
+  {
+    "question": "The line passing through the points (-1, 2) and (2, 5) is:",
+    "A": "y = x",
+    "B": "y = x + 1",
+    "C": "y = x - 1",
+    "D": "y = -x",
+    "answer": "A"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (-4, 6) and (2, -2) are:",
+    "A": "(-1, 2)",
+    "B": "(-2, 4)",
+    "C": "(0, 1)",
+    "D": "(1, 0)",
+    "answer": "B"
+  },
+  {
+    "question": "The equation of the line passing through the points (3, 1) and (-1, -3) is:",
+    "A": "y = -x + 4",
+    "B": "y = x - 4",
+    "C": "y = -x - 4",
+    "D": "y = x + 4",
+    "answer": "C"
+  },
+  {
+    "question": "The coordinates of the vertices of a rectangle are (0, 0), (0, 6), (10, 6), and (10, 0). What is the length of its shorter side?",
+    "A": "6",
+    "B": "10",
+    "C": "12",
+    "D": "16",
+    "answer": "A"
+  },
+  {
+    "question": "The equation of the line with slope -2 that passes through the point (3, 5) is:",
+    "A": "y = -2x + 11",
+    "B": "y = 2x - 11",
+    "C": "y = -2x - 11",
+    "D": "y = 2x + 11",
+    "answer": "A"
+  },
+  {
+    "question": "The point (6, 0) lies on which axis?",
+    "A": "X-axis",
+    "B": "Y-axis",
+    "C": "Both X and Y axes",
+    "D": "None of the axes",
+    "answer": "A"
+  },
+  {
+    "question": "The slope of the line passing through the points (-2, -3) and (1, 2) is:",
+    "A": "1",
+    "B": "2",
+    "C": "0.5",
+    "D": "-1",
+    "answer": "A"
+  },
+  {
+    "question": "The coordinates of the midpoint of the line segment joining the points (-1, 3) and (5, -1) are:",
+    "A": "(2, 1)",
+    "B": "(2, 3)",
+    "C": "(3, 1)",
+    "D": "(3, 2)",
+    "answer": "B"
+  },
+  {
+    "question": "The distance between the points (1, 2) and (5, 6) is:",
+    "A": "√32",
+    "B": "4",
+    "C": "√8",
+    "D": "2√8",
+    "answer": "B"
+  }
+]
