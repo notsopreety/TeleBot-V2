@@ -23,7 +23,7 @@ module.exports = {
         const query = input[0].trim();
         const number = parseInt(input[1]) || 6; // Default to 6 if number is not provided
 
-        const apiUrl = `https://samirxpikachu.onrender.com/pinterest?query=${encodeURIComponent(query)}&number=${number}`;
+        const apiUrl = `https://www.samirxpikachu.run.place/pinterest?query=${encodeURIComponent(query)}&number=${number}`;
 
         // Send a pre-processing message
         const preMessage = await bot.sendMessage(chatId, "🔍 | Searching for images...", { replyToMessage: msg.message_id });

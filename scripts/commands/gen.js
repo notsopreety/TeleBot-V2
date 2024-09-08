@@ -1,4 +1,3 @@
-const axios = require('axios');
 const FormData = require('form-data');
 
 // Helper function to introduce a delay
@@ -33,22 +32,34 @@ module.exports = {
             const formData = new FormData();
             formData.append('prompt', prompt);
 
-            const uidResponse = await axios.post('https://photoeditor.ai/api/v1/generate-image/', formData, {
+            const uidResponse = await fetch('https://photoeditor.ai/api/v1/generate-image/', {
+                method: 'POST',
+                body: formData,
                 headers: formData.getHeaders()
             });
 
-            const uid = uidResponse.data.uid;
+            if (!uidResponse.ok) {
+                throw new Error(`Failed to get UID. Status: ${uidResponse.status}`);
+            }
+
+            const uidData = await uidResponse.json();
+            const uid = uidData.uid;
 
             // Introduce a delay of 6 seconds to allow the API time to generate the images
             await delay(6000);
 
             // Step 2: Fetch Images
-            const imageUrl = `https://photoeditor.ai/api/v1/generate-image/${uid}/`;
-            const imageResponse = await axios.get(imageUrl);
+            const imageResponse = await fetch(`https://photoeditor.ai/api/v1/generate-image/${uid}/`);
 
-            if (imageResponse.data.status === "succeeded" && imageResponse.data.urls.length > 0) {
+            if (!imageResponse.ok) {
+                throw new Error(`Failed to fetch images. Status: ${imageResponse.status}`);
+            }
+
+            const imageData = await imageResponse.json();
+
+            if (imageData.status === "succeeded" && imageData.urls.length > 0) {
                 // Prepare an array of image objects for the album
-                const images = imageResponse.data.urls.map(imageUrl => ({ type: 'photo', media: imageUrl }));
+                const images = imageData.urls.map(imageUrl => ({ type: 'photo', media: imageUrl }));
 
                 // Send the album
                 await bot.sendMediaGroup(chatId, images, { caption: `Generated images for prompt: "${prompt}"`, replyToMessage: msg.message_id });

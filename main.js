@@ -142,7 +142,7 @@ connectDB(config.mongoURI).then(async ({ threadModel, userModel }) => {
             const command = commands.get(commandName) || commands.get(aliases.get(commandName));
 
             if (!command) {
-                return bot.sendMessage(chatId, 'Invalid command.');
+                return bot.sendMessage(chatId, 'Invalid command.', { replyToMessage: msg.message_id});
             }
 
             const { role, cooldown } = command.config;

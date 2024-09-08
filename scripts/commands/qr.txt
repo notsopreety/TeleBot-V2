@@ -1,0 +1,94 @@
+const QRCode = require('qrcode');
+const { createCanvas, loadImage } = require('canvas');
+const QrCodeReader = require('qrcode-reader');
+const axios = require('axios');
+const { promisify } = require('util');
+
+module.exports = {
+    config: {
+        name: 'qr',
+        aliases: ['qrcode'],
+        category: 'utility',
+        role: 0, // All users can use this command
+        cooldowns: 5,
+        version: '1.0.0',
+        author: 'Samir Thakur',
+        description: 'Create or scan QR codes.',
+        usage: '/qr create <content> - Create a QR code with the provided content.\n/qr scan - Scan a QR code from a replied image.',
+    },
+
+    onStart: async function ({ bot, msg, config }) {
+        const chatId = msg.chat.id;
+        const args = msg.text.split(' ');
+
+        if (args.length < 2 || (args[1] !== 'create' && args[1] !== 'scan')) {
+            await bot.sendMessage(chatId, "Usage: \n/qr create <content> to create a QR code.\n/qr scan <reply to image> to scan a QR code.", { replyToMessage: msg.message_id });
+            return;
+        }
+
+        try {
+            if (args[1] === 'create') {
+                // Creating a QR code
+                const content = msg.text.replace('/qr create ', '');
+                if (!content) {
+                    await bot.sendMessage(chatId, "Please provide content to create a QR code.", { replyToMessage: msg.message_id });
+                    return;
+                }
+
+                const qrCodeBuffer = await QRCode.toBuffer(content, { type: 'png' });
+
+                await bot.sendPhoto(chatId, qrCodeBuffer, {
+                    caption: `QR Code for: ${content}`,
+                    replyToMessage: msg.message_id,
+                });
+            } else if (args[1] === 'scan') {
+                // Scanning a QR code
+                const { reply_to_message } = msg;
+
+                if (!reply_to_message || !reply_to_message.photo) {
+                    await bot.sendMessage(chatId, "Please reply to an image containing a QR code to scan it.", { replyToMessage: msg.message_id });
+                    return;
+                }
+
+                const fileId = reply_to_message.photo[reply_to_message.photo.length - 1].file_id;
+                const file = await bot.getFile(fileId);
+                const fileUrl = `https://api.telegram.org/file/bot${config.botToken}/${file.file_path}`;
+
+                const response = await axios.get(fileUrl, { responseType: 'arraybuffer' });
+
+                const scannedData = await scanQRCode(Buffer.from(response.data));
+
+                if (scannedData) {
+                    await bot.sendMessage(chatId, `Scanned QR Code data: ${scannedData}`, { replyToMessage: msg.message_id });
+                } else {
+                    await bot.sendMessage(chatId, "Unable to scan the QR code. Please ensure it's a valid QR code.", { replyToMessage: msg.message_id });
+                }
+            }
+        } catch (error) {
+            console.error('Error in QR code command:', error);
+            await bot.sendMessage(chatId, "An error occurred. Please try again.", { replyToMessage: msg.message_id });
+        }
+    },
+};
+
+// Function to scan a QR code from a Buffer image
+async function scanQRCode(imageBuffer) {
+    const canvas = createCanvas(500, 500);
+    const ctx = canvas.getContext('2d');
+
+    try {
+        const img = await loadImage(imageBuffer);
+        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+        const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+
+        const qr = new QrCodeReader();
+        const decodeQR = promisify(qr.decode.bind(qr));
+
+        const result = await decodeQR(imageData);
+        return result ? result.result : null;
+    } catch (err) {
+        console.error('Error scanning QR code:', err);
+        return null;
+    }
+}

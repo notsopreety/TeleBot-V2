@@ -1,58 +1,57 @@
-const axios = require('axios');
-
-async function generateImageFromHtml(htmlContent) {
-  const options = {
-    method: 'POST',
-    url: 'https://html-css-to-image4.p.rapidapi.com/image',
-    headers: {
-      'x-rapidapi-key': 'b38444b5b7mshc6ce6bcd5c9e446p154fa1jsn7bbcfb025b3b',
-      'x-rapidapi-host': 'html-css-to-image4.p.rapidapi.com',
-      'Content-Type': 'application/json'
-    },
-    data: {
-      html: htmlContent,
-      ms_delay: 250,
-      selector: '.container',
-      format: 'png',
-      device_scale: 1
-    }
-  };
-
-  try {
-    const response = await axios.request(options);
-    return response.data.url; // Return the URL of the generated image
-  } catch (error) {
-    console.error('Error generating image from HTML:', error);
-    throw error; // Re-throw the error to handle it elsewhere if needed
-  }
-}
+const puppeteer = require('puppeteer');
+const fs = require('fs');
+const path = require('path');
 
 module.exports = {
-  config: {
-    name: 'html2img',
-    description: 'Convert HTML content into an image',
-    usage: '/html2img <HTML content>',
-    category: 'utility',
-    role: 0, // Adjust role as needed
-  },
+    config: {
+        name: 'html2img',
+        aliases: ['htmlimg', 'renderhtml'],
+        category: 'tools',
+        role: 0, // All users can use this command
+        cooldowns: 5,
+        version: '1.0.0',
+        author: 'Samir Thakuri',
+        description: 'Convert provided HTML into an image',
+        usage: 'html2img <HTML>'
+    },
 
-  onStart: async function({ bot, msg, args }) {
-    try {
-      const htmlContent = args.join(' '); // Combine all arguments to form HTML content
+    onStart: async function({ msg, bot, args }) {
+        if (args.length === 0) {
+            return bot.sendMessage(msg.chat.id, '❌ No HTML provided. Usage: /html2img <HTML>', { replyToMessage: msg.message_id });
+        }
 
-      if (!htmlContent) {
-        await bot.sendMessage(msg.chat.id, 'Please provide HTML content to convert into an image.', { replyToMessage: msg.message_id });
-        return;
-      }
+        const htmlContent = args.join(' '); // Join the arguments as the HTML content
+        const cacheDir = path.join(__dirname, 'cache');
+        const imagePath = path.join(cacheDir, 'rendered.png');
 
-      const imageUrl = await generateImageFromHtml(htmlContent);
+        // Ensure the cache directory exists
+        if (!fs.existsSync(cacheDir)) {
+            fs.mkdirSync(cacheDir);
+        }
 
-      // Send the generated image URL as a message
-      await bot.sendMessage(msg.chat.id, `Image generated: ${imageUrl}`);
+        try {
+            // Launch puppeteer browser and render the HTML
+            const browser = await puppeteer.launch();
+            const page = await browser.newPage();
 
-    } catch (error) {
-      console.error('Error in html2img command:', error);
-      await bot.sendMessage(msg.chat.id, 'Error occurred while generating image from HTML.', { replyToMessage: msg.message_id });
+            // Set the HTML content to be rendered
+            await page.setContent(htmlContent);
+
+            // Take a screenshot of the rendered HTML
+            await page.screenshot({ path: imagePath, fullPage: true });
+
+            // Close the browser
+            await browser.close();
+
+            // Send the image as a message
+            await bot.sendPhoto(msg.chat.id, imagePath, { caption: 'Here is the rendered HTML output!' }, { replyToMessage: msg.message_id });
+
+            // Optionally, delete the image after sending to save space
+            fs.unlinkSync(imagePath);
+
+        } catch (error) {
+            console.error('Error rendering HTML to image:', error);
+            bot.sendMessage(msg.chat.id, '❌ Error rendering HTML to image.', { replyToMessage: msg.message_id });
+        }
     }
-  },
 };

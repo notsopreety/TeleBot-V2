@@ -21,7 +21,7 @@ module.exports = {
 
         const question = args.join(" ");
         const userId = msg.from.id; // Assuming msg.from.id is the user ID
-        const apiUrl = `https://samirxpikachu.onrender.com/bing?message=${encodeURIComponent(question)}&mode=balanced&uid=${userId}`;
+        const apiUrl = `https://gpt4.guruapi.tech/bing?username=${userId}&query=${encodeURIComponent(question)}`;
 
         // Send a pre-processing message
         const preMessage = await bot.sendMessage(chatId, "💭 | Thinking...", { replyToMessage: msg.message_id });
@@ -30,11 +30,16 @@ module.exports = {
             // Make a request to the Bing API
             const response = await axios.get(apiUrl);
 
-            // Extract the reply from the response
-            const reply = response.data;
+            // Check if the status is true and extract the reply from the response
+            if (response.data.status) {
+                const reply = response.data.result;
 
-            // Send the response to the user
-            await bot.editMessageText({ chatId: preMessage.chat.id, messageId: preMessage.message_id }, `Copilot Response:\n\`\`\`\n${reply}\n\`\`\``, { parseMode: 'Markdown', replyToMessage: msg.message_id });
+                // Send the response to the user
+                await bot.editMessageText({ chatId: preMessage.chat.id, messageId: preMessage.message_id }, `Copilot Response:\n\`\`\`\n${reply}\n\`\`\``, { parseMode: 'Markdown', replyToMessage: msg.message_id });
+            } else {
+                // Handle cases where status is false
+                await bot.editMessageText({ chatId: preMessage.chat.id, messageId: preMessage.message_id }, 'Failed to get a valid response from the API. Please try again later.', { replyToMessage: msg.message_id });
+            }
         } catch (error) {
             console.error("Bing AI Error:", error);
             await bot.editMessageText({ chatId: preMessage.chat.id, messageId: preMessage.message_id }, 'Failed to process the question. Please try again later.', { replyToMessage: msg.message_id });
