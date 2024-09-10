@@ -10,6 +10,7 @@ module.exports = {
     config: {
         name: 'text',
         description: 'A command that responds to specific questions using AI.',
+        aliases: []  // No aliases required
     },
     onEvent: async ({ bot, msg, threadModel, userModel }) => {
         const chatId = msg.chat.id;
@@ -31,18 +32,20 @@ module.exports = {
                 
                 try {
                     // Fetch AI-powered response
-                    const response = await axios.get('https://samirxpikachuio.onrender.com/bing', {
+                    const response = await axios.get('https://anydl.guruapi.tech/ai/gpt4', {
                         params: {
-                            message: question,
-                            mode: 1,
-                            uid: userId
+                            query: question,
+                            username: userId
                         }
                     });
+
+                    // Extract the message from the API response
+                    const aiMessage = response.data.msg || 'No response from AI.';
 
                     // Edit the thinking message with AI response
                     await bot.editMessageText(
                         { chatId: chatId, messageId: preMessage.message_id },
-                        response.data,
+                        aiMessage,
                         { replyToMessage: msg.message_id },
                         { parseMode: 'Markdown' }
                     );

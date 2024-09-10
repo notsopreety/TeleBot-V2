@@ -11,7 +11,7 @@
   ],
   "owner": "5947023314",
   "onlyAdmin": false,
-  "port": "8080",
+  "port": "3000",
   "botName": "Yukai Bot",
   "copyrightMark": "[ 🐉 | Yukai ]",
   "greetNewMembers": {
