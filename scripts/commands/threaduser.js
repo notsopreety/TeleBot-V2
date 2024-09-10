@@ -5,7 +5,7 @@ module.exports = {
         name: 'threaduser',
         aliases: ['tuser', 'gcuser'],
         category: 'admin',
-        role: 1, // Bot admins only
+        role: 2, // Bot admins only
         cooldowns: 5,
         version: '1.0.0',
         author: 'Samir Thakuri',
