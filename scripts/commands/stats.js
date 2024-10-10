@@ -23,7 +23,7 @@ module.exports = {
         role: 2,
         cooldowns: 5,
         version: '1.0.0',
-        author: 'Samir Œ',
+        author: 'Samir Thakuri',
         category: "admin",
         description: "Display bot statistics.",
         usage: "stats",

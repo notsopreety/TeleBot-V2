@@ -26,7 +26,7 @@ module.exports = {
         version: '1.0.0',
         author: 'Samir Thakuri',
         description: 'Convert text to speech with specified language',
-        usage: '/say -<language code> <text> - Convert text to speech in the specified language.\n/say <text> - Convert text to speech in English (default).\n/say -<language code> <reply to message> - Convert replied message text to speech in the specified language.',
+        usage: 'say -<language code> <text> - Convert text to speech in the specified language.\n/say <text> - Convert text to speech in English (default).\n/say -<language code> <reply to message> - Convert replied message text to speech in the specified language.',
     },
 
     onStart: async function ({ bot, msg, args }) {
