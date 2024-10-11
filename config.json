@@ -4,7 +4,6 @@
   "note": "Make sure to add your bot token and mongoURI from MongoDB and also respect author for their hardwork for this project by not changing code unnecessarily.",
   "prefix": "/",
   "adminId": [
-  "adminId": [
     "5947023314",
     "6550312881",
     "5492951949"
